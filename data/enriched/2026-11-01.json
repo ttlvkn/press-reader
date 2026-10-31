@@ -12,17 +12,17 @@
     "body_en": [],
     "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt39be7cc1b8b06346/6ae4e559376c360bbd0d1310/GettyImages-2288050691.jpg?branch=production",
     "published": "2026-10-31T20:30:00+08:00",
-    "fetched_at": "2026-11-01T01:57:46+08:00",
+    "fetched_at": "2026-11-01T02:25:36+08:00",
     "is_demo": false,
     "enrich": {
-      "title_zh": "美国人去年因网络诈骗损失近180亿美元。华盛顿在帮他们追回损失上做得够吗？",
-      "summary_zh": "文章报道，一项国会调查指出，美国民众去年因网络诈骗损失近180亿美元，而联邦政府在帮助受害者追回这些资金方面存在明显缺口。调查由此提出疑问：华盛顿的应对和补救机制是否足够有力。",
+      "title_zh": "美国人去年因网络诈骗损失近180亿美元。华盛顿做得够多，能帮他们追回吗？",
+      "summary_zh": "摘要仅透露，美国国会一项调查发现，联邦政府在帮助网络诈骗受害者追回数十亿美元损失方面存在缺口。报道以去年美国人因网络诈骗损失近180亿美元为背景，追问华盛顿的应对是否足够；但摘要未展开具体缺口、涉事机构或改革建议。",
       "difficulty": "C1",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "A Congressional investigation identifies gaps in federal efforts to help Americans recover billions of dollars lost to scammers online.",
-          "zh": "一项国会调查指出，联邦政府在帮助美国人追回因网络诈骗分子而损失的大量资金方面存在不足。"
+          "zh": "一项国会调查发现，联邦政府在帮助美国人追回被网络诈骗者骗走的数十亿美元方面存在缺口。"
         }
       ],
       "vocab": [
@@ -30,66 +30,66 @@
           "word": "Congressional",
           "phonetic": "/kənˈɡreʃənl/",
           "pos": "adj.",
-          "meaning_zh": "国会的；与美国国会有关的",
-          "example_en": "A Congressional committee will hold a hearing next week.",
-          "example_zh": "一个国会委员会将于下周举行听证会。"
+          "meaning_zh": "国会的；美国国会（Congress）的",
+          "example_en": "The Congressional report called for tighter oversight of federal fraud-prevention programs.",
+          "example_zh": "这份国会报告呼吁加强对联邦防诈骗项目的监督。"
         },
         {
           "word": "investigation",
           "phonetic": "/ɪnˌvestɪˈɡeɪʃn/",
           "pos": "n.",
-          "meaning_zh": "调查；审查",
-          "example_en": "The investigation found serious weaknesses in the system.",
-          "example_zh": "调查发现该体系存在严重薄弱环节。"
+          "meaning_zh": "调查，此处指国会开展的正式调查",
+          "example_en": "The investigation examined how federal agencies respond to online fraud.",
+          "example_zh": "这项调查审查了联邦机构如何应对网络诈骗。"
         },
         {
-          "word": "identify",
-          "phonetic": "/aɪˈdentɪfaɪ/",
-          "pos": "v.",
-          "meaning_zh": "指出；确认；识别出",
-          "example_en": "The report identifies three main causes of the problem.",
-          "example_zh": "报告指出了该问题的三个主要原因。"
+          "word": "identify gaps",
+          "phonetic": "/aɪˈdentɪfaɪ ɡæps/",
+          "pos": "phrase",
+          "meaning_zh": "发现缺口、找出不足",
+          "example_en": "Auditors identified gaps in the government's consumer protection system.",
+          "example_zh": "审计人员发现了政府消费者保护体系中的不足。"
         },
         {
-          "word": "gap",
-          "phonetic": "/ɡæp/",
-          "pos": "n.",
-          "meaning_zh": "缺口；不足；差距",
-          "example_en": "There is a gap between policy and practice.",
-          "example_zh": "政策与实践之间存在差距。"
-        },
-        {
-          "word": "federal",
-          "phonetic": "/ˈfedərəl/",
-          "pos": "adj.",
-          "meaning_zh": "联邦的；联邦政府层面的",
-          "example_en": "The program is funded by the federal government.",
-          "example_zh": "该项目由联邦政府资助。"
+          "word": "federal efforts",
+          "phonetic": "/ˈfedərəl ˈefərts/",
+          "pos": "phrase",
+          "meaning_zh": "联邦层面的努力／行动",
+          "example_en": "State officials said federal efforts alone cannot solve the problem.",
+          "example_zh": "州官员表示，仅靠联邦层面的努力无法解决这个问题。"
         },
         {
           "word": "recover",
           "phonetic": "/rɪˈkʌvər/",
           "pos": "v.",
-          "meaning_zh": "追回；找回；挽回",
-          "example_en": "Victims are trying to recover the money they lost.",
-          "example_zh": "受害者正试图追回他们损失的钱。"
+          "meaning_zh": "追回，找回（损失的钱财）",
+          "example_en": "Victims often struggle to recover money lost in online scams.",
+          "example_zh": "受害者往往难以追回在网络诈骗中损失的钱财。"
+        },
+        {
+          "word": "scammer",
+          "phonetic": "/ˈskæmər/",
+          "pos": "n.",
+          "meaning_zh": "诈骗者，行骗者",
+          "example_en": "Scammers frequently target older Americans with fake investment offers.",
+          "example_zh": "诈骗者经常用虚假投资机会 targeting 美国老年人。"
         }
       ],
       "sentences": [
         {
           "en": "A Congressional investigation identifies gaps in federal efforts to help Americans recover billions of dollars lost to scammers online.",
-          "structure": "主干：A Congressional investigation identifies gaps（主语 + 谓语 + 宾语）。修饰：in federal efforts 修饰 gaps；to help Americans recover... 修饰 efforts；lost to scammers online 修饰 billions of dollars。",
-          "analysis_zh": "这是新闻摘要常用的压缩句式：先给出调查结论，再用层层后置修饰说明缺口所在、援助目的和资金损失来源。翻译时不宜逐字照搬，可拆成“联邦政府在……方面存在不足”，更符合中文表达习惯。"
+          "structure": "主干：A Congressional investigation identifies gaps / 修饰：in federal efforts 限定 gaps；to help Americans recover... 说明联邦努力的目的；lost to scammers online 为过去分词短语后置修饰 dollars。",
+          "analysis_zh": "这句话只有一个主谓宾结构，但信息密度很高：主语交代“谁在查”，谓语交代“查出了什么”，宾语 gaps 后接两个层层嵌套的修饰成分，把“哪些方面的缺口”“帮谁”“追回什么钱”一次说清。这样写符合新闻摘要的压缩风格，也把重点落在 gaps 上，暗示后文将围绕联邦行动的不足展开。"
         }
       ],
       "background": [
         {
-          "title": "Washington 指代美国联邦政府",
-          "text_zh": "美国媒体常用 Washington（华盛顿）代指美国联邦政府及其决策机构，因为国会、白宫及主要联邦部门都位于华盛顿特区。标题中的“Is Washington Doing Enough”问的是联邦层面是否采取了足够行动，而不是指华盛顿市政府。"
+          "title": "美国国会调查是什么",
+          "text_zh": "美国国会的委员会常就公共政策问题开展监督性调查，方式包括要求政府提交文件、传唤证人、举行听证会并发布报告。这类调查本身通常不直接提起刑事诉讼，也不必然形成法律，但能影响舆论、推动立法或促使行政机关整改。因此标题中的“Is Washington Doing Enough”是在追问联邦政府整体应对是否充分，而不只是某一家机构。"
         },
         {
-          "title": "国会调查的作用",
-          "text_zh": "美国国会除立法外，还通过委员会开展调查、举行听证并要求提交文件，以监督行政部门和政策执行。此类调查可以形成报告并推动立法或舆论压力，但本身通常不直接追诉诈骗或替受害者追款。"
+          "title": "网络诈骗损失为何难追回",
+          "text_zh": "在美国，网络诈骗受害者通常向联邦贸易委员会（FTC）、联邦调查局网络犯罪投诉中心（IC3）以及银行报案。但诈骗常涉及跨境团伙、虚假身份、加密货币转账或快速多层转账，资金一旦流出，追踪和冻结都很困难。联邦机构更多承担收集投诉、协调执法和发布警示的职能，直接帮个人追回钱款的能力有限，这也是“联邦努力存在缺口”这一说法的一般背景。"
         }
       ]
     },
@@ -110,11 +110,11 @@
     "body_en": [],
     "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt953e7b5d8ba5e15c/6ae4becd9c5f313475eb3a02/pumpkin-US.jpg?branch=production",
     "published": "2026-10-31T20:00:03+08:00",
-    "fetched_at": "2026-11-01T01:57:46+08:00",
+    "fetched_at": "2026-11-01T02:25:36+08:00",
     "is_demo": false,
     "enrich": {
       "title_zh": "为什么你不该把万圣节的旧南瓜扔进垃圾桶",
-      "summary_zh": "万圣节过后，数以百万计的南瓜需要处理，而多数家庭的第一反应是直接丢进垃圾桶。标题明确反对这种做法，暗示正文会给出更环保的处理方式。提要只点出一个事实：节后南瓜的弃置量极大，集中丢弃会带来环境代价。至于具体替代方案，编辑并未在提要中透露。",
+      "summary_zh": "本文聚焦万圣节过后大量装饰南瓜的去向问题。标题直接给出建议：不要把旧南瓜当垃圾扔掉，暗示应选择堆肥、回收等更环保的处理方式。提要只有一句，却点明了问题的规模——节后需要处理的南瓜数以百万计。由于该刊仅开放标题与提要，正文的具体论据和数据尚不可见，此处仅就标题与提要本身做语言和背景讲解。",
       "difficulty": "B2",
       "read_minutes": 2,
       "paragraphs": [
@@ -125,49 +125,49 @@
       ],
       "vocab": [
         {
+          "word": "dispose of",
+          "phonetic": "/dɪˈspəʊz əv/",
+          "pos": "phr. v.",
+          "meaning_zh": "处理掉、丢弃（废物）；强调「把某物清理走」的动作，比 throw away 更正式，是环保、垃圾管理类报道的常用词",
+          "example_en": "The city encourages residents to dispose of used batteries at designated collection points.",
+          "example_zh": "该市鼓励居民把废电池送到指定回收点处理。"
+        },
+        {
           "word": "toss",
           "phonetic": "/tɒs/",
           "pos": "v.",
-          "meaning_zh": "随手扔、丢弃（口语色彩强，比 throw 更随意，常含“不当回事地一扔”的意味）；另有“抛、颠”之义",
-          "example_en": "Don't just toss those batteries in the bin—take them to a collection point.",
-          "example_zh": "别把那些电池随手扔进垃圾桶，送到回收点去。"
-        },
-        {
-          "word": "dispose of",
-          "phonetic": "/dɪˈspəʊz əv/",
-          "pos": "phr.",
-          "meaning_zh": "处理掉、清除（废物等）；正式用语，是外刊谈垃圾、废弃物时的固定搭配",
-          "example_en": "The company was fined for illegally disposing of chemical waste.",
-          "example_zh": "该公司因非法处理化学废料而被罚款。"
+          "meaning_zh": "随手扔、丢（口语色彩强，暗示动作随意）；标题里比 throw 更轻巧，暗含「一扔了之」的批评意味",
+          "example_en": "Don't just toss your empty bottles in the general trash.",
+          "example_zh": "别把空瓶子随手扔进普通垃圾桶。"
         },
         {
           "word": "millions of",
           "phonetic": "/ˈmɪljənz əv/",
-          "pos": "phr.",
-          "meaning_zh": "数以百万计的、成百上千万的；用复数表示数量之大而无需给出精确数字，是新闻提要中制造规模感的常用手段",
-          "example_en": "Millions of people tuned in to watch the final.",
-          "example_zh": "数百万观众收看了决赛。"
+          "pos": "phrase",
+          "meaning_zh": "数以百万计的；新闻英语里常用来把抽象数字形象化，突显问题的量级",
+          "example_en": "Millions of tons of food are wasted every year.",
+          "example_zh": "每年有数百万吨食物被浪费。"
         },
         {
-          "word": "trash",
-          "phonetic": "/træʃ/",
-          "pos": "n.",
-          "meaning_zh": "垃圾、废弃物（美式英语；英式多用 rubbish，正式场合多用 waste）",
-          "example_en": "The streets were littered with trash after the parade.",
-          "example_zh": "游行过后，街上到处是垃圾。"
+          "word": "need to be disposed of",
+          "phonetic": "/niːd tə bi dɪˈspəʊzd əv/",
+          "pos": "phrase",
+          "meaning_zh": "需要被处理掉；need + 被动不定式，表示「客观上必须被处置」，把南瓜写成需要处理的负担",
+          "example_en": "These chemicals need to be disposed of safely.",
+          "example_zh": "这些化学品必须被安全处置。"
         }
       ],
       "sentences": [
         {
           "en": "Millions of pumpkins need to be disposed of after Halloween.",
-          "structure": "主干：Millions of pumpkins（主语）+ need to be disposed of（谓语，“need + 不定式被动”）；修饰：after Halloween 为时间状语，置于句末",
-          "analysis_zh": "这句的看点在于 dispose of 的被动形式。dispose of 是“动词 + 介词”的短语动词，介词 of 不能丢，因此被动时介词仍留在句末：be disposed of，而不是 be disposed。其次，need 后接不定式被动 to be disposed of，表示“需要被处理”，这是英语里表达“某物有待处理”的标准结构，等同 need disposing of（动名词主动表被动，但此用法较少见）。再者，主语用 Millions of pumpkins 而非 The pumpkins，是把话题放在“量”上：问题不在于南瓜本身，而在于节后南瓜堆积的规模。全句没有主语人称，读者被默认代入“扔南瓜的人”，为标题的劝告语气作了铺垫。"
+          "structure": "主干：Millions of pumpkins（主语）+ need to be disposed of（谓语，need + 被动不定式）/ 修饰：after Halloween（时间状语，置于句末，把「节后」这一时间点留给句尾形成落点）",
+          "analysis_zh": "句子很短，但有两处值得注意。一是主语用 Millions of pumpkins 而不是 Pumpkins，用数量词开头直接把「规模」摆在句首，读者一眼就明白问题有多大。二是谓语用 need to be disposed of 这一被动结构，把南瓜写成「等着被处置的对象」，主语没有施事能力，问题感更强；若改成 people need to dispose of millions of pumpkins，主语变成人，语气就平淡了。另外 dispose of 的介词 of 不能省，dispose 单独用意为「布置、使倾向于」，属另一义项。句末的 after Halloween 既是时间状语，也在暗示：这些南瓜本是节日装饰，节一过就成了垃圾——整篇文章的张力就来自这个反差。"
         }
       ],
       "background": [
         {
-          "title": "万圣节南瓜：从“杰克灯”到节后垃圾",
-          "text_zh": "万圣节刻南瓜灯的习俗源于爱尔兰的“杰克灯”（jack-o'-lantern）传说，最初用的是芜菁（turnip），移民到北美后改用当地更易雕刻、产量更大的南瓜。于是南瓜在美国成了一种典型的“一次性”农产品：专门供雕刻的品种（carving pumpkins）纤维粗、水分多、甜度低，口感远不如食用南瓜，很多人刻完就扔，并不会拿来烹饪。节后集中丢弃的南瓜大多进入垃圾填埋场；有机物在填埋场的缺氧环境中分解，会产生甲烷（methane）——一种温室效应远强于二氧化碳的气体。正因如此，食物残渣和园林废弃物如何处理，长期是城市固废管理中的议题，常见替代做法包括堆肥、交由市政绿色垃圾回收，或送到动物园、农场作饲料。"
+          "title": "万圣节南瓜：从节日符号到节后垃圾",
+          "text_zh": "雕刻南瓜灯（jack-o'-lantern）是英美万圣节的核心习俗，其名源自爱尔兰民间故事中的人物 Stingy Jack，移民把这一传统带到北美后改用当地更易雕刻的南瓜。问题在于，绝大多数被雕刻的南瓜并不适合食用：切开后在室温下放置一夜就极易腐坏发霉，因此节后基本只能丢弃。在垃圾填埋场里，南瓜等有机物被其他垃圾压实、处于缺氧环境，分解过程中会产生甲烷（methane）——一种温室效应远强于二氧化碳的气体，这也是「别把南瓜扔进垃圾桶」这类呼吁背后的环保逻辑。近年来，英美不少城市、社区花园和动物园会在 11 月初设立南瓜回收点，把南瓜集中堆肥或用作动物饲料；也有地方推出「南瓜投掷」「南瓜漂浮」等活动，让南瓜在废弃前再被利用一次。"
         }
       ]
     },
@@ -188,17 +188,17 @@
     "body_en": [],
     "image": "",
     "published": "2026-10-31T19:00:03+08:00",
-    "fetched_at": "2026-11-01T01:57:46+08:00",
+    "fetched_at": "2026-11-01T02:25:36+08:00",
     "is_demo": false,
     "enrich": {
       "title_zh": "我们为什么喜欢被吓到",
-      "summary_zh": "这是《时代》周刊 Ideas 栏目一文的内容提要。提要指出，世界从来不缺让人恐惧的事物，而人类消化恐惧的方式之一，就是主动去看恐怖题材作品；文章由行为科学研究者科尔坦·斯克里夫纳撰写，围绕「人为何愿意主动消费恐惧」这一看似矛盾的现象展开论述。",
+      "summary_zh": "这篇《时代》观点栏目文章的提要说：世界从来都充满令我们恐惧的事物，而科尔特兰·斯克里夫纳认为，观看恐怖题材作品正是我们消化、应对这些恐惧的方式之一。提要只点出「恐惧普遍存在」与「看恐怖片是一种应对机制」这一核心论点，具体论证在正文中展开。",
       "difficulty": "B2",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "The world has always been full of things that frighten us. One way we work through these fears is by watching horror, writes Coltan Scrivner.",
-          "zh": "这个世界从来就不缺让我们害怕的东西。科尔坦·斯克里夫纳写道，我们消化这些恐惧的办法之一，就是去看恐怖片。"
+          "zh": "这个世界从来都不缺让我们害怕的东西。科尔特兰·斯克里夫纳写道，而观看恐怖作品，正是我们消化这些恐惧的方式之一。"
         }
       ],
       "vocab": [
@@ -206,68 +206,303 @@
           "word": "frighten",
           "phonetic": "/ˈfraɪtn/",
           "pos": "v.",
-          "meaning_zh": "使害怕，吓到（及物动词，宾语是人；比 scare 稍正式，外刊中常与 things / prospects 等抽象主语搭配）",
-          "example_en": "Rising prices frighten consumers more than any other issue.",
-          "example_zh": "比起其他任何问题，物价上涨更让消费者感到害怕。"
+          "meaning_zh": "使害怕，吓到（比 scare 稍正式，常用于被动或定语形式）",
+          "example_en": "The sudden noise frightened the children.",
+          "example_zh": "突如其来的响声把孩子们吓坏了。"
+        },
+        {
+          "word": "be full of",
+          "phonetic": "/fʊl/",
+          "pos": "phrase",
+          "meaning_zh": "充满，到处都是；此处强调恐惧之物的普遍性与长久性",
+          "example_en": "The report is full of details that were never verified.",
+          "example_zh": "这份报告里满是未经核实的细节。"
         },
         {
           "word": "work through",
           "phonetic": "/wɜːrk θruː/",
           "pos": "phr. v.",
-          "meaning_zh": "逐步消化、化解（负面情绪、心理创伤或难题），强调「一点点处理掉」的过程，是心理健康类报道中的高频表达",
-          "example_en": "Children need time to work through their grief after a loss.",
-          "example_zh": "经历失去之后，孩子们需要时间慢慢消化悲伤。"
+          "meaning_zh": "逐步处理、慢慢消化（某种情绪、问题或创伤），外刊谈心理健康时的高频表达",
+          "example_en": "She spent months working through her grief.",
+          "example_zh": "她花了好几个月才慢慢消化自己的悲伤。"
         },
         {
-          "word": "be full of",
-          "phonetic": "/fʊl əv/",
-          "pos": "phr.",
-          "meaning_zh": "充满，到处都是；此处与 has always been 连用，暗示「自古以来便是如此」，为下文的转折做铺垫",
-          "example_en": "Her early letters are full of hope and impatience.",
-          "example_zh": "她早期的信件里满是希望与急切。"
+          "word": "fear",
+          "phonetic": "/fɪr/",
+          "pos": "n.",
+          "meaning_zh": "恐惧，害怕；此处用复数 fears，指各种各样的具体恐惧对象",
+          "example_en": "He has a deep fear of being alone.",
+          "example_zh": "他非常害怕独处。"
         },
         {
           "word": "horror",
-          "phonetic": "/ˈhɔːrər/",
+          "phonetic": "/ˈhɒrər/",
           "pos": "n.",
-          "meaning_zh": "（作不可数名词、不加冠词时）恐怖题材作品的总称，即恐怖片、恐怖小说、恐怖故事等。此处相当于 horror films / fiction，不能理解为「恐怖这种情绪」",
-          "example_en": "She grew up on horror and slasher movies.",
-          "example_zh": "她是看着恐怖片和砍杀片长大的。"
+          "meaning_zh": "（电影、文学等的）恐怖题材、恐怖作品；此处 watch horror 即「看恐怖片」",
+          "example_en": "She refuses to watch horror on her own.",
+          "example_zh": "她不敢一个人看恐怖片。"
         },
         {
-          "word": "write",
-          "phonetic": "/raɪt/",
-          "pos": "v.",
-          "meaning_zh": "（新闻体例）写道、撰文说。英语报刊惯用「…, writes + 记者/作者名」这种主谓倒装的引述方式，中文常译为「某某写道」并置于句首",
-          "example_en": "The trend is unlikely to reverse, writes the economist.",
-          "example_zh": "这位经济学家写道，这一趋势不太可能逆转。"
+          "word": "writes Coltan Scrivner",
+          "phonetic": "/ˈkɒltən ˈskrɪvnər/",
+          "pos": "phrase",
+          "meaning_zh": "新闻英语的引述句式，「某某写道」；动词置于主语之前，构成倒装",
+          "example_en": "The trend is here to stay, writes the economist.",
+          "example_zh": "这位经济学家写道，这一趋势已成定局。"
         }
       ],
       "sentences": [
         {
-          "en": "One way we work through these fears is by watching horror, writes Coltan Scrivner.",
-          "structure": "主干：One way … is by watching horror（主语 + 系动词 + 表语，by doing 作表语表示「方式」）／修饰：we work through these fears 是省略了 that / in which 的定语从句，修饰 One way／附加：writes Coltan Scrivner 为引述性倒装，正常语序是 Coltan Scrivner writes。",
-          "analysis_zh": "这句话的骨架其实是「一种方式是……」，即 One way is by doing sth.，这是英语里给某事归类、下定义的常用句型，比直接说 We work through our fears by watching horror 更强调「这只是众多方式之一」。定语从句 One way (that) we work through these fears 省掉了关系词，读时容易把它误当成主句，要注意 One way 与 is 之间的插入成分。句尾的 writes Coltan Scrivner 是英语新闻的固定体例：把说话人和动词倒装放在句末，既交代信息来源，又避免句首堆砌「某某写道」。翻译成中文时通常要把这一部分提到句首，变成「某某写道，……」，否则中文语序会很别扭。"
+          "en": "The world has always been full of things that frighten us.",
+          "structure": "主干：The world has been full of things（主—系—表）/ 修饰：that frighten us 为定语从句，修饰 things；always 为状语，与现在完成时搭配",
+          "analysis_zh": "句子结构很简单，作用在于「立论」：用现在完成时 has always been 把「世界充满可怕之物」写成一个跨越时间的常态，而不是某次具体事件；things that frighten us 用关系从句而非形容词 frightening，把「吓人」处理成一种持续施加于我们的动作，暗示恐惧来自外部世界对我们的作用，为下文「我们如何应对」埋下伏笔。"
         },
         {
-          "en": "The world has always been full of things that frighten us.",
-          "structure": "主干：The world has been full of things（主 + 系 + 表）／修饰：has always been 为现在完成时，always 加强「一贯如此」；that frighten us 是定语从句，修饰 things。",
-          "analysis_zh": "句子很短，但两个细节值得注意。一是现在完成时 has always been：它不是说「现在世界才充满可怕的东西」，而是把过去到现在连成一条线，为下文「既然如此，人为什么还主动去看恐怖片」埋下反差。二是 things that frighten us 用定语从句而非形容词（如 frightening things）作后置修饰，使「让人害怕」这一动作感更强，也让这个短语在句中更具分量，读起来像是给全文定调的一句开场白。这种「先摆一个人人都同意的大前提」的写法，是英语评论文章常见的开头策略。"
+          "en": "One way we work through these fears is by watching horror, writes Coltan Scrivner.",
+          "structure": "主干：One way ... is by watching horror（主—系—表）/ 修饰：we work through these fears 是省略了关系词 that/in which 的定语从句，修饰 one way；by watching horror 为介词短语作表语，说明方式；writes Coltan Scrivner 为插入的引述分句，主谓倒装",
+          "analysis_zh": "英语里说「做某事的一种方法是……」，最地道的框架就是 One way ... is by doing sth.，注意 by 后面必须跟动名词。One way 后面直接跟主语+谓语的从句而不用 that，是典型的省略关系词写法。句末 writes Coltan Scrivner 是新闻文体的「引述后置」：把说话人放到句尾并倒装（正常语序为 Coltan Scrivner writes），既避免开头堆人名，又让论点句落在句末重音位置，读起来更像一句被引用的判断。"
         }
       ],
       "background": [
         {
-          "title": "科尔坦·斯克里夫纳与「娱乐性恐惧」研究",
-          "text_zh": "Coltan Scrivner 是一位行为科学研究者，主要研究人为什么愿意花钱、花时间去体验恐惧，他提出的「娱乐性恐惧」（recreational fear）概念在欧美媒体上被反复引用，讨论对象包括恐怖片、鬼屋、真实犯罪播客等。他也研究过恐怖片爱好者在疫情、危机时期的心理韧性。了解这一身份有助于判断正文的论证方向：文章很可能是用心理学或演化视角来解释「又怕又想看」这一现象。"
+          "title": "「娱乐性恐惧」：为什么有人花钱被吓",
+          "text_zh": "心理学与传播学研究长期关注一个悖论：恐惧本是令人不适的负面情绪，人们却主动买票去看恐怖片、玩鬼屋。学界常用 recreational fear（娱乐性恐惧）来解释：在明确知道「我是安全的」前提下，身体被唤起，但不会带来真实威胁，因此这种刺激可以被当作娱乐来享受。近年还有研究把看恐怖片与「练习应对压力」联系起来，认为它提供了一个低风险的模拟场景。斯克里夫纳的研究方向正在这一领域，因此摘要里「消化恐惧」的说法属于这一学术脉络。"
         },
         {
-          "title": "TIME 的 Ideas 栏目与署名体例",
-          "text_zh": "Ideas 是《时代》周刊的观点评论栏目，刊登的多是学者、研究者、作家署名的评论，而非本报记者报道，因此文中观点属于作者个人，不代表编辑部。英语报刊在引述署名作者时有一套固定写法，常见的有「…, writes + 人名」「…, said + 人名」放在句末的倒装形式，也常在句首用「For TIME」标明独家撰稿。中文读者若不了解这一体例，容易把句末的人名误读成句子的宾语。"
+          "title": "TIME 的 Ideas 栏目",
+          "text_zh": "Ideas 是《时代》周刊网站上的观点/评论栏目，刊发由学者、作家、从业者署名的评论文章，不是记者报道，文中的判断代表作者个人立场，而非编辑部立场。这类栏目篇幅通常较短，开篇常用一句概括性的常识或现象切入，再抛出作者的核心主张——这条摘要正是那种「先立现象、再给观点」的开头。RSS 只提供提要而不提供全文，因此仅凭这段文字无法知道作者用的具体证据与案例。"
         }
       ]
     },
     "kind": "digest",
     "digest": true,
+    "enrich_attempted": true
+  },
+  {
+    "id": "guardian-bff7a6f829",
+    "source": "guardian",
+    "source_name": "卫报",
+    "source_name_en": "The Guardian",
+    "color": "#052962",
+    "section": "World news",
+    "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+    "title_en": "Police clash with masked rioters after largely peaceful protests across France",
+    "excerpt_en": "Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls",
+    "body_en": [
+      "Clashes have erupted in Paris, Marseille and other cities after tens of thousands of demonstrators, some in Halloween fancy dress, marched across France in a third wave of protests over the cost of living and deteriorating public services.",
+      "About 320,000 people – down from an estimated 410,000 last weekend – took part in rallies around the country, the interior ministry said, including 70,000 in Paris who marched along boulevards on the south-eastern outskirts, avoiding the city centre.",
+      "As evening approached and the largely peaceful demonstrations came to an end, police in several cities fired teargas and stun grenades to disperse crowds joined – as on the previous Saturday – by groups of masked rioters.",
+      "France’s interior minister, Laurent ⁠Nuñez, said earlier this week 70,000 police and gendarmes, including elite units, would be deployed in an effort to quell violence on the protests’ sidelines, warning that Saturday looked like “a very high risk” day.",
+      "The Paris protesters set off peacefully from the Porte de Bagnolet near the ring road, holding placards with slogans including “No need for teargas to make our future look bleak” and “Disguised as an angry citizen for Halloween”, as a helicopter flew overhead",
+      "On and around its destination, the Porte de Charenton, dozens of masked people dressed in black used hammers to pry up paving stones and hurl them at police, and at least one incendiary device was thrown at security forces, French media reported.",
+      "Police responded with teargas and baton charges. “A hardcore of several hundred rioters” was attacking police with projectiles including a molotov cocktail, the Paris police prefecture said. Officers were “manoeuvring to restore public order”, it added.",
+      "In Lyon protesters threw projectiles at police, prompting officers to fire teargas, and in Toulouse police used water cannon against an unauthorised protest that drew several thousand people, mostly young demonstrators.",
+      "The marches brought together school students, who have been calling for better conditions for a month, trade unions and gilets jaune (yellow vests) protesters united in anger at the cost of living, widening inequalities and Emmanuel Macron’s ⁠government.",
+      "“The French economy is doing badly no matter what happens, because today we’re being run by a group of incompetents who juggle billions while families are struggling with a few cents,” said one protester on the Paris march, Jérôme Rodrigues. “That’s why we’re here, to keep shouting our demands louder and ‌louder.”",
+      "A protester in Nantes, Camille Guérin, said: “We say no to the cost of living, no to the far right, yes to high school students’ demands, yes to giving citizens a voice.”",
+      "Saturday’s rallies came two weeks after widespread street violence and looting rocked numerous French cities during a first wave of mass protest on 17 October that became one of the worst days of civil unrest in the country’s recent history.",
+      "Student protesters vowed to stage new high school and university blockades on Tuesday and Thursday. “Then we will join the 5 November demonstration called by workers and trade unions,” said Sabrine Kharbach of the Union Étudiante, a student organisation.",
+      "Protests also took place elsewhere in Europe. In Germany, police fired water cannon to disperse protesters who hurled firework and other projectiles at the end of youth-led protests organised by a group called “Gen Z regelt!” (Gen Z will sort this).",
+      "Thousands of police were deployed across the country, with tensions rising as evening fell after mostly peaceful demonstrations for “for education, health, the climate and an affordable life” in dozens of cities.",
+      "In the western city of Cologne, police fired water cannon to disperse a crowd after saying protesters had targeted officers with fireworks, and a march was also temporarily halted in Frankfurt after protesters set off fireworks.",
+      "In Berlin, protesters hurled bottles and eggs while protesters set barricades ablaze in Hamburg, and police were using pepper spray on demonstrators in some places, the newspaper Bild reported.",
+      "Police were also on alert in Barcelona after an anonymous TikTok network called Blocus urged new gatherings, and in Italy after recent clashes with protesters in Milan, Turin and Bologna."
+    ],
+    "image": "https://media.guim.co.uk/3546bec1281afb0dcb3d211110686c453d00fa3e/0_0_4914_3933/500.jpg",
+    "published": "2026-10-31T18:23:56Z",
+    "fetched_at": "2026-11-01T02:25:33+08:00",
+    "is_demo": false,
+    "enrich": {
+      "title_zh": "法国多地抗议总体和平，入夜后警察与蒙面暴徒发生冲突",
+      "summary_zh": "数万法国人10月31日走上街头，举行第三波反对生活成本上涨与公共服务恶化的抗议，内政部称全国约32万人参加，低于上周末。白天游行大体和平，入夜后巴黎、里昂、图卢兹等地出现蒙面者投掷石块和燃烧瓶、警察发射催泪瓦斯与水炮的冲突。学生和工会宣布将再封锁学校，并参加11月5日的大罢工。德国、西班牙、意大利也有相关抗议。",
+      "difficulty": "C1",
+      "read_minutes": 3,
+      "paragraphs": [
+        {
+          "en": "Clashes have erupted in Paris, Marseille and other cities after tens of thousands of demonstrators, some in Halloween fancy dress, marched across France in a third wave of protests over the cost of living and deteriorating public services.",
+          "zh": "数万名示威者（其中一些人穿着万圣节化装服）在法国各地游行，掀起第三波针对生活成本上涨和公共服务恶化的抗议；随后巴黎、马赛等城市爆发了冲突。"
+        },
+        {
+          "en": "About 320,000 people – down from an estimated 410,000 last weekend – took part in rallies around the country, the interior ministry said, including 70,000 in Paris who marched along boulevards on the south-eastern outskirts, avoiding the city centre.",
+          "zh": "内政部表示，全国约有32万人参加了集会，低于上周末估计的41万人；其中巴黎有7万人，他们沿着东南郊的林荫大道游行，避开了市中心。"
+        },
+        {
+          "en": "As evening approached and the largely peaceful demonstrations came to an end, police in several cities fired teargas and stun grenades to disperse crowds joined – as on the previous Saturday – by groups of masked rioters.",
+          "zh": "随着夜幕降临，大体和平的示威活动接近尾声，多个城市的警察发射催泪瓦斯和震撼弹，以驱散人群——和上周六一样，人群中混入了成群的蒙面暴徒。"
+        },
+        {
+          "en": "France’s interior minister, Laurent ⁠Nuñez, said earlier this week 70,000 police and gendarmes, including elite units, would be deployed in an effort to quell violence on the protests’ sidelines, warning that Saturday looked like “a very high risk” day.",
+          "zh": "法国内政部长洛朗·努涅斯本周早些时候表示，将部署7万名警察和宪兵（包括精锐部队），以平息抗议活动外围的暴力行为，并警告说周六看起来是“风险极高”的一天。"
+        },
+        {
+          "en": "The Paris protesters set off peacefully from the Porte de Bagnolet near the ring road, holding placards with slogans including “No need for teargas to make our future look bleak” and “Disguised as an angry citizen for Halloween”, as a helicopter flew overhead",
+          "zh": "巴黎的抗议者从环城公路附近的巴尼奥莱门和平出发，举着标语牌，上面写着“不用催泪瓦斯，我们的前途也够黯淡了”和“为万圣节扮成一个愤怒的公民”；一架直升机在上空盘旋。"
+        },
+        {
+          "en": "On and around its destination, the Porte de Charenton, dozens of masked people dressed in black used hammers to pry up paving stones and hurl them at police, and at least one incendiary device was thrown at security forces, French media reported.",
+          "zh": "据法国媒体报道，在游行终点沙朗东门及其周边，数十名身穿黑衣的蒙面者用锤子撬起铺路石砸向警察，至少有一枚燃烧装置被投向安全部队。"
+        },
+        {
+          "en": "Police responded with teargas and baton charges. “A hardcore of several hundred rioters” was attacking police with projectiles including a molotov cocktail, the Paris police prefecture said. Officers were “manoeuvring to restore public order”, it added.",
+          "zh": "警方以催泪瓦斯和警棍冲锋作为回应。巴黎警察局称，“几百名死硬暴徒”用包括燃烧瓶在内的投射物袭击警察，并补充说警员正在“调度部署，以恢复公共秩序”。"
+        },
+        {
+          "en": "In Lyon protesters threw projectiles at police, prompting officers to fire teargas, and in Toulouse police used water cannon against an unauthorised protest that drew several thousand people, mostly young demonstrators.",
+          "zh": "在里昂，抗议者向警察投掷投射物，警方因此发射催泪瓦斯；在图卢兹，警方对一场未经批准的抗议活动动用了水炮，该活动吸引了数千人，其中大多是年轻示威者。"
+        },
+        {
+          "en": "The marches brought together school students, who have been calling for better conditions for a month, trade unions and gilets jaune (yellow vests) protesters united in anger at the cost of living, widening inequalities and Emmanuel Macron’s ⁠government.",
+          "zh": "这些游行把三类人汇聚在一起：一个月来一直要求改善条件的中学生、工会，以及因生活成本、不断扩大的不平等和马克龙政府而愤怒地联合起来的“黄背心”抗议者。"
+        },
+        {
+          "en": "“The French economy is doing badly no matter what happens, because today we’re being run by a group of incompetents who juggle billions while families are struggling with a few cents,” said one protester on the Paris march, Jérôme Rodrigues. “That’s why we’re here, to keep shouting our demands louder and ‌louder.”",
+          "zh": "“不管怎样，法国经济都很糟，因为今天我们被一群无能之辈管着，他们摆弄着几十亿，而普通家庭却在为几分钱发愁，”巴黎游行队伍中的抗议者热罗姆·罗德里格斯说。“这就是我们站在这里的原因，我们要把诉求喊得越来越响。”"
+        },
+        {
+          "en": "A protester in Nantes, Camille Guérin, said: “We say no to the cost of living, no to the far right, yes to high school students’ demands, yes to giving citizens a voice.”",
+          "zh": "南特的一位抗议者卡米尔·盖兰说：“我们对生活成本说不，对极右翼说不；我们对高中生的诉求说是，对让公民发声说是。”"
+        },
+        {
+          "en": "Saturday’s rallies came two weeks after widespread street violence and looting rocked numerous French cities during a first wave of mass protest on 17 October that became one of the worst days of civil unrest in the country’s recent history.",
+          "zh": "周六的集会距10月17日第一波大规模抗议仅两周；那天的抗议中，大范围的街头暴力和抢劫震动法国多座城市，成为该国近代史上最严重的内乱日之一。"
+        },
+        {
+          "en": "Student protesters vowed to stage new high school and university blockades on Tuesday and Thursday. “Then we will join the 5 November demonstration called by workers and trade unions,” said Sabrine Kharbach of the Union Étudiante, a student organisation.",
+          "zh": "学生抗议者誓言在周二和周四再次封锁高中和大学。“之后我们将参加11月5日由工人和工会号召的示威活动，”学生组织“学生联盟”的萨布琳·哈尔巴什说。"
+        },
+        {
+          "en": "Protests also took place elsewhere in Europe. In Germany, police fired water cannon to disperse protesters who hurled firework and other projectiles at the end of youth-led protests organised by a group called “Gen Z regelt!” (Gen Z will sort this).",
+          "zh": "欧洲其他地方也发生了抗议。在德国，警方发射水炮驱散抗议者——在一个名为“Z世代搞定！”（Gen Z regelt!）的团体组织的青年主导抗议活动结束时，这些人投掷烟花和其他投射物。"
+        },
+        {
+          "en": "Thousands of police were deployed across the country, with tensions rising as evening fell after mostly peaceful demonstrations for “for education, health, the climate and an affordable life” in dozens of cities.",
+          "zh": "德国全国部署了数千名警察；在数十个城市举行大体和平的“为了教育、健康、气候和负担得起的生活”的示威之后，随着夜幕降临，紧张局势升级。"
+        },
+        {
+          "en": "In the western city of Cologne, police fired water cannon to disperse a crowd after saying protesters had targeted officers with fireworks, and a march was also temporarily halted in Frankfurt after protesters set off fireworks.",
+          "zh": "在西部城市科隆，警方称抗议者用烟花袭击警员，随后发射水炮驱散人群；在法兰克福，抗议者燃放烟花后，一场游行也被暂时叫停。"
+        },
+        {
+          "en": "In Berlin, protesters hurled bottles and eggs while protesters set barricades ablaze in Hamburg, and police were using pepper spray on demonstrators in some places, the newspaper Bild reported.",
+          "zh": "据《图片报》报道，在柏林，抗议者投掷瓶子和鸡蛋；在汉堡，抗议者点燃了路障；一些地方的警察对示威者使用了胡椒喷雾。"
+        },
+        {
+          "en": "Police were also on alert in Barcelona after an anonymous TikTok network called Blocus urged new gatherings, and in Italy after recent clashes with protesters in Milan, Turin and Bologna.",
+          "zh": "在巴塞罗那，一个名为“Blocus”的匿名TikTok网络号召举行新的集会，警方因此保持警戒；在意大利，米兰、都灵和博洛尼亚最近发生与抗议者的冲突后，警方同样处于戒备状态。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clash",
+          "phonetic": "/klæʃ/",
+          "pos": "v.",
+          "meaning_zh": "发生冲突、爆发肢体对抗（新闻中常指示威者与警方的冲突）",
+          "example_en": "Clashes erupted between demonstrators and police near the station.",
+          "example_zh": "车站附近的示威者与警察爆发了冲突。"
+        },
+        {
+          "word": "quell",
+          "phonetic": "/kwel/",
+          "pos": "v.",
+          "meaning_zh": "镇压、平息（骚乱、暴力、恐惧等）",
+          "example_en": "Extra troops were sent to quell the unrest.",
+          "example_zh": "当局增派部队以平息骚乱。"
+        },
+        {
+          "word": "gendarme",
+          "phonetic": "/ˈʒɒndɑːm/",
+          "pos": "n.",
+          "meaning_zh": "（法国等国的）宪兵，属军队编制、承担治安职能",
+          "example_en": "Gendarmes were deployed in rural areas around the city.",
+          "example_zh": "宪兵被部署在城市周边的乡村地区。"
+        },
+        {
+          "word": "hardcore",
+          "phonetic": "/ˈhɑːdkɔː(r)/",
+          "pos": "n.",
+          "meaning_zh": "（某一群体中）最顽固、最不肯妥协的核心分子",
+          "example_en": "A hardcore of a few hundred fans stayed behind to fight.",
+          "example_zh": "几百名死硬球迷留下来打斗。"
+        },
+        {
+          "word": "incendiary device",
+          "phonetic": "/ɪnˈsendiəri dɪˈvaɪs/",
+          "pos": "n.",
+          "meaning_zh": "燃烧装置、纵火装置（新闻中对燃烧瓶等的统称）",
+          "example_en": "At least one incendiary device was thrown at the security forces.",
+          "example_zh": "至少有一枚燃烧装置被投向安全部队。"
+        },
+        {
+          "word": "water cannon",
+          "phonetic": "/ˈwɔːtə ˈkænən/",
+          "pos": "n.",
+          "meaning_zh": "水炮（警方用于驱散人群的大型高压水车设备）",
+          "example_en": "Police used water cannon against the unauthorised march.",
+          "example_zh": "警方对未经批准的游行动用了水炮。"
+        },
+        {
+          "word": "blockade",
+          "phonetic": "/blɒˈkeɪd/",
+          "pos": "n./v.",
+          "meaning_zh": "封锁（此处指学生封锁校门、阻止正常上课的抗议方式）",
+          "example_en": "Students vowed to blockade their schools on Tuesday.",
+          "example_zh": "学生们誓言周二封锁学校。"
+        },
+        {
+          "word": "fancy dress",
+          "phonetic": "/ˈfænsi dres/",
+          "pos": "n.",
+          "meaning_zh": "（英式）化装服、奇装异服，如万圣节装扮",
+          "example_en": "Some marchers turned up in Halloween fancy dress.",
+          "example_zh": "一些游行者穿着万圣节化装服出现。"
+        },
+        {
+          "word": "manoeuvre",
+          "phonetic": "/məˈnuːvə(r)/",
+          "pos": "v.",
+          "meaning_zh": "（军警）调度、机动部署；引申为巧妙周旋",
+          "example_en": "Officers were manoeuvring to restore public order.",
+          "example_zh": "警员正在调度部署以恢复公共秩序。"
+        },
+        {
+          "word": "looting",
+          "phonetic": "/ˈluːtɪŋ/",
+          "pos": "n.",
+          "meaning_zh": "（骚乱中的）抢劫、哄抢店铺",
+          "example_en": "Widespread looting followed the first night of violence.",
+          "example_zh": "第一夜的暴力之后出现了大范围的抢劫。"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "As evening approached and the largely peaceful demonstrations came to an end, police in several cities fired teargas and stun grenades to disperse crowds joined – as on the previous Saturday – by groups of masked rioters.",
+          "structure": "主干：police fired teargas and stun grenades。修饰：As... 引导时间状语从句（内含 approached 与 came to an end 两个并列谓语）；to disperse... 为目的状语；joined by groups of masked rioters 为过去分词短语作 crowds 的后置定语；as on the previous Saturday 是插入语，相当于 as it was on the previous Saturday。",
+          "analysis_zh": "这句的信息重心在主句的动作上，前面用 as 从句交代“时间+氛围转折”（和平游行结束），后面用不定式说明目的。难点在 crowds joined by... 这个被动分词定语：crowds 是“被蒙面暴徒掺入的人群”，分词短语后置避免句子过长；插入语 as on the previous Saturday 则把本次事件与上周六并列，暗示暴力“如约而至”。翻译时中文宜把定语拆成独立小句。"
+        },
+        {
+          "en": "The marches brought together school students, who have been calling for better conditions for a month, trade unions and gilets jaune (yellow vests) protesters united in anger at the cost of living, widening inequalities and Emmanuel Macron's government.",
+          "structure": "主干：The marches brought together A, B and C。三个并列宾语：school students / trade unions / gilets jaune protesters。修饰：who have been calling for better conditions for a month 为非限定性定语从句，修饰 school students；united in anger at... 为过去分词短语作后置定语，修饰 gilets jaune protesters，其中 at 后接三个并列宾语：the cost of living / widening inequalities / Emmanuel Macron's government。",
+          "analysis_zh": "这是典型的外刊长列举句：主干极短，三个宾语各自带一个长修饰语，读者要边读边“归位”。非限定性定语从句用逗号隔开，说明是补充信息而非限定；united in anger 的过去分词短语既是定语也交代了抗议者的共同情绪，at 后面三个并列成分层层递进，从经济议题上升到政治不满。翻译时不宜把修饰语全部塞进定语，可把并列结构译为“因……而联合起来的……”。"
+        },
+        {
+          "en": "Saturday's rallies came two weeks after widespread street violence and looting rocked numerous French cities during a first wave of mass protest on 17 October that became one of the worst days of civil unrest in the country's recent history.",
+          "structure": "主干：Saturday's rallies came。修饰：two weeks after... 为时间状语，其中 after 引导从句 widespread street violence and looting rocked numerous French cities；during a first wave of mass protest on 17 October 为介词短语修饰 rocked；that became one of the worst days... 为定语从句，先行词是 17 October（即那一天/那场抗议）。",
+          "analysis_zh": "句子通过时间链条把本次抗议放进“前因”框架：came two weeks after 是新闻英语常见的时间定位法。从句主干是 violence and looting rocked cities（主谓宾），during 短语补充背景，最后的 that 定语从句给出评价性定性（“近代史上最严重的内乱日之一”），属于典型的“事实+定性”结构。翻译时可把 after 从句提前，用“距……仅两周”处理，避免中文句子头重脚轻。"
+        }
+      ],
+      "background": [
+        {
+          "title": "“黄背心”与新一波生活成本抗议",
+          "text_zh": "gilets jaunes（黄背心）运动始于2018年，最初反对燃油税上调，因参与者身穿荧光黄反光背心得名，后来演变为针对购买力、税收不公和马克龙政府的广泛社会运动。文中的抗议是2025年10月法国多轮“封锁一切”式抗议中的第三波，核心诉求是生活成本、公共服务（教育、医疗）恶化与税负不公；参与者把工会、学生组织与黄背心残余力量串联起来，学生封锁高中、大学是法国抗议文化中的常见手段。"
+        },
+        {
+          "title": "法国的警察与宪兵、以及“巴黎警察局”",
+          "text_zh": "法国治安力量分两套：警察（police nationale）负责城市，宪兵（gendarmerie）属军队编制但承担乡村与中小城市治安，因此内政部调动的“警察和宪兵”合计7万人。巴黎的治安由巴黎警察局（préfecture de police de Paris）统一指挥，其局长传统上是法国内政系统的重要职位；文中的洛朗·努涅斯此前长期担任巴黎警察局长，2025年10月新政府组成后出任内政部长。文中出现的 Porte de Bagnolet、Porte de Charenton 是巴黎环城大道（boulevard périphérique）上的城门节点，游行路线刻意避开市中心，以减少对商业区的影响。"
+        }
+      ]
+    },
+    "kind": "full",
+    "digest": false,
     "enrich_attempted": true
   },
   {
@@ -2633,17 +2868,17 @@
     "body_en": [],
     "image": "",
     "published": "2026-10-29T19:26:26+08:00",
-    "fetched_at": "2026-11-01T01:57:45+08:00",
+    "fetched_at": "2026-11-01T02:25:36+08:00",
     "is_demo": false,
     "enrich": {
-      "title_zh": "克里斯蒂娜·拉加德在危难时刻离任",
-      "summary_zh": "本文的标题和提要指出：克里斯蒂娜·拉加德即将卸任欧洲央行行长，而离任的时机正处在危险关头；接任欧洲央行行长一职的人，将面对一份毫不令人羡慕的工作。提要只点出人事更替与接班难度，未展开具体政策议题。",
+      "title_zh": "克里斯蒂娜·拉加德在危急时刻卸任",
+      "summary_zh": "这是《经济学人》一篇报道的标题与提要：克里斯蒂娜·拉加德在形势危急之际卸任欧洲央行行长，提要只有一句话，点明她的继任者将接下一份并不令人羡慕的差事。由于刊物仅开放标题和提要，正文的具体论点、数据和判断无法确知。",
       "difficulty": "C1",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "Her successor as ECB chief will have an unenviable job",
-          "zh": "她之后接任欧洲央行行长的人，将得到一份毫不令人羡慕的工作。"
+          "zh": "她作为欧洲央行行长的继任者，将接手一份不值得羡慕的工作。"
         }
       ],
       "vocab": [
@@ -2651,54 +2886,54 @@
           "word": "depart",
           "phonetic": "/dɪˈpɑːt/",
           "pos": "v.",
-          "meaning_zh": "（从职位上）离任、走人；此处不是“出发、启程”，而是新闻标题里常用的“卸任”义",
-          "example_en": "The chief executive will depart at the end of the year after a decade in charge.",
-          "example_zh": "这位首席执行官在掌舵十年后将于年底卸任。"
+          "meaning_zh": "（从职位上）离任、卸任。外刊写人事变动时的高频用法，比 leave office 更简洁书面；注意它并非只表示“出发、离开某地”。",
+          "example_en": "The chief executive departs after only two years in the job.",
+          "example_zh": "这位首席执行官上任仅两年便卸任。"
         },
         {
           "word": "peril",
           "phonetic": "/ˈperɪl/",
           "pos": "n.",
-          "meaning_zh": "（严重的）危险、险境；比 danger 更书面、更有戏剧感，外刊标题偏爱用",
-          "example_en": "The bank was slow to act at a moment of peril for the currency.",
-          "example_zh": "在该货币处境危险的时刻，这家央行行动迟缓。"
+          "meaning_zh": "严重危险、险境。比 danger 更书面、更有戏剧色彩，常用于政治、经济、安全语境（如 in peril、at a moment of peril）。",
+          "example_en": "The currency is in peril as reserves run low.",
+          "example_zh": "随着外汇储备见底，该国货币陷入险境。"
         },
         {
           "word": "successor",
           "phonetic": "/səkˈsesə(r)/",
           "pos": "n.",
-          "meaning_zh": "继任者、接任者；常与 as 连用，表示“接任某职位的人”",
-          "example_en": "She is the favourite to be his successor as governor.",
-          "example_zh": "她是最有可能接替他出任行长的人。"
+          "meaning_zh": "继任者、接班人；后接介词 to 或 as。",
+          "example_en": "She named her deputy as her successor.",
+          "example_zh": "她指定自己的副手为继任者。"
         },
         {
           "word": "unenviable",
           "phonetic": "/ʌnˈenviəbl/",
           "pos": "adj.",
-          "meaning_zh": "不值得羡慕的、棘手的（形容任务、处境：谁摊上谁头疼）",
-          "example_en": "The new finance minister inherits an unenviable set of choices.",
-          "example_zh": "新任财政部长接手了一堆谁摊上都头疼的选项。"
+          "meaning_zh": "不值得羡慕的、棘手的、难办的。英式媒体常用的“低调反讽”，形容任务时等于“谁接了谁头疼”。",
+          "example_en": "The new finance minister inherits an unenviable task.",
+          "example_zh": "新任财政部长接下了一项棘手的任务。"
         },
         {
           "word": "chief",
           "phonetic": "/tʃiːf/",
           "pos": "n.",
-          "meaning_zh": "（机构的）首脑、一把手；标题体里常用 chief 代替 head/president，省字且有分量",
-          "example_en": "The party chief will announce the reshuffle on Friday.",
-          "example_zh": "该党领袖将于周五宣布人事改组。"
+          "meaning_zh": "（机构）最高负责人、一把手。新闻标题里常用 chief 代替 head、director 等，以省字数，如 ECB chief、party chief。",
+          "example_en": "The bank's chief will testify before parliament.",
+          "example_zh": "这家银行的负责人将在议会作证。"
         }
       ],
       "sentences": [
         {
           "en": "Her successor as ECB chief will have an unenviable job",
-          "structure": "主干：Her successor（主语）＋ will have（谓语）＋ an unenviable job（宾语）；修饰：介词短语 as ECB chief 后置修饰主语 successor，说明“接的是哪个位子”。",
-          "analysis_zh": "这句是典型的《经济学人》提要写法：句子极短，信息密度却很高。主语中心词是 successor，as ECB chief 像标签一样挂在后面，把“欧洲央行行长”这一职位交代清楚，又不必写全称 European Central Bank，符合标题体省字惯例。真正的评价落在宾语前的 unenviable 上——字面是“不值得羡慕的”，实际是用“反着说”的克制笔法，传达“这活儿极难干”，与标题里的 at a moment of peril 形成呼应： peril 说的是时机，unenviable 说的是接任者的处境，一因一果。全句用将来时 will have，暗示交接尚未发生，读者自然会把注意力放到“谁来接、怎么接”上。"
+          "structure": "主干：Her successor will have an unenviable job（主＋谓＋宾）；修饰：介词短语 as ECB chief 作后置定语，紧贴 successor，说明“在哪个职位上的继任者”。",
+          "analysis_zh": "这是一句标准的英文刊头提要：主语用名词化的 Her successor 而不是人名，让句子承接大标题里的拉加德，形成“她—她的继任者”的衔接；谓语用 will have 而非 is going to face，语气冷静而断言；宾语中心词 job 前加了 unenviable 这个带评价色彩的形容词，一句就把“这活儿不好干”的判断说完了。中文翻译时不宜直译成“将会有一个不值得羡慕的工作”，宜译为“将接手一份不值得羡慕的工作／差事”，更符合汉语搭配。"
         }
       ],
       "background": [
         {
-          "title": "克里斯蒂娜·拉加德与欧洲央行",
-          "text_zh": "克里斯蒂娜·拉加德（Christine Lagarde）是法国人，曾任法国财政部长，2011 至 2019 年出任国际货币基金组织（IMF）总裁，2019 年 11 月起担任欧洲央行（ECB）行长。欧洲央行行长任期八年、不可连任，行长同时主持由欧元区各国央行行长及执行委员会成员组成的理事会，该理事会负责制定欧元区利率政策。欧洲央行的核心使命是维持物价稳定，其通胀目标在 2021 年战略评估后被表述为“对称的 2%”。行长是央行对外沟通的化身，市场高度依赖其记者会措辞判断政策路径，因此“谁接任、接得顺不顺”本身就是市场变量。"
+          "title": "拉加德与欧洲央行",
+          "text_zh": "克里斯蒂娜·拉加德（Christine Lagarde）是法国律师、政治家，曾任法国财政部长，2011 至 2019 年出任国际货币基金组织（IMF）总裁，2019 年 11 月起担任欧洲中央银行（ECB，总部在德国法兰克福）行长，是该行历史上首位女性行长。欧洲央行行长任期八年、不可连任，其核心职责是主持管委会制定欧元区货币政策，维持中期通胀目标（目前为 2%），并对外代表欧元区货币当局。ECB 的决策由管委会（Governing Council，由执行委员会六名成员加欧元区各国央行行长组成）以投票方式作出，因此行长个人的风格与沟通方式对市场预期影响很大。"
         }
       ]
     },
@@ -2719,76 +2954,72 @@
     "body_en": [],
     "image": "",
     "published": "2026-10-29T19:16:13+08:00",
-    "fetched_at": "2026-11-01T01:57:45+08:00",
+    "fetched_at": "2026-11-01T02:25:36+08:00",
     "is_demo": false,
     "enrich": {
-      "title_zh": "全球石油市场永无止境的荒谬",
-      "summary_zh": "这是《经济学人》一篇评述全球石油市场的文章。编辑只给出一句提要：尽管波斯湾产油国的出口有所增加，作为全球基准的布伦特原油价格仍接近伊朗战争爆发时的高位。标题用「never-ending absurdity」形容这种供应走强、价格却不回落的持续反常局面，提要则用 despite 把这一反差压缩在十余个词里。",
+      "title_zh": "全球石油市场没完没了的荒诞",
+      "summary_zh": "标题用“没完没了的荒诞”形容全球石油市场，提要给出一个看似矛盾的事实：海湾产油国出口走强，供应面并不紧张，布伦特油价却仍徘徊在与伊朗冲突相关的战争高点附近。供给增加而价格不落，正是编者所说的“荒诞”之处。",
       "difficulty": "C1",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "Despite stronger Gulf exports, Brent is near its Iran-war peak",
-          "zh": "尽管海湾地区的出口表现更为强劲，布伦特原油价格仍逼近伊朗战争爆发时的高点。"
+          "zh": "尽管海湾地区的出口势头更强，布伦特原油价格仍徘徊在伊朗战争时的高点附近。"
         }
       ],
       "vocab": [
         {
-          "word": "absurdity",
-          "phonetic": "/əbˈsɜːdəti/",
-          "pos": "n.",
-          "meaning_zh": "荒谬、荒诞之事；此处指市场走势违背常理、反复上演的怪现象",
-          "example_en": "The absurdity of paying more for less electricity has angered households.",
-          "example_zh": "花更多的钱却用更少的电，这种荒谬现象让民众十分不满。"
-        },
-        {
           "word": "Brent",
           "phonetic": "/brent/",
           "pos": "n.",
-          "meaning_zh": "布伦特原油，来自北海的原油品种，是全球原油定价最重要的基准之一",
-          "example_en": "Brent crude rose 2% to $89 a barrel.",
-          "example_zh": "布伦特原油上涨 2%，达到每桶 89 美元。"
-        },
-        {
-          "word": "Gulf",
-          "phonetic": "/ɡʌlf/",
-          "pos": "n.",
-          "meaning_zh": "（大写）海湾地区，特指波斯湾产油国；外刊中 the Gulf 常直接代指这一产油板块",
-          "example_en": "Gulf producers are pumping more crude than they did last spring.",
-          "example_zh": "海湾产油国的原油产量高于去年春天。"
+          "meaning_zh": "布伦特原油，以北海布伦特油田命名的国际原油基准价，全球约三分之二的原油贸易以其定价；外刊常以“Brent”代指国际油价本身",
+          "example_en": "Brent rose 2% to $82 a barrel on the news.",
+          "example_zh": "消息传出后，布伦特原油上涨2%，至每桶82美元。"
         },
         {
           "word": "peak",
           "phonetic": "/piːk/",
           "pos": "n.",
-          "meaning_zh": "峰值、最高点；near its peak 即「接近（此前的）最高位」",
-          "example_en": "Prices are still well below their 2022 peak.",
-          "example_zh": "价格仍远低于 2022 年的峰值。"
+          "meaning_zh": "峰值、最高点；这里指油价在某一事件期间冲到的最高位",
+          "example_en": "Prices are still 15% below last summer's peak.",
+          "example_zh": "价格仍比去年夏天的峰值低15%。"
+        },
+        {
+          "word": "Gulf",
+          "phonetic": "/ɡʌlf/",
+          "pos": "n.",
+          "meaning_zh": "（首字母大写）海湾地区，特指波斯湾产油国（沙特、阿联酋、科威特、伊拉克等）；“Gulf exports”即这些国家的原油出口",
+          "example_en": "Gulf producers are pumping at their highest level in two years.",
+          "example_zh": "海湾产油国的产量处于两年来的最高水平。"
+        },
+        {
+          "word": "absurdity",
+          "phonetic": "/əbˈsɜːdəti/",
+          "pos": "n.",
+          "meaning_zh": "荒诞、荒谬之事；标题里用来表达“市场走势违背常理、令人费解”，是外刊标题常用的评论性重词",
+          "example_en": "The absurdity of paying more for less fuel is hard to explain.",
+          "example_zh": "花更多钱却买到更少的燃料，这种荒诞难以解释。"
         },
         {
           "word": "strong",
           "phonetic": "/strɒŋ/",
           "pos": "adj.",
-          "meaning_zh": "（熟词僻义）数量大、势头强的；strong exports 指出口量大、出口表现强劲，而非「强壮的」",
-          "example_en": "Strong export demand kept the factories busy through the winter.",
-          "example_zh": "强劲的出口需求让工厂整个冬天都忙个不停。"
+          "meaning_zh": "（数据、需求、出口等）强劲的、走强的；熟词僻义，新闻中常与 exports／demand／sales 搭配，指数量或表现好于预期",
+          "example_en": "Strong exports helped narrow the trade deficit.",
+          "example_zh": "出口强劲帮助缩小了贸易逆差。"
         }
       ],
       "sentences": [
         {
           "en": "Despite stronger Gulf exports, Brent is near its Iran-war peak",
-          "structure": "主干：Brent is near its … peak（主语 + 系动词 + 表语）／修饰：句首 Despite stronger Gulf exports 为让步状语（介词短语）；Iran-war 为复合名词作定语修饰 peak",
-          "analysis_zh": "这是典型的 standfirst 句法：短、密、反差强。主干只有五个词，把结论（价格仍高）先摆出来；让步状语用介词 despite 而非 although 从句，省掉主语和谓语，一句话就塞进「供应增加」这一对立事实。Iran-war peak 是两个名词叠加作定语，英语里可以这样层层前置，中文必须拆成「伊朗战争（爆发时冲上的）高点」才通顺。语序上「让步在前、结论在后」是刻意的安排：先给读者一个本该压低价格的理由，再抖出价格并未回落的事实，落差正是标题里 absurdity（荒谬）的落点。"
+          "structure": "主干：Brent（主语）is（系动词）near its Iran-war peak（表语）。修饰：Despite stronger Gulf exports 为让步状语，置于句首形成“虽然……却……”的转折张力；Iran-war 是名词作定语修饰 peak。",
+          "analysis_zh": "这是一个典型的“让步状语＋主句”结构，句首的 Despite 后面只能接名词或名词短语，不能接句子（接句子要用 Although）。编辑把“出口走强”这一利好供应的事实放在句首作让步，主句随即抛出“油价仍高”的反差，两半句一压一扬，标题里的 absurdity（荒诞）就落在中间这个“Despite”上。Iran-war peak 用连字符把两个名词压成一个紧凑的定语，是新闻语体的省字法，同时暗示读者：这个高点并非很久以前，而是与那场战争绑定的近期记忆。整句没有动词性修辞、没有形容词堆砌，全靠逻辑连接词制造反差，很适合模仿写数据类开头。读数时注意 near 而非 at，表示“接近但未突破”，措辞留有余地。"
         }
       ],
       "background": [
         {
-          "title": "布伦特原油与海湾出口",
-          "text_zh": "布伦特（Brent）是产自北海的一揽子原油，全球约三分之二的原油贸易以布伦特系价格为定价参考，因此「布伦特」在外刊中几乎等同于「国际油价」。海湾（the Gulf）指波斯湾沿岸产油国，包括沙特阿拉伯、阿联酋、科威特、伊拉克和伊朗，它们的产量与出口节奏是全球供给端最重要的变量之一，欧佩克+ 的增产减产决定通常也由沙特等海湾国家主导。理论上，海湾出口增加应当压低基准油价，这也是提要中 despite 一词所依托的常识背景。"
-        },
-        {
-          "title": "「伊朗战争」所指",
-          "text_zh": "Iran-war 指的是 2025 年 6 月以色列与伊朗之间爆发、随后美国对伊朗核设施实施空袭的那场军事冲突（常被称为「十二日战争」）。冲突期间市场担心霍尔木兹海峡航运受阻——全球约五分之一的石油消费量经由该海峡运输——油价因此一度急剧跳涨，这一高点即提要中所说的「伊朗战争高点」。此后随着冲突收束，油价有所回落，但并未回到冲突前水平。"
+          "title": "布伦特、“海湾出口”与“伊朗战争高点”",
+          "text_zh": "布伦特（Brent）是国际原油定价的核心基准之一，在伦敦洲际交易所交易，中文报道里的“国际油价”通常指它。所谓“海湾出口”，指沙特、阿联酋、伊拉克、科威特等波斯湾产油国的原油外运，这些货物绝大多数要经霍尔木兹海峡出海，因此该地区既是全球供应的主力，也是最敏感的地缘风险点。提要中的 Iran-war peak 指的是以色列与美国对伊朗采取军事行动期间油价的急剧冲高——市场当时担心霍尔木兹海峡受阻，布伦特在数日内跳涨至每桶80美元上下，随后又因供应未真正中断而回落。理解这层背景，才能读出提要的言外之意：战争溢价虽已消退大半，油价却迟迟没有回到冲突前的水平。"
         }
       ]
     },
@@ -2809,17 +3040,17 @@
     "body_en": [],
     "image": "",
     "published": "2026-10-29T18:41:27+08:00",
-    "fetched_at": "2026-11-01T01:57:45+08:00",
+    "fetched_at": "2026-11-01T02:25:36+08:00",
     "is_demo": false,
     "enrich": {
-      "title_zh": "靠中美对抗大发横财的国家",
-      "summary_zh": "本文标题指出，中美两国在关键矿产领域的竞争正让少数国家获得巨额收益。提要中的“lucky few”点明：受益者只是少数资源禀赋好的国家，关键矿产利润可能改变它们的经济命运。由于刊物只放出标题和提要，正文论点与涉及国家未知。",
+      "title_zh": "靠中美对抗发财的国家",
+      "summary_zh": "本文标题点明：中美两国在关键矿产上的角力，正让一部分握有资源的国家赚得盆满钵满。提要补充说，关键矿产带来的利润，有可能彻底改变少数幸运国家的命运。由于刊物只放出标题和提要，具体论证、涉及哪些国家、数据与结论均无从得知，只能确定文章聚焦的是「地缘竞争—资源国获利」这条链条。",
       "difficulty": "C1",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "Critical-mineral profits could transform a lucky few",
-          "zh": "关键矿产带来的利润，可能改变少数幸运国家的命运。"
+          "zh": "关键矿产带来的利润，或许能彻底改变少数幸运国家的命运。"
         }
       ],
       "vocab": [
@@ -2827,54 +3058,54 @@
           "word": "critical mineral",
           "phonetic": "/ˈkrɪtɪkl ˈmɪnərəl/",
           "pos": "n.",
-          "meaning_zh": "关键矿产；对新能源、军工、半导体等战略产业不可或缺、且供应风险较高的矿产，如锂、钴、镍、稀土、石墨等。此处 critical 意为“关键的、至关重要的”，不是“批评的”。",
-          "example_en": "Governments are racing to secure supplies of critical minerals such as lithium and rare earths.",
-          "example_zh": "各国政府正竞相确保锂和稀土等关键矿产的供应。"
+          "meaning_zh": "关键矿产；战略性矿产。指对新能源、电池、芯片、国防等产业不可或缺、且供应风险较高的矿产，如锂、钴、镍、石墨、稀土。是外刊近年高频固定搭配，通常用复数 critical minerals。",
+          "example_en": "The race for critical minerals has reshaped diplomacy across three continents.",
+          "example_zh": "对关键矿产的争夺已经重塑了三大洲的外交格局。"
         },
         {
-          "word": "make a fortune from",
-          "phonetic": "/meɪk ə ˈfɔːtʃuːn frɒm/",
+          "word": "transform",
+          "phonetic": "/trænsˈfɔːrm/",
+          "pos": "v.",
+          "meaning_zh": "彻底改变、使脱胎换骨。比 change 语气重得多，强调根本性、结构性变化，常用于经济、产业、国家命运等宏大主语。",
+          "example_en": "A single nickel boom can transform a small economy within a decade.",
+          "example_zh": "一轮镍矿热潮，就可能让一个小型经济体在十年内脱胎换骨。"
+        },
+        {
+          "word": "a lucky few",
+          "phonetic": "/ə ˈlʌki fjuː/",
+          "pos": "n. phr.",
+          "meaning_zh": "少数幸运者。a few 前加形容词 lucky 构成名词化短语，指「一小撮走运的人／国家」。这是英文社论常用的修辞，用 the/a + 形容词 + few 制造「少数 vs 多数」的对比感和悬念。",
+          "example_en": "Globalisation made a lucky few spectacularly rich while leaving many behind.",
+          "example_zh": "全球化让少数幸运儿富得惊人，却把许多人抛在后面。"
+        },
+        {
+          "word": "make a fortune",
+          "phonetic": "/meɪk ə ˈfɔːrtʃuːn/",
           "pos": "phrase",
-          "meaning_zh": "靠……发大财、赚取巨额利润。fortune 在此不是“运气”，而是“一大笔钱”。标题用现在分词 making 构成后置定语，使表达更紧凑。",
-          "example_en": "A handful of exporting countries are making a fortune from the green-energy boom.",
-          "example_zh": "少数出口国正从绿色能源热潮中赚取巨额利润。"
+          "meaning_zh": "发财、赚大钱。标题中 making a fortune from... 意为「靠……大发其财」，from 后接获利来源。",
+          "example_en": "Traders made a fortune from the price swings that followed the sanctions.",
+          "example_zh": "制裁引发的价格波动，让贸易商们大发其财。"
         },
         {
           "word": "rivalry",
           "phonetic": "/ˈraɪvlri/",
           "pos": "n.",
-          "meaning_zh": "（长期性的）竞争、对抗关系。比 competition 更强调双方对立、较劲的态势，外刊常用来说明大国博弈。",
-          "example_en": "The tech rivalry between the two powers is reshaping global supply chains.",
-          "example_zh": "这两个大国之间的科技竞争正在重塑全球供应链。"
-        },
-        {
-          "word": "a lucky few",
-          "phonetic": "/ə ˈlʌki fjuː/",
-          "pos": "phrase",
-          "meaning_zh": "少数幸运者。few 前加 a 表示“少数几个”，带名词性质；这是英文中常见的含蓄说法，暗示绝大多数人享受不到这份好处。",
-          "example_en": "The boom has enriched a lucky few while leaving others behind.",
-          "example_zh": "这轮繁荣只让少数幸运者富了起来，其他人则被甩在后面。"
-        },
-        {
-          "word": "transform",
-          "phonetic": "/trænsˈfɔːm/",
-          "pos": "v.",
-          "meaning_zh": "彻底改变、使发生根本性转变。此处宾语是 a lucky few（少数国家），意思是这些国家的经济处境可能被彻底改写；外刊常用它来描述结构性变化。",
-          "example_en": "Oil revenues transformed the small kingdom within a generation.",
-          "example_zh": "石油收入在一代人的时间里彻底改变了这个小王国。"
+          "meaning_zh": "（长期的）竞争、对抗。比 competition 更强调敌意与持续性，外刊在写中美关系时几乎固定用 great-power rivalry（大国竞争）。",
+          "example_en": "The two blocs' rivalry is redrawing global supply chains.",
+          "example_zh": "两大阵营的对抗正在重新划定全球供应链。"
         }
       ],
       "sentences": [
         {
           "en": "Critical-mineral profits could transform a lucky few",
-          "structure": "主干：profits（主语）+ could transform（谓语）+ a lucky few（宾语）；修饰：Critical-mineral 作前置定语修饰 profits。",
-          "analysis_zh": "这是一个省略了状语的短句，典型的经济学人式提要写法：用 could 而非 will，既表示可能性，又避免对结论下断言，显得克制。主语中心词 profits 前用名词 critical-mineral 直接作定语，把“关键矿产”和“利润”压成一个紧凑的名词短语，比 profits from critical minerals 更简洁有力。宾语 a lucky few 用了“a + 形容词 + few”的名词化结构，few 前有 a 表示“少数几个（存在）”，暗含对比：受益者只是极少数，大多数国家分不到这份红利。整句没有说明是哪些国家、利润从何而来，正因为信息被高度压缩，标题才有悬念感，也提示读者正文将展开“谁受益、怎么受益”。"
+          "structure": "主干：Critical-mineral profits（主语）+ could transform（谓语，情态动词+could 表可能性）+ a lucky few（宾语）。修饰：critical-mineral 是名词作定语，修饰 profits；a lucky few 是「冠词+形容词+few」构成的名词化短语，后省略了 countries。",
+          "analysis_zh": "一句话只有八个词，却把整篇文章的因果链条压缩进来了：主语不是「关键矿产」，而是「关键矿产带来的利润」，这一转写很关键，因为真正改变国家命运的是钱，不是矿。谓语用 could 而非 will，是编辑刻意留出的模糊余地，只表示「有可能」，不下断言。最值得学的是宾语 a lucky few：few 前加 a 表示「少数几个」，加上 lucky 后不带名词，读者的注意力自然回落到标题里的 countries，既避免重复，又暗示「大多数国家没这个运气」这种隐含对比；这种「形容词+few 名词化」是英文社论标题与提要的典型修辞，中文里对应「少数几个幸运儿」。"
         }
       ],
       "background": [
         {
-          "title": "关键矿产与中美竞争",
-          "text_zh": "“关键矿产”（critical minerals）通常指锂、钴、镍、石墨、锰以及稀土等对电动汽车电池、风电、光伏、半导体和军工生产不可或缺的原材料。围绕这些矿产，近年形成了两条相互交织的全球议题。第一是供应链安全：中国在稀土分离加工和电池材料精炼环节占据很大份额，美国及其盟友因此推动“去风险”和供应链多元化，通过《通胀削减法案》（IRA）的电池材料本地化要求、与资源国签订矿产协议等方式，鼓励企业把开采、加工环节分散到澳大利亚、加拿大、印度尼西亚、智利、阿根廷、刚果（金）等地。第二是资源国的议价能力上升：印度尼西亚禁止镍矿石出口，要求在本国冶炼；智利、墨西哥推动锂资源国有化；刚果（金）就钴的出口与外资矿企重新谈判。这些做法使拥有矿藏的国家能够从涨价和下游加工中获取更多收益，也正是标题所说“少数幸运国家”的现实背景。需要说明的是，这些属于该话题的公共背景事实，本文正文是否持同样观点、具体点名哪些国家，仅凭标题与提要无法判断。"
+          "title": "关键矿产与中美供应链博弈",
+          "text_zh": "「关键矿产」（critical minerals）没有统一清单，但通常包括锂、钴、镍、石墨、锰、稀土元素等，它们是动力电池、风电、芯片与军工产品的基础投入。中国在精炼加工环节占据主导地位，美国则通过《通胀削减法案》（IRA）的电动车补贴原产地规则、对华加征关税、以及联合盟友组建「矿产安全伙伴关系」（MSP）等方式，试图把供应链从中国转移出去。与此同时，中国对镓、锗、石墨等物项实施出口管制。这一来一往，使得拥有储量的国家——如镍资源大国印度尼西亚、锂矿大国澳大利亚与智利、阿根廷、钴矿占全球产量七成的刚果（金）——在谈判中议价能力陡升，吸引大量投资。近年印尼的「下游化」政策（禁止原矿出口、强制本地冶炼）就是典型例子。"
         }
       ]
     },
