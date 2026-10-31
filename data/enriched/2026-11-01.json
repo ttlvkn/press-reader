@@ -12,84 +12,81 @@
     "body_en": [],
     "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt39be7cc1b8b06346/6ae4e559376c360bbd0d1310/GettyImages-2288050691.jpg?branch=production",
     "published": "2026-10-31T20:30:00+08:00",
-    "fetched_at": "2026-11-01T01:57:46+08:00",
+    "fetched_at": "2026-11-01T02:36:05+08:00",
     "is_demo": false,
     "enrich": {
-      "title_zh": "美国人去年因网络诈骗损失近180亿美元。华盛顿在帮他们追回损失上做得够吗？",
-      "summary_zh": "文章报道，一项国会调查指出，美国民众去年因网络诈骗损失近180亿美元，而联邦政府在帮助受害者追回这些资金方面存在明显缺口。调查由此提出疑问：华盛顿的应对和补救机制是否足够有力。",
+      "title_zh": "美国人去年因网络诈骗损失近180亿美元，华盛顿在帮他们追回这些钱上做得够吗？",
+      "summary_zh": "据《时代》美国栏目报道，美国人去年因网络诈骗损失近180亿美元。一项国会调查梳理了联邦政府在帮助受害者追回损失方面的各项努力，并指出其中存在的缺口与不足。报道由此提出疑问：华盛顿是否做得足够。摘要未展开具体机构与建议，正文预计围绕这份调查报告展开。",
       "difficulty": "C1",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "A Congressional investigation identifies gaps in federal efforts to help Americans recover billions of dollars lost to scammers online.",
-          "zh": "一项国会调查指出，联邦政府在帮助美国人追回因网络诈骗分子而损失的大量资金方面存在不足。"
+          "zh": "一项国会调查指出，联邦政府在帮助美国人追回被网络诈骗者骗走的数十亿美元方面，存在明显缺口。"
         }
       ],
       "vocab": [
         {
-          "word": "Congressional",
-          "phonetic": "/kənˈɡreʃənl/",
-          "pos": "adj.",
-          "meaning_zh": "国会的；与美国国会有关的",
-          "example_en": "A Congressional committee will hold a hearing next week.",
-          "example_zh": "一个国会委员会将于下周举行听证会。"
-        },
-        {
-          "word": "investigation",
-          "phonetic": "/ɪnˌvestɪˈɡeɪʃn/",
+          "word": "cyberscam",
+          "phonetic": "/ˈsaɪbərskæm/",
           "pos": "n.",
-          "meaning_zh": "调查；审查",
-          "example_en": "The investigation found serious weaknesses in the system.",
-          "example_zh": "调查发现该体系存在严重薄弱环节。"
+          "meaning_zh": "网络诈骗（通过互联网、短信、社交平台等实施的行骗行为）",
+          "example_en": "The bank issued a warning about a new cyberscam targeting elderly customers.",
+          "example_zh": "该银行发布警告，提醒防范一种针对老年客户的新型网络诈骗。"
         },
         {
-          "word": "identify",
-          "phonetic": "/aɪˈdentɪfaɪ/",
-          "pos": "v.",
-          "meaning_zh": "指出；确认；识别出",
-          "example_en": "The report identifies three main causes of the problem.",
-          "example_zh": "报告指出了该问题的三个主要原因。"
+          "word": "congressional",
+          "phonetic": "/kənˈɡreʃənəl/",
+          "pos": "adj.",
+          "meaning_zh": "国会的（此处指美国国会）；congressional investigation 即国会调查，通常由委员会举行听证、调取文件后发布报告",
+          "example_en": "The congressional hearing drew attention to safety failures in the airline industry.",
+          "example_zh": "这场国会听证会使航空业的安全漏洞受到关注。"
         },
         {
           "word": "gap",
           "phonetic": "/ɡæp/",
           "pos": "n.",
-          "meaning_zh": "缺口；不足；差距",
-          "example_en": "There is a gap between policy and practice.",
-          "example_zh": "政策与实践之间存在差距。"
-        },
-        {
-          "word": "federal",
-          "phonetic": "/ˈfedərəl/",
-          "pos": "adj.",
-          "meaning_zh": "联邦的；联邦政府层面的",
-          "example_en": "The program is funded by the federal government.",
-          "example_zh": "该项目由联邦政府资助。"
+          "meaning_zh": "（制度、工作或保护中的）缺口、空白、不足，属外刊高频用法，如 gaps in the system 制度漏洞",
+          "example_en": "The report found serious gaps in the way complaints are handled.",
+          "example_zh": "该报告发现，投诉处理方式存在严重漏洞。"
         },
         {
           "word": "recover",
           "phonetic": "/rɪˈkʌvər/",
           "pos": "v.",
-          "meaning_zh": "追回；找回；挽回",
-          "example_en": "Victims are trying to recover the money they lost.",
-          "example_zh": "受害者正试图追回他们损失的钱。"
+          "meaning_zh": "（熟词僻义）追回、挽回（被骗走或损失的钱款、财物），而非“康复、恢复”",
+          "example_en": "Only a small share of victims ever recover the money they lost.",
+          "example_zh": "只有一小部分受害者最终追回了损失的钱款。"
+        },
+        {
+          "word": "scammer",
+          "phonetic": "/ˈskæmər/",
+          "pos": "n.",
+          "meaning_zh": "诈骗者、骗子；scam 为“骗局”，口语与新闻中均常见",
+          "example_en": "Scammers often pose as bank staff to obtain account details.",
+          "example_zh": "诈骗者常常冒充银行工作人员来套取账户信息。"
         }
       ],
       "sentences": [
         {
           "en": "A Congressional investigation identifies gaps in federal efforts to help Americans recover billions of dollars lost to scammers online.",
-          "structure": "主干：A Congressional investigation identifies gaps（主语 + 谓语 + 宾语）。修饰：in federal efforts 修饰 gaps；to help Americans recover... 修饰 efforts；lost to scammers online 修饰 billions of dollars。",
-          "analysis_zh": "这是新闻摘要常用的压缩句式：先给出调查结论，再用层层后置修饰说明缺口所在、援助目的和资金损失来源。翻译时不宜逐字照搬，可拆成“联邦政府在……方面存在不足”，更符合中文表达习惯。"
+          "structure": "主干：A Congressional investigation（主语）identifies（谓语）gaps（宾语）。修饰：in federal efforts 为介词短语作 gaps 的后置定语，说明“哪方面的缺口”；to help Americans recover… 为不定式短语修饰 efforts，交代联邦努力的目的；lost to scammers online 为过去分词短语作 billions of dollars 的后置定语。",
+          "analysis_zh": "这是典型的新闻摘要“一句概括”写法：把“谁做了调查—发现了什么—涉及多少钱”压缩进一个句子，信息密度极高。作者把重心放在 gaps（缺口）而非调查过程，等于先给出判断，暗示文章带有批评视角；billions of dollars 用模糊数量而非精确数字，是为了让句子在标题与摘要中更有冲击力，具体数额留给正文。"
+        },
+        {
+          "en": "Is Washington Doing Enough to Help Them Get It Back?",
+          "structure": "主干：Is Washington（主语）doing（谓语）enough（宾语）——疑问句倒装。修饰：to help them get it back 为目的状语。代词回指：Washington 转喻联邦政府；them 指前文的 Americans（受害者）；it 指 billions of dollars。",
+          "analysis_zh": "标题用疑问句而非陈述句，是外刊设置议程的常见手法：不直接下结论，而是把“够不够”的追问抛给读者和监管者。用 Washington 代替 the federal government，是新闻文体的转喻习惯（以首都指代联邦政府），字数少、指向明确。help sb. get sth. back 是口语化的双宾结构，比 recover 更轻快，适合标题语体。"
         }
       ],
       "background": [
         {
-          "title": "Washington 指代美国联邦政府",
-          "text_zh": "美国媒体常用 Washington（华盛顿）代指美国联邦政府及其决策机构，因为国会、白宫及主要联邦部门都位于华盛顿特区。标题中的“Is Washington Doing Enough”问的是联邦层面是否采取了足够行动，而不是指华盛顿市政府。"
+          "title": "美国国会调查是怎么回事",
+          "text_zh": "美国国会各委员会（如参议院常设调查小组委员会、众议院监督与问责委员会）有权调取文件、发出传票、传唤证人举行听证，并在调查结束后发布公开报告。但国会本身不能起诉或判刑，调查报告的作用主要是曝光问题、向行政部门施压、为后续立法（如拨款、修法）提供依据。因此摘要中的“指出缺口”，实际指向的是政策与制度层面的失职或空白，而非某起具体案件的判决。"
         },
         {
-          "title": "国会调查的作用",
-          "text_zh": "美国国会除立法外，还通过委员会开展调查、举行听证并要求提交文件，以监督行政部门和政策执行。此类调查可以形成报告并推动立法或舆论压力，但本身通常不直接追诉诈骗或替受害者追款。"
+          "title": "网络诈骗损失如何统计、钱为何难追回",
+          "text_zh": "这类全国性损失数字通常来自美国联邦贸易委员会（FTC）的 Consumer Sentinel 消费者投诉数据库，以及联邦调查局（FBI）下属的互联网犯罪投诉中心（IC3）年度报告——后者专门汇总网络犯罪投诉与损失金额。受害者报案后，钱款能否追回主要取决于是否及时通知银行或支付平台、资金是否已被多次转账，以及执法部门能否冻结账户；涉及跨境团伙或加密货币时，追回难度更大。这也正是“联邦努力是否存在缺口”这一问题被提出的现实背景：报案渠道、跨机构协作与追偿机制是否有效，直接决定受害者能否拿回钱。"
         }
       ]
     },
@@ -110,11 +107,11 @@
     "body_en": [],
     "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt953e7b5d8ba5e15c/6ae4becd9c5f313475eb3a02/pumpkin-US.jpg?branch=production",
     "published": "2026-10-31T20:00:03+08:00",
-    "fetched_at": "2026-11-01T01:57:46+08:00",
+    "fetched_at": "2026-11-01T02:36:05+08:00",
     "is_demo": false,
     "enrich": {
-      "title_zh": "为什么你不该把万圣节的旧南瓜扔进垃圾桶",
-      "summary_zh": "万圣节过后，数以百万计的南瓜需要处理，而多数家庭的第一反应是直接丢进垃圾桶。标题明确反对这种做法，暗示正文会给出更环保的处理方式。提要只点出一个事实：节后南瓜的弃置量极大，集中丢弃会带来环境代价。至于具体替代方案，编辑并未在提要中透露。",
+      "title_zh": "为什么你不该把万圣节剩下的旧南瓜扔进垃圾桶",
+      "summary_zh": "这条提要只有一句话：万圣节过后，数以百万计的南瓜需要处理。标题用否定祈使句提醒读者，把节后南瓜直接丢进垃圾桶并非妥当做法；提要则点出问题的规模，为正文要讲的“怎么处理”铺垫。",
       "difficulty": "B2",
       "read_minutes": 2,
       "paragraphs": [
@@ -125,49 +122,57 @@
       ],
       "vocab": [
         {
-          "word": "toss",
-          "phonetic": "/tɒs/",
-          "pos": "v.",
-          "meaning_zh": "随手扔、丢弃（口语色彩强，比 throw 更随意，常含“不当回事地一扔”的意味）；另有“抛、颠”之义",
-          "example_en": "Don't just toss those batteries in the bin—take them to a collection point.",
-          "example_zh": "别把那些电池随手扔进垃圾桶，送到回收点去。"
-        },
-        {
           "word": "dispose of",
           "phonetic": "/dɪˈspəʊz əv/",
           "pos": "phr.",
-          "meaning_zh": "处理掉、清除（废物等）；正式用语，是外刊谈垃圾、废弃物时的固定搭配",
-          "example_en": "The company was fined for illegally disposing of chemical waste.",
-          "example_zh": "该公司因非法处理化学废料而被罚款。"
+          "meaning_zh": "处理掉、丢弃（废弃物）；比 throw away 正式，常用于垃圾、废物语境",
+          "example_en": "The city advises residents on how to dispose of their Christmas trees.",
+          "example_zh": "市政府就如何处置圣诞树向居民提供建议。"
         },
         {
-          "word": "millions of",
-          "phonetic": "/ˈmɪljənz əv/",
-          "pos": "phr.",
-          "meaning_zh": "数以百万计的、成百上千万的；用复数表示数量之大而无需给出精确数字，是新闻提要中制造规模感的常用手段",
-          "example_en": "Millions of people tuned in to watch the final.",
-          "example_zh": "数百万观众收看了决赛。"
+          "word": "toss",
+          "phonetic": "/tɒs/",
+          "pos": "v.",
+          "meaning_zh": "随手扔掉、抛（口语色彩强，比 throw 更随意）",
+          "example_en": "Don't just toss your batteries in the bin—take them to a drop-off point.",
+          "example_zh": "别把电池随手扔进垃圾桶，要送到回收点。"
         },
         {
           "word": "trash",
           "phonetic": "/træʃ/",
           "pos": "n.",
-          "meaning_zh": "垃圾、废弃物（美式英语；英式多用 rubbish，正式场合多用 waste）",
-          "example_en": "The streets were littered with trash after the parade.",
-          "example_zh": "游行过后，街上到处是垃圾。"
+          "meaning_zh": "（美式）垃圾、废弃物；the trash 也可指垃圾桶",
+          "example_en": "Half of what we put in the trash could have been recycled.",
+          "example_zh": "我们扔进垃圾桶的东西里，有一半本可以回收。"
+        },
+        {
+          "word": "old",
+          "phonetic": "/əʊld/",
+          "pos": "adj.",
+          "meaning_zh": "此处指“放久了的、节后剩下的”，而非“年老的”；修饰物时的常见引申义",
+          "example_en": "What can you do with old pumpkins besides carving them?",
+          "example_zh": "除了刻南瓜灯，放久了的南瓜还能拿来做什么？"
+        },
+        {
+          "word": "millions of",
+          "phonetic": "/ˈmɪljənz əv/",
+          "pos": "phr.",
+          "meaning_zh": "数以百万计的；用于强调数量之大而无需给确切数字",
+          "example_en": "Millions of tonnes of food are wasted every year.",
+          "example_zh": "每年有数百万吨食物被浪费。"
         }
       ],
       "sentences": [
         {
           "en": "Millions of pumpkins need to be disposed of after Halloween.",
-          "structure": "主干：Millions of pumpkins（主语）+ need to be disposed of（谓语，“need + 不定式被动”）；修饰：after Halloween 为时间状语，置于句末",
-          "analysis_zh": "这句的看点在于 dispose of 的被动形式。dispose of 是“动词 + 介词”的短语动词，介词 of 不能丢，因此被动时介词仍留在句末：be disposed of，而不是 be disposed。其次，need 后接不定式被动 to be disposed of，表示“需要被处理”，这是英语里表达“某物有待处理”的标准结构，等同 need disposing of（动名词主动表被动，但此用法较少见）。再者，主语用 Millions of pumpkins 而非 The pumpkins，是把话题放在“量”上：问题不在于南瓜本身，而在于节后南瓜堆积的规模。全句没有主语人称，读者被默认代入“扔南瓜的人”，为标题的劝告语气作了铺垫。"
+          "structure": "主干：Millions of pumpkins（主语）+ need to be disposed of（谓语，被动）；修饰：after Halloween 作时间状语，前置到句末说明时点。",
+          "analysis_zh": "全句只有一个主谓结构，信息密度靠名词短语堆出来：主语 Millions of pumpkins 用概数而非精确数字，突出“规模大”；谓语采用 need to be disposed of 的被动形式，因为施事（谁来处理）不是重点，重点是“这些南瓜必须有个去处”。dispose of 是“动词+介词”的固定搭配，变被动时介词 of 必须留在后面，这是外刊里很常见的搭配完整性问题；结尾 after Halloween 用时间状语收束，点明问题集中在节后这段时间。编辑用这种冷静陈述的短句作提要，与标题的否定祈使句形成“提出问题—给出提醒”的配合。"
         }
       ],
       "background": [
         {
-          "title": "万圣节南瓜：从“杰克灯”到节后垃圾",
-          "text_zh": "万圣节刻南瓜灯的习俗源于爱尔兰的“杰克灯”（jack-o'-lantern）传说，最初用的是芜菁（turnip），移民到北美后改用当地更易雕刻、产量更大的南瓜。于是南瓜在美国成了一种典型的“一次性”农产品：专门供雕刻的品种（carving pumpkins）纤维粗、水分多、甜度低，口感远不如食用南瓜，很多人刻完就扔，并不会拿来烹饪。节后集中丢弃的南瓜大多进入垃圾填埋场；有机物在填埋场的缺氧环境中分解，会产生甲烷（methane）——一种温室效应远强于二氧化碳的气体。正因如此，食物残渣和园林废弃物如何处理，长期是城市固废管理中的议题，常见替代做法包括堆肥、交由市政绿色垃圾回收，或送到动物园、农场作饲料。"
+          "title": "万圣节南瓜的去向",
+          "text_zh": "南瓜（pumpkin）是万圣节的核心符号，既用于雕刻杰克灯（jack-o'-lantern），也用于南瓜派等食品。美国是主要产地，伊利诺伊州产量长期居首，全国每年秋季收获的南瓜以十亿磅计，其中相当大一部分专门为万圣节前后消费而种植。雕刻过的南瓜保质期很短，节后往往迅速腐烂，因此11月初集中出现大量废弃南瓜。美国不少州市政部门与环保机构会在此时设立南瓜回收点，把南瓜送去堆肥（compost）或作为动物园、农场的饲料，以避免进入垃圾填埋场；填埋场缺氧环境下有机物分解会释放甲烷（methane），这是一种强效温室气体，这也是南瓜处理问题被归入气候栏目的原因。"
         }
       ]
     },
@@ -188,81 +193,81 @@
     "body_en": [],
     "image": "",
     "published": "2026-10-31T19:00:03+08:00",
-    "fetched_at": "2026-11-01T01:57:46+08:00",
+    "fetched_at": "2026-11-01T02:36:05+08:00",
     "is_demo": false,
     "enrich": {
       "title_zh": "我们为什么喜欢被吓到",
-      "summary_zh": "这是《时代》周刊 Ideas 栏目一文的内容提要。提要指出，世界从来不缺让人恐惧的事物，而人类消化恐惧的方式之一，就是主动去看恐怖题材作品；文章由行为科学研究者科尔坦·斯克里夫纳撰写，围绕「人为何愿意主动消费恐惧」这一看似矛盾的现象展开论述。",
+      "summary_zh": "世界从来不缺让人害怕的东西。TIME「观点」栏目刊出 Coltan Scrivner 的文章，提出：观看恐怖作品，是我们消化、应对这些恐惧的一种方式。RSS 只放出这句提要，因此作者如何论证「看恐怖片能帮我们处理恐惧」、举了哪些例子与数据，摘要中并未交代。",
       "difficulty": "B2",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "The world has always been full of things that frighten us. One way we work through these fears is by watching horror, writes Coltan Scrivner.",
-          "zh": "这个世界从来就不缺让我们害怕的东西。科尔坦·斯克里夫纳写道，我们消化这些恐惧的办法之一，就是去看恐怖片。"
+          "zh": "世界从来就不缺让我们害怕的东西。Coltan Scrivner 写道，而观看恐怖作品，正是我们消化这些恐惧的方式之一。"
         }
       ],
       "vocab": [
         {
+          "word": "work through",
+          "phonetic": "/wɜːk θruː/",
+          "pos": "phr. v.",
+          "meaning_zh": "（通过思考、谈论或行动）逐步化解、消化（某种情绪或难题）；不是「做完工作」",
+          "example_en": "Writing the letter helped her work through her grief.",
+          "example_zh": "写那封信帮她慢慢消化了悲伤。"
+        },
+        {
           "word": "frighten",
           "phonetic": "/ˈfraɪtn/",
           "pos": "v.",
-          "meaning_zh": "使害怕，吓到（及物动词，宾语是人；比 scare 稍正式，外刊中常与 things / prospects 等抽象主语搭配）",
-          "example_en": "Rising prices frighten consumers more than any other issue.",
-          "example_zh": "比起其他任何问题，物价上涨更让消费者感到害怕。"
-        },
-        {
-          "word": "work through",
-          "phonetic": "/wɜːrk θruː/",
-          "pos": "phr. v.",
-          "meaning_zh": "逐步消化、化解（负面情绪、心理创伤或难题），强调「一点点处理掉」的过程，是心理健康类报道中的高频表达",
-          "example_en": "Children need time to work through their grief after a loss.",
-          "example_zh": "经历失去之后，孩子们需要时间慢慢消化悲伤。"
-        },
-        {
-          "word": "be full of",
-          "phonetic": "/fʊl əv/",
-          "pos": "phr.",
-          "meaning_zh": "充满，到处都是；此处与 has always been 连用，暗示「自古以来便是如此」，为下文的转折做铺垫",
-          "example_en": "Her early letters are full of hope and impatience.",
-          "example_zh": "她早期的信件里满是希望与急切。"
+          "meaning_zh": "使害怕、吓到（及物动词，宾语是「被吓的人」）",
+          "example_en": "The sudden noise frightened the children.",
+          "example_zh": "突如其来的响声吓到了孩子们。"
         },
         {
           "word": "horror",
-          "phonetic": "/ˈhɔːrər/",
+          "phonetic": "/ˈhɒrə(r)/",
           "pos": "n.",
-          "meaning_zh": "（作不可数名词、不加冠词时）恐怖题材作品的总称，即恐怖片、恐怖小说、恐怖故事等。此处相当于 horror films / fiction，不能理解为「恐怖这种情绪」",
-          "example_en": "She grew up on horror and slasher movies.",
-          "example_zh": "她是看着恐怖片和砍杀片长大的。"
+          "meaning_zh": "此处不可数，指「恐怖题材作品」这一类（恐怖片、恐怖小说等），而非某一件作品",
+          "example_en": "She has been a fan of horror since she was a teenager.",
+          "example_zh": "她十几岁起就是恐怖题材的爱好者。"
         },
         {
-          "word": "write",
-          "phonetic": "/raɪt/",
-          "pos": "v.",
-          "meaning_zh": "（新闻体例）写道、撰文说。英语报刊惯用「…, writes + 记者/作者名」这种主谓倒装的引述方式，中文常译为「某某写道」并置于句首",
-          "example_en": "The trend is unlikely to reverse, writes the economist.",
-          "example_zh": "这位经济学家写道，这一趋势不太可能逆转。"
+          "word": "be full of",
+          "phonetic": "/bi fʊl əv/",
+          "pos": "phr.",
+          "meaning_zh": "充满、到处都是；比 there are many 更有画面感，外刊常用它来铺垫一个普遍现象",
+          "example_en": "The internet is full of advice that nobody asked for.",
+          "example_zh": "网上到处都是没人求教就送上门的建议。"
+        },
+        {
+          "word": "these fears",
+          "phonetic": "/ðiːz fɪəz/",
+          "pos": "n. phr.",
+          "meaning_zh": "「这些恐惧」——指代前一句那些让人害怕的东西所引起的恐惧；英文靠 these 完成衔接，中文要补出「这些」所指",
+          "example_en": "Children often outgrow these fears by primary school.",
+          "example_zh": "孩子们到小学阶段往往就不再怕这些了。"
         }
       ],
       "sentences": [
         {
-          "en": "One way we work through these fears is by watching horror, writes Coltan Scrivner.",
-          "structure": "主干：One way … is by watching horror（主语 + 系动词 + 表语，by doing 作表语表示「方式」）／修饰：we work through these fears 是省略了 that / in which 的定语从句，修饰 One way／附加：writes Coltan Scrivner 为引述性倒装，正常语序是 Coltan Scrivner writes。",
-          "analysis_zh": "这句话的骨架其实是「一种方式是……」，即 One way is by doing sth.，这是英语里给某事归类、下定义的常用句型，比直接说 We work through our fears by watching horror 更强调「这只是众多方式之一」。定语从句 One way (that) we work through these fears 省掉了关系词，读时容易把它误当成主句，要注意 One way 与 is 之间的插入成分。句尾的 writes Coltan Scrivner 是英语新闻的固定体例：把说话人和动词倒装放在句末，既交代信息来源，又避免句首堆砌「某某写道」。翻译成中文时通常要把这一部分提到句首，变成「某某写道，……」，否则中文语序会很别扭。"
+          "en": "The world has always been full of things that frighten us.",
+          "structure": "主干：The world（主）has always been（系）full of things（表语）／修饰：that frighten us 是定语从句，修饰 things",
+          "analysis_zh": "整句只有「主—系—表」三层，结构极简，但用了两个手段拉宽时间与范围：一是 always 配合现在完成时 has been，把话说成「从过去到现在一直如此」，让论断显得不证自明；二是 things that frighten us 用定语从句而不是形容词 frightening things，因为 frightening things 只说明「东西可怕」，而定语从句把「吓到我们」这个动作点出来，与下一句的 these fears 形成因果链。这也是英文议论文常见的开篇法：先给一个人人都点头的普遍事实，再抛出反常识的观点。"
         },
         {
-          "en": "The world has always been full of things that frighten us.",
-          "structure": "主干：The world has been full of things（主 + 系 + 表）／修饰：has always been 为现在完成时，always 加强「一贯如此」；that frighten us 是定语从句，修饰 things。",
-          "analysis_zh": "句子很短，但两个细节值得注意。一是现在完成时 has always been：它不是说「现在世界才充满可怕的东西」，而是把过去到现在连成一条线，为下文「既然如此，人为什么还主动去看恐怖片」埋下反差。二是 things that frighten us 用定语从句而非形容词（如 frightening things）作后置修饰，使「让人害怕」这一动作感更强，也让这个短语在句中更具分量，读起来像是给全文定调的一句开场白。这种「先摆一个人人都同意的大前提」的写法，是英语评论文章常见的开头策略。"
+          "en": "One way we work through these fears is by watching horror, writes Coltan Scrivner.",
+          "structure": "主干：One way ... is by watching horror（主—系—表）／修饰：we work through these fears 是省略了 that/in which 的定语从句，修饰 one way；by watching horror 是介词短语作表语，说明方式；writes Coltan Scrivner 为引述分句，主谓倒装",
+          "analysis_zh": "这句话有两点值得学。第一，One way ... is by doing 是英文里给「方法」下定义的固定框架，比直接说 We work through these fears by watching horror 更强调「这只是诸多方式之一」，语气留有余地——作者并不主张看恐怖片是唯一或最好的办法。第二，writes Coltan Scrivner 把引述动词放在句末并倒装（正常语序为 Coltan Scrivner writes），是新闻体和学术随笔的典型标记：先把观点摆出来，最后才交代说话人，让读者先注意内容、再注意出处。"
         }
       ],
       "background": [
         {
-          "title": "科尔坦·斯克里夫纳与「娱乐性恐惧」研究",
-          "text_zh": "Coltan Scrivner 是一位行为科学研究者，主要研究人为什么愿意花钱、花时间去体验恐惧，他提出的「娱乐性恐惧」（recreational fear）概念在欧美媒体上被反复引用，讨论对象包括恐怖片、鬼屋、真实犯罪播客等。他也研究过恐怖片爱好者在疫情、危机时期的心理韧性。了解这一身份有助于判断正文的论证方向：文章很可能是用心理学或演化视角来解释「又怕又想看」这一现象。"
+          "title": "TIME 的 Ideas 栏目",
+          "text_zh": "Ideas 是 TIME 的观点与评论栏目，刊登学者、作家、评论人的署名短文，通常围绕一个反常识的论点展开，长度多在千字以内。它的文章常以「我们习以为常的现象」开头，再给出一个研究或概念来解释。本栏目的文章多由作者本人或其研究团队的观点改写而成，因此结论往往比新闻报道更个人化。"
         },
         {
-          "title": "TIME 的 Ideas 栏目与署名体例",
-          "text_zh": "Ideas 是《时代》周刊的观点评论栏目，刊登的多是学者、研究者、作家署名的评论，而非本报记者报道，因此文中观点属于作者个人，不代表编辑部。英语报刊在引述署名作者时有一套固定写法，常见的有「…, writes + 人名」「…, said + 人名」放在句末的倒装形式，也常在句首用「For TIME」标明独家撰稿。中文读者若不了解这一体例，容易把句末的人名误读成句子的宾语。"
+          "title": "Coltan Scrivner 与「娱乐性恐惧」",
+          "text_zh": "Coltan Scrivner 是研究恐怖题材消费心理的学者，提出过 recreational fear（娱乐性恐惧）这一说法，用来指人们主动、自愿地去体验害怕（看恐怖片、玩鬼屋、读恐怖小说）这一看似矛盾的行为，并研究它与好奇心、情绪调节、心理韧性的关系。这条 RSS 提要只呈现了他的核心论断——看恐怖作品是处理恐惧的方式之一——至于他用什么研究、什么数据来支撑，摘要没有给出，本文其余内容也无法据此推断。"
         }
       ]
     },
@@ -2860,17 +2865,17 @@
     "body_en": [],
     "image": "",
     "published": "2026-10-29T19:26:26+08:00",
-    "fetched_at": "2026-11-01T01:57:45+08:00",
+    "fetched_at": "2026-11-01T02:36:04+08:00",
     "is_demo": false,
     "enrich": {
-      "title_zh": "克里斯蒂娜·拉加德在危难时刻离任",
-      "summary_zh": "本文的标题和提要指出：克里斯蒂娜·拉加德即将卸任欧洲央行行长，而离任的时机正处在危险关头；接任欧洲央行行长一职的人，将面对一份毫不令人羡慕的工作。提要只点出人事更替与接班难度，未展开具体政策议题。",
+      "title_zh": "克里斯蒂娜·拉加德在危机时刻卸任",
+      "summary_zh": "《经济学人》以标题加一句提要点出：克里斯蒂娜·拉加德即将卸任欧洲央行行长，而这一时点正当多事之秋；她的继任者将接下一份毫不令人羡慕的差事。两句话既点明人事更替，也暗示欧元区货币政策正处在敏感关头。",
       "difficulty": "C1",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "Her successor as ECB chief will have an unenviable job",
-          "zh": "她之后接任欧洲央行行长的人，将得到一份毫不令人羡慕的工作。"
+          "zh": "接替她出任欧洲央行行长的人，将得到一份并不令人羡慕的差事。"
         }
       ],
       "vocab": [
@@ -2878,54 +2883,54 @@
           "word": "depart",
           "phonetic": "/dɪˈpɑːt/",
           "pos": "v.",
-          "meaning_zh": "（从职位上）离任、走人；此处不是“出发、启程”，而是新闻标题里常用的“卸任”义",
-          "example_en": "The chief executive will depart at the end of the year after a decade in charge.",
-          "example_zh": "这位首席执行官在掌舵十年后将于年底卸任。"
+          "meaning_zh": "离任、卸任（此处不是“离开某地”的日常义，外刊写人事变动常用 depart 代替 resign/step down，语气更中性、更书面）",
+          "example_en": "The governor departs after six turbulent years at the central bank.",
+          "example_zh": "这位行长在央行度过动荡的六年后卸任。"
         },
         {
           "word": "peril",
-          "phonetic": "/ˈperɪl/",
+          "phonetic": "/ˈperəl/",
           "pos": "n.",
-          "meaning_zh": "（严重的）危险、险境；比 danger 更书面、更有戏剧感，外刊标题偏爱用",
-          "example_en": "The bank was slow to act at a moment of peril for the currency.",
-          "example_zh": "在该货币处境危险的时刻，这家央行行动迟缓。"
+          "meaning_zh": "严重危险、危局（比 danger 更重，多用于政治、经济、安全语境，常带“险象环生”的意味）",
+          "example_en": "The euro zone's banks are in peril once again.",
+          "example_zh": "欧元区的银行再度陷入险境。"
         },
         {
           "word": "successor",
           "phonetic": "/səkˈsesə(r)/",
           "pos": "n.",
-          "meaning_zh": "继任者、接任者；常与 as 连用，表示“接任某职位的人”",
-          "example_en": "She is the favourite to be his successor as governor.",
-          "example_zh": "她是最有可能接替他出任行长的人。"
-        },
-        {
-          "word": "unenviable",
-          "phonetic": "/ʌnˈenviəbl/",
-          "pos": "adj.",
-          "meaning_zh": "不值得羡慕的、棘手的（形容任务、处境：谁摊上谁头疼）",
-          "example_en": "The new finance minister inherits an unenviable set of choices.",
-          "example_zh": "新任财政部长接手了一堆谁摊上都头疼的选项。"
+          "meaning_zh": "继任者、接班人（对应动词 succeed，注意不是“成功”那个 succeed）",
+          "example_en": "Her successor will inherit a divided governing council.",
+          "example_zh": "她的继任者将接手一个意见分裂的管委会。"
         },
         {
           "word": "chief",
           "phonetic": "/tʃiːf/",
           "pos": "n.",
-          "meaning_zh": "（机构的）首脑、一把手；标题体里常用 chief 代替 head/president，省字且有分量",
-          "example_en": "The party chief will announce the reshuffle on Friday.",
-          "example_zh": "该党领袖将于周五宣布人事改组。"
+          "meaning_zh": "（机构）首脑、一把手；ECB chief 即“欧洲央行行长”，是外刊为省篇幅常用的简写",
+          "example_en": "The ECB chief speaks to reporters after each rate decision.",
+          "example_zh": "每次利率决议后，欧洲央行行长都会对记者发表讲话。"
+        },
+        {
+          "word": "unenviable",
+          "phonetic": "/ˌʌnˈenviəbl/",
+          "pos": "adj.",
+          "meaning_zh": "不值得羡慕的、棘手的（常与 job、task、position 搭配，是一种克制的事后评价：职位看着风光，实则难做）",
+          "example_en": "He was handed the unenviable task of raising taxes before an election.",
+          "example_zh": "他接下了在选举前增税这一吃力不讨好的任务。"
         }
       ],
       "sentences": [
         {
           "en": "Her successor as ECB chief will have an unenviable job",
-          "structure": "主干：Her successor（主语）＋ will have（谓语）＋ an unenviable job（宾语）；修饰：介词短语 as ECB chief 后置修饰主语 successor，说明“接的是哪个位子”。",
-          "analysis_zh": "这句是典型的《经济学人》提要写法：句子极短，信息密度却很高。主语中心词是 successor，as ECB chief 像标签一样挂在后面，把“欧洲央行行长”这一职位交代清楚，又不必写全称 European Central Bank，符合标题体省字惯例。真正的评价落在宾语前的 unenviable 上——字面是“不值得羡慕的”，实际是用“反着说”的克制笔法，传达“这活儿极难干”，与标题里的 at a moment of peril 形成呼应： peril 说的是时机，unenviable 说的是接任者的处境，一因一果。全句用将来时 will have，暗示交接尚未发生，读者自然会把注意力放到“谁来接、怎么接”上。"
+          "structure": "主干：Her successor will have an unenviable job（主+谓+宾）；修饰：as ECB chief 为后置定语，紧贴 successor，说明“以欧洲央行行长身份”的继任者。",
+          "analysis_zh": "提要只有一句，却把信息压得很紧：主语不用人名，而用 Her successor，直接与标题里的 Lagarde 勾连，省去重复；as ECB chief 后置限定，避免读者误以为说的是她在国际货币基金组织等其他职位上的接班问题。谓语用 will have 而非 has，因为这是对“尚未发生的人事更替”的预判，也隐含拉加德离职已成定局、只是时间问题。宾语中心词 job 前的 unenviable 是全句的评论重心，属于典型的英式克制说法：不明说“这活很难干、接手就要背锅”，而用一个“没人羡慕”把风险、压力和争议一并带过，让读者自己去体会危局何在。"
         }
       ],
       "background": [
         {
-          "title": "克里斯蒂娜·拉加德与欧洲央行",
-          "text_zh": "克里斯蒂娜·拉加德（Christine Lagarde）是法国人，曾任法国财政部长，2011 至 2019 年出任国际货币基金组织（IMF）总裁，2019 年 11 月起担任欧洲央行（ECB）行长。欧洲央行行长任期八年、不可连任，行长同时主持由欧元区各国央行行长及执行委员会成员组成的理事会，该理事会负责制定欧元区利率政策。欧洲央行的核心使命是维持物价稳定，其通胀目标在 2021 年战略评估后被表述为“对称的 2%”。行长是央行对外沟通的化身，市场高度依赖其记者会措辞判断政策路径，因此“谁接任、接得顺不顺”本身就是市场变量。"
+          "title": "拉加德与欧洲央行",
+          "text_zh": "克里斯蒂娜·拉加德（Christine Lagarde）是法国人，曾任法国财政部长，2011 至 2019 年出任国际货币基金组织（IMF）总裁，2019 年 11 月起担任欧洲央行（ECB）行长，是該行历史上首位女性行长。欧洲央行设于德国法兰克福，负责欧元区二十国的货币政策，核心决策机构是由行长、副行长及各国央行行长组成的管委会（Governing Council），利率决议由它作出。行长任期八年、不得连任，按正常安排拉加德的任期到 2027 年 10 月结束；继任人选由欧盟理事会（各国政府首脑）在征询欧洲议会和欧洲央行管委会意见后任命。"
         }
       ]
     },
@@ -2946,76 +2951,72 @@
     "body_en": [],
     "image": "",
     "published": "2026-10-29T19:16:13+08:00",
-    "fetched_at": "2026-11-01T01:57:45+08:00",
+    "fetched_at": "2026-11-01T02:36:04+08:00",
     "is_demo": false,
     "enrich": {
-      "title_zh": "全球石油市场永无止境的荒谬",
-      "summary_zh": "这是《经济学人》一篇评述全球石油市场的文章。编辑只给出一句提要：尽管波斯湾产油国的出口有所增加，作为全球基准的布伦特原油价格仍接近伊朗战争爆发时的高位。标题用「never-ending absurdity」形容这种供应走强、价格却不回落的持续反常局面，提要则用 despite 把这一反差压缩在十余个词里。",
+      "title_zh": "全球石油市场永无止境的荒诞",
+      "summary_zh": "本期《经济学人》只给出标题与一句提要：尽管海湾产油国的出口有所增加，布伦特原油价格仍徘徊在因伊朗战争而冲高的峰值附近。提要本身未展开论证，但已点出供应增加与价格高企之间的反常背离，正是标题所称“荒诞”之所在。",
       "difficulty": "C1",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "Despite stronger Gulf exports, Brent is near its Iran-war peak",
-          "zh": "尽管海湾地区的出口表现更为强劲，布伦特原油价格仍逼近伊朗战争爆发时的高点。"
+          "zh": "尽管海湾地区的出口走强，布伦特原油价格仍接近伊朗战争爆发时的高点。"
         }
       ],
       "vocab": [
         {
-          "word": "absurdity",
-          "phonetic": "/əbˈsɜːdəti/",
-          "pos": "n.",
-          "meaning_zh": "荒谬、荒诞之事；此处指市场走势违背常理、反复上演的怪现象",
-          "example_en": "The absurdity of paying more for less electricity has angered households.",
-          "example_zh": "花更多的钱却用更少的电，这种荒谬现象让民众十分不满。"
+          "word": "despite",
+          "phonetic": "/dɪˈspaɪt/",
+          "pos": "prep.",
+          "meaning_zh": "尽管、虽然；后接名词或名词短语，不接句子，是外刊中最常用的让步表达之一",
+          "example_en": "Despite falling demand, prices stayed high.",
+          "example_zh": "尽管需求下降，价格依然居高不下。"
+        },
+        {
+          "word": "Gulf",
+          "phonetic": "/ɡʌlf/",
+          "pos": "n. (作定语)",
+          "meaning_zh": "（波斯）海湾地区，即沙特、阿联酋、科威特、伊拉克等产油国所在的波斯湾沿岸；Gulf exports 指这些国家的原油出口",
+          "example_en": "Gulf producers pump roughly a third of the world's crude.",
+          "example_zh": "海湾产油国大约生产全球三分之一的原油。"
         },
         {
           "word": "Brent",
           "phonetic": "/brent/",
           "pos": "n.",
-          "meaning_zh": "布伦特原油，来自北海的原油品种，是全球原油定价最重要的基准之一",
-          "example_en": "Brent crude rose 2% to $89 a barrel.",
-          "example_zh": "布伦特原油上涨 2%，达到每桶 89 美元。"
-        },
-        {
-          "word": "Gulf",
-          "phonetic": "/ɡʌlf/",
-          "pos": "n.",
-          "meaning_zh": "（大写）海湾地区，特指波斯湾产油国；外刊中 the Gulf 常直接代指这一产油板块",
-          "example_en": "Gulf producers are pumping more crude than they did last spring.",
-          "example_zh": "海湾产油国的原油产量高于去年春天。"
+          "meaning_zh": "布伦特原油，以北海油田命名，是国际原油定价最主要的基准之一，通常被视为全球油价的代名词",
+          "example_en": "Brent crude slipped below $80 a barrel.",
+          "example_zh": "布伦特原油跌至每桶80美元以下。"
         },
         {
           "word": "peak",
           "phonetic": "/piːk/",
           "pos": "n.",
-          "meaning_zh": "峰值、最高点；near its peak 即「接近（此前的）最高位」",
-          "example_en": "Prices are still well below their 2022 peak.",
-          "example_zh": "价格仍远低于 2022 年的峰值。"
+          "meaning_zh": "峰值、最高点；near its peak 意为“接近最高点”，是财经报道中描述价格、产量、通胀等的常用搭配",
+          "example_en": "Output reached a peak in the spring.",
+          "example_zh": "产量在春季达到峰值。"
         },
         {
-          "word": "strong",
-          "phonetic": "/strɒŋ/",
-          "pos": "adj.",
-          "meaning_zh": "（熟词僻义）数量大、势头强的；strong exports 指出口量大、出口表现强劲，而非「强壮的」",
-          "example_en": "Strong export demand kept the factories busy through the winter.",
-          "example_zh": "强劲的出口需求让工厂整个冬天都忙个不停。"
+          "word": "Iran-war",
+          "phonetic": "/ɪˈrɑːn wɔː/",
+          "pos": "n. (作定语)",
+          "meaning_zh": "伊朗战争；此处作定语修饰 peak，指因这场冲突而出现的那一轮价格高点",
+          "example_en": "Oil spiked during the Iran-war scare.",
+          "example_zh": "在伊朗战争引发的恐慌期间，油价大幅飙升。"
         }
       ],
       "sentences": [
         {
           "en": "Despite stronger Gulf exports, Brent is near its Iran-war peak",
-          "structure": "主干：Brent is near its … peak（主语 + 系动词 + 表语）／修饰：句首 Despite stronger Gulf exports 为让步状语（介词短语）；Iran-war 为复合名词作定语修饰 peak",
-          "analysis_zh": "这是典型的 standfirst 句法：短、密、反差强。主干只有五个词，把结论（价格仍高）先摆出来；让步状语用介词 despite 而非 although 从句，省掉主语和谓语，一句话就塞进「供应增加」这一对立事实。Iran-war peak 是两个名词叠加作定语，英语里可以这样层层前置，中文必须拆成「伊朗战争（爆发时冲上的）高点」才通顺。语序上「让步在前、结论在后」是刻意的安排：先给读者一个本该压低价格的理由，再抖出价格并未回落的事实，落差正是标题里 absurdity（荒谬）的落点。"
+          "structure": "主干：Brent（主语）+ is（系动词）+ near its Iran-war peak（表语）/ 修饰：Despite stronger Gulf exports 为介词短语作让步状语，置于句首",
+          "analysis_zh": "这是一句典型的新闻提要式让步句：先让一步，再说出乎意料的事实。介词 despite 后面只能接名词短语（stronger Gulf exports），不能接从句——若要用从句，须换成 although / even though。“stronger”是比较级，暗含“比此前更强、超出预期”的意思，不必译出比较对象。表语用介词短语 near its Iran-war peak，而不是直接说 rose，语气更克制，却把“供应增加、价格却仍贴在高位”的反差压进一句话里，这正是标题所言 absurdity 的具体体现。is near 用一般现在时，表明这是当下持续的状态。"
         }
       ],
       "background": [
         {
           "title": "布伦特原油与海湾出口",
-          "text_zh": "布伦特（Brent）是产自北海的一揽子原油，全球约三分之二的原油贸易以布伦特系价格为定价参考，因此「布伦特」在外刊中几乎等同于「国际油价」。海湾（the Gulf）指波斯湾沿岸产油国，包括沙特阿拉伯、阿联酋、科威特、伊拉克和伊朗，它们的产量与出口节奏是全球供给端最重要的变量之一，欧佩克+ 的增产减产决定通常也由沙特等海湾国家主导。理论上，海湾出口增加应当压低基准油价，这也是提要中 despite 一词所依托的常识背景。"
-        },
-        {
-          "title": "「伊朗战争」所指",
-          "text_zh": "Iran-war 指的是 2025 年 6 月以色列与伊朗之间爆发、随后美国对伊朗核设施实施空袭的那场军事冲突（常被称为「十二日战争」）。冲突期间市场担心霍尔木兹海峡航运受阻——全球约五分之一的石油消费量经由该海峡运输——油价因此一度急剧跳涨，这一高点即提要中所说的「伊朗战争高点」。此后随着冲突收束，油价有所回落，但并未回到冲突前水平。"
+          "text_zh": "布伦特（Brent）是全球原油贸易最常用的定价基准之一，原指北海布伦特油田所产原油，如今更多作为一篮子原油的价格参照。波斯湾（Gulf）沿岸的沙特、阿联酋、科威特、伊拉克、伊朗等国集中了全球相当大份额的已探明储量与出口量，因此“海湾出口走强”通常意味着全球供应趋于宽松。“伊朗战争”在近年报道中一般指与伊朗相关的军事冲突及其引发的地区紧张，这类事件会因市场担忧霍尔木兹海峡等运输通道受阻而推高油价。按常理，供应增加应当压低价格；当出口走强而价格仍贴在高位时，市场就表现出标题所说的“荒诞”。"
         }
       ]
     },
@@ -3036,17 +3037,17 @@
     "body_en": [],
     "image": "",
     "published": "2026-10-29T18:41:27+08:00",
-    "fetched_at": "2026-11-01T01:57:45+08:00",
+    "fetched_at": "2026-11-01T02:36:04+08:00",
     "is_demo": false,
     "enrich": {
       "title_zh": "靠中美对抗大发横财的国家",
-      "summary_zh": "本文标题指出，中美两国在关键矿产领域的竞争正让少数国家获得巨额收益。提要中的“lucky few”点明：受益者只是少数资源禀赋好的国家，关键矿产利润可能改变它们的经济命运。由于刊物只放出标题和提要，正文论点与涉及国家未知。",
+      "summary_zh": "该刊只放出了标题和一句提要：关键矿产带来的利润，可能彻底改变少数幸运国家的命运。结合标题可知，文章关注的是中美两国围绕锂、镍、钴、稀土等关键矿产的争夺，如何把巨额收益送到少数资源国手中，并可能重塑这些国家的经济前景。正文内容未提供，此处不作推断。",
       "difficulty": "C1",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "Critical-mineral profits could transform a lucky few",
-          "zh": "关键矿产带来的利润，可能改变少数幸运国家的命运。"
+          "zh": "关键矿产带来的利润，可能彻底改变少数幸运国家的命运。"
         }
       ],
       "vocab": [
@@ -3054,54 +3055,54 @@
           "word": "critical mineral",
           "phonetic": "/ˈkrɪtɪkl ˈmɪnərəl/",
           "pos": "n.",
-          "meaning_zh": "关键矿产；对新能源、军工、半导体等战略产业不可或缺、且供应风险较高的矿产，如锂、钴、镍、稀土、石墨等。此处 critical 意为“关键的、至关重要的”，不是“批评的”。",
-          "example_en": "Governments are racing to secure supplies of critical minerals such as lithium and rare earths.",
-          "example_zh": "各国政府正竞相确保锂和稀土等关键矿产的供应。"
+          "meaning_zh": "关键矿产；指对能源转型、国防和高科技产业不可或缺，且供应高度集中、易受地缘政治冲击的矿产，如锂、镍、钴、石墨、稀土等",
+          "example_en": "Governments are racing to secure supplies of critical minerals such as lithium and cobalt.",
+          "example_zh": "各国政府正争相确保锂、钴等关键矿产的供应。"
         },
         {
-          "word": "make a fortune from",
-          "phonetic": "/meɪk ə ˈfɔːtʃuːn frɒm/",
-          "pos": "phrase",
-          "meaning_zh": "靠……发大财、赚取巨额利润。fortune 在此不是“运气”，而是“一大笔钱”。标题用现在分词 making 构成后置定语，使表达更紧凑。",
-          "example_en": "A handful of exporting countries are making a fortune from the green-energy boom.",
-          "example_zh": "少数出口国正从绿色能源热潮中赚取巨额利润。"
+          "word": "transform",
+          "phonetic": "/trænsˈfɔːrm/",
+          "pos": "v.",
+          "meaning_zh": "使（经济、社会、国家命运）发生根本性改变；外刊常用它来描述结构性、不可逆的转变，语气比 change 重得多",
+          "example_en": "Oil revenue transformed the Gulf states within a single generation.",
+          "example_zh": "石油收入在一代人的时间里彻底改变了海湾国家。"
+        },
+        {
+          "word": "a lucky few",
+          "phonetic": "/ə ˈlʌki fjuː/",
+          "pos": "n. phr.",
+          "meaning_zh": "少数幸运者；在英文新闻体中常用来指“一大批人里只有极少数受益”，暗含对比和分配不均的意味",
+          "example_en": "The boom has enriched a lucky few while leaving most workers behind.",
+          "example_zh": "这轮繁荣只让少数幸运者发了财，大多数劳动者却被落下。"
         },
         {
           "word": "rivalry",
           "phonetic": "/ˈraɪvlri/",
           "pos": "n.",
-          "meaning_zh": "（长期性的）竞争、对抗关系。比 competition 更强调双方对立、较劲的态势，外刊常用来说明大国博弈。",
-          "example_en": "The tech rivalry between the two powers is reshaping global supply chains.",
-          "example_zh": "这两个大国之间的科技竞争正在重塑全球供应链。"
+          "meaning_zh": "（国家、机构之间的长期）竞争、对抗；比 competition 更强调敌意与持续性，是描述中美关系的高频词",
+          "example_en": "The superpowers' rivalry is reshaping global supply chains.",
+          "example_zh": "超级大国之间的对抗正在重塑全球供应链。"
         },
         {
-          "word": "a lucky few",
-          "phonetic": "/ə ˈlʌki fjuː/",
-          "pos": "phrase",
-          "meaning_zh": "少数幸运者。few 前加 a 表示“少数几个”，带名词性质；这是英文中常见的含蓄说法，暗示绝大多数人享受不到这份好处。",
-          "example_en": "The boom has enriched a lucky few while leaving others behind.",
-          "example_zh": "这轮繁荣只让少数幸运者富了起来，其他人则被甩在后面。"
-        },
-        {
-          "word": "transform",
-          "phonetic": "/trænsˈfɔːm/",
-          "pos": "v.",
-          "meaning_zh": "彻底改变、使发生根本性转变。此处宾语是 a lucky few（少数国家），意思是这些国家的经济处境可能被彻底改写；外刊常用它来描述结构性变化。",
-          "example_en": "Oil revenues transformed the small kingdom within a generation.",
-          "example_zh": "石油收入在一代人的时间里彻底改变了这个小王国。"
+          "word": "make a fortune",
+          "phonetic": "/meɪk ə ˈfɔːrtʃuːn/",
+          "pos": "phr.",
+          "meaning_zh": "发大财、赚大钱；标题用现在分词短语作后置定语，是财经标题的常见压缩写法",
+          "example_en": "A handful of trading houses made a fortune from the price spike.",
+          "example_zh": "少数几家贸易商从价格暴涨中大发横财。"
         }
       ],
       "sentences": [
         {
           "en": "Critical-mineral profits could transform a lucky few",
-          "structure": "主干：profits（主语）+ could transform（谓语）+ a lucky few（宾语）；修饰：Critical-mineral 作前置定语修饰 profits。",
-          "analysis_zh": "这是一个省略了状语的短句，典型的经济学人式提要写法：用 could 而非 will，既表示可能性，又避免对结论下断言，显得克制。主语中心词 profits 前用名词 critical-mineral 直接作定语，把“关键矿产”和“利润”压成一个紧凑的名词短语，比 profits from critical minerals 更简洁有力。宾语 a lucky few 用了“a + 形容词 + few”的名词化结构，few 前有 a 表示“少数几个（存在）”，暗含对比：受益者只是极少数，大多数国家分不到这份红利。整句没有说明是哪些国家、利润从何而来，正因为信息被高度压缩，标题才有悬念感，也提示读者正文将展开“谁受益、怎么受益”。"
+          "structure": "主干：Critical-mineral profits（主语）+ could transform（谓语）+ a lucky few（宾语）",
+          "analysis_zh": "这是编辑写的提要句，只有七个词，却把“条件—可能性—受益者”三层信息压了进去。主语 Critical-mineral 是名词作定语修饰 profits，用连字符连接，这是外刊避免冗长关系从句的常用手段，等于 profits from critical minerals。谓语用 could 而非 will，表示“有可能但不确定”，是编辑对尚未发生之事的标准保留态度。宾语 a lucky few 是“不定冠词 + 形容词 + few”的名词化结构，后面省略了被修饰的名词（countries），读者须靠标题自行补足；这种省略让句子更短促，同时“few”本身就暗示受益者只是极少数，与标题里 making a fortune 的暴富意象形成呼应。"
         }
       ],
       "background": [
         {
-          "title": "关键矿产与中美竞争",
-          "text_zh": "“关键矿产”（critical minerals）通常指锂、钴、镍、石墨、锰以及稀土等对电动汽车电池、风电、光伏、半导体和军工生产不可或缺的原材料。围绕这些矿产，近年形成了两条相互交织的全球议题。第一是供应链安全：中国在稀土分离加工和电池材料精炼环节占据很大份额，美国及其盟友因此推动“去风险”和供应链多元化，通过《通胀削减法案》（IRA）的电池材料本地化要求、与资源国签订矿产协议等方式，鼓励企业把开采、加工环节分散到澳大利亚、加拿大、印度尼西亚、智利、阿根廷、刚果（金）等地。第二是资源国的议价能力上升：印度尼西亚禁止镍矿石出口，要求在本国冶炼；智利、墨西哥推动锂资源国有化；刚果（金）就钴的出口与外资矿企重新谈判。这些做法使拥有矿藏的国家能够从涨价和下游加工中获取更多收益，也正是标题所说“少数幸运国家”的现实背景。需要说明的是，这些属于该话题的公共背景事实，本文正文是否持同样观点、具体点名哪些国家，仅凭标题与提要无法判断。"
+          "title": "关键矿产与中美博弈",
+          "text_zh": "关键矿产（critical minerals）指锂、镍、钴、石墨、稀土、镓、锗等对电池、芯片、国防工业不可或缺、且产地高度集中的矿产。中国在稀土和多种精炼环节占据主导地位，据国际能源署等机构估算，稀土加工约占全球九成。美国近年通过《通胀削减法案》(IRA) 和《芯片与科学法案》扶持本土及盟友供应链，并牵头“矿产安全伙伴关系”(MSP)；中国则自 2023 年起陆续对镓、锗、石墨等物项实施出口管制。资源国方面，印度尼西亚靠禁止镍原矿出口扶起本土冶炼产业，智利、阿根廷所在的“锂三角”以及刚果（金）的钴矿也因需求激增而议价能力上升。这些是理解该标题所需的背景事实。"
         }
       ]
     },
