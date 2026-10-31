@@ -8,7 +8,9 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFilter
 
-SRC = sys.argv[1] if len(sys.argv) > 1 else None
+ARGS = [a for a in sys.argv[1:] if not a.startswith("--")]
+FLAGS = {a for a in sys.argv[1:] if a.startswith("--")}
+SRC = ARGS[0] if ARGS else None
 MASTER = 1024
 
 
@@ -81,7 +83,10 @@ def main() -> None:
     ]
     for path, size, mode in jobs:
         if mode == "maskable":
-            out = maskable(master, size)
+            # --bleed：画面本来就出血到边缘（人物/物体被边框切断），
+            # 这时缩进反而会露出人造边框，直接满幅最自然
+            out = master.resize((size, size), Image.LANCZOS).convert("RGBA") \
+                if "--bleed" in FLAGS else maskable(master, size)
         else:
             im = master.resize((size, size), Image.LANCZOS)
             out = rounded(im) if mode == "rounded" else im.convert("RGBA")
