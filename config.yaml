@@ -1,7 +1,7 @@
 site:
   title: 外刊精读
   subtitle: 每天十分钟，读懂世界主流媒体
-  base_url: ""          # 部署后填写，例如 https://yourname.github.io/press-reader
+  base_url: "https://ttlvkn.github.io/press-reader"
   lang: zh-CN
   timezone: Asia/Shanghai
 
