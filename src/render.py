@@ -239,6 +239,9 @@ def build(cfg: dict) -> dict:
     # 静态资源
     shutil.copytree(ROOT / "assets", SITE / "assets", dirs_exist_ok=True)
 
+    def _u(path: str) -> str:
+        return f"{base}/{path}" if base else path
+
     # PWA manifest
     manifest = {
         "name": f"{site_cfg['title']} · {site_cfg['subtitle']}",
@@ -250,8 +253,11 @@ def build(cfg: dict) -> dict:
         "theme_color": "#0f1115",
         "lang": "zh-CN",
         "icons": [
-            {"src": f"{base}/assets/icon.svg" if base else "assets/icon.svg",
-             "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+            {"src": _u("assets/icon-192.png"), "sizes": "192x192", "type": "image/png", "purpose": "any"},
+            {"src": _u("assets/icon-512.png"), "sizes": "512x512", "type": "image/png", "purpose": "any"},
+            {"src": _u("assets/icon-maskable-512.png"), "sizes": "512x512",
+             "type": "image/png", "purpose": "maskable"},
+            {"src": _u("assets/icon.svg"), "sizes": "any", "type": "image/svg+xml"},
         ],
     }
     (SITE / "manifest.webmanifest").write_text(
