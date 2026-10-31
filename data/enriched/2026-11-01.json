@@ -271,6 +271,233 @@
     "enrich_attempted": true
   },
   {
+    "id": "guardian-bff7a6f829",
+    "source": "guardian",
+    "source_name": "卫报",
+    "source_name_en": "The Guardian",
+    "color": "#052962",
+    "section": "World news",
+    "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+    "title_en": "Police clash with masked rioters after largely peaceful protests across France",
+    "excerpt_en": "Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls",
+    "body_en": [
+      "Clashes have erupted in Paris, Marseille and other cities after tens of thousands of demonstrators, some in Halloween fancy dress, marched across France in a third wave of protests over the cost of living and deteriorating public services.",
+      "About 320,000 people – down from an estimated 410,000 last weekend – took part in rallies around the country, the interior ministry said, including 70,000 in Paris who marched along boulevards on the south-eastern outskirts, avoiding the city centre.",
+      "As evening approached and the largely peaceful demonstrations came to an end, police in several cities fired teargas and stun grenades to disperse crowds joined – as on the previous Saturday – by groups of masked rioters.",
+      "France’s interior minister, Laurent ⁠Nuñez, said earlier this week 70,000 police and gendarmes, including elite units, would be deployed in an effort to quell violence on the protests’ sidelines, warning that Saturday looked like “a very high risk” day.",
+      "The Paris protesters set off peacefully from the Porte de Bagnolet near the ring road, holding placards with slogans including “No need for teargas to make our future look bleak” and “Disguised as an angry citizen for Halloween”, as a helicopter flew overhead",
+      "On and around its destination, the Porte de Charenton, dozens of masked people dressed in black used hammers to pry up paving stones and hurl them at police, and at least one incendiary device was thrown at security forces, French media reported.",
+      "Police responded with teargas and baton charges. “A hardcore of several hundred rioters” was attacking police with projectiles including a molotov cocktail, the Paris police prefecture said. Officers were “manoeuvring to restore public order”, it added.",
+      "In Lyon protesters threw projectiles at police, prompting officers to fire teargas, and in Toulouse police used water cannon against an unauthorised protest that drew several thousand people, mostly young demonstrators.",
+      "The marches brought together school students, who have been calling for better conditions for a month, trade unions and gilets jaune (yellow vests) protesters united in anger at the cost of living, widening inequalities and Emmanuel Macron’s ⁠government.",
+      "“The French economy is doing badly no matter what happens, because today we’re being run by a group of incompetents who juggle billions while families are struggling with a few cents,” said one protester on the Paris march, Jérôme Rodrigues. “That’s why we’re here, to keep shouting our demands louder and ‌louder.”",
+      "A protester in Nantes, Camille Guérin, said: “We say no to the cost of living, no to the far right, yes to high school students’ demands, yes to giving citizens a voice.”",
+      "Saturday’s rallies came two weeks after widespread street violence and looting rocked numerous French cities during a first wave of mass protest on 17 October that became one of the worst days of civil unrest in the country’s recent history.",
+      "Student protesters vowed to stage new high school and university blockades on Tuesday and Thursday. “Then we will join the 5 November demonstration called by workers and trade unions,” said Sabrine Kharbach of the Union Étudiante, a student organisation.",
+      "Protests also took place elsewhere in Europe. In Germany, police fired water cannon to disperse protesters who hurled firework and other projectiles at the end of youth-led protests organised by a group called “Gen Z regelt!” (Gen Z will sort this).",
+      "Thousands of police were deployed across the country, with tensions rising as evening fell after mostly peaceful demonstrations for “for education, health, the climate and an affordable life” in dozens of cities.",
+      "In the western city of Cologne, police fired water cannon to disperse a crowd after saying protesters had targeted officers with fireworks, and a march was also temporarily halted in Frankfurt after protesters set off fireworks.",
+      "In Berlin, protesters hurled bottles and eggs while protesters set barricades ablaze in Hamburg, and police were using pepper spray on demonstrators in some places, the newspaper Bild reported.",
+      "Police were also on alert in Barcelona after an anonymous TikTok network called Blocus urged new gatherings, and in Italy after recent clashes with protesters in Milan, Turin and Bologna."
+    ],
+    "image": "https://media.guim.co.uk/3546bec1281afb0dcb3d211110686c453d00fa3e/0_0_4914_3933/500.jpg",
+    "published": "2026-10-31T18:23:56Z",
+    "fetched_at": "2026-11-01T02:25:33+08:00",
+    "is_demo": false,
+    "enrich": {
+      "title_zh": "法国多地抗议总体和平，入夜后警察与蒙面暴徒发生冲突",
+      "summary_zh": "数万法国人10月31日走上街头，举行第三波反对生活成本上涨与公共服务恶化的抗议，内政部称全国约32万人参加，低于上周末。白天游行大体和平，入夜后巴黎、里昂、图卢兹等地出现蒙面者投掷石块和燃烧瓶、警察发射催泪瓦斯与水炮的冲突。学生和工会宣布将再封锁学校，并参加11月5日的大罢工。德国、西班牙、意大利也有相关抗议。",
+      "difficulty": "C1",
+      "read_minutes": 3,
+      "paragraphs": [
+        {
+          "en": "Clashes have erupted in Paris, Marseille and other cities after tens of thousands of demonstrators, some in Halloween fancy dress, marched across France in a third wave of protests over the cost of living and deteriorating public services.",
+          "zh": "数万名示威者（其中一些人穿着万圣节化装服）在法国各地游行，掀起第三波针对生活成本上涨和公共服务恶化的抗议；随后巴黎、马赛等城市爆发了冲突。"
+        },
+        {
+          "en": "About 320,000 people – down from an estimated 410,000 last weekend – took part in rallies around the country, the interior ministry said, including 70,000 in Paris who marched along boulevards on the south-eastern outskirts, avoiding the city centre.",
+          "zh": "内政部表示，全国约有32万人参加了集会，低于上周末估计的41万人；其中巴黎有7万人，他们沿着东南郊的林荫大道游行，避开了市中心。"
+        },
+        {
+          "en": "As evening approached and the largely peaceful demonstrations came to an end, police in several cities fired teargas and stun grenades to disperse crowds joined – as on the previous Saturday – by groups of masked rioters.",
+          "zh": "随着夜幕降临，大体和平的示威活动接近尾声，多个城市的警察发射催泪瓦斯和震撼弹，以驱散人群——和上周六一样，人群中混入了成群的蒙面暴徒。"
+        },
+        {
+          "en": "France’s interior minister, Laurent ⁠Nuñez, said earlier this week 70,000 police and gendarmes, including elite units, would be deployed in an effort to quell violence on the protests’ sidelines, warning that Saturday looked like “a very high risk” day.",
+          "zh": "法国内政部长洛朗·努涅斯本周早些时候表示，将部署7万名警察和宪兵（包括精锐部队），以平息抗议活动外围的暴力行为，并警告说周六看起来是“风险极高”的一天。"
+        },
+        {
+          "en": "The Paris protesters set off peacefully from the Porte de Bagnolet near the ring road, holding placards with slogans including “No need for teargas to make our future look bleak” and “Disguised as an angry citizen for Halloween”, as a helicopter flew overhead",
+          "zh": "巴黎的抗议者从环城公路附近的巴尼奥莱门和平出发，举着标语牌，上面写着“不用催泪瓦斯，我们的前途也够黯淡了”和“为万圣节扮成一个愤怒的公民”；一架直升机在上空盘旋。"
+        },
+        {
+          "en": "On and around its destination, the Porte de Charenton, dozens of masked people dressed in black used hammers to pry up paving stones and hurl them at police, and at least one incendiary device was thrown at security forces, French media reported.",
+          "zh": "据法国媒体报道，在游行终点沙朗东门及其周边，数十名身穿黑衣的蒙面者用锤子撬起铺路石砸向警察，至少有一枚燃烧装置被投向安全部队。"
+        },
+        {
+          "en": "Police responded with teargas and baton charges. “A hardcore of several hundred rioters” was attacking police with projectiles including a molotov cocktail, the Paris police prefecture said. Officers were “manoeuvring to restore public order”, it added.",
+          "zh": "警方以催泪瓦斯和警棍冲锋作为回应。巴黎警察局称，“几百名死硬暴徒”用包括燃烧瓶在内的投射物袭击警察，并补充说警员正在“调度部署，以恢复公共秩序”。"
+        },
+        {
+          "en": "In Lyon protesters threw projectiles at police, prompting officers to fire teargas, and in Toulouse police used water cannon against an unauthorised protest that drew several thousand people, mostly young demonstrators.",
+          "zh": "在里昂，抗议者向警察投掷投射物，警方因此发射催泪瓦斯；在图卢兹，警方对一场未经批准的抗议活动动用了水炮，该活动吸引了数千人，其中大多是年轻示威者。"
+        },
+        {
+          "en": "The marches brought together school students, who have been calling for better conditions for a month, trade unions and gilets jaune (yellow vests) protesters united in anger at the cost of living, widening inequalities and Emmanuel Macron’s ⁠government.",
+          "zh": "这些游行把三类人汇聚在一起：一个月来一直要求改善条件的中学生、工会，以及因生活成本、不断扩大的不平等和马克龙政府而愤怒地联合起来的“黄背心”抗议者。"
+        },
+        {
+          "en": "“The French economy is doing badly no matter what happens, because today we’re being run by a group of incompetents who juggle billions while families are struggling with a few cents,” said one protester on the Paris march, Jérôme Rodrigues. “That’s why we’re here, to keep shouting our demands louder and ‌louder.”",
+          "zh": "“不管怎样，法国经济都很糟，因为今天我们被一群无能之辈管着，他们摆弄着几十亿，而普通家庭却在为几分钱发愁，”巴黎游行队伍中的抗议者热罗姆·罗德里格斯说。“这就是我们站在这里的原因，我们要把诉求喊得越来越响。”"
+        },
+        {
+          "en": "A protester in Nantes, Camille Guérin, said: “We say no to the cost of living, no to the far right, yes to high school students’ demands, yes to giving citizens a voice.”",
+          "zh": "南特的一位抗议者卡米尔·盖兰说：“我们对生活成本说不，对极右翼说不；我们对高中生的诉求说是，对让公民发声说是。”"
+        },
+        {
+          "en": "Saturday’s rallies came two weeks after widespread street violence and looting rocked numerous French cities during a first wave of mass protest on 17 October that became one of the worst days of civil unrest in the country’s recent history.",
+          "zh": "周六的集会距10月17日第一波大规模抗议仅两周；那天的抗议中，大范围的街头暴力和抢劫震动法国多座城市，成为该国近代史上最严重的内乱日之一。"
+        },
+        {
+          "en": "Student protesters vowed to stage new high school and university blockades on Tuesday and Thursday. “Then we will join the 5 November demonstration called by workers and trade unions,” said Sabrine Kharbach of the Union Étudiante, a student organisation.",
+          "zh": "学生抗议者誓言在周二和周四再次封锁高中和大学。“之后我们将参加11月5日由工人和工会号召的示威活动，”学生组织“学生联盟”的萨布琳·哈尔巴什说。"
+        },
+        {
+          "en": "Protests also took place elsewhere in Europe. In Germany, police fired water cannon to disperse protesters who hurled firework and other projectiles at the end of youth-led protests organised by a group called “Gen Z regelt!” (Gen Z will sort this).",
+          "zh": "欧洲其他地方也发生了抗议。在德国，警方发射水炮驱散抗议者——在一个名为“Z世代搞定！”（Gen Z regelt!）的团体组织的青年主导抗议活动结束时，这些人投掷烟花和其他投射物。"
+        },
+        {
+          "en": "Thousands of police were deployed across the country, with tensions rising as evening fell after mostly peaceful demonstrations for “for education, health, the climate and an affordable life” in dozens of cities.",
+          "zh": "德国全国部署了数千名警察；在数十个城市举行大体和平的“为了教育、健康、气候和负担得起的生活”的示威之后，随着夜幕降临，紧张局势升级。"
+        },
+        {
+          "en": "In the western city of Cologne, police fired water cannon to disperse a crowd after saying protesters had targeted officers with fireworks, and a march was also temporarily halted in Frankfurt after protesters set off fireworks.",
+          "zh": "在西部城市科隆，警方称抗议者用烟花袭击警员，随后发射水炮驱散人群；在法兰克福，抗议者燃放烟花后，一场游行也被暂时叫停。"
+        },
+        {
+          "en": "In Berlin, protesters hurled bottles and eggs while protesters set barricades ablaze in Hamburg, and police were using pepper spray on demonstrators in some places, the newspaper Bild reported.",
+          "zh": "据《图片报》报道，在柏林，抗议者投掷瓶子和鸡蛋；在汉堡，抗议者点燃了路障；一些地方的警察对示威者使用了胡椒喷雾。"
+        },
+        {
+          "en": "Police were also on alert in Barcelona after an anonymous TikTok network called Blocus urged new gatherings, and in Italy after recent clashes with protesters in Milan, Turin and Bologna.",
+          "zh": "在巴塞罗那，一个名为“Blocus”的匿名TikTok网络号召举行新的集会，警方因此保持警戒；在意大利，米兰、都灵和博洛尼亚最近发生与抗议者的冲突后，警方同样处于戒备状态。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clash",
+          "phonetic": "/klæʃ/",
+          "pos": "v.",
+          "meaning_zh": "发生冲突、爆发肢体对抗（新闻中常指示威者与警方的冲突）",
+          "example_en": "Clashes erupted between demonstrators and police near the station.",
+          "example_zh": "车站附近的示威者与警察爆发了冲突。"
+        },
+        {
+          "word": "quell",
+          "phonetic": "/kwel/",
+          "pos": "v.",
+          "meaning_zh": "镇压、平息（骚乱、暴力、恐惧等）",
+          "example_en": "Extra troops were sent to quell the unrest.",
+          "example_zh": "当局增派部队以平息骚乱。"
+        },
+        {
+          "word": "gendarme",
+          "phonetic": "/ˈʒɒndɑːm/",
+          "pos": "n.",
+          "meaning_zh": "（法国等国的）宪兵，属军队编制、承担治安职能",
+          "example_en": "Gendarmes were deployed in rural areas around the city.",
+          "example_zh": "宪兵被部署在城市周边的乡村地区。"
+        },
+        {
+          "word": "hardcore",
+          "phonetic": "/ˈhɑːdkɔː(r)/",
+          "pos": "n.",
+          "meaning_zh": "（某一群体中）最顽固、最不肯妥协的核心分子",
+          "example_en": "A hardcore of a few hundred fans stayed behind to fight.",
+          "example_zh": "几百名死硬球迷留下来打斗。"
+        },
+        {
+          "word": "incendiary device",
+          "phonetic": "/ɪnˈsendiəri dɪˈvaɪs/",
+          "pos": "n.",
+          "meaning_zh": "燃烧装置、纵火装置（新闻中对燃烧瓶等的统称）",
+          "example_en": "At least one incendiary device was thrown at the security forces.",
+          "example_zh": "至少有一枚燃烧装置被投向安全部队。"
+        },
+        {
+          "word": "water cannon",
+          "phonetic": "/ˈwɔːtə ˈkænən/",
+          "pos": "n.",
+          "meaning_zh": "水炮（警方用于驱散人群的大型高压水车设备）",
+          "example_en": "Police used water cannon against the unauthorised march.",
+          "example_zh": "警方对未经批准的游行动用了水炮。"
+        },
+        {
+          "word": "blockade",
+          "phonetic": "/blɒˈkeɪd/",
+          "pos": "n./v.",
+          "meaning_zh": "封锁（此处指学生封锁校门、阻止正常上课的抗议方式）",
+          "example_en": "Students vowed to blockade their schools on Tuesday.",
+          "example_zh": "学生们誓言周二封锁学校。"
+        },
+        {
+          "word": "fancy dress",
+          "phonetic": "/ˈfænsi dres/",
+          "pos": "n.",
+          "meaning_zh": "（英式）化装服、奇装异服，如万圣节装扮",
+          "example_en": "Some marchers turned up in Halloween fancy dress.",
+          "example_zh": "一些游行者穿着万圣节化装服出现。"
+        },
+        {
+          "word": "manoeuvre",
+          "phonetic": "/məˈnuːvə(r)/",
+          "pos": "v.",
+          "meaning_zh": "（军警）调度、机动部署；引申为巧妙周旋",
+          "example_en": "Officers were manoeuvring to restore public order.",
+          "example_zh": "警员正在调度部署以恢复公共秩序。"
+        },
+        {
+          "word": "looting",
+          "phonetic": "/ˈluːtɪŋ/",
+          "pos": "n.",
+          "meaning_zh": "（骚乱中的）抢劫、哄抢店铺",
+          "example_en": "Widespread looting followed the first night of violence.",
+          "example_zh": "第一夜的暴力之后出现了大范围的抢劫。"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "As evening approached and the largely peaceful demonstrations came to an end, police in several cities fired teargas and stun grenades to disperse crowds joined – as on the previous Saturday – by groups of masked rioters.",
+          "structure": "主干：police fired teargas and stun grenades。修饰：As... 引导时间状语从句（内含 approached 与 came to an end 两个并列谓语）；to disperse... 为目的状语；joined by groups of masked rioters 为过去分词短语作 crowds 的后置定语；as on the previous Saturday 是插入语，相当于 as it was on the previous Saturday。",
+          "analysis_zh": "这句的信息重心在主句的动作上，前面用 as 从句交代“时间+氛围转折”（和平游行结束），后面用不定式说明目的。难点在 crowds joined by... 这个被动分词定语：crowds 是“被蒙面暴徒掺入的人群”，分词短语后置避免句子过长；插入语 as on the previous Saturday 则把本次事件与上周六并列，暗示暴力“如约而至”。翻译时中文宜把定语拆成独立小句。"
+        },
+        {
+          "en": "The marches brought together school students, who have been calling for better conditions for a month, trade unions and gilets jaune (yellow vests) protesters united in anger at the cost of living, widening inequalities and Emmanuel Macron's government.",
+          "structure": "主干：The marches brought together A, B and C。三个并列宾语：school students / trade unions / gilets jaune protesters。修饰：who have been calling for better conditions for a month 为非限定性定语从句，修饰 school students；united in anger at... 为过去分词短语作后置定语，修饰 gilets jaune protesters，其中 at 后接三个并列宾语：the cost of living / widening inequalities / Emmanuel Macron's government。",
+          "analysis_zh": "这是典型的外刊长列举句：主干极短，三个宾语各自带一个长修饰语，读者要边读边“归位”。非限定性定语从句用逗号隔开，说明是补充信息而非限定；united in anger 的过去分词短语既是定语也交代了抗议者的共同情绪，at 后面三个并列成分层层递进，从经济议题上升到政治不满。翻译时不宜把修饰语全部塞进定语，可把并列结构译为“因……而联合起来的……”。"
+        },
+        {
+          "en": "Saturday's rallies came two weeks after widespread street violence and looting rocked numerous French cities during a first wave of mass protest on 17 October that became one of the worst days of civil unrest in the country's recent history.",
+          "structure": "主干：Saturday's rallies came。修饰：two weeks after... 为时间状语，其中 after 引导从句 widespread street violence and looting rocked numerous French cities；during a first wave of mass protest on 17 October 为介词短语修饰 rocked；that became one of the worst days... 为定语从句，先行词是 17 October（即那一天/那场抗议）。",
+          "analysis_zh": "句子通过时间链条把本次抗议放进“前因”框架：came two weeks after 是新闻英语常见的时间定位法。从句主干是 violence and looting rocked cities（主谓宾），during 短语补充背景，最后的 that 定语从句给出评价性定性（“近代史上最严重的内乱日之一”），属于典型的“事实+定性”结构。翻译时可把 after 从句提前，用“距……仅两周”处理，避免中文句子头重脚轻。"
+        }
+      ],
+      "background": [
+        {
+          "title": "“黄背心”与新一波生活成本抗议",
+          "text_zh": "gilets jaunes（黄背心）运动始于2018年，最初反对燃油税上调，因参与者身穿荧光黄反光背心得名，后来演变为针对购买力、税收不公和马克龙政府的广泛社会运动。文中的抗议是2025年10月法国多轮“封锁一切”式抗议中的第三波，核心诉求是生活成本、公共服务（教育、医疗）恶化与税负不公；参与者把工会、学生组织与黄背心残余力量串联起来，学生封锁高中、大学是法国抗议文化中的常见手段。"
+        },
+        {
+          "title": "法国的警察与宪兵、以及“巴黎警察局”",
+          "text_zh": "法国治安力量分两套：警察（police nationale）负责城市，宪兵（gendarmerie）属军队编制但承担乡村与中小城市治安，因此内政部调动的“警察和宪兵”合计7万人。巴黎的治安由巴黎警察局（préfecture de police de Paris）统一指挥，其局长传统上是法国内政系统的重要职位；文中的洛朗·努涅斯此前长期担任巴黎警察局长，2025年10月新政府组成后出任内政部长。文中出现的 Porte de Bagnolet、Porte de Charenton 是巴黎环城大道（boulevard périphérique）上的城门节点，游行路线刻意避开市中心，以减少对商业区的影响。"
+        }
+      ]
+    },
+    "kind": "full",
+    "digest": false,
+    "enrich_attempted": true
+  },
+  {
     "id": "guardian-be4683e230",
     "source": "guardian",
     "source_name": "卫报",
