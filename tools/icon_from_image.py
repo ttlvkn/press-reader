@@ -1,34 +1,63 @@
 """把一张图片加工成 PWA 全套图标。
 
-流程：源图 → 2 倍超采样降噪 → 回落到 1024 母版并锐化 → 生成各尺寸。
-不做 AI 重绘，避免改掉原画的神态和细节。
+两种装框方式：
+  默认        居中裁成正方形（画面主体本来就居中时用）
+  --fit       整张图缩进正方形，上下用边缘像素延展补齐
+              （宽幅插画用这个，能看到全部内容，不会被方框切掉腿脚）
+  --top=0.14  --fit 时上方留白的比例
+
+整条链路先把画面放大 2 倍再缩回：相当于一次平滑，能压掉 JPEG 块状噪点，
+再用 UnsharpMask 把卡通描边找回来。全程不做 AI 重绘，避免改掉原画笔触。
 """
 import sys
-from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFilter
+
+MASTER = 1024
 
 ARGS = [a for a in sys.argv[1:] if not a.startswith("--")]
 FLAGS = {a for a in sys.argv[1:] if a.startswith("--")}
 SRC = ARGS[0] if ARGS else None
-MASTER = 1024
+TOP = next((float(f.split("=")[1]) for f in FLAGS if f.startswith("--top=")), 0.14)
 
 
-def enhance(src: str) -> Image.Image:
+def _clean(im: Image.Image, w: int, h: int) -> Image.Image:
+    """超采样降噪 + 锐化，输出 w×h。"""
+    big = im.resize((w * 2, h * 2), Image.LANCZOS)
+    big = big.filter(ImageFilter.MedianFilter(3))      # 去压缩噪点，保留描边
+    small = big.resize((w, h), Image.LANCZOS)
+    return small.filter(ImageFilter.UnsharpMask(radius=2.2, percent=130, threshold=3))
+
+
+def enhance_square(src: str, size: int = MASTER) -> Image.Image:
     im = Image.open(src).convert("RGB")
     w, h = im.size
-    # 居中裁成正方形（源图不是方图时）
-    if w != h:
+    if w != h:                                          # 居中裁方
         s = min(w, h)
         im = im.crop(((w - s) // 2, (h - s) // 2, (w + s) // 2, (h + s) // 2))
+    return _clean(im, size, size)
 
-    # 先放大 2 倍再缩回：相当于一次平滑，能明显压掉 JPEG 块状噪点
-    big = im.resize((MASTER * 2, MASTER * 2), Image.LANCZOS)
-    big = big.filter(ImageFilter.MedianFilter(3))          # 去压缩噪点，保留描边
-    small = big.resize((MASTER, MASTER), Image.LANCZOS)
 
-    # 锐化：卡通线稿靠这一步找回清晰度
-    return small.filter(ImageFilter.UnsharpMask(radius=2.2, percent=130, threshold=3))
+def enhance_fit(src: str, size: int = MASTER, top_ratio: float = 0.14) -> Image.Image:
+    """整张图缩进正方形：横向铺满，纵向按 top_ratio 定位，
+    上下空白用最外一行像素拉伸补齐，纯色/横纹背景看不出接缝。"""
+    im = Image.open(src).convert("RGB")
+    w, h = im.size
+    nh = max(1, round(size * h / w))
+    band = _clean(im, size, nh)
+
+    y0 = int(size * top_ratio)
+    if y0 + nh > size:                                  # 图太扁时退化为居中
+        y0 = max(0, (size - nh) // 2)
+
+    canvas = Image.new("RGB", (size, size), band.getpixel((0, 0)))
+    canvas.paste(band, (0, y0))
+    if y0:
+        canvas.paste(band.crop((0, 0, size, 1)).resize((size, y0)), (0, 0))
+    gap = size - y0 - nh
+    if gap > 0:
+        canvas.paste(band.crop((0, nh - 1, size, nh)).resize((size, gap)), (0, y0 + nh))
+    return canvas
 
 
 def rounded(img: Image.Image, ratio: float = 0.22) -> Image.Image:
@@ -41,57 +70,32 @@ def rounded(img: Image.Image, ratio: float = 0.22) -> Image.Image:
     return out
 
 
-def maskable(img: Image.Image, size: int, content_ratio: float = 0.72) -> Image.Image:
-    """安卓会按圆形/胶囊裁剪，主体必须缩进安全区。
-
-    四周不用模糊底图（会露出"画中画"的边界），而是把最外圈像素向外延展，
-    木纹/纯色背景这样铺最自然。
-    """
-    inner = int(size * content_ratio)
-    off = (size - inner) // 2
-    canvas = Image.new("RGBA", (size, size))
-    fg = img.resize((inner, inner), Image.LANCZOS).convert("RGBA")
-    canvas.paste(fg, (off, off))
-
-    # 左右：用最外一列像素横向拉伸出边框
-    left = fg.crop((0, 0, 1, inner)).resize((off, inner))
-    right = fg.crop((inner - 1, 0, inner, inner)).resize((size - off - inner, inner))
-    canvas.paste(left, (0, off))
-    canvas.paste(right, (off + inner, off))
-
-    # 上下：用最外一行像素纵向拉伸，覆盖到四角
-    top = canvas.crop((0, off, size, off + 1)).resize((size, off))
-    bottom = canvas.crop((0, off + inner - 1, size, off + inner)).resize((size, size - off - inner))
-    canvas.paste(top, (0, 0))
-    canvas.paste(bottom, (0, off + inner))
-    return canvas
-
-
 def main() -> None:
     if not SRC:
-        print("用法: python tools/icon_from_image.py <图片路径>")
+        print(__doc__)
         return
-    master = enhance(SRC)
+
+    if "--fit" in FLAGS:
+        master = enhance_fit(SRC, MASTER, TOP)
+        print(f"模式：整图适配（上方留白 {TOP:.0%}）")
+    else:
+        master = enhance_square(SRC, MASTER)
+        print("模式：居中裁方")
+
     master.save("assets/icon-master.png")
-    print("✓ assets/icon-master.png  1024x1024")
+    print(f"✓ assets/icon-master.png  {master.size[0]}x{master.size[1]}")
 
     jobs = [
         ("assets/icon-512.png", 512, "rounded"),
         ("assets/icon-192.png", 192, "rounded"),
         ("assets/apple-touch-icon.png", 180, "plain"),
-        ("assets/icon-maskable-512.png", 512, "maskable"),
+        ("assets/icon-maskable-512.png", 512, "plain"),   # 母版已自带安全边距
     ]
     for path, size, mode in jobs:
-        if mode == "maskable":
-            # --bleed：画面本来就出血到边缘（人物/物体被边框切断），
-            # 这时缩进反而会露出人造边框，直接满幅最自然
-            out = master.resize((size, size), Image.LANCZOS).convert("RGBA") \
-                if "--bleed" in FLAGS else maskable(master, size)
-        else:
-            im = master.resize((size, size), Image.LANCZOS)
-            out = rounded(im) if mode == "rounded" else im.convert("RGBA")
+        im = master.resize((size, size), Image.LANCZOS)
+        out = rounded(im) if mode == "rounded" else im.convert("RGBA")
         out.save(path)
-        print(f"✓ {path}  {size}x{size}  ({mode})")
+        print(f"✓ {path}  {size}x{size}")
 
 
 if __name__ == "__main__":

@@ -154,9 +154,15 @@ def build(cfg: dict) -> dict:
     dates = sorted(by_date.keys(), reverse=True)
     today_key = dates[0]
 
+    # 每次构建生成一个新版本号，给图标/manifest 的 URL 加查询串。
+    # 不加的话 URL 不变，Edge 会复用旧的 WebAPK，图标永远换不掉。
+    asset_ver = datetime.now(CST).strftime("%y%m%d%H%M")
+    log(f"· 资源版本号 {asset_ver}")
+
     common = {
         "site": site_cfg,
         "base": base,
+        "asset_ver": asset_ver,
         "sources": cfg["sources"],
         "total": len(arts),
         "updated_at": datetime.now(CST).strftime("%Y-%m-%d %H:%M"),
@@ -240,7 +246,8 @@ def build(cfg: dict) -> dict:
     shutil.copytree(ROOT / "assets", SITE / "assets", dirs_exist_ok=True)
 
     def _u(path: str) -> str:
-        return f"{base}/{path}" if base else path
+        url = f"{base}/{path}" if base else path
+        return f"{url}?v={asset_ver}"
 
     # PWA manifest
     manifest = {
