@@ -39,13 +39,21 @@ jobs:
           GUARDIAN_API_KEY: ${{ secrets.GUARDIAN_API_KEY }}
         run: python run.py all
 
+      # 数据回写失败不能影响发布：线上站点才是用户要看的东西
       - name: 提交数据（保留历史，便于回滚与增量去重）
+        continue-on-error: true
         run: |
           git config user.name "press-reader-bot"
           git config user.email "bot@users.noreply.github.com"
           git add data
           git diff --staged --quiet || git commit -m "chore: 更新 $(date -u +%Y-%m-%d) 外刊数据"
-          git push
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              echo "数据已回写"; exit 0
+            fi
+            echo "第 $i 次回写失败，5 秒后重试"; sleep 5
+          done
+          echo "::warning::数据回写失败，但站点已发布"
 
       - uses: actions/upload-pages-artifact@v3
         with:
