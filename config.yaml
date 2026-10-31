@@ -75,7 +75,7 @@ sources:
     name_en: Newsweek
     color: "#1F4E9C"
     type: rss
-    enabled: true
+    enabled: false          # 2026-11 实测：RSS 被 Cloudflare 拦截（406/403），暂时停用
     feeds:
       - https://www.newsweek.com/rss
       - https://www.newsweek.com/rss/world
@@ -88,7 +88,7 @@ sources:
     name_en: The Christian Science Monitor
     color: "#0B6E4F"
     type: rss
-    enabled: true
+    enabled: false          # 2026-11 实测：订阅地址已失效（404），暂时停用
     feeds:
       - https://www.csmonitor.com/rss/current
       - https://www.csmonitor.com/rss/world
