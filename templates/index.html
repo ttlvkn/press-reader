@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block body %}
+<section class="hero">
+  <div class="hero-date">{{ today_key }}</div>
+  <h1 class="hero-title">{{ site.title }}</h1>
+  <p class="hero-sub">{{ site.subtitle }}</p>
+  <div class="hero-stats">
+    <span><b>{{ today|length }}</b> 篇今日更新</span>
+    <span class="dot">·</span>
+    <span><b>{{ total }}</b> 篇在库</span>
+  </div>
+  {% if not has_translation %}
+  <div class="notice">
+    尚未配置翻译服务，当前为「原文模式」。在 <code>config.yaml</code> 里填好模型并设置
+    <code>LLM_API_KEY</code> 环境变量，重跑即可生成中文对照与讲解。
+  </div>
+  {% endif %}
+</section>
+
+<div class="searchbar">
+  <input type="search" id="q" placeholder="搜索标题（中/英）" autocomplete="off" enterkeyhint="search">
+  <div id="qres" class="qres" hidden></div>
+</div>
+
+<section class="list">
+  {% for a in today %}
+  {% include "_card.html" %}
+  {% endfor %}
+</section>
+
+{% if recent %}
+<section class="section-head"><h2>前几天</h2></section>
+{% for d, items in recent %}
+<div class="daygroup">
+  <div class="daylabel">{{ d }}<span class="dim"> · {{ items|length }} 篇</span></div>
+  <section class="list compact">
+    {% for a in items %}
+    {% include "_row.html" %}
+    {% endfor %}
+  </section>
+</div>
+{% endfor %}
+<a class="more" href="{{ root }}/archive.html">查看全部 {{ total }} 篇 →</a>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,19 @@
+<a class="card" href="{{ root }}/a/{{ a.id }}.html" data-id="{{ a.id }}" data-src="{{ a.source }}">
+  <div class="card-top">
+    <span class="chip" style="--c: {{ a.color }}">{{ a.source_name }}</span>
+    {% if a.enrich and a.enrich.difficulty %}<span class="chip ghost">{{ a.enrich.difficulty }}</span>{% endif %}
+    {% if a.digest %}<span class="chip ghost">摘要精读</span>{% endif %}
+  </div>
+  <h3 class="card-title">{{ a.title_en }}</h3>
+  {% if a.enrich and a.enrich.title_zh %}<p class="card-sub">{{ a.enrich.title_zh }}</p>{% endif %}
+  <p class="card-desc">{{ a.excerpt_en }}</p>
+  <div class="card-meta">
+    <span>{{ a._dt.strftime('%H:%M') }}</span>
+    {% if a.enrich %}
+    <span>{{ a.enrich.read_minutes }} 分钟</span>
+    <span>{{ a.enrich.vocab|length }} 词</span>
+    {% else %}
+    <span>原文</span>
+    {% endif %}
+  </div>
+</a>

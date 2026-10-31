@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+
+{% block body %}
+<section class="hero small">
+  <h1 class="hero-title">关于这个小站</h1>
+  <p class="hero-sub">{{ site.subtitle }}</p>
+</section>
+
+<section class="block">
+  <h2 class="block-h">它是什么</h2>
+  <p class="txt">
+    一个每天自动更新的英语外刊精读工具。程序定时抓取《卫报》《经济学人》《时代周刊》《新闻周刊》
+    《基督箴言报》的最新文章，为每篇生成中文标题与导读、逐段对照翻译、重点词汇、
+    长难句解析和背景补充，再打包成可以直接在手机上阅读、并且能安装到桌面的静态站点。
+  </p>
+</section>
+
+<section class="block">
+  <h2 class="block-h">数据从哪来</h2>
+  <div class="bcard">
+    <h3>只用官方公开渠道</h3>
+    <p>
+      所有内容均来自各刊官方 RSS 或官方开放平台接口，不做 HTML 逆向爬取，不绕过付费墙。
+      程序只保存「标题 + 摘要 + 配图 + 原文链接」，正文始终留在原站，页面上保留了回链。
+    </p>
+  </div>
+  <div class="bcard">
+    <h3>卫报：拿到全文</h3>
+    <p>
+      卫报开放平台（Open Platform）免费提供 API Key，允许在署名并回链的前提下使用正文，
+      所以卫报的文章是完整对照的。
+    </p>
+  </div>
+  <div class="bcard">
+    <h3>其余四刊：摘要精读</h3>
+    <p>
+      经济学人、时代、新闻周刊、基督箴言报都是付费内容，RSS 只放出摘要。
+      因此这四刊做的是「摘要精读」：把摘要拆成词、句、背景来讲，正文点文末链接去原站读。
+      这样既不侵权，也足够维持每天的语言输入量。
+    </p>
+  </div>
+</section>
+
+<section class="block">
+  <h2 class="block-h">每天怎么更新</h2>
+  <p class="txt">
+    整个流程是一条四步流水线，由 GitHub Actions 定时触发（默认每天早上 7 点，北京时间）：
+  </p>
+  <ol class="steps">
+    <li><b>抓取</b>：并发读取各源 RSS / API，按 URL 去重，只留当天新文章，每天上限 12 篇。</li>
+    <li><b>翻译讲解</b>：逐篇调用大模型，要求返回结构化 JSON；结果按内容哈希缓存，重跑不重复计费。</li>
+    <li><b>构建</b>：渲染成静态 HTML，同时生成搜索索引、PWA 清单和 Service Worker。</li>
+    <li><b>发布</b>：自动提交并推送到 GitHub Pages（或 Cloudflare Pages），手机刷新即可看到新内容。</li>
+  </ol>
+</section>
+
+<section class="block">
+  <h2 class="block-h">手机上怎么读</h2>
+  <div class="bcard">
+    <h3>三种模式随时切换</h3>
+    <p>正文上方可切换「对照 / 原文 / 译文」。先用对照读一遍，第二遍切原文检验，卡住再切译文。</p>
+  </div>
+  <div class="bcard">
+    <h3>点词查柯林斯</h3>
+    <p>
+      正文里任意英文单词都能点。点下去弹出<b>柯林斯英汉双解大词典</b>的词条：
+      音标、柯林斯星级、词性、英文释义、中文释义、双语例句。生词不需要提前查，
+      卡住就点一下，读完再关掉。
+    </p>
+  </div>
+  <div class="bcard">
+    <h3>词条是提前备好的</h3>
+    <p>
+      词条不是打开页面时现查的，而是在构建时就把整篇文章的实词查好、压进页面里。
+      所以点下去是瞬间弹出，不转圈、不依赖网络——地铁里也能查。
+    </p>
+  </div>
+  <div class="bcard">
+    <h3>装到桌面，离线也能看</h3>
+    <p>
+      用手机浏览器打开后选择「添加到主屏幕」，它就是一个全屏 App。
+      Service Worker 会缓存读过的页面，地铁里没信号也能继续读。
+    </p>
+  </div>
+</section>
+
+<section class="block">
+  <h2 class="block-h">版权声明</h2>
+  <p class="txt dim">
+    本站所有英文内容版权归原出版方所有，中文译文、词汇与解析为学习用途的二次创作。
+    请勿将本站内容用于商业用途或大规模转载。支持正版订阅。
+  </p>
+</section>
+{% endblock %}

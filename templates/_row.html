@@ -1,0 +1,8 @@
+<a class="row" href="{{ root }}/a/{{ a.id }}.html" data-id="{{ a.id }}" data-src="{{ a.source }}">
+  <span class="row-src" style="--c: {{ a.color }}">{{ a.source_name }}</span>
+  <span class="row-mid">
+    <span class="row-t">{{ a.title_en }}</span>
+    {% if a.enrich and a.enrich.title_zh %}<span class="row-z">{{ a.enrich.title_zh }}</span>{% endif %}
+  </span>
+  <span class="row-go">›</span>
+</a>

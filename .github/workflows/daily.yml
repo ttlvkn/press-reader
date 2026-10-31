@@ -1,0 +1,58 @@
+name: 每日更新外刊
+
+on:
+  schedule:
+    # UTC 23:00 = 北京时间次日 07:00
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}   # 支持手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-press
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 抓取 + 翻译 + 构建
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          GUARDIAN_API_KEY: ${{ secrets.GUARDIAN_API_KEY }}
+        run: python run.py all
+
+      - name: 提交数据（保留历史，便于回滚与增量去重）
+        run: |
+          git config user.name "press-reader-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/enriched
+          git diff --staged --quiet || git commit -m "chore: 更新 $(date -u +%Y-%m-%d) 外刊数据"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,97 @@
+site:
+  title: 外刊精读
+  subtitle: 每天十分钟，读懂世界主流媒体
+  base_url: ""          # 部署后填写，例如 https://yourname.github.io/press-reader
+  lang: zh-CN
+  timezone: Asia/Shanghai
+
+fetch:
+  max_per_source: 3     # 每个刊物每天最多抓几篇
+  total_cap: 16         # 每天总篇数上限（控制翻译成本）
+  timeout: 20
+  days_keep: 45         # 归档保留天数
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+
+# 翻译与讲解服务：任何 OpenAI 兼容接口都行（DeepSeek / 通义 / Kimi / GLM / OpenAI）
+# 未配置 API Key 时程序自动降级为「原文模式」，站点仍可正常浏览
+llm:
+  enabled: true
+  base_url: "https://api.deepseek.com/v1"
+  model: "deepseek-flash"
+  api_key_env: "LLM_API_KEY"
+  temperature: 0.3
+  timeout: 180
+  concurrency: 4
+
+# 点词查词：为文章里的每个实词准备柯林斯英汉双解词条
+#   youdao            -> 有道公开查询接口，返回 collins 字段（柯林斯双解内容），免费无需 key
+#   collins_official  -> 柯林斯官方授权 API（需 accessKey，且只有英文释义）
+lexicon:
+  provider: youdao
+  max_words_per_article: 170    # 每篇最多收录多少个词（按词频取前 N）
+  max_new_words_per_run: 900    # 单次运行最多新查多少词，防止跑飞
+  collins_api_key: ""
+
+# 数据源策略：
+#   guardian_api  -> 卫报官方开放平台，可拿正文（需免费注册 key，非商用+署名+回链）
+#   rss           -> 只取标题/摘要/配图/链接，正文跳转原站，不镜像受版权保护的内容
+sources:
+  # 卫报是唯一能拿到全文的源，所以给它更高的配额（max_items 覆盖全局的 max_per_source）
+  - id: guardian
+    name: 卫报
+    name_en: The Guardian
+    color: "#052962"
+    type: guardian_api
+    max_items: 6
+    sections: [world, business, technology, science, environment, culture]
+    fallback_rss: https://www.theguardian.com/world/rss
+    full_text: true
+
+  - id: economist
+    name: 经济学人
+    name_en: The Economist
+    color: "#E3120B"
+    type: rss
+    feeds:
+      - https://www.economist.com/finance-and-economics/rss.xml
+      - https://www.economist.com/science-and-technology/rss.xml
+      - https://www.economist.com/international/rss.xml
+    full_text: false
+
+  - id: time
+    name: 时代周刊
+    name_en: TIME
+    color: "#D62828"
+    type: rss
+    feeds:
+      - https://time.com/feed/
+      - https://time.com/section/world/feed/
+    full_text: false
+
+  # 下面两家都有反爬，会依次尝试多个候选地址，全失败就跳过，不影响其他源。
+  # 长期不通就把 enabled 改成 false，日志会清净很多。
+  - id: newsweek
+    name: 新闻周刊
+    name_en: Newsweek
+    color: "#1F4E9C"
+    type: rss
+    enabled: true
+    feeds:
+      - https://www.newsweek.com/rss
+      - https://www.newsweek.com/rss/world
+      - https://www.newsweek.com/rss/us
+      - https://www.newsweek.com/rss/tech-science
+    full_text: false
+
+  - id: csmonitor
+    name: 基督箴言报
+    name_en: The Christian Science Monitor
+    color: "#0B6E4F"
+    type: rss
+    enabled: true
+    feeds:
+      - https://www.csmonitor.com/rss/current
+      - https://www.csmonitor.com/rss/world
+      - https://www.csmonitor.com/rss/usa
+      - https://www.csmonitor.com/rss/latest
+    full_text: false

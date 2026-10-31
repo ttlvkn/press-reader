@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block body %}
+<section class="hero small">
+  <h1 class="hero-title">全部归档</h1>
+  <p class="hero-sub">共 {{ total }} 篇 · 保留最近 45 天</p>
+</section>
+
+<div class="filters" id="filters">
+  <button class="fchip on" data-src="all">全部</button>
+  {% for s in sources %}
+  <button class="fchip" data-src="{{ s.id }}" style="--c: {{ s.color }}">{{ s.name }}</button>
+  {% endfor %}
+  <button class="fchip bm" data-src="__bm">★ 收藏</button>
+</div>
+
+{% for d, items in groups %}
+<section class="daygroup" data-day="{{ d }}">
+  <div class="daylabel">{{ d }}<span class="dim"> · {{ items|length }} 篇</span></div>
+  <section class="list compact">
+    {% for a in items %}
+    {% include "_row.html" %}
+    {% endfor %}
+  </section>
+</section>
+{% endfor %}
+<p class="empty" id="empty" hidden>没有匹配的文章</p>
+{% endblock %}

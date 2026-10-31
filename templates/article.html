@@ -1,0 +1,166 @@
+{% extends "base.html" %}
+
+{% block topbar %}
+<a class="icon-btn back" href="{{ root }}/archive.html" aria-label="返回">‹</a>
+<a class="tb-mid" href="{{ root }}/index.html">{{ a.source_name }} · {{ a._dt.strftime('%m-%d') }}</a>
+<div class="topbar-right">
+  <button class="icon-btn" data-act="bookmark" data-id="{{ a.id }}" aria-label="收藏">☆</button>
+  <button class="icon-btn" data-act="theme" aria-label="主题">◐</button>
+</div>
+{% endblock %}
+
+{% block progress %}<div class="progress"><i id="pb"></i></div>{% endblock %}
+
+{% block body %}
+{% set e = a.enrich %}
+<article class="article">
+
+  <header class="art-head">
+    <div class="chips">
+      <span class="chip" style="--c: {{ a.color }}">{{ a.source_name }}</span>
+      {% if a.section %}<span class="chip ghost">{{ a.section }}</span>{% endif %}
+      {% if e and e.difficulty %}<span class="chip ghost">{{ e.difficulty }}</span>{% endif %}
+      {% if a.is_demo %}<span class="chip demo">示例</span>{% endif %}
+    </div>
+
+    <h1 class="art-title">{{ a.title_en }}</h1>
+    {% if e and e.title_zh %}<p class="art-title-zh">{{ e.title_zh }}</p>{% endif %}
+
+    <div class="art-meta">
+      <span>{{ a._dt.strftime('%Y-%m-%d %H:%M') }}</span>
+      {% if e %}<span>{{ e.read_minutes }} 分钟读完</span>{% endif %}
+      <a href="{{ a.url }}" target="_blank" rel="noopener noreferrer" class="orig-link">原文 ↗</a>
+    </div>
+  </header>
+
+  {% if e and e.summary_zh %}
+  <div class="summary">
+    <span class="label">导读</span>
+    <p>{{ e.summary_zh }}</p>
+  </div>
+  {% endif %}
+
+  {% if a.digest %}
+  <p class="kindline">
+    {% if a.kind == 'blurb' %}该刊只开放标题与一句提要{% else %}该刊 RSS 只放出摘要{% endif %}
+    <span class="dim">· 完整文章请点文末「阅读原文」</span>
+  </p>
+  {% endif %}
+
+  {% if e %}
+  <div class="toolbar" id="toolbar">
+    <div class="seg" data-seg="mode" role="tablist">
+      <button data-v="both" class="on">对照</button>
+      <button data-v="en">原文</button>
+      <button data-v="zh">译文</button>
+    </div>
+    <div class="tools">
+      <button class="icon-btn" data-act="fs-" aria-label="减小字号">A−</button>
+      <button class="icon-btn" data-act="fs+" aria-label="增大字号">A+</button>
+    </div>
+  </div>
+
+  <p class="tap-hint">轻点正文任意英文单词，弹出柯林斯英汉双解释义</p>
+  <div class="body" id="body">
+    {% for p in e.paragraphs %}
+    <div class="para">
+      <p class="en">{{ p.en|hl(e.vocab) }}</p>
+      {% if p.zh %}<p class="zh">{{ p.zh }}</p>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  {% if not a.digest and a.body_en %}
+  <p class="body-note dim">带虚线下划线的词是本篇重点词，文末有详细讲解；其余单词同样可以点击查询。</p>
+  {% endif %}
+
+  {% if e.vocab %}
+  <section class="block">
+    <h2 class="block-h">重点词汇 <span class="dim num">{{ e.vocab|length }}</span></h2>
+    <div class="vocab">
+      {% for v in e.vocab %}
+      <div class="vcard">
+        <div class="vhead">
+          <b>{{ v.word }}</b>
+          {% if v.phonetic %}<span class="ph">{{ v.phonetic }}</span>{% endif %}
+          {% if v.pos %}<span class="pos">{{ v.pos }}</span>{% endif %}
+        </div>
+        <div class="vmean">{{ v.meaning_zh }}</div>
+        {% if v.example_en %}
+        <div class="vex">{{ v.example_en }}{% if v.example_zh %}<br><span class="dim">{{ v.example_zh }}</span>{% endif %}</div>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if e.sentences %}
+  <section class="block">
+    <h2 class="block-h">长难句解析</h2>
+    {% for s in e.sentences %}
+    <div class="scard">
+      <p class="sen-en">{{ s.en }}</p>
+      {% if s.structure %}<p class="sen-st"><span class="pill">结构</span>{{ s.structure }}</p>{% endif %}
+      {% if s.analysis_zh %}<p class="sen-an">{{ s.analysis_zh }}</p>{% endif %}
+    </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% if e.background %}
+  <section class="block">
+    <h2 class="block-h">背景补充</h2>
+    {% for b in e.background %}
+    <div class="bcard">
+      <h3>{{ b.title }}</h3>
+      <p>{{ b.text_zh }}</p>
+    </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% else %}
+  <div class="body">
+    <div class="para">
+      <p class="en">{{ a.excerpt_en }}</p>
+    </div>
+  </div>
+  <div class="notice">
+    本篇未生成中文讲解（未配置翻译服务或内容过短）。
+  </div>
+  {% endif %}
+
+  <a class="read-orig" href="{{ a.url }}" target="_blank" rel="noopener noreferrer">
+    阅读原文 · {{ a.source_name_en }} ↗
+  </a>
+  <p class="copy-note dim">
+    本文版权归 {{ a.source_name_en }} 所有，本站仅提供摘要、译文与学习批注，不作商业传播。
+  </p>
+
+  <nav class="pager">
+    {% if prev %}<a class="pg" href="{{ root }}/a/{{ prev.id }}.html"><span class="dim">上一篇</span><span>{{ prev.title_en|truncate(46) }}</span></a>{% endif %}
+    {% if next %}<a class="pg" href="{{ root }}/a/{{ next.id }}.html"><span class="dim">下一篇</span><span>{{ next.title_en|truncate(46) }}</span></a>{% endif %}
+  </nav>
+</article>
+
+<div class="sheet" id="sheet" hidden aria-modal="true" role="dialog">
+  <div class="sheet-mask" data-close="1"></div>
+  <div class="sheet-panel" id="sheetPanel">
+    <div class="sheet-grab"></div>
+    <div class="sheet-head">
+      <div class="sh-left">
+        <b id="sw">word</b>
+        <span id="sp" class="sh-ph"></span>
+        <span id="ss" class="sh-star"></span>
+      </div>
+      <button class="icon-btn" data-close="1" aria-label="关闭">✕</button>
+    </div>
+    <div class="sheet-body" id="sb"></div>
+    <div class="sheet-foot">释义来自<b>柯林斯英汉双解大词典</b> · 点击空白处关闭</div>
+  </div>
+</div>
+<script type="application/json" id="lex">{{ lex_json|safe }}</script>
+{% endblock %}
+
+{% block footer %}{% endblock %}
