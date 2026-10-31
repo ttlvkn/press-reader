@@ -5,6 +5,10 @@ on:
     # UTC 23:00 = 北京时间次日 07:00
     - cron: "0 23 * * *"
   workflow_dispatch: {}   # 支持手动触发
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/**"         # 数据更新不重建，避免和定时任务打架
 
 permissions:
   contents: write
