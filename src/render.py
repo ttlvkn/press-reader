@@ -257,7 +257,6 @@ def build(cfg: dict) -> dict:
             {"src": _u("assets/icon-512.png"), "sizes": "512x512", "type": "image/png", "purpose": "any"},
             {"src": _u("assets/icon-maskable-512.png"), "sizes": "512x512",
              "type": "image/png", "purpose": "maskable"},
-            {"src": _u("assets/icon.svg"), "sizes": "any", "type": "image/svg+xml"},
         ],
     }
     (SITE / "manifest.webmanifest").write_text(
