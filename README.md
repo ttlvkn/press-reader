@@ -99,6 +99,8 @@ press-reader/
 | 刊物 | 渠道 | 实际拿到的内容 | 讲解档位 |
 |---|---|---|---|
 | The Guardian 卫报 | 官方 Open Platform API（免费 key） | **完整正文**，动辄 20 段 | `full` 全文逐段对照 |
+| ProPublica | 官方 RSS | **完整正文**（CC BY-NC-ND） | `full` 全文逐段对照 |
+| The Conversation | 官方 Atom | **完整正文**（CC BY-ND） | `full` 全文逐段对照 |
 | TIME 时代周刊 | 官方 RSS | 标题 + 一两句真摘要（15–25 词） | `digest` 摘要精读 |
 | The Economist 经济学人 | 官方 RSS | 标题 + 一行 standfirst（7–12 词） | `blurb` 提要拆解 |
 | Newsweek 新闻周刊 | 官方 RSS | 常被 Cloudflare 拦截（403） | — |
@@ -111,6 +113,8 @@ press-reader/
 | `full` | 正文 ≥ 3 段 | 逐段对照、长难句拆主干 | 6–10 / 2–3 / 1–2 |
 | `digest` | 摘要 ≥ 15 词 | 把这段摘要讲透，不补充文章没有的内容 | 4–6 / 1–2 / 1–2 |
 | `blurb` | 只有一两行 | 只拆这一句 standfirst，背景讲事实不讲观点 | 3–5 / ≤1 / 1 |
+
+正文按 **900 词 / 22 段**封顶：开放全文的源常常一次给五六千词，全翻既慢又贵，一篇读 6000 词对学习也没帮助。
 
 `blurb` 档是专门为经济学人设计的：它 RSS 里放的其实是编辑写的 standfirst（"Her successor as ECB chief will have an unenviable job"），
 这句话本身精炼、常有修辞，正是值得精读的句子。系统提示里明令「只依据给出的英文材料，不得编造文章里没有的观点」，
