@@ -1,0 +1,653 @@
+[
+  {
+    "id": "propublica-5a8e12291d",
+    "source": "propublica",
+    "source_name": "ProPublica",
+    "source_name_en": "ProPublica",
+    "color": "#D0021B",
+    "section": "Democracy",
+    "url": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
+    "title_en": "Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting.",
+    "excerpt_en": "The post Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting. appeared first on ProPublica.",
+    "body_en": [
+      "Early voting for the midterm elections in Los Angeles this month Grace Hie Yoon/Anadolu via Getty Images Ahead of next week’s midterm elections, President Donald Trump has systematically demolished institutional guardrails that prevented him from overturning the 2020 presidential election, ProPublica’s reporting has shown.",
+      "Trump has empowered his loyalists to try to transform the voting process. He launched an unprecedented — and largely unsuccessful — effort to find noncitizen voters. And he tried to restrict mail-in voting.",
+      "Our reporters have spent much of this year covering Trump’s efforts to exert more federal control over elections. Here are five takeaways from their reporting.",
+      "1. The Trump administration has sought greater federal control over elections. In April, Doug Bock Clark and Jen Fifield reported on Trump’s efforts to “ take over ” the midterm elections, detailing how the administration has discarded or diminished endeavors across the federal government to protect the voting process or block foreign interference. Those efforts have included cutting staff on election-related teams at federal law enforcement agencies and finding ways to exert greater federal control over voting.",
+      "Our reporting led by Peter Elkind revealed that the Trump administration harnessed Homeland Security Investigations’ personnel, technology and legal authority to try to back up Trump’s unproven claim that illegal voting by noncitizens is tilting elections toward Democrats. Administration officials insisted the effort spearheaded by HSI was producing meaningful results. Our analysis of Justice Department data found, as of May, 41 alleged noncitizens were charged with voting illegally or other election-related crimes. Earlier this month, CBS reported 156 people have been charged since the beginning of the second Trump administration.",
+      "“Paper Trail” Podcast Learn more about this story on ProPublica’s podcast “ Paper Trail.”",
+      "As part of that effort, the Justice Department has demanded states turn over unredacted voter rolls, which contain confidential information on millions of Americans and have historically been managed by states. Since September 2025, the department has sued 30 states and the District of Columbia for the confidential data. Wary of federal overreach, state officials — including some Republicans — have fought back, and so far every DOJ lawsuit that’s been decided by a federal judge has been dismissed. (The Trump administration has appealed most of its losses to federal appeals courts and has said it will consider taking its fight to the Supreme Court. A Justice Department spokesperson said its “attorneys are skilled, principled advocates who argue every case honestly and in good faith.”)",
+      "In a March executive order, Trump instructed the U.S. Postal Service to create new regulations for mail voting. The rules would have put the Postal Service in the unprecedented role of deciding whether to send or deny the delivery of voters’ mail-in ballots. The Supreme Court in September blocked the rules, at least until after November.",
+      "The Trump administration has said its actions will make U.S. elections fairer and more secure — and keep those prohibited from voting, such as noncitizens, from doing so. Spokespeople for the DOJ and Department of Homeland Security emphasized that their departments are focused on ensuring elections are free and fair, and that they are working closely with the states to achieve those goals. Contentions to the contrary, they say, are false.",
+      "2. Trump has pushed out career officials — and is coordinating with a conservative grassroots organization to transform elections. At least 75 nonpartisan career officials who’d held roles at federal agencies related to election integrity and safety have been fired or left the government.",
+      "Two dozen Trump appointees — including many from the election-denial movement — have been hired. Ahead of the midterms, current and former government officials and election security experts have expressed concerns that once-fringe actors who’ve espoused debunked conspiracy theories about elections are now in positions to control the narrative around the voting process. (A DHS spokesperson said it hires “experts with diverse backgrounds who go through a rigorous vetting process.”)",
+      "At least 25 administration appointees have close ties to Cleta Mitchell, a lawyer who leads Election Integrity Network, a grassroots conservative group focused on transforming America’s voting system. This month, Clark profiled Mitchell — and detailed how, despite not holding a formal role in the White House, she’s played a key role in shaping the Trump administration’s elections agenda. The White House has appointed her associates to help hunt for noncitizen voters and investigate accusations of voting fraud in 2020. (Mitchell declined multiple requests to speak with ProPublica, but wrote in an email: “You’re my opponent. … You’re never going to write in any objective, non-judgmental way about the election integrity movement.”)",
+      "Help Us Report on Key Election Issues ProPublica’s reporters are on the lookout for what’s going right and what isn’t. We’re monitoring voter suppression and interference, election observers and poll watchers, extremism tied to the election, and ICE activity at the polls. Have you seen something?",
+      "Send Us a Tip Mitchell, who played a role in helping Trump challenge his loss in the 2020 presidential election, has been leading efforts to pass state and federal iterations of the SAVE Act. The 2026 version of the bill, known as the SAVE America Act, would require voters nationwide to provide proof of citizenship to register and present a photo ID to vote, and would compel states to turn over their voter rolls to DHS. Trump has repeatedly called the measure his top legislative priority, but it has been blocked in the Senate."
+    ],
+    "image": "",
+    "published": "2026-10-30T23:10:00+08:00",
+    "fetched_at": "2026-11-02T00:10:32+08:00",
+    "is_demo": false,
+    "enrich": {
+      "title_zh": "特朗普试图加紧对选举的控制：我们报道中的关键发现",
+      "summary_zh": "ProPublica汇总其今年以来的系列调查：特朗普正系统性拆除曾阻止他推翻2020年大选的制度护栏。他动用国土安全调查局追查所谓非公民投票，迫使司法部起诉30个州索要选民名册，试图让邮政署决定是否投递邮寄选票，清洗数十名职业官员，并让边缘派人士与保守派活动家米切尔主导选举议程。多数诉讼已被法院驳回。",
+      "difficulty": "C1",
+      "read_minutes": 5,
+      "paragraphs": [
+        {
+          "en": "Early voting for the midterm elections in Los Angeles this month Grace Hie Yoon/Anadolu via Getty Images Ahead of next week’s midterm elections, President Donald Trump has systematically demolished institutional guardrails that prevented him from overturning the 2020 presidential election, ProPublica’s reporting has shown.",
+          "zh": "〔图片说明：本月洛杉矶中期选举提前投票现场。Grace Hie Yoon/Anadolu via Getty Images〕ProPublica的报道显示，在下周中期选举到来之前，唐纳德·特朗普总统已系统性地拆除了那些曾阻止他推翻2020年总统大选结果的制度性护栏。"
+        },
+        {
+          "en": "Trump has empowered his loyalists to try to transform the voting process. He launched an unprecedented — and largely unsuccessful — effort to find noncitizen voters. And he tried to restrict mail-in voting.",
+          "zh": "特朗普赋予其亲信权力，试图改造投票流程。他发起了一场前所未有的行动来查找非公民选民，但大体上并不成功。他还试图限制邮寄投票。"
+        },
+        {
+          "en": "Our reporters have spent much of this year covering Trump’s efforts to exert more federal control over elections. Here are five takeaways from their reporting.",
+          "zh": "今年以来，我们的记者花了大量时间报道特朗普为让联邦政府加大对选举的控制所做的种种努力。以下是我们报道中的五点主要发现。"
+        },
+        {
+          "en": "1. The Trump administration has sought greater federal control over elections. In April, Doug Bock Clark and Jen Fifield reported on Trump’s efforts to “ take over ” the midterm elections, detailing how the administration has discarded or diminished endeavors across the federal government to protect the voting process or block foreign interference. Those efforts have included cutting staff on election-related teams at federal law enforcement agencies and finding ways to exert greater federal control over voting.",
+          "zh": "1. 特朗普政府谋求对选举施加更大的联邦控制。今年4月，道格·博克·克拉克（Doug Bock Clark）和珍·菲菲尔德（Jen Fifield）报道了特朗普“接管”中期选举的种种动作，详细说明了本届政府如何废弃或削弱联邦政府各部门为保护投票流程、阻止外国干预所做的努力。这些做法包括裁减联邦执法机构中选举相关团队的人员，以及设法对投票施加更大的联邦控制。"
+        },
+        {
+          "en": "Our reporting led by Peter Elkind revealed that the Trump administration harnessed Homeland Security Investigations’ personnel, technology and legal authority to try to back up Trump’s unproven claim that illegal voting by noncitizens is tilting elections toward Democrats. Administration officials insisted the effort spearheaded by HSI was producing meaningful results. Our analysis of Justice Department data found, as of May, 41 alleged noncitizens were charged with voting illegally or other election-related crimes. Earlier this month, CBS reported 156 people have been charged since the beginning of the second Trump administration.",
+          "zh": "由彼得·埃尔金德（Peter Elkind）牵头的报道披露，特朗普政府动用了国土安全调查局（HSI）的人员、技术和法律权限，试图为特朗普那项未经证实的说法提供佐证——即非公民非法投票正把选举天平推向民主党。政府官员坚称，由HSI牵头的这项行动正取得有意义的成果。而我们对司法部数据的分析发现，截至5月，共有41名被指为非公民者因非法投票或其他选举相关罪行被起诉。本月早些时候，哥伦比亚广播公司（CBS）报道称，自特朗普第二任期开始以来已有156人被起诉。"
+        },
+        {
+          "en": "“Paper Trail” Podcast Learn more about this story on ProPublica’s podcast “ Paper Trail.”",
+          "zh": "“Paper Trail”播客：想进一步了解这则报道，请收听ProPublica的播客“Paper Trail”。"
+        },
+        {
+          "en": "As part of that effort, the Justice Department has demanded states turn over unredacted voter rolls, which contain confidential information on millions of Americans and have historically been managed by states. Since September 2025, the department has sued 30 states and the District of Columbia for the confidential data. Wary of federal overreach, state officials — including some Republicans — have fought back, and so far every DOJ lawsuit that’s been decided by a federal judge has been dismissed. (The Trump administration has appealed most of its losses to federal appeals courts and has said it will consider taking its fight to the Supreme Court. A Justice Department spokesperson said its “attorneys are skilled, principled advocates who argue every case honestly and in good faith.”)",
+          "zh": "作为这项行动的一部分，司法部要求各州交出未经删节的选民名册，这些名册载有数百万美国人的机密信息，历来由各州自行管理。自2025年9月起，司法部已为获取这些机密数据起诉了30个州和哥伦比亚特区。出于对联邦越权的警惕，州官员——其中一些还是共和党人——奋起反击；到目前为止，凡由联邦法官作出裁决的司法部诉讼，全部被驳回。（特朗普政府已就其中多数败诉向联邦上诉法院提起上诉，并表示会考虑把这场官司打到最高法院。司法部发言人称，该部“律师都是专业且有原则的辩护者，对每个案件都诚实、善意地陈述主张”。）"
+        },
+        {
+          "en": "In a March executive order, Trump instructed the U.S. Postal Service to create new regulations for mail voting. The rules would have put the Postal Service in the unprecedented role of deciding whether to send or deny the delivery of voters’ mail-in ballots. The Supreme Court in September blocked the rules, at least until after November.",
+          "zh": "在3月的一项行政命令中，特朗普指示美国邮政署为邮寄投票制定新规。这些规定原本会让邮政署扮演一个前所未有的角色：决定是否投递选民的邮寄选票。最高法院于9月叫停了这些规定，至少暂停至11月之后。"
+        },
+        {
+          "en": "The Trump administration has said its actions will make U.S. elections fairer and more secure — and keep those prohibited from voting, such as noncitizens, from doing so. Spokespeople for the DOJ and Department of Homeland Security emphasized that their departments are focused on ensuring elections are free and fair, and that they are working closely with the states to achieve those goals. Contentions to the contrary, they say, are false.",
+          "zh": "特朗普政府表示，其行动将使美国选举更公平、更安全，并能阻止非公民等被禁止投票者参与投票。司法部和国土安全部的发言人强调，两部正着力确保选举自由公正，并正与各州密切合作以达成这些目标。他们表示，与此相反的说法都是不实的。"
+        },
+        {
+          "en": "2. Trump has pushed out career officials — and is coordinating with a conservative grassroots organization to transform elections. At least 75 nonpartisan career officials who’d held roles at federal agencies related to election integrity and safety have been fired or left the government.",
+          "zh": "2. 特朗普排挤走职业官员，并正与一个保守派草根组织协作改造选举。至少75名曾在联邦机构中负责选举公正与安全相关工作的无党派职业官员被解职或已离开政府。"
+        },
+        {
+          "en": "Two dozen Trump appointees — including many from the election-denial movement — have been hired. Ahead of the midterms, current and former government officials and election security experts have expressed concerns that once-fringe actors who’ve espoused debunked conspiracy theories about elections are now in positions to control the narrative around the voting process. (A DHS spokesperson said it hires “experts with diverse backgrounds who go through a rigorous vetting process.”)",
+          "zh": "约二十余名特朗普任命者被录用，其中不少人来自“否认选举结果”运动。在中期选举之前，现任和前任政府官员以及选举安全专家表达担忧：一些曾经处于边缘、鼓吹已被揭穿的选举阴谋论的人，如今坐上了能够左右投票流程叙事的位子。（国土安全部发言人称，该部聘用的是“背景多元、经过严格审查程序的专家”。）"
+        },
+        {
+          "en": "At least 25 administration appointees have close ties to Cleta Mitchell, a lawyer who leads Election Integrity Network, a grassroots conservative group focused on transforming America’s voting system. This month, Clark profiled Mitchell — and detailed how, despite not holding a formal role in the White House, she’s played a key role in shaping the Trump administration’s elections agenda. The White House has appointed her associates to help hunt for noncitizen voters and investigate accusations of voting fraud in 2020. (Mitchell declined multiple requests to speak with ProPublica, but wrote in an email: “You’re my opponent. … You’re never going to write in any objective, non-judgmental way about the election integrity movement.”)",
+          "zh": "至少有25名政府任命者与律师克莱塔·米切尔（Cleta Mitchell）关系密切。米切尔领导着草根保守派组织“选举诚信网络”（Election Integrity Network），该组织致力于改造美国的投票制度。本月，克拉克为米切尔撰写了人物特写，详述她虽未在白宫担任正式职务，却在塑造特朗普政府选举议程上发挥了关键作用。白宫已任命她的同僚协助查找非公民选民，并调查有关2020年投票舞弊的指控。（米切尔多次拒绝ProPublica的采访请求，但在邮件中写道：“你们是我的对手……你们永远不可能以任何客观、不带评判的方式报道选举诚信运动。”）"
+        },
+        {
+          "en": "Help Us Report on Key Election Issues ProPublica’s reporters are on the lookout for what’s going right and what isn’t. We’re monitoring voter suppression and interference, election observers and poll watchers, extremism tied to the election, and ICE activity at the polls. Have you seen something?",
+          "zh": "帮助我们报道关键选举议题：ProPublica的记者正在留意哪些做法行之有效、哪些并非如此。我们正在追踪压制选民与选举干预、选举观察员与投票站监督员、与选举相关的极端主义，以及移民与海关执法局（ICE）在投票站的活动。你看到了什么吗？"
+        },
+        {
+          "en": "Send Us a Tip Mitchell, who played a role in helping Trump challenge his loss in the 2020 presidential election, has been leading efforts to pass state and federal iterations of the SAVE Act. The 2026 version of the bill, known as the SAVE America Act, would require voters nationwide to provide proof of citizenship to register and present a photo ID to vote, and would compel states to turn over their voter rolls to DHS. Trump has repeatedly called the measure his top legislative priority, but it has been blocked in the Senate.",
+          "zh": "向我们提供线索：米切尔曾帮助特朗普挑战其2020年总统大选的败选结果，此后一直牵头推动在州和联邦层面通过各个版本的《SAVE法案》。该法案的2026年版本名为《SAVE美国法案》，将要求全国选民登记时提供公民身份证明、投票时出示带照片的身份证件，并强制各州把选民名册交给国土安全部。特朗普多次称这项立法是其最高立法优先事项，但它在参议院遭到阻截。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "guardrail",
+          "phonetic": "/ˈɡɑːrdreɪl/",
+          "pos": "n.",
+          "meaning_zh": "（本义）公路护栏；（引申）制度性防护机制、约束机制",
+          "example_en": "The report warns that the guardrails protecting the civil service are being dismantled.",
+          "example_zh": "报告警告说，保护公务员制度的那些防护机制正在被拆除。"
+        },
+        {
+          "word": "demolish",
+          "phonetic": "/dɪˈmɑːlɪʃ/",
+          "pos": "v.",
+          "meaning_zh": "拆除、摧毁（建筑）；（比喻）彻底瓦解某种制度或论点",
+          "example_en": "He demolished the agency's independence in a single year.",
+          "example_zh": "他仅用一年时间就瓦解了该机构的独立性。"
+        },
+        {
+          "word": "loyalist",
+          "phonetic": "/ˈlɔɪəlɪst/",
+          "pos": "n.",
+          "meaning_zh": "（对领导人）忠诚拥护者、亲信",
+          "example_en": "The president surrounded himself with loyalists who would not question his orders.",
+          "example_zh": "总统身边聚拢了一批不会质疑其命令的亲信。"
+        },
+        {
+          "word": "tilt",
+          "phonetic": "/tɪlt/",
+          "pos": "v.",
+          "meaning_zh": "（使）倾斜；（比喻）使局面偏向某一方",
+          "example_en": "Critics say the new rules tilt the playing field toward the incumbent party.",
+          "example_zh": "批评者说，新规则使竞争环境向执政党倾斜。"
+        },
+        {
+          "word": "spearhead",
+          "phonetic": "/ˈspɪrhed/",
+          "pos": "v.",
+          "meaning_zh": "带头、牵头、主导（某项行动）",
+          "example_en": "The unit spearheaded the investigation into foreign interference.",
+          "example_zh": "该部门牵头了对外国干预的调查。"
+        },
+        {
+          "word": "unredacted",
+          "phonetic": "/ˌʌnrɪˈdæktɪd/",
+          "pos": "adj.",
+          "meaning_zh": "（文件）未经删节处理的，保留全部原文信息的",
+          "example_en": "The court ordered the release of the unredacted report.",
+          "example_zh": "法院下令公布未经删节的报告全文。"
+        },
+        {
+          "word": "overreach",
+          "phonetic": "/ˈoʊvərriːtʃ/",
+          "pos": "n.",
+          "meaning_zh": "越权、权力过度扩张",
+          "example_en": "State attorneys general called the demand an example of federal overreach.",
+          "example_zh": "多州总检察长称这一要求是联邦越权的典型例子。"
+        },
+        {
+          "word": "debunked",
+          "phonetic": "/ˌdiːˈbʌŋkt/",
+          "pos": "adj.",
+          "meaning_zh": "已被揭穿的、被证明不实的",
+          "example_en": "The viral claim has been repeatedly debunked by election officials.",
+          "example_zh": "这一广为流传的说法已被选举官员反复辟谣。"
+        },
+        {
+          "word": "fringe",
+          "phonetic": "/frɪndʒ/",
+          "pos": "adj.",
+          "meaning_zh": "边缘的、非主流的（常含极端之意）",
+          "example_en": "Ideas once dismissed as fringe are now debated in the mainstream.",
+          "example_zh": "曾经被视为边缘的观念如今成了主流讨论的话题。"
+        },
+        {
+          "word": "espouse",
+          "phonetic": "/ɪˈspaʊz/",
+          "pos": "v.",
+          "meaning_zh": "信奉、拥护（某种主张或主义）",
+          "example_en": "He has long espoused the view that the agency should be abolished.",
+          "example_zh": "他长期主张应当撤销该机构。"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "In April, Doug Bock Clark and Jen Fifield reported on Trump's efforts to “take over” the midterm elections, detailing how the administration has discarded or diminished endeavors across the federal government to protect the voting process or block foreign interference.",
+          "structure": "主干：Doug Bock Clark and Jen Fifield reported on Trump's efforts（主谓宾）。修饰：① to “take over” the midterm elections 是不定式作后置定语，限定 efforts；② detailing ... 是现在分词短语作伴随状语，说明“报道了什么内容”；③ detailing 后接 how 引导的宾语从句，从句主干为 the administration has discarded or diminished endeavors，endeavors 后又用不定式 to protect ... or block ... 作后置定语。",
+          "analysis_zh": "英文新闻常把“谁报道了什么”放在主干，“具体报道内容”用分词状语层层挂接，从而一句话装进大量信息。翻译时不必保留这种“挂葫芦”结构，可拆成两个中文小句：先交代报道主题，再说“详细说明了……”。注意 detailing 的逻辑主语是前面的记者，而非特朗普。"
+        },
+        {
+          "en": "Wary of federal overreach, state officials — including some Republicans — have fought back, and so far every DOJ lawsuit that's been decided by a federal judge has been dismissed.",
+          "structure": "主干：由 and 连接的两个并列分句。① state officials have fought back；② every DOJ lawsuit ... has been dismissed。修饰：句首 Wary of federal overreach 是形容词短语作原因状语（= Because they were wary of ...）；破折号中的 including some Republicans 是插入语，补充说明 state officials；that's been decided by a federal judge 是定语从句修饰 lawsuit。",
+          "analysis_zh": "句首形容词短语作状语是外刊常见的压缩手段，比从句更简洁有力。第二个分句的真正主语是 lawsuit 而非 DOJ，所以谓语用 has been dismissed；that 定语从句用现在完成时的被动，暗示“至今已作出裁决的案件”这一累积状态。中文宜译成“凡已由联邦法官裁决的诉讼，全部被驳回”。"
+        },
+        {
+          "en": "Ahead of the midterms, current and former government officials and election security experts have expressed concerns that once-fringe actors who've espoused debunked conspiracy theories about elections are now in positions to control the narrative around the voting process.",
+          "structure": "主干：officials and experts have expressed concerns（主谓宾）。修饰：① Ahead of the midterms 为时间状语；② that 引导同位语从句，说明 concerns 的具体内容；③ 从句主干为 once-fringe actors are now in positions；④ who've espoused ... 是定语从句修饰 actors；⑤ to control the narrative ... 是不定式作后置定语修饰 positions（“能够……的职位”）。",
+          "analysis_zh": "难点在于主语很长（current and former government officials and election security experts 三个并列成分），以及同位语从句里又套定语从句。concerns that ... 不能译成“担忧那个”，而应译成“担忧：……”。positions to control 中的 to control 修饰 positions 而非目的状语，译作“处在能够左右……的位子上”最贴切。"
+        }
+      ],
+      "background": [
+        {
+          "title": "美国选举为什么“归各州管”",
+          "text_zh": "美国宪法把选举的“时间、地点和方式”交由各州立法机关规定，联邦层面只由国会设定联邦选举的日期并监督选举权不被剥夺。因此选民登记、选民名册、投票机认证、邮寄投票规则长期由州和县一级选举官员掌握。联邦机构（如司法部民权司、网络安全和基础设施安全局、选举协助委员会）主要承担执法、情报共享与技术支持的角色，而非直接运营选举。文章所说的“联邦控制选举”，触动的正是这一两百年来形成的分权惯例，也是多州官员以“联邦越权”为由反击的制度根源。"
+        },
+        {
+          "title": "SAVE Act 与“公民身份证明”之争",
+          "text_zh": "SAVE Act（Safeguard American Voter Eligibility Act，《保障美国选民资格法案》）由共和党议员提出，核心是要求登记投票者出示公民身份证明文件（如护照、出生证明），并要求各州把选民名册交给国土安全部核验，以剔除名册中的非公民。支持者称这是防止非公民投票的必要措施；反对者指出，已有研究显示非公民投票极为罕见，而美国约有一定比例的合格选民没有现成护照或出生证明，该法会实际剥夺数百万人的投票权，并且会以“名册核验”为名把州级选举数据集中到联邦手中。文章第14段提到的2026年版本《SAVE美国法案》即在此脉络下提出，虽在众议院过关，却在参议院受阻。"
+        }
+      ]
+    },
+    "kind": "full",
+    "digest": false,
+    "enrich_attempted": true
+  },
+  {
+    "id": "propublica-33fb5e8be6",
+    "source": "propublica",
+    "source_name": "ProPublica",
+    "source_name_en": "ProPublica",
+    "color": "#D0021B",
+    "section": "Climate and Environment",
+    "url": "https://www.propublica.org/article/carbon-capture-storage-fossil-fuel-sally-benson",
+    "title_en": "How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy",
+    "excerpt_en": "The post How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy appeared first on ProPublica.",
+    "body_en": [
+      "Illustration by Chris W. Kim for ProPublica From the series Carbon Captured: How the fossil fuel industry influence climate research, an investigation from ProPublica and Drilled",
+      "In the spring of 2005, the United Nations convened more than 100 of the world’s top scientists in the medieval town of Oviedo, Spain. They were there to finish writing a paradigm-shifting report about a technology that they hoped could help stop climate change.",
+      "To celebrate the report’s impending completion, the meeting’s hosts handed out bottles of cava, Spanish sparkling wine, with tongue-in-cheek labels stating that they were to be opened only by those who truly believed it could work.",
+      "Belief was necessary because the technology — carbon capture and storage, or CCS — had barely been tested. The idea was simple: strip carbon dioxide from smokestacks before it could flow into the air and warm the planet. Then pump it into a porous part of the Earth’s crust and leave it there. Forever.",
+      "The experts in Oviedo had stacks of papers proving that parts of the process worked. But major questions remained about how much space exists inside the Earth to store the CO2, how effectively it could be monitored and whether the poisonous, concentrated gas would reliably stay underground.",
+      "Tasked with wrangling roughly three dozen of those scientists toward consensus was Sally Benson, a geoscientist from Lawrence Berkeley National Lab who was co-leading the report’s chapter on underground storage of carbon. After a quarter-century of studying how fluids and gases move beneath Earth’s surface, she was an unimpeachable authority on the subject. She was also a savvy and diplomatic leader, skilled at managing rooms full of big egos and big tempers. It was proving handy in a process that had at times devolved into unruly debate.",
+      "The scientists had clashed for years over what the report should say, first at a meeting in Canada, then in Norway, Australia and Brazil. The evidence was scant. Three large-scale experiments were underway, but only one — a Norwegian operation that captured carbon from a natural gas field and pumped it under the bed of the North Sea — had rigorously tested permanent storage. There, the injected CO2 astonished engineers when it floated 700 feet upward through a series of geologic formations. To their relief, it hit a ceiling of shale that kept it underground, and the project was deemed a success. But with so little to go on, the scientists warned in their first draft that any broad statement about leakage risk would be “almost meaningless.”",
+      "The researchers were in Oviedo only because Saudi Arabia and other oil-exporting countries had pressured the U.N. to write the report despite the paucity of evidence, according to U.N. officials and records. The oil, gas and coal industries had spent years casting doubt on climate change while quietly fretting that policies to address it would one day put them out of business. The industry, documents show, saw CCS as a way to forestall that outcome, allowing the world to keep burning fossil fuels while simply burying the pollution underground. A U.N. report would bring the technology into the mainstream.",
+      "In turn, the U.N. hoped such a report would draw the oil-producing nations into its search for climate solutions. So despite objections from some nations and environmental organizations, which warned that the report would distract from the imperative to phase out fossil fuels, the U.N.’s preeminent climate science authority, the Intergovernmental Panel on Climate Change, went ahead. And for the first time, it invited a large contingent of industry researchers to join the scientists in writing the report, as well as several representatives from environmental groups. Benson’s chapter included authors and editors from Shell, Chevron and Saudi Aramco.",
+      "The process that followed would make some of the chapter’s scientists uneasy. The IPCC’s procedures stated that reports should assess the existing research on a topic based on peer-reviewed literature and that exceptions must be reviewed and clearly cited.",
+      "Bert Metz, one of the highest-ranking U.N. officials at the meeting, was pressing the group to come up with more definitive language about CCS’ potential. The report would be better if it could offer hard numbers, even where none existed in the literature: Precisely how many gigatons of storage capacity did the planet likely have? How long would a well-designed reservoir hold the CO2 injected into it? More than a year? A thousand years?",
+      "With so little evidence to work with, David Keith, a Canadian physicist, proposed a workaround: The authors could conduct an “expert elicitation,” taking an anonymous survey about what they expected the evidence to eventually show.",
+      "At first, not everyone was willing to go along. Some scientists worried that making what amounted to educated guesses would mislead the public, they told Drilled and ProPublica. Benson and Metz, though, both argued that on such an important matter informed advice was better than nothing.",
+      "In the end, the group agreed to take the survey and to keep it off the record — they would “burn it afterward,” Keith recounted, making no mention of it in the official report. When the meeting concluded, some of the scientists popped their bottles of cava in celebration.",
+      "“It’s not the hard science that you would prefer, obviously,” Metz would later tell Drilled and ProPublica.",
+      "Five months later, the IPCC published its special report, which would help legitimize CCS for a generation.",
+      "The 431-page document portrayed CCS as a potential savior for the climate that could enable countries “to continue to include fossil fuels in their energy mix.” It stated that using CCS could lower the cost of stabilizing global CO2 concentrations by at least 30% and that if fully supported by policy, it could account for as much as 55% of the world’s efforts to limit climate change through this century."
+    ],
+    "image": "",
+    "published": "2026-10-30T18:00:00+08:00",
+    "fetched_at": "2026-11-02T00:10:32+08:00",
+    "is_demo": false,
+    "enrich": {
+      "title_zh": "联合国科学家的一次秘密投票，如何让碳捕集获得正当性，并让气候政策偏离数十年",
+      "summary_zh": "2005年，联合国气候科学机构在西班牙奥维耶多敲定一份关于碳捕集与封存（CCS）的报告。在证据匮乏、产油国施压的背景下，IPCC 首次邀请壳牌、雪佛龙、沙特阿美等企业研究人员参与撰写；为凑出关键数字，作者们做了一次不留记录的匿名专家调查。这份431页的报告把 CCS 塑造为气候救星，为其赢得长达一代人的正当性。",
+      "difficulty": "C1",
+      "read_minutes": 5,
+      "paragraphs": [
+        {
+          "en": "Illustration by Chris W. Kim for ProPublica From the series Carbon Captured: How the fossil fuel industry influence climate research, an investigation from ProPublica and Drilled",
+          "zh": "插画：Chris W. Kim，为 ProPublica 绘制。本文出自系列报道《Carbon Captured（碳被俘获）》：化石燃料行业如何影响气候研究——ProPublica 与 Drilled 的联合调查。"
+        },
+        {
+          "en": "In the spring of 2005, the United Nations convened more than 100 of the world’s top scientists in the medieval town of Oviedo, Spain. They were there to finish writing a paradigm-shifting report about a technology that they hoped could help stop climate change.",
+          "zh": "2005年春天，联合国把一百多位世界顶尖科学家召集到西班牙的中世纪小镇奥维耶多。他们此行的任务是完成一份具有范式转换意义的报告，主题是一项他们希望能帮助遏止气候变化的技术。"
+        },
+        {
+          "en": "To celebrate the report’s impending completion, the meeting’s hosts handed out bottles of cava, Spanish sparkling wine, with tongue-in-cheek labels stating that they were to be opened only by those who truly believed it could work.",
+          "zh": "为了庆祝报告即将完成，会议主办方给与会者分发了西班牙起泡酒卡瓦（cava），瓶颈上贴着半开玩笑的标签，说这酒只该由真正相信这项技术能行的人打开。"
+        },
+        {
+          "en": "Belief was necessary because the technology — carbon capture and storage, or CCS — had barely been tested. The idea was simple: strip carbon dioxide from smokestacks before it could flow into the air and warm the planet. Then pump it into a porous part of the Earth’s crust and leave it there. Forever.",
+          "zh": "之所以需要“相信”，是因为这项技术——碳捕集与封存（CCS）——几乎还没有经过检验。它的思路很简单：在二氧化碳从烟囱排入大气、让地球升温之前，先把它分离出来；然后注入地壳中多孔的一层，让它留在那里。永远。"
+        },
+        {
+          "en": "The experts in Oviedo had stacks of papers proving that parts of the process worked. But major questions remained about how much space exists inside the Earth to store the CO2, how effectively it could be monitored and whether the poisonous, concentrated gas would reliably stay underground.",
+          "zh": "奥维耶多的专家们手头有一摞摞论文，证明这一流程中的某些环节确实可行。但重大问题依然悬而未决：地球内部究竟有多少空间可以用来封存二氧化碳？它能被多有效地监测？这种有毒的、高浓度的气体能否可靠地留在地下？"
+        },
+        {
+          "en": "Tasked with wrangling roughly three dozen of those scientists toward consensus was Sally Benson, a geoscientist from Lawrence Berkeley National Lab who was co-leading the report’s chapter on underground storage of carbon. After a quarter-century of studying how fluids and gases move beneath Earth’s surface, she was an unimpeachable authority on the subject. She was also a savvy and diplomatic leader, skilled at managing rooms full of big egos and big tempers. It was proving handy in a process that had at times devolved into unruly debate.",
+          "zh": "负责把其中约三十几位科学家撮合到共识上来的，是来自劳伦斯伯克利国家实验室的地球科学家萨莉·本森（Sally Benson），她参与主持了报告中关于碳的地下封存那一章。她研究了二十五年流体与气体如何在地表之下运动，是这个领域无可指摘的权威。她同时也是位精明而善于周旋的领导者，擅长安抚一屋子自负而火爆的人。在这一时而沦为混乱争吵的过程中，这一点显得格外管用。"
+        },
+        {
+          "en": "The scientists had clashed for years over what the report should say, first at a meeting in Canada, then in Norway, Australia and Brazil. The evidence was scant. Three large-scale experiments were underway, but only one — a Norwegian operation that captured carbon from a natural gas field and pumped it under the bed of the North Sea — had rigorously tested permanent storage. There, the injected CO2 astonished engineers when it floated 700 feet upward through a series of geologic formations. To their relief, it hit a ceiling of shale that kept it underground, and the project was deemed a success. But with so little to go on, the scientists warned in their first draft that any broad statement about leakage risk would be “almost meaningless.”",
+          "zh": "多年来，科学家们一直为报告该怎么写而争执：先是在加拿大的一次会议上，之后又在挪威、澳大利亚和巴西。证据十分稀少。当时有三项大型试验正在进行，但只有一项——挪威的一个项目，从天然气田捕集二氧化碳并注入北海海床之下——对永久封存做过严格检验。在那里，注入的二氧化碳向上浮升了700英尺，穿过一连串地质构造，令工程师们大为吃惊。所幸它撞上一层页岩“天花板”，被挡在了地下，项目因此被认为取得成功。但可供依据的东西实在太少，科学家们在初稿中警告说，任何关于泄漏风险的笼统说法都“几乎是毫无意义的”。"
+        },
+        {
+          "en": "The researchers were in Oviedo only because Saudi Arabia and other oil-exporting countries had pressured the U.N. to write the report despite the paucity of evidence, according to U.N. officials and records. The oil, gas and coal industries had spent years casting doubt on climate change while quietly fretting that policies to address it would one day put them out of business. The industry, documents show, saw CCS as a way to forestall that outcome, allowing the world to keep burning fossil fuels while simply burying the pollution underground. A U.N. report would bring the technology into the mainstream.",
+          "zh": "据联合国官员和档案记载，这些研究人员之所以会聚奥维耶多，只是因为沙特阿拉伯和其他石油出口国在证据如此匮乏的情况下仍向联合国施压，要求撰写这份报告。石油、天然气和煤炭行业多年来一直在给气候变化打问号，同时私下担心有朝一日应对气候变化的政策会让他们关门大吉。文件显示，该行业把 CCS 视为规避这一结局的途径：世界可以继续烧化石燃料，只要把污染埋到地下就行。而一份联合国报告，会把这项技术带进主流。"
+        },
+        {
+          "en": "In turn, the U.N. hoped such a report would draw the oil-producing nations into its search for climate solutions. So despite objections from some nations and environmental organizations, which warned that the report would distract from the imperative to phase out fossil fuels, the U.N.’s preeminent climate science authority, the Intergovernmental Panel on Climate Change, went ahead. And for the first time, it invited a large contingent of industry researchers to join the scientists in writing the report, as well as several representatives from environmental groups. Benson’s chapter included authors and editors from Shell, Chevron and Saudi Aramco.",
+          "zh": "反过来，联合国也希望这样一份报告能把产油国拉进它寻找气候解决方案的努力中来。因此，尽管一些国家和环保组织提出反对——它们警告说，这份报告会分散人们对“必须逐步淘汰化石燃料”这一当务之急的注意力——联合国最权威的气候科学机构政府间气候变化专门委员会（IPCC）还是推进了这项工作。它首次邀请了一大批产业界研究人员与科学家共同撰写报告，还邀请了几位环保组织的代表。本森负责的那一章，作者和编辑中就有来自壳牌、雪佛龙和沙特阿美的人。"
+        },
+        {
+          "en": "The process that followed would make some of the chapter’s scientists uneasy. The IPCC’s procedures stated that reports should assess the existing research on a topic based on peer-reviewed literature and that exceptions must be reviewed and clearly cited.",
+          "zh": "接下来的过程让这一章的部分科学家感到不安。IPCC 的程序规定，报告应当依据经过同行评审的文献来评估某个议题的现有研究，例外情况必须经过审查并明确标注出处。"
+        },
+        {
+          "en": "Bert Metz, one of the highest-ranking U.N. officials at the meeting, was pressing the group to come up with more definitive language about CCS’ potential. The report would be better if it could offer hard numbers, even where none existed in the literature: Precisely how many gigatons of storage capacity did the planet likely have? How long would a well-designed reservoir hold the CO2 injected into it? More than a year? A thousand years?",
+          "zh": "会议上级别最高的联合国官员之一伯特·梅茨（Bert Metz）不断施压，要求小组就 CCS 的潜力给出更确定的表述。报告如果能提供确切的数字会更好，哪怕文献里根本没有这些数字：地球究竟可能有多少吉吨的封存容量？一个设计良好的封存层能把注入的二氧化碳留住多久？一年以上？还是一千年？"
+        },
+        {
+          "en": "With so little evidence to work with, David Keith, a Canadian physicist, proposed a workaround: The authors could conduct an “expert elicitation,” taking an anonymous survey about what they expected the evidence to eventually show.",
+          "zh": "由于可供利用的证据实在太少，加拿大物理学家戴维·基思（David Keith）提出了一个变通办法：作者们可以做一次“专家判断征集”（expert elicitation），用匿名问卷的方式征询他们认为证据最终会显示什么。"
+        },
+        {
+          "en": "At first, not everyone was willing to go along. Some scientists worried that making what amounted to educated guesses would mislead the public, they told Drilled and ProPublica. Benson and Metz, though, both argued that on such an important matter informed advice was better than nothing.",
+          "zh": "起初并不是所有人都愿意配合。一些科学家告诉 Drilled 和 ProPublica，他们担心这种说到底是“有根据的猜测”的东西会误导公众。不过本森和梅茨都主张，在如此重要的问题上，有依据的建议总比什么都没有强。"
+        },
+        {
+          "en": "In the end, the group agreed to take the survey and to keep it off the record — they would “burn it afterward,” Keith recounted, making no mention of it in the official report. When the meeting concluded, some of the scientists popped their bottles of cava in celebration.",
+          "zh": "最终，小组同意做这项调查，并约定不留下任何记录——用基思的话说，他们“事后会把它烧掉”，官方报告中对它只字未提。会议结束时，一些科学家开瓶畅饮卡瓦起泡酒，以示庆祝。"
+        },
+        {
+          "en": "“It’s not the hard science that you would prefer, obviously,” Metz would later tell Drilled and ProPublica.",
+          "zh": "“显然，这不是你更希望看到的那种硬科学。”梅茨后来对 Drilled 和 ProPublica 说。"
+        },
+        {
+          "en": "Five months later, the IPCC published its special report, which would help legitimize CCS for a generation.",
+          "zh": "五个月后，IPCC 发布了这份特别报告，它在此后一代人的时间里帮助 CCS 获得了正当性。"
+        },
+        {
+          "en": "The 431-page document portrayed CCS as a potential savior for the climate that could enable countries “to continue to include fossil fuels in their energy mix.” It stated that using CCS could lower the cost of stabilizing global CO2 concentrations by at least 30% and that if fully supported by policy, it could account for as much as 55% of the world’s efforts to limit climate change through this century.",
+          "zh": "这份431页的文件把 CCS 描绘成气候的潜在救星，能让各国“继续把化石燃料留在本国能源结构中”。它称，使用 CCS 可使稳定全球二氧化碳浓度的成本至少降低30%；如果得到政策的全面支持，到本世纪末，它可承担全球限制气候变化努力中的多达55%。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "paradigm-shifting",
+          "phonetic": "/ˈpærədaɪm ˌʃɪftɪŋ/",
+          "pos": "adj.",
+          "meaning_zh": "（思维或研究框架）发生根本性转变的；开创性的。外刊评论重大研究时的高频修饰语。",
+          "example_en": "The discovery was described as paradigm-shifting for the field of immunology.",
+          "example_zh": "这一发现被形容为免疫学领域的一次范式转变。"
+        },
+        {
+          "word": "tongue-in-cheek",
+          "phonetic": "/ˌtʌŋ ɪn ˈtʃiːk/",
+          "pos": "adj.",
+          "meaning_zh": "半开玩笑的、不必当真的。常用于形容看似郑重实为调侃的措辞。",
+          "example_en": "The company’s tongue-in-cheek slogan was taken seriously by some investors.",
+          "example_zh": "这家公司半开玩笑的口号，被一些投资者当了真。"
+        },
+        {
+          "word": "porous",
+          "phonetic": "/ˈpɔːrəs/",
+          "pos": "adj.",
+          "meaning_zh": "多孔的、有孔隙可渗透的。文中指能容纳二氧化碳的岩层。",
+          "example_en": "The engineers pumped the gas into porous sandstone deep below the seabed.",
+          "example_zh": "工程师把气体注入海床深处多孔的砂岩层。"
+        },
+        {
+          "word": "wrangle",
+          "phonetic": "/ˈræŋɡl/",
+          "pos": "v.",
+          "meaning_zh": "（费力地）劝说、周旋、把……协调到某个结果上；也可指长时间争吵。wrangle sb. toward consensus 是形象的外刊用法。",
+          "example_en": "It took months to wrangle the committee toward a compromise.",
+          "example_zh": "把委员会周旋到一份妥协方案上，花了几个月时间。"
+        },
+        {
+          "word": "unimpeachable",
+          "phonetic": "/ˌʌnɪmˈpiːtʃəbl/",
+          "pos": "adj.",
+          "meaning_zh": "无可指摘的、无可置疑的（多形容权威、品行、来源）。",
+          "example_en": "She is an unimpeachable authority on the chemistry of deep-sea sediments.",
+          "example_zh": "在深海沉积物化学这一领域，她是无可置疑的权威。"
+        },
+        {
+          "word": "scant",
+          "phonetic": "/skænt/",
+          "pos": "adj.",
+          "meaning_zh": "（数量上）稀少的、几乎不够用的，常含“不足以支撑结论”的意味。",
+          "example_en": "Evidence for the treatment’s long-term benefits remains scant.",
+          "example_zh": "支持这种疗法长期获益的证据依然稀少。"
+        },
+        {
+          "word": "paucity",
+          "phonetic": "/ˈpɔːsəti/",
+          "pos": "n.",
+          "meaning_zh": "（与 of 连用）缺乏、不足。比 lack 更书面、更正式，是政策与学术报道的高频词。",
+          "example_en": "The report was commissioned despite a paucity of peer-reviewed data.",
+          "example_zh": "尽管同行评审数据匮乏，这份报告的编写仍被委托启动。"
+        },
+        {
+          "word": "forestall",
+          "phonetic": "/fɔːrˈstɔːl/",
+          "pos": "v.",
+          "meaning_zh": "预先阻止、抢先把……挡住。文中指行业想“抢先规避”被政策淘汰的结局。",
+          "example_en": "The industry lobbied hard to forestall stricter emission rules.",
+          "example_zh": "该行业大力游说，力图预先阻止更严格的排放法规出台。"
+        },
+        {
+          "word": "elicitation",
+          "phonetic": "/ɪˌlɪsɪˈteɪʃn/",
+          "pos": "n.",
+          "meaning_zh": "（信息、判断的）引出、征集。expert elicitation 是专业术语，指在没有充分数据时系统征询专家主观判断的方法。",
+          "example_en": "The authors resorted to expert elicitation to estimate the missing figures.",
+          "example_zh": "作者们借助专家判断征集来估算缺失的数字。"
+        },
+        {
+          "word": "off the record",
+          "phonetic": "/ˌɒf ðə ˈrekɔːd/",
+          "pos": "phr.",
+          "meaning_zh": "不供发表地、不留记录地。文中指这场调查被刻意排除在正式记录之外。",
+          "example_en": "He spoke off the record, on condition that nothing be attributed to him.",
+          "example_zh": "他以不供发表为条件发言，要求不得把他的名字与任何内容挂钩。"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "Tasked with wrangling roughly three dozen of those scientists toward consensus was Sally Benson, a geoscientist from Lawrence Berkeley National Lab who was co-leading the report’s chapter on underground storage of carbon.",
+          "structure": "主干：（倒装）表语 Tasked with... + 系动词 was + 主语 Sally Benson。修饰：同位语 a geoscientist from Lawrence Berkeley National Lab 说明身份；who 引导定语从句修饰 a geoscientist，说明其职责。",
+          "analysis_zh": ""
+        },
+        {
+          "en": "So despite objections from some nations and environmental organizations, which warned that the report would distract from the imperative to phase out fossil fuels, the U.N.’s preeminent climate science authority, the Intergovernmental Panel on Climate Change, went ahead.",
+          "structure": "主干：the IPCC went ahead。修饰：So 承接上文的连接副词；despite objections... 为让步状语，其中 which 引导非限制性定语从句修饰 objections，that 引导宾语从句作 warned 的宾语；the U.N.’s preeminent climate science authority 是主语的同位语，与 the Intergovernmental Panel on Climate Change 同位。",
+          "analysis_zh": ""
+        },
+        {
+          "en": "It stated that using CCS could lower the cost of stabilizing global CO2 concentrations by at least 30% and that if fully supported by policy, it could account for as much as 55% of the world’s efforts to limit climate change through this century.",
+          "structure": "主干：It stated + 两个并列的 that 宾语从句（that... and that...）。第一个从句：using CCS（动名词作主语）could lower the cost of stabilizing...，by at least 30% 为程度状语修饰 lower；第二个从句：if fully supported by policy 为省略形式的条件状语从句，it could account for as much as 55% of...，through this century 为时间状语。",
+          "analysis_zh": ""
+        }
+      ],
+      "background": [
+        {
+          "title": "IPCC 与《二氧化碳捕集与封存特别报告》",
+          "text_zh": "政府间气候变化专门委员会（IPCC）由联合国环境规划署和世界气象组织于1988年共同设立，本身不做实验，只对已发表的文献做评估。它除定期发布评估报告外，还应成员国要求编写“特别报告”。文中这场2005年的奥维耶多会议，正是为了定稿《二氧化碳捕集与封存特别报告》（SRCCS）。IPCC 有一条特殊规则：报告正文由科学家撰写，但“决策者摘要”须由各国政府代表逐行审议通过——这意味着产油国政府在文本定调上有直接的发言权，这也是文中“产油国施压”能奏效的制度背景。报告一旦发布，即成为各国政策、碳市场与气候谈判的通用参考，所以“正当性”效应能持续很久。"
+        },
+        {
+          "title": "CCS 是什么，为什么化石燃料行业力挺它",
+          "text_zh": "碳捕集与封存（CCS）指在发电厂、水泥厂、天然气处理等排放源把二氧化碳分离出来，经管道或船舶运输后注入深层咸水层或枯竭油气田长期封存。它技术链条长、成本高、能耗大，且封存环节的长期泄漏风险难以用短周期实验验证——这正是文中科学家为难的地方。对石油公司而言，CCS 还有一重现实好处：注入的二氧化碳可用于“强化采油”（EOR），把难以开采的原油驱赶出来，因而减排投入可以转化为产量。对产油国来说，CCS 提供了一套话语：不必削减化石燃料产量，只需处理排放。这一“技术中立”的外衣，是它能进入联合国报告并影响此后数十年气候政策讨论的关键。"
+        }
+      ]
+    },
+    "kind": "full",
+    "digest": false,
+    "enrich_attempted": true
+  },
+  {
+    "id": "propublica-e1f48c76e1",
+    "source": "propublica",
+    "source_name": "ProPublica",
+    "source_name_en": "ProPublica",
+    "color": "#D0021B",
+    "section": "Regulation",
+    "url": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
+    "title_en": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
+    "excerpt_en": "The post Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps appeared first on ProPublica.",
+    "body_en": [
+      "Connecticut Sen. Richard Blumenthal, one of three federal lawmakers who recently cited ProPublica reporting in a letter asking sports betting companies for more information about their business practices. Tom Williams/CQ-Roll Call, Inc via Getty Images State and federal officials have ramped up scrutiny of online sports betting companies in recent weeks, launching inquiries, demanding information and, in one case, proposing a new rule that would limit when companies like DraftKings can pitch their users to bet more.",
+      "The moves — by gaming regulators, government lawyers and federal lawmakers — follow an investigation last month by ProPublica that tested the guardrails DraftKings and other sports betting companies have in place to protect users from spiraling out of control. That system is called responsible gaming, and executives say it’s integral to their companies’ long-term success.",
+      "The ProPublica article showed how DraftKings bestowed VIP status on a reporter who deliberately bet like a problem gambler. The report detailed the ways in which the app’s user design and promotions encouraged more betting — even after the reporter opted into responsible gaming tools designed to slow users down. A week earlier, The New York Times reported that DraftKings had used machine learning and artificial intelligence to target promotions to losing bettors.",
+      "Those articles were the focus of an Oct. 15 meeting of the Louisiana Gaming Control Board, which, partly in response to the stories, tabled the renewal of DraftKings’ five-year license. Instead, the board granted the company a temporary four-month permit while investigators look into the issues raised in the reports as well as other paperwork concerns.",
+      "The board’s chair, Christopher Hebert, said the Times had raised some “very serious questions” and called ProPublica’s reporting “very troubling.”",
+      "While news stories “are not findings of regulatory violations,” Hebert said, “as regulators we have a responsibility to examine these matters that could affect the integrity of gaming operations and the protections of our citizens here in Louisiana.”",
+      "State health officials say the number of Louisianans believed to have a gambling disorder has risen in recent years amid the surge in popularity of online gambling and prediction market sites. One top official reported this summer that gambling addiction was among the health department’s “top three priorities.”",
+      "What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out. If you’ve bet on sports with FanDuel or DraftKings, you can help ProPublica understand how these apps work. Use our browser extension to download your betting history, then upload your files.",
+      "Share Your Experience Paul Liberman, who co-founded DraftKings and serves as its president of operations, told the regulators: “We do not use artificial intelligence to target losing gamblers by any means.”",
+      "DraftKings previously told ProPublica that it proactively closes the accounts of suspected problem gamblers “all the time” but declined to provide specific figures. Yet when asked by a Louisiana board member for those same specifics, Lori Kalani, DraftKings’ chief responsible gaming officer, said 175 accounts in the state had been shut down this year. She told the board she didn’t know how many total users DraftKings had in the Pelican State.",
+      "“We’re not physicians, we’re not clinicians and that’s not our role, but we certainly want to help people enjoy the service, the platform that we’re offering them,” Kalani told the board. “I know that we’re doing our job and that when we see something, we say something and we engage. I just can’t tell you if 175 is the right number. I wish it was zero.”",
+      "In a statement, a DraftKings spokesperson said: “As a legal, regulated operator, DraftKings values an open and ongoing dialogue with regulators and regular conversations and check-ins with regulators are normal course of business.”",
+      "In response to ProPublica’s original investigation, Kalani said DraftKings’ responsible gaming system — which consists largely of in-app messages about the company’s tools — “worked the way it was supposed to.” She cautioned against “drawing broad conclusions” from one user’s experience.",
+      "The day after the Louisiana meeting, regulators in Ohio proposed an amendment to the state’s sports gaming rule that would bar companies like DraftKings from sending direct ads or marketing to bettors for 48 hours after they’d opted into responsible gaming tools or updated their current settings.",
+      "The proposed amendment speaks directly to a finding in ProPublica’s reporting: After blowing nearly $4,500 betting on tennis in 24 hours, the reporter used such tools to limit the amount of time and money he could spend on the app. Just 30 minutes later, though, he received the first of four push notifications promoting new betting opportunities. It wasn’t until he opted into a far more restrictive tool, called a “cool-off,” that the notifications temporarily stopped.",
+      "Andromeda Morrison, the interim executive director of the Ohio Casino Control Commission, said that though her office had been working on its proposal for some time, ProPublica’s story illuminated the issue. “Hopefully this is something that is fairly easy for the industry to see as a common sense restriction to make sure those consumers are making good choices without those push notifications,” she said.",
+      "But Keith Whyte, a former director of the National Council on Problem Gambling who now consults for industry and nonprofit groups, said the proposed amendment could unintentionally disincentivize users from using tools like deposit limits. “I think the implication is that using a responsible gaming tool is a sign of a gambling problem,” he said. The measure faces a long rulemaking process, including more rounds of public hearings and comments."
+    ],
+    "image": "",
+    "published": "2026-10-30T17:00:00+08:00",
+    "fetched_at": "2026-11-02T00:10:32+08:00",
+    "is_demo": false,
+    "enrich": {
+      "title_zh": "联邦与州官员加大对DraftKings等体育博彩应用的审查力度",
+      "summary_zh": "ProPublica揭露DraftKings等体育博彩应用诱导问题赌徒下注后，路易斯安那州暂缓其牌照续期、改发四个月临时许可，俄亥俄州拟禁止用户启用负责任博彩工具后48小时内推送营销；联邦议员与州监管、卫生部门同步加压。公司辩称系统运作正常，亦有专家担心新规反让用户回避限制工具。",
+      "difficulty": "C1",
+      "read_minutes": 5,
+      "paragraphs": [
+        {
+          "en": "Connecticut Sen. Richard Blumenthal, one of three federal lawmakers who recently cited ProPublica reporting in a letter asking sports betting companies for more information about their business practices. Tom Williams/CQ-Roll Call, Inc via Getty Images State and federal officials have ramped up scrutiny of online sports betting companies in recent weeks, launching inquiries, demanding information and, in one case, proposing a new rule that would limit when companies like DraftKings can pitch their users to bet more.",
+          "zh": "康涅狄格州参议员理查德·布卢门撒尔（Richard Blumenthal），是最近致信体育博彩公司、要求其提供更多业务操作信息的三位联邦议员之一，信中引用了ProPublica的报道。图片来源：Tom Williams/CQ-Roll Call, Inc via Getty Images\n\n近几周，州和联邦官员加大了对在线体育博彩公司的审查力度：启动调查、要求提供信息，并在其中一例中提出新规，限制DraftKings这类公司向用户推销“再多下点注”的时机。"
+        },
+        {
+          "en": "The moves — by gaming regulators, government lawyers and federal lawmakers — follow an investigation last month by ProPublica that tested the guardrails DraftKings and other sports betting companies have in place to protect users from spiraling out of control. That system is called responsible gaming, and executives say it’s integral to their companies’ long-term success.",
+          "zh": "这些行动来自博彩监管机构、政府律师和联邦议员，发生在上月ProPublica的一项调查之后。该调查检验了DraftKings等体育博彩公司为保护用户不至于失控而设置的防护机制。这套系统被称为“负责任博彩”（responsible gaming），高管们称其对公司的长期成功不可或缺。"
+        },
+        {
+          "en": "The ProPublica article showed how DraftKings bestowed VIP status on a reporter who deliberately bet like a problem gambler. The report detailed the ways in which the app’s user design and promotions encouraged more betting — even after the reporter opted into responsible gaming tools designed to slow users down. A week earlier, The New York Times reported that DraftKings had used machine learning and artificial intelligence to target promotions to losing bettors.",
+          "zh": "ProPublica的文章显示，DraftKings如何将VIP身份授予一名刻意模仿问题赌徒下注的记者。报道详细描述了该应用的用户设计和促销手段如何鼓励用户下更多注——即便在记者已经启用旨在让用户“慢下来”的负责任博彩工具之后。再早一周，《纽约时报》报道称，DraftKings利用机器学习和人工智能，把促销精准投向输钱的投注者。"
+        },
+        {
+          "en": "Those articles were the focus of an Oct. 15 meeting of the Louisiana Gaming Control Board, which, partly in response to the stories, tabled the renewal of DraftKings’ five-year license. Instead, the board granted the company a temporary four-month permit while investigators look into the issues raised in the reports as well as other paperwork concerns.",
+          "zh": "这些报道成为路易斯安那州博彩控制委员会10月15日会议的焦点。该委员会部分出于对这些报道的回应，搁置了DraftKings五年期牌照的续期。委员会改为向该公司发放一张为期四个月的临时许可，同时调查人员就报道中提出的问题以及其他文书方面的疑虑展开调查。"
+        },
+        {
+          "en": "The board’s chair, Christopher Hebert, said the Times had raised some “very serious questions” and called ProPublica’s reporting “very troubling.”",
+          "zh": "委员会主席克里斯托弗·赫伯特（Christopher Hebert）说，《纽约时报》提出了某些“非常严肃的问题”，并称ProPublica的报道“非常令人不安”。"
+        },
+        {
+          "en": "While news stories “are not findings of regulatory violations,” Hebert said, “as regulators we have a responsibility to examine these matters that could affect the integrity of gaming operations and the protections of our citizens here in Louisiana.”",
+          "zh": "赫伯特说，虽然新闻报道“并不等同于认定存在监管违规”，“但作为监管者，我们有责任审查这些可能影响博彩运营诚信、影响路易斯安那州公民所受保护的事项。”"
+        },
+        {
+          "en": "State health officials say the number of Louisianans believed to have a gambling disorder has risen in recent years amid the surge in popularity of online gambling and prediction market sites. One top official reported this summer that gambling addiction was among the health department’s “top three priorities.”",
+          "zh": "州卫生官员表示，随着在线博彩和预测市场网站人气飙升，近年来被认为患有赌博障碍的路易斯安那州居民人数有所上升。一位高级官员今年夏天表示，赌博成瘾是该卫生部门的“三大优先事项”之一。"
+        },
+        {
+          "en": "What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out. If you’ve bet on sports with FanDuel or DraftKings, you can help ProPublica understand how these apps work. Use our browser extension to download your betting history, then upload your files.",
+          "zh": "【征集读者】你的数据能揭示体育博彩应用的什么？帮ProPublica找出答案。如果你曾在FanDuel或DraftKings上下注，你可以帮助ProPublica了解这些应用是如何运作的。使用我们的浏览器扩展下载你的投注历史，然后上传你的文件。"
+        },
+        {
+          "en": "Share Your Experience Paul Liberman, who co-founded DraftKings and serves as its president of operations, told the regulators: “We do not use artificial intelligence to target losing gamblers by any means.”",
+          "zh": "【分享你的经历】保罗·利伯曼（Paul Liberman）是DraftKings的联合创始人兼运营总裁，他对监管者说：“我们绝不以任何方式利用人工智能来锁定输钱的赌徒。”"
+        },
+        {
+          "en": "DraftKings previously told ProPublica that it proactively closes the accounts of suspected problem gamblers “all the time” but declined to provide specific figures. Yet when asked by a Louisiana board member for those same specifics, Lori Kalani, DraftKings’ chief responsible gaming officer, said 175 accounts in the state had been shut down this year. She told the board she didn’t know how many total users DraftKings had in the Pelican State.",
+          "zh": "DraftKings此前对ProPublica表示，公司“一直”主动关闭疑似问题赌徒的账户，但拒绝提供具体数字。然而，当路易斯安那州一位委员会成员问起同样的具体数据时，DraftKings首席负责任博彩官洛里·卡拉尼（Lori Kalani）表示，今年该州已有175个账户被关闭。她告诉委员会，她不知道DraftKings在“鹈鹕州”（路易斯安那州别称）总共有多少用户。"
+        },
+        {
+          "en": "“We’re not physicians, we’re not clinicians and that’s not our role, but we certainly want to help people enjoy the service, the platform that we’re offering them,” Kalani told the board. “I know that we’re doing our job and that when we see something, we say something and we engage. I just can’t tell you if 175 is the right number. I wish it was zero.”",
+          "zh": "“我们不是医生，也不是临床医师，那不是我们的职责；但我们当然希望帮助人们享受我们提供的服务、享受这个平台，”卡拉尼对委员会说。“我知道我们在尽职，看到问题时我们会发声、会介入。我只是无法告诉你175是不是一个合适的数字。我倒希望它是零。”"
+        },
+        {
+          "en": "In a statement, a DraftKings spokesperson said: “As a legal, regulated operator, DraftKings values an open and ongoing dialogue with regulators and regular conversations and check-ins with regulators are normal course of business.”",
+          "zh": "在一份声明中，DraftKings的一位发言人说：“作为一家合法、受监管的运营商，DraftKings重视与监管者之间公开、持续的对话，与监管者定期沟通和汇报属于正常业务范畴。”"
+        },
+        {
+          "en": "In response to ProPublica’s original investigation, Kalani said DraftKings’ responsible gaming system — which consists largely of in-app messages about the company’s tools — “worked the way it was supposed to.” She cautioned against “drawing broad conclusions” from one user’s experience.",
+          "zh": "针对ProPublica最初的调查，卡拉尼表示，DraftKings的负责任博彩系统——主要由应用内介绍公司各类工具的提示信息构成——“按预期发挥了作用”。她提醒不要根据单个用户的经历“得出宽泛的结论”。"
+        },
+        {
+          "en": "The day after the Louisiana meeting, regulators in Ohio proposed an amendment to the state’s sports gaming rule that would bar companies like DraftKings from sending direct ads or marketing to bettors for 48 hours after they’d opted into responsible gaming tools or updated their current settings.",
+          "zh": "路易斯安那会议次日，俄亥俄州监管者提出一项对该州体育博彩规则的修正案，将禁止DraftKings这类公司在投注者启用负责任博彩工具或更新现有设置后的48小时内，向其发送直接广告或营销信息。"
+        },
+        {
+          "en": "The proposed amendment speaks directly to a finding in ProPublica’s reporting: After blowing nearly $4,500 betting on tennis in 24 hours, the reporter used such tools to limit the amount of time and money he could spend on the app. Just 30 minutes later, though, he received the first of four push notifications promoting new betting opportunities. It wasn’t until he opted into a far more restrictive tool, called a “cool-off,” that the notifications temporarily stopped.",
+          "zh": "这项拟议修正案直接呼应了ProPublica报道中的一项发现：在24小时内于网球投注上输掉近4500美元后，这名记者使用了此类工具，限制自己在应用上花费的时间和金钱。然而仅仅30分钟后，他就收到了四条推广新投注机会的推送通知中的第一条。直到他启用了一项限制性强得多的工具——“冷静期”（cool-off）——这些通知才暂时停止。"
+        },
+        {
+          "en": "Andromeda Morrison, the interim executive director of the Ohio Casino Control Commission, said that though her office had been working on its proposal for some time, ProPublica’s story illuminated the issue. “Hopefully this is something that is fairly easy for the industry to see as a common sense restriction to make sure those consumers are making good choices without those push notifications,” she said.",
+          "zh": "俄亥俄州赌场控制委员会临时执行主任安德洛墨达·莫里森（Andromeda Morrison）说，尽管她的办公室为这项提案已经工作了一段时间，但ProPublica的报道让这一问题凸显出来。“希望这能让业界相当容易地把它看作一项常识性的限制，确保这些消费者在没有那些推送通知的情况下做出好的选择，”她说。"
+        },
+        {
+          "en": "But Keith Whyte, a former director of the National Council on Problem Gambling who now consults for industry and nonprofit groups, said the proposed amendment could unintentionally disincentivize users from using tools like deposit limits. “I think the implication is that using a responsible gaming tool is a sign of a gambling problem,” he said. The measure faces a long rulemaking process, including more rounds of public hearings and comments.",
+          "zh": "但基思·怀特（Keith Whyte）——美国问题赌博全国委员会前主任，现为行业机构和非营利组织提供咨询——表示，这项拟议修正案可能会无意中打击用户使用存款限额等工具的积极性。“我认为其隐含意思是，使用负责任博彩工具是赌博问题的标志，”他说。该措施还要经历漫长的规则制定程序，包括更多轮公开听证和意见征集。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "ramp up",
+          "phonetic": "/ræmp ʌp/",
+          "pos": "phr. v.",
+          "meaning_zh": "（在规模或强度上）加大、增强",
+          "example_en": "Regulators have ramped up scrutiny of online betting apps.",
+          "example_zh": "监管机构已加大对在线博彩应用的审查力度。"
+        },
+        {
+          "word": "scrutiny",
+          "phonetic": "/ˈskruːtəni/",
+          "pos": "n.",
+          "meaning_zh": "严密审查、仔细审视（外刊高频，常与 come under / intensify 搭配）",
+          "example_en": "The company came under intense scrutiny after the investigation.",
+          "example_zh": "调查之后，该公司受到严密审查。"
+        },
+        {
+          "word": "guardrail",
+          "phonetic": "/ˈɡɑːrdreɪl/",
+          "pos": "n.",
+          "meaning_zh": "护栏；（比喻）防护机制、限制措施",
+          "example_en": "The industry says it has guardrails to protect vulnerable users.",
+          "example_zh": "业界称其设有保护脆弱用户的防护机制。"
+        },
+        {
+          "word": "spiral out of control",
+          "phonetic": "/ˈspaɪrəl aʊt əv kənˈtroʊl/",
+          "pos": "phr.",
+          "meaning_zh": "失控并不断恶化（spiral 原指螺旋式上升/下降）",
+          "example_en": "Small losses can quickly spiral out of control.",
+          "example_zh": "小额亏损可能迅速失控、越滚越大。"
+        },
+        {
+          "word": "bestow",
+          "phonetic": "/bɪˈstoʊ/",
+          "pos": "v.",
+          "meaning_zh": "授予、给予（正式用语，常与 on/upon 连用）",
+          "example_en": "The app bestowed VIP status on the new user within days.",
+          "example_zh": "这款应用几天内就授予该新用户VIP身份。"
+        },
+        {
+          "word": "table",
+          "phonetic": "/ˈteɪbl/",
+          "pos": "v.",
+          "meaning_zh": "（美式用法）搁置、暂缓审议（议案、申请）——熟词僻义，注意英式英语中 table 反而有“提出”之意",
+          "example_en": "The board tabled the renewal of the license.",
+          "example_zh": "委员会搁置了该牌照的续期。"
+        },
+        {
+          "word": "opt into",
+          "phonetic": "/ɑːpt ˈɪntuː/",
+          "pos": "phr. v.",
+          "meaning_zh": "选择加入、主动启用（与 opt out 相反）",
+          "example_en": "Users can opt into tools that limit their deposit amounts.",
+          "example_zh": "用户可以主动启用限制存款金额的工具。"
+        },
+        {
+          "word": "illuminate",
+          "phonetic": "/ɪˈluːmɪneɪt/",
+          "pos": "v.",
+          "meaning_zh": "照亮；使（问题）变得清晰、凸显出来",
+          "example_en": "The reporting illuminated a gap in the state's rules.",
+          "example_zh": "这组报道凸显了该州规则中的一处空白。"
+        },
+        {
+          "word": "disincentivize",
+          "phonetic": "/ˌdɪsɪnˈsentɪvaɪz/",
+          "pos": "v.",
+          "meaning_zh": "使失去动力、抑制……的积极性（incentive 的反向构词）",
+          "example_en": "The rule could disincentivize users from setting limits.",
+          "example_zh": "这项规定可能会让用户不愿设置限额。"
+        },
+        {
+          "word": "check-in",
+          "phonetic": "/ˈtʃek ɪn/",
+          "pos": "n.",
+          "meaning_zh": "（定期）沟通、汇报、联络",
+          "example_en": "Regular check-ins with regulators are normal course of business.",
+          "example_zh": "与监管机构定期沟通属于正常业务。"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "The day after the Louisiana meeting, regulators in Ohio proposed an amendment to the state’s sports gaming rule that would bar companies like DraftKings from sending direct ads or marketing to bettors for 48 hours after they’d opted into responsible gaming tools or updated their current settings.",
+          "structure": "主干：regulators in Ohio proposed an amendment（主谓宾）。修饰：to the state’s sports gaming rule 是介词短语作定语，说明是哪部规则的修正案；that would bar ... 是定语从句修饰 amendment；从句内部 bar sb. from doing sth. 为固定搭配；for 48 hours 是时间状语；after they’d opted into ... or updated ... 是时间状语从句，用过去完成时强调“先启用、后打广告”的先后顺序。",
+          "analysis_zh": "这句是典型的新闻长句：主干极短（俄亥俄监管者提出修正案），信息量全压在后置定语和状语上。翻译时中文宜拆成“提出一项修正案……将禁止……”的连动结构，避免把定语从句硬塞进“的”字短语里。"
+        },
+        {
+          "en": "Those articles were the focus of an Oct. 15 meeting of the Louisiana Gaming Control Board, which, partly in response to the stories, tabled the renewal of DraftKings’ five-year license.",
+          "structure": "主干：Those articles were the focus（主系表）。修饰：of an Oct. 15 meeting of the Louisiana Gaming Control Board 层层介词短语限定 focus；which ... 是非限制性定语从句修饰 the board；从句中 partly in response to the stories 是插入的状语，插在主语 which 和谓语 tabled 之间。",
+          "analysis_zh": "注意 which 指代的是委员会而非会议；插入状语故意放在主谓之间，是为了让“回应报道”这一因果关系紧贴先行词。tabled 在此为美式“搁置”，若读成英式“提出”会完全误解整段。"
+        },
+        {
+          "en": "But Keith Whyte, a former director of the National Council on Problem Gambling who now consults for industry and nonprofit groups, said the proposed amendment could unintentionally disincentivize users from using tools like deposit limits.",
+          "structure": "主干：Keith Whyte said (that) ...。修饰：a former director ... 是同位语，who now consults for ... 是定语从句，二者都后置修饰主语；宾语从句中 the proposed amendment 作主语，could disincentivize 作谓语，users 作宾语，from using tools like deposit limits 是介词短语说明“在哪方面失去动力”。",
+          "analysis_zh": "外刊介绍人物时惯用“姓名 + 同位语 + 定语从句”三件套，把身份、履历一次交代清楚，中文宜拆成破折号或“现任……的前主任”来处理。disincentivize sb. from doing 是理解本句的关键搭配，意为“使某人不愿做某事”。"
+        }
+      ],
+      "background": [
+        {
+          "title": "美国体育博彩的州级监管格局",
+          "text_zh": "2018年美国最高法院在 Murphy v. NCAA 案中推翻1992年《职业与业余体育保护法》，联邦层面禁止体育博彩的规定失效，各州可自行立法开放并设立监管机构。此后 DraftKings、FanDuel 等在线平台迅速扩张。因此，对博彩公司的牌照发放、广告投放、负责任博彩措施的监管权主要在州一级（如文中路易斯安那州博彩控制委员会、俄亥俄州赌场控制委员会），联邦议员则多以发函质询、推动立法的方式施压。文中提到的“预测市场”（prediction market）是近年另一类受关注的新型平台，常被批评与体育博彩界线模糊。"
+        },
+        {
+          "title": "“负责任博彩”与问题赌博",
+          "text_zh": "“负责任博彩”（responsible gaming）是博彩业的自律概念，通常包括存款限额、下注限额、时长提醒、冷静期（cool-off）、自我排除名单等工具，由用户自行设置。批评者认为，这类工具默认关闭、提示微弱、设置后又容易被营销推送抵消，实际效果有限。美国问题赌博全国委员会（National Council on Problem Gambling, NCPG）是推动相关研究与求助热线的非营利机构。文中路易斯安那州卫生官员所称“赌博障碍”（gambling disorder），是美国精神医学学会诊断手册中的正式诊断名称，取代了旧称“病理性赌博”。"
+        }
+      ]
+    },
+    "kind": "full",
+    "digest": false,
+    "enrich_attempted": true
+  }
+]

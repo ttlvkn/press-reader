@@ -1,355 +1,5 @@
 [
   {
-    "id": "time-7203ceae18",
-    "source": "time",
-    "source_name": "时代周刊",
-    "source_name_en": "TIME",
-    "color": "#D62828",
-    "section": "U.S.",
-    "url": "https://time.com/article/2026/10/31/d-c-and-virginia-join-the-fight-to-block-trump-s-triumphal-arch-what-happens-next-/",
-    "title_en": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
-    "excerpt_en": "A new lawsuit adds to existing legal battles over the President’s plans to remake Washington.",
-    "body_en": [],
-    "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt736c7b3b6bf8e92d/6ae6450e0fe27a542682b65d/GettyImages-2300894874.jpg?branch=production",
-    "published": "2026-11-01T03:28:26+08:00",
-    "fetched_at": "2026-11-01T09:48:58+08:00",
-    "is_demo": false,
-    "enrich": {
-      "title_zh": "华盛顿特区与弗吉尼亚州加入阻止特朗普“凯旋门”的诉讼行列。接下来会怎样？",
-      "summary_zh": "华盛顿特区与弗吉尼亚州就特朗普总统改造华盛顿的规划提起诉讼，使围绕这一规划的既有法律争端再添一案。RSS 摘要未透露原告身份、诉讼请求和具体建设项目，只点明这是系列官司中最新的一起；标题用“凯旋门”指代该规划中最具标志性的工程。",
-      "difficulty": "B2",
-      "read_minutes": 2,
-      "paragraphs": [
-        {
-          "en": "A new lawsuit adds to existing legal battles over the President’s plans to remake Washington.",
-          "zh": "一起新的诉讼，让围绕总统改造华盛顿计划已经存在的法律战又多了一例。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "lawsuit",
-          "phonetic": "/ˈlɔːsuːt/",
-          "pos": "n.",
-          "meaning_zh": "诉讼；官司（由一方当事人向法院提起）",
-          "example_en": "The city filed a lawsuit against the developer over the destroyed wetlands.",
-          "example_zh": "该市就湿地被破坏一事对开发商提起了诉讼。"
-        },
-        {
-          "word": "add to",
-          "phonetic": "/æd tuː/",
-          "pos": "phr. v.",
-          "meaning_zh": "增添，使增多（add to sth. 表示“为……再添一笔”）",
-          "example_en": "The latest report adds to growing evidence that the drug has serious side effects.",
-          "example_zh": "最新报告为这种药物有严重副作用这一越来越多的证据再添一例。"
-        },
-        {
-          "word": "legal battle",
-          "phonetic": "/ˈliːɡl ˈbætl/",
-          "pos": "n. phr.",
-          "meaning_zh": "法律战、官司之争（新闻高频搭配，指持续多轮、对抗性的诉讼过程）",
-          "example_en": "The two firms have been locked in a legal battle over patents for a decade.",
-          "example_zh": "这两家公司围绕专利已陷入长达十年的法律战。"
-        },
-        {
-          "word": "remake",
-          "phonetic": "/ˌriːˈmeɪk/",
-          "pos": "v.",
-          "meaning_zh": "改造，重塑，重新打造（此处指对一座城市的面貌与规划作大幅改动）",
-          "example_en": "The mayor wants to remake the waterfront into a cultural district.",
-          "example_zh": "市长想把这片滨水区改造成文化街区。"
-        },
-        {
-          "word": "triumphal arch",
-          "phonetic": "/traɪˈʌmfl ɑːrtʃ/",
-          "pos": "n. phr.",
-          "meaning_zh": "凯旋门（古罗马起为纪念军事胜利而建的拱形纪念建筑，如巴黎凯旋门）",
-          "example_en": "The triumphal arch was built to commemorate a military victory.",
-          "example_zh": "这座凯旋门是为纪念一场军事胜利而建的。"
-        },
-        {
-          "word": "block",
-          "phonetic": "/blɑːk/",
-          "pos": "v.",
-          "meaning_zh": "阻止，阻挠（使某事无法推进，常用于政策、工程、立法）",
-          "example_en": "Residents are trying to block construction of the highway through the park.",
-          "example_zh": "居民们正试图阻止修建这条穿过公园的高速公路。"
-        }
-      ],
-      "sentences": [
-        {
-          "en": "D.C. and Virginia Join the Fight to Block Trump's Triumphal Arch.",
-          "structure": "主干：D.C. and Virginia join the fight（主语＋谓语＋宾语）/ 修饰：不定式 to block Trump's Triumphal Arch 作后置定语修饰 the fight，说明“这场仗打的是什么”",
-          "analysis_zh": "这是新闻标题，按标题体例省略了冠词、采用一般现在时以制造“正在发生”的即时感。join the fight 是借喻，字面“加入战斗”，实指“加入诉讼/反对阵营”。不定式 to block 在此既是目的也是内容：这场“fight”的目的就是阻止这座“凯旋门”。把 arch 大写并冠以 Trump's，是标题的修辞手法，用最具画面感的单个建筑代指整套改造计划。"
-        },
-        {
-          "en": "A new lawsuit adds to existing legal battles over the President's plans to remake Washington.",
-          "structure": "主干：A new lawsuit adds to existing legal battles（主＋谓＋宾）/ 修饰一：介词短语 over the President's plans 作后置定语修饰 legal battles，说明争的是什么；修饰二：不定式 to remake Washington 修饰 plans，说明计划的内容",
-          "analysis_zh": "一句话交代了新闻由头：不是第一起官司，而是“又一起”。add to 是关键动词，表明是叠加而非开启，与标题的 Join the Fight 相互呼应。over 在此不是“在……上方”，而是“关于、围绕（争议）”，是外刊报道纠纷时的常用介词。plans to remake Washington 用 remake 而不用 rebuild，暗示的不是修修补补，而是对首都面貌的整体重塑，这也是争议所在。整句刻意不交代原告、被告和诉求，属于典型的 RSS 提要写法：只给“又有新进展”的信号。"
-        }
-      ],
-      "background": [
-        {
-          "title": "为什么华盛顿的工程会打官司",
-          "text_zh": "华盛顿特区的大部分土地归联邦政府所有，在联邦用地上新建纪念性建筑，须经过国家首都规划委员会（NCPC）、美国美术委员会（CFA）等机构审批，并受《国家历史保护法》等法规约束，还要走环境影响评估等程序。反对者往往以“程序不完备”“审批越权”“破坏历史景观”为由起诉，因此这类项目常常在开工前就先进入法院。"
-        },
-        {
-          "title": "特区与弗吉尼亚为何会“下场”",
-          "text_zh": "华盛顿特区不是州，其自治权由国会授予并可被国会干预，涉及联邦土地的规划决定直接影响特区居民与市政；弗吉尼亚州与特区隔波托马克河相望，周边交通、景观、土地利用与联邦工程高度联动。两地以诉讼当事人身份介入，意味着争的不只是“好不好看”，而是谁有权决定首都的样貌。需要说明的是，本条仅依据标题与提要，诉讼的具体原告、被告和请求原文并未给出。"
-        }
-      ]
-    },
-    "kind": "digest",
-    "digest": true,
-    "enrich_attempted": true
-  },
-  {
-    "id": "guardian-247a6d9180",
-    "source": "guardian",
-    "source_name": "卫报",
-    "source_name_en": "The Guardian",
-    "color": "#052962",
-    "section": "Business",
-    "url": "https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated",
-    "title_en": "Is the government really on an ‘out-of-control’ spending splurge? It’s complicated",
-    "excerpt_en": "Defence, the NDIS and health responsible for much of increased government outlays and treasurer Jim Chalmers has few levers to pull",
-    "body_en": [
-      "“Will the prime minister acknowledge reality … and admit Labor’s out-of-control spending is forcing families and small businesses to pay more for everything?”",
-      "That was the opposition leader, Angus Taylor, kicking off parliamentary question time on Wednesday.",
-      "Official data earlier that day showed inflation jumped to 4.3% in the year to September, from 4% the month before. Rapid petrol and diesel price increases had drove that high headline figure.",
-      "But, even removing the impact of soaring fuel prices, underlying inflation ticked higher to 3.7% by the quarterly measure.",
-      "Both measures are way above the Reserve Bank’s 2.5% target – and a fourth interest rate hike on Tuesday looks like a done deal.",
-      "Frustrated Australians are increasingly inclined to believe Taylor’s argument.",
-      "So how much has government spending been rising? Should we blame climbing public expenditure for the cost of living crisis? And what should the government do about it?",
-      "Is the government spending more? The simple answer is: yes.",
-      "This is not surprising as you would expect the government to grow larger alongside the economy and the population.",
-      "But, leaving out the extraordinary payments associated with the Covid-19 pandemic, spending has been climbing at an unusually fast pace.",
-      "Total government expenses have jumped by 30% between 2021-22 and 2025-26, according to the parliamentary budget office.",
-      "Interactive Even after accounting for inflation, federal spending increased by 5.5% in 2024-25, and by 4.3% in 2025-26.",
-      "Stephen Bartos, a University of Canberra professor and a former deputy secretary at the finance department, says there are three key drivers of growing public outlays.",
-      "The first is defence, amid pressure on governments around the world to respond to an increasingly fraught geopolitical reality.",
-      "The second is the national disability insurance scheme (NDIS). Bartos says it would be a “herculean task” for the government to successfully halve growth in the scheme to 6% a year.",
-      "Related: Jim Chalmers is blaming Australia’s accelerating inflation on Trump – but voters aren’t buying it",
-      "“That is still twice as fast as the economy is growing,” he says.",
-      "“It ratcheted up considerably through Covid but never really came down.”",
-      "A more generous pharmaceutical benefits scheme and budgeting for new hospital funding deals with the states were part of the continuing rise in health spending.",
-      "Meanwhile, spending on the care economy beyond the NDIS was also climbing rapidly, as was paying interest on our expanding national debt.",
-      "Public expenditure as a share of the economy is now at its highest since the early 1980s – leaving out the pandemic period.",
-      "Interactive But Stephen Smith, a partner at Deloitte Access Economics, argues rising spending would have happened regardless of who held government."
-    ],
-    "image": "https://media.guim.co.uk/aead9c4b1942ecddf0faa2001845d1d2d68a2aa3/411_0_4099_3281/500.jpg",
-    "published": "2026-10-31T23:00:03Z",
-    "fetched_at": "2026-11-01T09:48:55+08:00",
-    "is_demo": false,
-    "enrich": {
-      "title_zh": "政府真的在“失控”挥霍吗？没那么简单",
-      "summary_zh": "澳大利亚通胀升至4.3%，反对党领袖泰勒指责工党“支出失控”推高物价。核查显示，政府支出确实增长异常快：剔除疫情支出，2021-22至2025-26财年总支出仍增30%，防务、残障保险与医疗是主因，公共支出占经济比重为1980年代初以来最高；但经济学家认为换谁执政都如此。",
-      "difficulty": "C1",
-      "read_minutes": 2,
-      "paragraphs": [
-        {
-          "en": "“Will the prime minister acknowledge reality … and admit Labor’s out-of-control spending is forcing families and small businesses to pay more for everything?”",
-          "zh": "“总理是否愿意正视现实……承认工党失控的支出正迫使家庭和小企业为一切东西付更多的钱？”"
-        },
-        {
-          "en": "That was the opposition leader, Angus Taylor, kicking off parliamentary question time on Wednesday.",
-          "zh": "这是反对党领袖安格斯·泰勒周三在议会质询时间开场时发出的质问。"
-        },
-        {
-          "en": "Official data earlier that day showed inflation jumped to 4.3% in the year to September, from 4% the month before. Rapid petrol and diesel price increases had drove that high headline figure.",
-          "zh": "当天早些时候公布的官方数据显示，截至9月的一年内，通胀率从上一个月的4%跃升至4.3%。汽油和柴油价格的快速上涨推高了这一整体通胀数字。"
-        },
-        {
-          "en": "But, even removing the impact of soaring fuel prices, underlying inflation ticked higher to 3.7% by the quarterly measure.",
-          "zh": "但是，即便剔除燃油价格飙升的影响，按季度衡量的核心通胀率仍小幅升至3.7%。"
-        },
-        {
-          "en": "Both measures are way above the Reserve Bank’s 2.5% target – and a fourth interest rate hike on Tuesday looks like a done deal.",
-          "zh": "两项指标都远高于澳大利亚储备银行2.5%的目标——而周二的第四次加息看起来已成定局。"
-        },
-        {
-          "en": "Frustrated Australians are increasingly inclined to believe Taylor’s argument.",
-          "zh": "心怀不满的澳大利亚人越来越倾向于相信泰勒的说法。"
-        },
-        {
-          "en": "So how much has government spending been rising? Should we blame climbing public expenditure for the cost of living crisis? And what should the government do about it?",
-          "zh": "那么，政府支出到底涨了多少？我们该把生活成本危机归咎于不断攀升的公共支出吗？政府又该如何应对？"
-        },
-        {
-          "en": "Is the government spending more? The simple answer is: yes.",
-          "zh": "政府花得更多了吗？简单回答是：是的。"
-        },
-        {
-          "en": "This is not surprising as you would expect the government to grow larger alongside the economy and the population.",
-          "zh": "这并不令人意外，因为政府本就应随经济和人口的增长而扩大。"
-        },
-        {
-          "en": "But, leaving out the extraordinary payments associated with the Covid-19 pandemic, spending has been climbing at an unusually fast pace.",
-          "zh": "但是，如果撇开与新冠疫情相关的那些非常规支出，支出的攀升速度仍然异常地快。"
-        },
-        {
-          "en": "Total government expenses have jumped by 30% between 2021-22 and 2025-26, according to the parliamentary budget office.",
-          "zh": "根据议会预算办公室的数据，政府总支出在2021-22财年至2025-26财年间跃升了30%。"
-        },
-        {
-          "en": "Interactive Even after accounting for inflation, federal spending increased by 5.5% in 2024-25, and by 4.3% in 2025-26.",
-          "zh": "（互动图表）即便在扣除通胀因素之后，联邦支出在2024-25财年仍增长5.5%，2025-26财年增长4.3%。"
-        },
-        {
-          "en": "Stephen Bartos, a University of Canberra professor and a former deputy secretary at the finance department, says there are three key drivers of growing public outlays.",
-          "zh": "堪培拉大学教授、财政部前副部长斯蒂芬·巴托斯说，公共支出增长有三个主要推手。"
-        },
-        {
-          "en": "The first is defence, amid pressure on governments around the world to respond to an increasingly fraught geopolitical reality.",
-          "zh": "第一是国防——世界各国政府都面临压力，要对日益严峻的地缘政治现实作出回应。"
-        },
-        {
-          "en": "The second is the national disability insurance scheme (NDIS). Bartos says it would be a “herculean task” for the government to successfully halve growth in the scheme to 6% a year.",
-          "zh": "第二是国家残障保险计划（NDIS）。巴托斯说，政府要想成功地把该计划的年增速减半、降到6%，将是一项“艰巨无比的任务”。"
-        },
-        {
-          "en": "Related: Jim Chalmers is blaming Australia’s accelerating inflation on Trump – but voters aren’t buying it",
-          "zh": "相关报道：吉姆·查默斯把澳大利亚不断加速的通胀归咎于特朗普——但选民并不买账。"
-        },
-        {
-          "en": "“That is still twice as fast as the economy is growing,” he says.",
-          "zh": "“这仍然是经济增长速度的两倍。”他说。"
-        },
-        {
-          "en": "“It ratcheted up considerably through Covid but never really came down.”",
-          "zh": "“它在疫情期间大幅抬高，但之后始终没有真正降下来。”"
-        },
-        {
-          "en": "A more generous pharmaceutical benefits scheme and budgeting for new hospital funding deals with the states were part of the continuing rise in health spending.",
-          "zh": "更加慷慨的药品福利计划，以及为与各州达成的新医院拨款协议编列预算，都是医疗支出持续上升的一部分。"
-        },
-        {
-          "en": "Meanwhile, spending on the care economy beyond the NDIS was also climbing rapidly, as was paying interest on our expanding national debt.",
-          "zh": "与此同时，NDIS之外的照护经济支出也在快速攀升，为不断膨胀的国债支付利息也是如此。"
-        },
-        {
-          "en": "Public expenditure as a share of the economy is now at its highest since the early 1980s – leaving out the pandemic period.",
-          "zh": "若不计疫情时期，公共支出占经济的比重目前处于上世纪80年代初以来的最高水平。"
-        },
-        {
-          "en": "Interactive But Stephen Smith, a partner at Deloitte Access Economics, argues rising spending would have happened regardless of who held government.",
-          "zh": "（互动图表）但德勤经济研究所合伙人斯蒂芬·史密斯认为，无论哪个党执政，支出上升都不可避免。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "splurge",
-          "phonetic": "/splɜːdʒ/",
-          "pos": "n.",
-          "meaning_zh": "挥霍；大手大脚地花钱（标题中指政府“乱花钱”的指责）",
-          "example_en": "Critics called the new stadium a taxpayer-funded splurge.",
-          "example_zh": "批评者称这座新体育场是纳税人出钱的挥霍。"
-        },
-        {
-          "word": "headline (figure)",
-          "phonetic": "/ˈhedlaɪn/",
-          "pos": "adj.",
-          "meaning_zh": "（通胀等）整体的、未剔除波动项目的；与 underlying（核心）相对",
-          "example_en": "Headline inflation was driven up by fuel, while core prices rose more slowly.",
-          "example_zh": "整体通胀被燃油价格推高，而核心物价涨得更慢。"
-        },
-        {
-          "word": "underlying",
-          "phonetic": "/ˌʌndəˈlaɪɪŋ/",
-          "pos": "adj.",
-          "meaning_zh": "潜在的；核心的（剔除食品、能源等波动项目后的通胀）",
-          "example_en": "Underlying inflation, which strips out volatile items, remained stubbornly high.",
-          "example_zh": "剔除波动项目的核心通胀仍然居高不下。"
-        },
-        {
-          "word": "tick up",
-          "phonetic": "/tɪk ʌp/",
-          "pos": "phr. v.",
-          "meaning_zh": "小幅上升，微升（常用于数据、价格、比率）",
-          "example_en": "Unemployment ticked up to 4.2% last month.",
-          "example_zh": "上个月失业率小幅升至4.2%。"
-        },
-        {
-          "word": "a done deal",
-          "phonetic": "/dʌn diːl/",
-          "pos": "n. phr.",
-          "meaning_zh": "已成定局的事，木已成舟",
-          "example_en": "With both sides agreeing, the merger is a done deal.",
-          "example_zh": "双方都点头了，这桩合并已成定局。"
-        },
-        {
-          "word": "outlay",
-          "phonetic": "/ˈaʊtleɪ/",
-          "pos": "n.",
-          "meaning_zh": "支出，开支（尤指一笔较大的花费）",
-          "example_en": "The government's capital outlay on transport will double next year.",
-          "example_zh": "政府明年的交通资本支出将翻一番。"
-        },
-        {
-          "word": "herculean",
-          "phonetic": "/ˌhɜːkjuˈliːən/",
-          "pos": "adj.",
-          "meaning_zh": "（任务）极其艰巨的，需超凡努力的",
-          "example_en": "Cutting the deficit in one year would be a herculean task.",
-          "example_zh": "要在一年内削减赤字将是一项艰巨无比的任务。"
-        },
-        {
-          "word": "ratchet up",
-          "phonetic": "/ˈrætʃɪt ʌp/",
-          "pos": "phr. v.",
-          "meaning_zh": "使逐级上升、不断加码（含“只升不降”的意味）",
-          "example_en": "Costs ratcheted up during the boom and never came back down.",
-          "example_zh": "成本在繁荣期节节攀升，此后再也没有降下来。"
-        },
-        {
-          "word": "fraught",
-          "phonetic": "/frɔːt/",
-          "pos": "adj.",
-          "meaning_zh": "充满风险与紧张的，令人忧虑的",
-          "example_en": "The region remains one of the world's most fraught flashpoints.",
-          "example_zh": "该地区仍是世界上最令人忧虑的热点之一。"
-        },
-        {
-          "word": "care economy",
-          "phonetic": "/keə ɪˈkɒnəmi/",
-          "pos": "n.",
-          "meaning_zh": "照护经济（护理、养老、幼托、残障服务等行业的总和）",
-          "example_en": "An ageing population is expanding the care economy faster than GDP.",
-          "example_zh": "人口老龄化正使照护经济的扩张速度快于GDP。"
-        }
-      ],
-      "sentences": [
-        {
-          "en": "Official data earlier that day showed inflation jumped to 4.3% in the year to September, from 4% the month before.",
-          "structure": "主干：Official data（主）showed（谓）[宾语从句 inflation jumped to 4.3%]；修饰：earlier that day 后置修饰 data，in the year to September 与 from 4% the month before 均是从句内的时间/起点状语。",
-          "analysis_zh": ""
-        },
-        {
-          "en": "But, leaving out the extraordinary payments associated with the Covid-19 pandemic, spending has been climbing at an unusually fast pace.",
-          "structure": "主干：spending（主）has been climbing（谓，现在完成进行时）at an unusually fast pace（方式状语）；修饰：leaving out … 为现在分词短语作状语，表条件/排除；associated with the Covid-19 pandemic 为过去分词短语后置修饰 payments。",
-          "analysis_zh": ""
-        },
-        {
-          "en": "A more generous pharmaceutical benefits scheme and budgeting for new hospital funding deals with the states were part of the continuing rise in health spending.",
-          "structure": "主干：A more generous pharmaceutical benefits scheme and budgeting for new hospital funding deals with the states（并列主语）were（系动词）part of the continuing rise in health spending（表语）。",
-          "analysis_zh": ""
-        }
-      ],
-      "background": [
-        {
-          "title": "澳大利亚财年与储备银行的通胀目标",
-          "text_zh": "文中“2021-22”“2025-26”是澳大利亚财年，从每年7月1日算到次年6月30日，因此“2024-25”指2024年7月至2025年6月。澳大利亚储备银行（Reserve Bank of Australia，即央行）的通胀目标是一个区间2%—3%，取中值即文中说的2.5%；官方同时发布“整体通胀”（headline，含燃油等波动项）和按季度衡量的“核心通胀”（underlying），后者被视为更能反映真实价格压力，也是央行决定利率的主要依据。"
-        },
-        {
-          "title": "NDIS 与药品福利计划（PBS）",
-          "text_zh": "NDIS（国家残障保险计划）是澳大利亚自2013年前后逐步推开的全国性制度，为永久且显著残障人士提供由公共财政出资的个性化服务资助，近年成本增速远高于经济增长，被视为联邦预算最大的结构性压力之一，政府因此提出把年增速压到6%。PBS（药品福利计划）则是政府补贴处方药的制度：政府与药企谈判药价、确定哪些药纳入补贴清单，并设定患者自付上限，因此“更慷慨的PBS”直接意味着财政支出增加。两者都属于难以压缩的刚性民生支出。"
-        }
-      ]
-    },
-    "kind": "full",
-    "digest": false,
-    "enrich_attempted": true
-  },
-  {
     "id": "time-40678d00e5",
     "source": "time",
     "source_name": "时代周刊",
@@ -362,89 +12,84 @@
     "body_en": [],
     "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt39be7cc1b8b06346/6ae4e559376c360bbd0d1310/GettyImages-2288050691.jpg?branch=production",
     "published": "2026-10-31T20:30:00+08:00",
-    "fetched_at": "2026-11-01T09:48:58+08:00",
+    "fetched_at": "2026-11-01T01:57:46+08:00",
     "is_demo": false,
     "enrich": {
-      "title_zh": "美国人去年因网络诈骗损失近180亿美元，华盛顿帮他们追回的钱够多吗？",
-      "summary_zh": "一项国会调查发现，联邦政府在协助美国人追回网络诈骗损失方面存在明显不足。报道以去年美国人被网络骗子骗走近180亿美元为切入点，追问华盛顿的补救机制是否足够：受害者能否真正拿回钱、由哪些机构负责、漏洞又出在哪里。",
+      "title_zh": "美国人去年因网络诈骗损失近180亿美元。华盛顿在帮他们追回损失上做得够吗？",
+      "summary_zh": "文章报道，一项国会调查指出，美国民众去年因网络诈骗损失近180亿美元，而联邦政府在帮助受害者追回这些资金方面存在明显缺口。调查由此提出疑问：华盛顿的应对和补救机制是否足够有力。",
       "difficulty": "C1",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "A Congressional investigation identifies gaps in federal efforts to help Americans recover billions of dollars lost to scammers online.",
-          "zh": "一项国会调查发现，联邦政府在帮助美国人追回被网络诈骗者骗走的数十亿美元资金方面存在明显不足。"
+          "zh": "一项国会调查指出，联邦政府在帮助美国人追回因网络诈骗分子而损失的大量资金方面存在不足。"
         }
       ],
       "vocab": [
         {
-          "word": "congressional",
+          "word": "Congressional",
           "phonetic": "/kənˈɡreʃənl/",
           "pos": "adj.",
-          "meaning_zh": "国会的；（美国）国会两院的。新闻体里首字母常大写，表示“（美国）国会层面的”。",
-          "example_en": "The congressional report criticized the agency for slow responses to fraud complaints.",
-          "example_zh": "这份国会报告批评该机构对诈骗投诉处理缓慢。"
+          "meaning_zh": "国会的；与美国国会有关的",
+          "example_en": "A Congressional committee will hold a hearing next week.",
+          "example_zh": "一个国会委员会将于下周举行听证会。"
         },
         {
           "word": "investigation",
           "phonetic": "/ɪnˌvestɪˈɡeɪʃn/",
           "pos": "n.",
-          "meaning_zh": "（正式的）调查、审查；在政治新闻中多指委员会调查、听证调查，而非警方侦查。",
-          "example_en": "The Senate launched an investigation into how the money was laundered.",
-          "example_zh": "参议院就这些钱如何被洗白展开调查。"
+          "meaning_zh": "调查；审查",
+          "example_en": "The investigation found serious weaknesses in the system.",
+          "example_zh": "调查发现该体系存在严重薄弱环节。"
         },
         {
           "word": "identify",
           "phonetic": "/aɪˈdentɪfaɪ/",
           "pos": "v.",
-          "meaning_zh": "指出、找出（问题所在）。identify gaps 是外刊高频搭配，意为“找出……的空白和漏洞”。",
-          "example_en": "The audit identified gaps in how banks screen suspicious transfers.",
-          "example_zh": "审计指出了银行在筛查可疑转账方面的漏洞。"
+          "meaning_zh": "指出；确认；识别出",
+          "example_en": "The report identifies three main causes of the problem.",
+          "example_zh": "报告指出了该问题的三个主要原因。"
         },
         {
           "word": "gap",
           "phonetic": "/ɡæp/",
           "pos": "n.",
-          "meaning_zh": "（制度、工作、能力上的）缺口、空白、漏洞。这里熟词僻义，与 space“缝隙”无关。",
-          "example_en": "There is a gap between what victims are promised and what they actually recover.",
-          "example_zh": "受害者得到的承诺与实际追回的金额之间存在缺口。"
+          "meaning_zh": "缺口；不足；差距",
+          "example_en": "There is a gap between policy and practice.",
+          "example_zh": "政策与实践之间存在差距。"
         },
         {
           "word": "federal",
           "phonetic": "/ˈfedərəl/",
           "pos": "adj.",
-          "meaning_zh": "联邦（政府）的；在美国语境下指华盛顿中央政府，区别于州和地方政府。",
-          "example_en": "Fraud cases often fall between federal and state authorities.",
-          "example_zh": "诈骗案件常常在联邦与州当局之间互相推诿。"
+          "meaning_zh": "联邦的；联邦政府层面的",
+          "example_en": "The program is funded by the federal government.",
+          "example_zh": "该项目由联邦政府资助。"
         },
         {
-          "word": "scammer",
-          "phonetic": "/ˈskæmər/",
-          "pos": "n.",
-          "meaning_zh": "骗子、诈骗者；由 scam（诈骗）加 -er 构成，口语色彩较强，新闻标题里常用来替代 fraudster。",
-          "example_en": "Scammers often pose as tech support to get remote access to a victim’s computer.",
-          "example_zh": "骗子常冒充技术支持人员，以远程控制受害者的电脑。"
+          "word": "recover",
+          "phonetic": "/rɪˈkʌvər/",
+          "pos": "v.",
+          "meaning_zh": "追回；找回；挽回",
+          "example_en": "Victims are trying to recover the money they lost.",
+          "example_zh": "受害者正试图追回他们损失的钱。"
         }
       ],
       "sentences": [
         {
           "en": "A Congressional investigation identifies gaps in federal efforts to help Americans recover billions of dollars lost to scammers online.",
-          "structure": "主干：A Congressional investigation（主语）identifies（谓语）gaps（宾语）；修饰：in federal efforts 为介词短语，后置修饰 gaps，说明“哪方面的缺口”；to help Americans (to) recover... 为不定式短语，作 efforts 的后置定语，说明努力的内容；lost to scammers online 为过去分词短语，后置修饰 billions of dollars。",
-          "analysis_zh": "这是典型的新闻摘要句：主语和谓语极短，把结论“发现缺口”放在最前面，再用一串后置修饰层层补充细节，信息密度高但不堆砌从句。identify gaps 是调查类报道的固定搭配，本身就暗示批评态度，即“有问题没被补上”。注意 lost to 中的 to 表示“因……而失去”，不是“丢给”；billions of dollars 后置的过去分词短语相当于定语从句 that were lost to scammers online，压缩后更省字数。写作时可借用这个结构：主体 finds/identifies + 抽象名词 + in ... efforts to ...。"
-        },
-        {
-          "en": "Americans Lost Nearly $18 Billion Last Year to Cyberscams. Is Washington Doing Enough to Help Them Get It Back?",
-          "structure": "第一句主干：Americans（主语）lost（谓语）$18 Billion（宾语）；修饰：Nearly 修饰数量，Last Year 为时间状语，to Cyberscams 表示损失的原因或去向。第二句是疑问句，主干：Washington（主语）Is Doing（谓语）enough（宾语）；修饰：to help them get it back 为目的状语。",
-          "analysis_zh": "标题由“陈述事实 + 设问”两部分构成，是外刊标题的常见写法：先用确切数字制造冲击力，再把判断权抛给读者。lose something to something 意为“因……而损失……”，比被动式被动语态更简洁；Washington 是借代，用首都指代美国联邦政府及其监管机构，而不是城市本身。get it back 用 it 回指前句的 18 billion dollars，口语化，让标题不那么生硬。"
+          "structure": "主干：A Congressional investigation identifies gaps（主语 + 谓语 + 宾语）。修饰：in federal efforts 修饰 gaps；to help Americans recover... 修饰 efforts；lost to scammers online 修饰 billions of dollars。",
+          "analysis_zh": "这是新闻摘要常用的压缩句式：先给出调查结论，再用层层后置修饰说明缺口所在、援助目的和资金损失来源。翻译时不宜逐字照搬，可拆成“联邦政府在……方面存在不足”，更符合中文表达习惯。"
         }
       ],
       "background": [
         {
-          "title": "美国的“国会调查”是怎么运作的",
-          "text_zh": "美国国会本身没有执法权，但各委员会（如参议院常设调查小组委员会、众议院监督与问责委员会）可以发传票调取企业内部文件、传唤官员与公司高管出席听证，并在调查结束后发布公开报告。这类报告不能直接处罚任何人，作用在于把问题摆到公众面前，并推动立法、预算拨款或行政机构整改。因此报道说“调查发现缺口”，下一步通常是追问“国会是否补上这一缺口、由哪个机构负责”。"
+          "title": "Washington 指代美国联邦政府",
+          "text_zh": "美国媒体常用 Washington（华盛顿）代指美国联邦政府及其决策机构，因为国会、白宫及主要联邦部门都位于华盛顿特区。标题中的“Is Washington Doing Enough”问的是联邦层面是否采取了足够行动，而不是指华盛顿市政府。"
         },
         {
-          "title": "诈骗损失数据从哪里来、为什么重要",
-          "text_zh": "美国的诈骗损失统计主要来自两类渠道：联邦贸易委员会（FTC）的消费者投诉数据库（Consumer Sentinel），以及联邦调查局（FBI）的网络犯罪投诉中心（IC3）年度报告。两者都依据受害者主动报案，因此学界普遍认为实际损失高于统计数字。也正因为钱一旦经电汇、礼品卡或加密货币转出，追回难度极大，“能否把钱拿回来”在美国一直是个涉及银行、执法与消费者保护机构多方权责的争议问题。"
+          "title": "国会调查的作用",
+          "text_zh": "美国国会除立法外，还通过委员会开展调查、举行听证并要求提交文件，以监督行政部门和政策执行。此类调查可以形成报告并推动立法或舆论压力，但本身通常不直接追诉诈骗或替受害者追款。"
         }
       ]
     },
@@ -465,11 +110,11 @@
     "body_en": [],
     "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt953e7b5d8ba5e15c/6ae4becd9c5f313475eb3a02/pumpkin-US.jpg?branch=production",
     "published": "2026-10-31T20:00:03+08:00",
-    "fetched_at": "2026-11-01T09:48:58+08:00",
+    "fetched_at": "2026-11-01T01:57:46+08:00",
     "is_demo": false,
     "enrich": {
-      "title_zh": "为什么不该把万圣节的旧南瓜扔进垃圾桶",
-      "summary_zh": "万圣节过后，数以百万计的南瓜需要处理。文章标题直接给出建议：不要把用剩的旧南瓜当作普通垃圾丢掉，而应另作处置。由于刊物只放出标题与提要，正文的具体理由（如堆肥、再利用或减量）未在材料中展开。",
+      "title_zh": "为什么你不该把万圣节的旧南瓜扔进垃圾桶",
+      "summary_zh": "万圣节过后，数以百万计的南瓜需要处理，而多数家庭的第一反应是直接丢进垃圾桶。标题明确反对这种做法，暗示正文会给出更环保的处理方式。提要只点出一个事实：节后南瓜的弃置量极大，集中丢弃会带来环境代价。至于具体替代方案，编辑并未在提要中透露。",
       "difficulty": "B2",
       "read_minutes": 2,
       "paragraphs": [
@@ -483,314 +128,51 @@
           "word": "toss",
           "phonetic": "/tɒs/",
           "pos": "v.",
-          "meaning_zh": "随手扔掉，丢（比 throw 更口语、更随意，常含“一甩了之”的意味）",
-          "example_en": "Don't just toss the empty bottles in the bin—rinse them first.",
-          "example_zh": "别把空瓶子随手丢进垃圾桶，先冲一下。"
+          "meaning_zh": "随手扔、丢弃（口语色彩强，比 throw 更随意，常含“不当回事地一扔”的意味）；另有“抛、颠”之义",
+          "example_en": "Don't just toss those batteries in the bin—take them to a collection point.",
+          "example_zh": "别把那些电池随手扔进垃圾桶，送到回收点去。"
         },
         {
           "word": "dispose of",
           "phonetic": "/dɪˈspəʊz əv/",
-          "pos": "phr. v.",
-          "meaning_zh": "处理掉、处置（废弃物等）；正式用语，媒体谈垃圾、资产、证据时高频使用",
+          "pos": "phr.",
+          "meaning_zh": "处理掉、清除（废物等）；正式用语，是外刊谈垃圾、废弃物时的固定搭配",
           "example_en": "The company was fined for illegally disposing of chemical waste.",
-          "example_zh": "该公司因非法处置化学废料而被罚款。"
+          "example_zh": "该公司因非法处理化学废料而被罚款。"
         },
         {
           "word": "millions of",
           "phonetic": "/ˈmɪljənz əv/",
           "pos": "phr.",
-          "meaning_zh": "数以百万计的，大量的（概数表达，用于强调规模而无需给出精确数字）",
-          "example_en": "Millions of tons of food are wasted every year.",
-          "example_zh": "每年有数百万吨食物被浪费。"
+          "meaning_zh": "数以百万计的、成百上千万的；用复数表示数量之大而无需给出精确数字，是新闻提要中制造规模感的常用手段",
+          "example_en": "Millions of people tuned in to watch the final.",
+          "example_zh": "数百万观众收看了决赛。"
         },
         {
           "word": "trash",
           "phonetic": "/træʃ/",
           "pos": "n.",
-          "meaning_zh": "垃圾（美式英语；英式常用 rubbish，正式场合多用 waste）",
-          "example_en": "The kids left their candy wrappers in the trash.",
-          "example_zh": "孩子们把糖纸扔在了垃圾桶里。"
-        },
-        {
-          "word": "Halloween",
-          "phonetic": "/ˌhæləʊˈiːn/",
-          "pos": "n.",
-          "meaning_zh": "万圣节前夜（10 月 31 日），西方以南瓜灯、化装、讨糖为标志的节日",
-          "example_en": "Children go door to door in costumes on Halloween.",
-          "example_zh": "万圣节前夜，孩子们穿着化装服挨家挨户上门。"
+          "meaning_zh": "垃圾、废弃物（美式英语；英式多用 rubbish，正式场合多用 waste）",
+          "example_en": "The streets were littered with trash after the parade.",
+          "example_zh": "游行过后，街上到处是垃圾。"
         }
       ],
       "sentences": [
         {
           "en": "Millions of pumpkins need to be disposed of after Halloween.",
-          "structure": "主干：Millions of pumpkins（主语）+ need to be disposed of（谓语，被动）／修饰：after Halloween 为时间状语，说明动作发生的时间节点",
-          "analysis_zh": "这是一个“主语 + need + 不定式被动”的简单句，信息密度却很高。第一，主语用 Millions of pumpkins 而非具体数字，是新闻提要常见的概数写法，先给读者一个规模感。第二，谓语用被动式 need to be disposed of，把“谁来处理”隐去，焦点落在“南瓜成了待处理的废弃物”这一事实本身；dispose of 中的介词 of 留在句末，是英语“介词悬空”的典型情况，不能省略。第三，after Halloween 置于句末，制造出一种“节日的热闹刚结束，问题就来了”的反差，正好与标题中“别扔进垃圾桶”的劝告形成呼应：提要只摆出问题，标题才给出态度。"
+          "structure": "主干：Millions of pumpkins（主语）+ need to be disposed of（谓语，“need + 不定式被动”）；修饰：after Halloween 为时间状语，置于句末",
+          "analysis_zh": "这句的看点在于 dispose of 的被动形式。dispose of 是“动词 + 介词”的短语动词，介词 of 不能丢，因此被动时介词仍留在句末：be disposed of，而不是 be disposed。其次，need 后接不定式被动 to be disposed of，表示“需要被处理”，这是英语里表达“某物有待处理”的标准结构，等同 need disposing of（动名词主动表被动，但此用法较少见）。再者，主语用 Millions of pumpkins 而非 The pumpkins，是把话题放在“量”上：问题不在于南瓜本身，而在于节后南瓜堆积的规模。全句没有主语人称，读者被默认代入“扔南瓜的人”，为标题的劝告语气作了铺垫。"
         }
       ],
       "background": [
         {
-          "title": "万圣节南瓜：从装饰品到垃圾",
-          "text_zh": "雕刻南瓜灯（jack-o'-lantern）是英美万圣节的核心习俗，南瓜因此成为节日期间销量极大的农产品。以美国为例，南瓜年产量以十亿磅计，主产区在伊利诺伊州，且其中绝大部分是供观赏雕刻的品种，而非食用的罐头南瓜（加工用南瓜多单独种植）。这就造成一个结构性问题：节日一过，大量完好却“不适合上餐桌”的南瓜集中变成废弃物。另外，在欧美，食物类废弃物若进入填埋场，会在缺氧条件下分解并释放甲烷（methane），这是一种温室效应远强于二氧化碳的气体；因此许多地方推行厨余堆肥或专门的有机垃圾回收。南瓜的“节日性浪费”常被媒体作为这类话题的切入口。"
+          "title": "万圣节南瓜：从“杰克灯”到节后垃圾",
+          "text_zh": "万圣节刻南瓜灯的习俗源于爱尔兰的“杰克灯”（jack-o'-lantern）传说，最初用的是芜菁（turnip），移民到北美后改用当地更易雕刻、产量更大的南瓜。于是南瓜在美国成了一种典型的“一次性”农产品：专门供雕刻的品种（carving pumpkins）纤维粗、水分多、甜度低，口感远不如食用南瓜，很多人刻完就扔，并不会拿来烹饪。节后集中丢弃的南瓜大多进入垃圾填埋场；有机物在填埋场的缺氧环境中分解，会产生甲烷（methane）——一种温室效应远强于二氧化碳的气体。正因如此，食物残渣和园林废弃物如何处理，长期是城市固废管理中的议题，常见替代做法包括堆肥、交由市政绿色垃圾回收，或送到动物园、农场作饲料。"
         }
       ]
     },
     "kind": "blurb",
     "digest": true,
-    "enrich_attempted": true
-  },
-  {
-    "id": "guardian-a485eedb2c",
-    "source": "guardian",
-    "source_name": "卫报",
-    "source_name_en": "The Guardian",
-    "color": "#052962",
-    "section": "Culture",
-    "url": "https://www.theguardian.com/culture/2026/nov/01/michael-theo-interview-love-on-the-spectrum-austin-star",
-    "title_en": "Michael Theo: ‘I want to be on Dancing with the Stars! Would a top hat be too much?’",
-    "excerpt_en": "The Austin and Love on the Spectrum star on meeting Billie Piper, the strangest thing he’s done for love and his extremely packed fantasy dinner party",
-    "body_en": [
-      "The world fell in love with you on Love on the Spectrum. You didn’t find a partner during filming, but have you found love since?",
-      "I was in a relationship for 18 months until April this year. I loved being a boyfriend. The best thing about being a boyfriend is probably being in a committed relationship, and also the fact that you get to kiss your girlfriend anytime you want – except for when she’s not in the highest of spirits.",
-      "Yes, it’s best if both people want to kiss at the same time.",
-      "What’s the strangest thing you’ve ever done for love?",
-      "I’m not sure if this counts as strange, but flying to the opposite side of the country for a date – from Sydney to Perth, about three years ago. I did it once, and I would even fly overseas if I had to. It wasn’t for television, and nothing romantic came of it, but a platonic relationship did.",
-      "Related: Anthony LaPaglia: ‘There is not a role I didn’t get that I ever gave more than four hours of grievance to – even Tony Soprano’",
-      "You star in the show Austin, and in the first series you meet Billie Piper. What’s she like?",
-      "Meeting Billie Piper was quite an honour because I am quite a fan of her music – especially the song Day and Night. I have seen clips of her on Doctor Who, and she was wonderful in that show, but I have to admit I’ve never been a Doctor Who fan.",
-      "Is it true that you stayed with Sally Phillips when you were filming Austin in the UK?",
-      "I did, when I was there for the first time. If I was given the chance to stay with her again, I would do it.",
-      "On a scale of one to 10, I would give her a 9.5 out of 10.",
-      "What’s been your most memorable interaction with a fan?",
-      "I’ve actually had many memorable interactions with fans. They’re all lovely encounters because it’s nice to be recognised and it’s lovely receiving that kind of attention, but it’s not the most important thing in the world. Here’s the thing: because fans love and admire your work so much, the least you can do is just give them a moment of your time. And if they ask for a selfie, I allow it because it puts a smile on their face and it makes their day.",
-      "No. But if I had a nemesis, I would only want a nemesis for the sole purpose of novelty. Because I have no interest in defeating that person, or one-upping them. I would much rather focus on the novelty, which would be trash-talking them and getting under their skin. Just for the fun of it! I like the challenge.",
-      "If you could plan a fantasy dinner party of people, who would be on your guest list?",
-      "It would be people like [voice actors] Daws Butler, Don Messick, Mel Blanc, Phil Hartman; Alan Hale Jr, Bob Denver – all the cast of Gilligan’s Island; [comedians] Marc Evan Jackson, Nick Offerman; all the cast of Modern Family, Parks and Recreation, The Good Place, Brooklyn Nine-Nine; along with Antonio Banderas, Javier Bardem, Jack Black. Gia Carides, the whole cast of Austin. I would also invite Stephen Curry, Shane Jacobson, Susie Porter, Justine Clarke, Claudia Karvan, Rob Collins …",
-      "Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Sunday morning",
-      "It’s gonna be a big party! Who is catering?",
-      "What food would I serve them? I would most likely serve them Mediterranean-style food. And I would most likely need some help from my mother.",
-      "Of course! Also there would be two other people I would add to the list: Ian McShane and JK Simmons.",
-      "If you could have a sandwich named after you, what would be in it?",
-      "Chicken breast, Swiss cheese, boiled egg, sliced pickles, onion and lettuce, on rye bread. Maybe it could be called something like “The Mr A+ Sandwich”, because rye bread is the best one and the ingredients should be healthy as well. Food should be about nutrition, not just flavour and enjoyment."
-    ],
-    "image": "https://media.guim.co.uk/e6fc61e8af2e46f28e317532b4291232519af2af/0_604_2652_2121/500.jpg",
-    "published": "2026-10-31T19:00:50Z",
-    "fetched_at": "2026-11-01T09:48:57+08:00",
-    "is_demo": false,
-    "enrich": {
-      "title_zh": "迈克尔·西奥：“我想上《与星共舞》！戴顶高礼帽会不会太过头？”",
-      "summary_zh": "这是《卫报》文化版对真人秀《光谱上的爱》嘉宾、现出演英剧《奥斯汀》的迈克尔·西奥的问答访谈。他谈到今年四月结束的18个月恋情、为约会从悉尼飞到珀斯的往事，谈到与比莉·派珀、莎莉·菲利普斯的相处，也谈到粉丝互动、想象中的“宿敌”和幻想晚宴名单，最后认真说出自己理想中的同名三明治配方。",
-      "difficulty": "B2",
-      "read_minutes": 4,
-      "paragraphs": [
-        {
-          "en": "The world fell in love with you on Love on the Spectrum. You didn’t find a partner during filming, but have you found love since?",
-          "zh": "全世界都在《光谱上的爱》里爱上了你。拍摄期间你没有找到伴侣，那之后你找到爱情了吗？"
-        },
-        {
-          "en": "I was in a relationship for 18 months until April this year. I loved being a boyfriend. The best thing about being a boyfriend is probably being in a committed relationship, and also the fact that you get to kiss your girlfriend anytime you want – except for when she’s not in the highest of spirits.",
-          "zh": "我谈过一段18个月的恋爱，一直谈到今年四月。我很喜欢当男朋友。当男朋友最棒的地方，大概就是身处一段认真的关系里；还有就是你可以随时亲你的女朋友——除非她心情不是最好的时候。"
-        },
-        {
-          "en": "Yes, it’s best if both people want to kiss at the same time.",
-          "zh": "对，最好是两个人都想亲的时候再亲。"
-        },
-        {
-          "en": "What’s the strangest thing you’ve ever done for love?",
-          "zh": "你为爱做过的最奇怪的事是什么？"
-        },
-        {
-          "en": "I’m not sure if this counts as strange, but flying to the opposite side of the country for a date – from Sydney to Perth, about three years ago. I did it once, and I would even fly overseas if I had to. It wasn’t for television, and nothing romantic came of it, but a platonic relationship did.",
-          "zh": "我不确定这算不算奇怪，但大约三年前，我为了约会飞到了国家的另一端——从悉尼到珀斯。我只这么干过一次，如果有必要，我甚至愿意飞到国外去。那趟不是为了电视节目，也没谈出什么浪漫的结果，但确实结下了一段柏拉图式的友谊。"
-        },
-        {
-          "en": "Related: Anthony LaPaglia: ‘There is not a role I didn’t get that I ever gave more than four hours of grievance to – even Tony Soprano’",
-          "zh": "相关阅读：安东尼·拉帕格利亚：“凡是我没拿到的角色，我最多难过四个小时——哪怕是托尼·索普拉诺”"
-        },
-        {
-          "en": "You star in the show Austin, and in the first series you meet Billie Piper. What’s she like?",
-          "zh": "你出演剧集《奥斯汀》，在第一季里你遇到了比莉·派珀。她是个什么样的人？"
-        },
-        {
-          "en": "Meeting Billie Piper was quite an honour because I am quite a fan of her music – especially the song Day and Night. I have seen clips of her on Doctor Who, and she was wonderful in that show, but I have to admit I’ve never been a Doctor Who fan.",
-          "zh": "见到比莉·派珀是件很荣幸的事，因为我很喜欢她的音乐——尤其是那首《Day and Night》。我看过她在《神秘博士》里的片段，她在那个剧里表现得非常好，但我得承认，我从来不是《神秘博士》的粉丝。"
-        },
-        {
-          "en": "Is it true that you stayed with Sally Phillips when you were filming Austin in the UK?",
-          "zh": "你在英国拍《奥斯汀》的时候住在莎莉·菲利普斯家里，这是真的吗？"
-        },
-        {
-          "en": "I did, when I was there for the first time. If I was given the chance to stay with her again, I would do it.",
-          "zh": "是真的，我第一次去英国的时候就住在她家。如果再有机会住她那里，我一定还会去。"
-        },
-        {
-          "en": "On a scale of one to 10, I would give her a 9.5 out of 10.",
-          "zh": "按一到十分打分，我会给她9.5分。"
-        },
-        {
-          "en": "What’s been your most memorable interaction with a fan?",
-          "zh": "你和粉丝之间最难忘的一次互动是什么？"
-        },
-        {
-          "en": "I’ve actually had many memorable interactions with fans. They’re all lovely encounters because it’s nice to be recognised and it’s lovely receiving that kind of attention, but it’s not the most important thing in the world. Here’s the thing: because fans love and admire your work so much, the least you can do is just give them a moment of your time. And if they ask for a selfie, I allow it because it puts a smile on their face and it makes their day.",
-          "zh": "其实我和粉丝有过很多难忘的互动。这些都是很美好的相遇，因为被人认出来是件开心的事，得到那种关注也很美好，但它并不是世界上最重要的事。事情是这样的：既然粉丝那么热爱、那么欣赏你的作品，你最起码能做的就是给他们一点时间。如果他们想合影，我会答应，因为那能让他们脸上带笑，让他们一整天都开心。"
-        },
-        {
-          "en": "No. But if I had a nemesis, I would only want a nemesis for the sole purpose of novelty. Because I have no interest in defeating that person, or one-upping them. I would much rather focus on the novelty, which would be trash-talking them and getting under their skin. Just for the fun of it! I like the challenge.",
-          "zh": "没有。但如果我要有个宿敌，我只会为了图个新鲜才想要。因为我对打败那个人、或者压他一头毫无兴趣。我更愿意把心思放在这份新鲜感上，也就是对他放放狠话、惹他恼火。纯粹为了好玩！我喜欢这种挑战。"
-        },
-        {
-          "en": "If you could plan a fantasy dinner party of people, who would be on your guest list?",
-          "zh": "如果你能策划一场幻想中的晚宴，你的嘉宾名单上会有谁？"
-        },
-        {
-          "en": "It would be people like [voice actors] Daws Butler, Don Messick, Mel Blanc, Phil Hartman; Alan Hale Jr, Bob Denver – all the cast of Gilligan’s Island; [comedians] Marc Evan Jackson, Nick Offerman; all the cast of Modern Family, Parks and Recreation, The Good Place, Brooklyn Nine-Nine; along with Antonio Banderas, Javier Bardem, Jack Black. Gia Carides, the whole cast of Austin. I would also invite Stephen Curry, Shane Jacobson, Susie Porter, Justine Clarke, Claudia Karvan, Rob Collins …",
-          "zh": "会是像（配音演员）道斯·巴特勒、唐·梅西克、梅尔·布兰克、菲尔·哈特曼这样的人；小艾伦·黑尔、鲍勃·丹佛——《吉里根岛》的全班人马；（喜剧演员）马克·埃文·杰克逊、尼克·奥弗曼；《摩登家庭》《公园与游憩》《善地》《神烦警探》的全套演员；再加上安东尼奥·班德拉斯、哈维尔·巴登、杰克·布莱克。还有吉娅·卡里德斯，《奥斯汀》全体演员。我还会邀请斯蒂芬·库里、谢恩·雅各布森、苏茜·波特、贾斯汀·克拉克、克劳迪娅·卡文、罗布·柯林斯……"
-        },
-        {
-          "en": "Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Sunday morning",
-          "zh": "订阅我们的趣味内容：每周日早晨，为你奉上必读清单、流行文化和周末小贴士。"
-        },
-        {
-          "en": "It’s gonna be a big party! Who is catering?",
-          "zh": "那可会是场大派对！谁来承办餐饮？"
-        },
-        {
-          "en": "What food would I serve them? I would most likely serve them Mediterranean-style food. And I would most likely need some help from my mother.",
-          "zh": "我会给他们上什么菜？我大概会上地中海风味的食物。而且我大概需要我妈妈来帮点忙。"
-        },
-        {
-          "en": "Of course! Also there would be two other people I would add to the list: Ian McShane and JK Simmons.",
-          "zh": "当然！另外还有两个人我会加到名单上：伊恩·麦克肖恩和J·K·西蒙斯。"
-        },
-        {
-          "en": "If you could have a sandwich named after you, what would be in it?",
-          "zh": "如果有一款三明治以你的名字命名，里面会夹些什么？"
-        },
-        {
-          "en": "Chicken breast, Swiss cheese, boiled egg, sliced pickles, onion and lettuce, on rye bread. Maybe it could be called something like “The Mr A+ Sandwich”, because rye bread is the best one and the ingredients should be healthy as well. Food should be about nutrition, not just flavour and enjoyment.",
-          "zh": "鸡胸肉、瑞士奶酪、水煮蛋、酸黄瓜片、洋葱和生菜，夹在黑麦面包里。也许可以叫“A+先生三明治”之类的名字，因为黑麦面包是最好的，配料也应该健康。食物应该讲营养，而不只是味道和享受。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "in the highest of spirits",
-          "phonetic": "/ɪn ðə ˈhaɪɪst əv ˈspɪrɪts/",
-          "pos": "phrase",
-          "meaning_zh": "心情极佳、情绪高涨（文中用否定形式，指“心情不太好”）",
-          "example_en": "She was in the highest of spirits after hearing the news.",
-          "example_zh": "听到这个消息后，她心情好得不得了。"
-        },
-        {
-          "word": "platonic",
-          "phonetic": "/pləˈtɒnɪk/",
-          "pos": "adj.",
-          "meaning_zh": "柏拉图式的，纯友谊的（不含恋爱或性关系）",
-          "example_en": "They stayed platonic friends for years before anything romantic happened.",
-          "example_zh": "他们做了多年纯朋友，后来才有了浪漫的发展。"
-        },
-        {
-          "word": "come of something",
-          "phonetic": "/kʌm əv/",
-          "pos": "phrase",
-          "meaning_zh": "由……产生（某种结果），常用于 nothing came of it（没下文、没结果）",
-          "example_en": "They talked for hours, but nothing came of the discussion.",
-          "example_zh": "他们谈了几个小时，但讨论没有任何结果。"
-        },
-        {
-          "word": "grievance",
-          "phonetic": "/ˈɡriːvəns/",
-          "pos": "n.",
-          "meaning_zh": "不满、委屈、抱怨（文中指对落选角色耿耿于怀）",
-          "example_en": "He nursed a grievance against his former employer for years.",
-          "example_zh": "多年来他一直对前雇主心怀不满。"
-        },
-        {
-          "word": "nemesis",
-          "phonetic": "/ˈneməsɪs/",
-          "pos": "n.",
-          "meaning_zh": "宿敌、劲敌；长期对着干的人",
-          "example_en": "The two chess players have been each other's nemesis for a decade.",
-          "example_zh": "这两位棋手十年来一直是彼此的宿敌。"
-        },
-        {
-          "word": "novelty",
-          "phonetic": "/ˈnɒvəlti/",
-          "pos": "n.",
-          "meaning_zh": "新奇、新鲜感；新奇的事物",
-          "example_en": "Part of the appeal is the sheer novelty of the experience.",
-          "example_zh": "吸引力的一部分就在于这种体验本身的新鲜感。"
-        },
-        {
-          "word": "one-up",
-          "phonetic": "/ˌwʌn ˈʌp/",
-          "pos": "v.",
-          "meaning_zh": "压过、胜过（别人），占上风",
-          "example_en": "He always tries to one-up his colleagues in meetings.",
-          "example_zh": "开会时他总是想压同事一头。"
-        },
-        {
-          "word": "trash-talk",
-          "phonetic": "/ˈtræʃ tɔːk/",
-          "pos": "v.",
-          "meaning_zh": "（口语）放狠话、贬损对手以挑衅",
-          "example_en": "The boxers spent the week trash-talking each other before the fight.",
-          "example_zh": "比赛前一周，两位拳手一直在互相放狠话。"
-        },
-        {
-          "word": "get under someone's skin",
-          "phonetic": "/ɡet ˈʌndə ˈsʌmwʌnz skɪn/",
-          "pos": "idiom",
-          "meaning_zh": "惹某人心烦、激怒某人（也可指“让人念念不忘”）",
-          "example_en": "His constant teasing really gets under her skin.",
-          "example_zh": "他没完没了地逗她，真把她惹火了。"
-        },
-        {
-          "word": "make someone's day",
-          "phonetic": "/meɪk ˈsʌmwʌnz deɪ/",
-          "pos": "idiom",
-          "meaning_zh": "让某人一整天都开心、让某人非常高兴",
-          "example_en": "A simple compliment can make someone's day.",
-          "example_zh": "一句简单的赞美就能让人一整天心情大好。"
-        },
-        {
-          "word": "cater",
-          "phonetic": "/ˈkeɪtə(r)/",
-          "pos": "v.",
-          "meaning_zh": "（为活动）承办餐饮、提供饮食",
-          "example_en": "A local restaurant catered the wedding for 200 guests.",
-          "example_zh": "一家本地餐馆为这场200人的婚礼承办了餐饮。"
-        }
-      ],
-      "sentences": [
-        {
-          "en": "The best thing about being a boyfriend is probably being in a committed relationship, and also the fact that you get to kiss your girlfriend anytime you want – except for when she's not in the highest of spirits.",
-          "structure": "主干：The best thing ... is being in a committed relationship, and also the fact that ...（并列两个表语）/ 修饰：about being a boyfriend 作后置定语修饰主语；that you get to kiss ... 是 the fact 的同位语从句；except for when ... 为介词短语作补充限制。",
-          "analysis_zh": "这句话口语味很浓，结构却是典型的“主语 + be + 表语1 + and also 表语2”。两个表语一个是动名词短语 being in a committed relationship，一个是名词 the fact，用同位语从句展开说明“事实”的内容，避免头重脚轻。破折号后的 except for when she's not in the highest of spirits 是说话人自己临时加的补充限制，也是全句的笑点所在：先给一个绝对自由，再自己收回来。"
-        },
-        {
-          "en": "Here's the thing: because fans love and admire your work so much, the least you can do is just give them a moment of your time.",
-          "structure": "主干：the least you can do is (to) give them a moment of your time（主语 the least you can do 含省略关系代词 that 的定语从句，表语为省略 to 的不定式）/ 修饰：because ... so much 为原因状语从句。",
-          "analysis_zh": "Here's the thing 是外刊和口语中的高频转折提示语，用冒号引出下面要讲的重点。the least you can do 字面是“你最起码能做的”，实际含义是“这是最低限度的礼貌”。注意表语位置用不带 to 的不定式 give，是英语中“主语含 do”时的固定用法。because 从句把“粉丝喜欢你的作品”作为前提，后面用 the least ... 引出道德义务，逻辑上是“既然……那么至少……”。"
-        },
-        {
-          "en": "But if I had a nemesis, I would only want a nemesis for the sole purpose of novelty.",
-          "structure": "主干：I would only want a nemesis / 修饰：if I had a nemesis 为虚拟条件状语从句；for the sole purpose of novelty 为目的状语。",
-          "analysis_zh": "整句用的是第二类虚拟语气（if + 过去式，主句 would + 动词原形），因为“宿敌”是假想出来的。for the sole purpose of 是正式表达，意为“唯一目的就是”；与前面 only 叠用，起到强调作用。后半句把 nemesis 再说一遍而不省略，是口语中常见的重复手法，用来加强语气、延长停顿，制造幽默感。"
-        }
-      ],
-      "background": [
-        {
-          "title": "《光谱上的爱》(Love on the Spectrum)",
-          "text_zh": "这是澳大利亚制作的一档真人秀纪录片，镜头跟随数位自闭症谱系（autism spectrum）年轻人尝试约会、寻找伴侣的过程。节目因把神经多样性群体当作恋爱主体而非“奇观”来呈现，在国际上口碑很好，也被Netflix购买播出。文章中的受访者迈克尔·西奥（Michael Theo）正是该节目最受欢迎的嘉宾之一，此后进入演艺圈。"
-        },
-        {
-          "title": "《奥斯汀》(Austin)与受访者提到的演员",
-          "text_zh": "《奥斯汀》是一部英国喜剧剧集，迈克尔·西奥在其中出演。文中提到比莉·派珀（Billie Piper），她是英国演员兼歌手，早年以流行歌手身份出道（文中提到的 Day and Night 就是她的单曲），后来主演《神秘博士》中的 Rose 一角而成名。莎莉·菲利普斯（Sally Phillips）也是英国知名喜剧演员。此外，《吉里根岛》(Gilligan's Island) 是1960年代美国经典情景喜剧，《公园与游憩》《善地》《神烦警探》都是近十年美国热门喜剧，文中列出的梅尔·布兰克（Mel Blanc）则是华纳“兔八哥”等动画角色的传奇配音演员——这些名字共同说明了受访者的喜剧与配音偏好。"
-        }
-      ]
-    },
-    "kind": "full",
-    "digest": false,
     "enrich_attempted": true
   },
   {
@@ -806,73 +188,81 @@
     "body_en": [],
     "image": "",
     "published": "2026-10-31T19:00:03+08:00",
-    "fetched_at": "2026-11-01T02:44:00+08:00",
+    "fetched_at": "2026-11-01T01:57:46+08:00",
     "is_demo": false,
     "enrich": {
       "title_zh": "我们为什么喜欢被吓到",
-      "summary_zh": "标题提问“我们为什么喜欢被吓到”。摘要指出，世界始终充满令人恐惧的事物，而科尔坦·斯克里夫纳认为，观看恐怖作品正是我们消化、应对这些恐惧的一种方式。也就是说，恐怖类型可能具有帮助我们处理现实恐惧的心理功能。",
+      "summary_zh": "这是《时代》周刊 Ideas 栏目一文的内容提要。提要指出，世界从来不缺让人恐惧的事物，而人类消化恐惧的方式之一，就是主动去看恐怖题材作品；文章由行为科学研究者科尔坦·斯克里夫纳撰写，围绕「人为何愿意主动消费恐惧」这一看似矛盾的现象展开论述。",
       "difficulty": "B2",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "The world has always been full of things that frighten us. One way we work through these fears is by watching horror, writes Coltan Scrivner.",
-          "zh": "世界从来都不乏令我们恐惧的事物。科尔坦·斯克里夫纳写道，我们化解这些恐惧的方式之一，就是观看恐怖作品。"
+          "zh": "这个世界从来就不缺让我们害怕的东西。科尔坦·斯克里夫纳写道，我们消化这些恐惧的办法之一，就是去看恐怖片。"
         }
       ],
       "vocab": [
         {
-          "word": "work through",
-          "phonetic": "/wɜːrk θruː/",
-          "pos": "phr. v.",
-          "meaning_zh": "逐步处理、消化（恐惧、情绪、问题等）",
-          "example_en": "She used writing to work through her grief.",
-          "example_zh": "她通过写作来慢慢消化自己的悲痛。"
-        },
-        {
           "word": "frighten",
           "phonetic": "/ˈfraɪtn/",
           "pos": "v.",
-          "meaning_zh": "使害怕，使恐惧",
-          "example_en": "The sudden noise frightened the children.",
-          "example_zh": "突如其来的响声吓到了孩子们。"
+          "meaning_zh": "使害怕，吓到（及物动词，宾语是人；比 scare 稍正式，外刊中常与 things / prospects 等抽象主语搭配）",
+          "example_en": "Rising prices frighten consumers more than any other issue.",
+          "example_zh": "比起其他任何问题，物价上涨更让消费者感到害怕。"
+        },
+        {
+          "word": "work through",
+          "phonetic": "/wɜːrk θruː/",
+          "pos": "phr. v.",
+          "meaning_zh": "逐步消化、化解（负面情绪、心理创伤或难题），强调「一点点处理掉」的过程，是心理健康类报道中的高频表达",
+          "example_en": "Children need time to work through their grief after a loss.",
+          "example_zh": "经历失去之后，孩子们需要时间慢慢消化悲伤。"
+        },
+        {
+          "word": "be full of",
+          "phonetic": "/fʊl əv/",
+          "pos": "phr.",
+          "meaning_zh": "充满，到处都是；此处与 has always been 连用，暗示「自古以来便是如此」，为下文的转折做铺垫",
+          "example_en": "Her early letters are full of hope and impatience.",
+          "example_zh": "她早期的信件里满是希望与急切。"
         },
         {
           "word": "horror",
           "phonetic": "/ˈhɔːrər/",
           "pos": "n.",
-          "meaning_zh": "恐怖题材；恐怖作品（此处指恐怖片、恐怖故事等）",
-          "example_en": "He has loved horror since he was a teenager.",
-          "example_zh": "他从青少年时期起就喜欢恐怖题材。"
+          "meaning_zh": "（作不可数名词、不加冠词时）恐怖题材作品的总称，即恐怖片、恐怖小说、恐怖故事等。此处相当于 horror films / fiction，不能理解为「恐怖这种情绪」",
+          "example_en": "She grew up on horror and slasher movies.",
+          "example_zh": "她是看着恐怖片和砍杀片长大的。"
         },
         {
-          "word": "scared",
-          "phonetic": "/skerd/",
-          "pos": "adj.",
-          "meaning_zh": "害怕的，恐惧的",
-          "example_en": "I don't like being scared, but I enjoy horror films.",
-          "example_zh": "我不喜欢被吓到，但我喜欢看恐怖片。"
+          "word": "write",
+          "phonetic": "/raɪt/",
+          "pos": "v.",
+          "meaning_zh": "（新闻体例）写道、撰文说。英语报刊惯用「…, writes + 记者/作者名」这种主谓倒装的引述方式，中文常译为「某某写道」并置于句首",
+          "example_en": "The trend is unlikely to reverse, writes the economist.",
+          "example_zh": "这位经济学家写道，这一趋势不太可能逆转。"
         }
       ],
       "sentences": [
         {
-          "en": "The world has always been full of things that frighten us.",
-          "structure": "主干：The world has been full of things（主系表）/ 修饰：always 作时间状语；that frighten us 为定语从句，修饰 things。",
-          "analysis_zh": "现在完成时 has always been 把时间跨度从过去拉到现在，暗示“历来如此、至今未变”；things 后接 that 引导的定语从句，说明是哪类事物。句子很短，但先奠定了“恐惧是常态”这一前提。"
+          "en": "One way we work through these fears is by watching horror, writes Coltan Scrivner.",
+          "structure": "主干：One way … is by watching horror（主语 + 系动词 + 表语，by doing 作表语表示「方式」）／修饰：we work through these fears 是省略了 that / in which 的定语从句，修饰 One way／附加：writes Coltan Scrivner 为引述性倒装，正常语序是 Coltan Scrivner writes。",
+          "analysis_zh": "这句话的骨架其实是「一种方式是……」，即 One way is by doing sth.，这是英语里给某事归类、下定义的常用句型，比直接说 We work through our fears by watching horror 更强调「这只是众多方式之一」。定语从句 One way (that) we work through these fears 省掉了关系词，读时容易把它误当成主句，要注意 One way 与 is 之间的插入成分。句尾的 writes Coltan Scrivner 是英语新闻的固定体例：把说话人和动词倒装放在句末，既交代信息来源，又避免句首堆砌「某某写道」。翻译成中文时通常要把这一部分提到句首，变成「某某写道，……」，否则中文语序会很别扭。"
         },
         {
-          "en": "One way we work through these fears is by watching horror, writes Coltan Scrivner.",
-          "structure": "主干：One way ... is by watching horror（主系表）/ 修饰：we work through these fears 是省略 that/in which 的定语从句，修饰 way；by watching horror 是介词短语作表语；writes Coltan Scrivner 为插入的引述语。",
-          "analysis_zh": "主语中心词是 One way，后面紧跟定语从句；谓语 is 后不用不定式而用 by doing，突出“通过观看恐怖作品这一方式”。句末 writes Coltan Scrivner 是评论写作中常见的引述方式，把观点归到作者名下。"
+          "en": "The world has always been full of things that frighten us.",
+          "structure": "主干：The world has been full of things（主 + 系 + 表）／修饰：has always been 为现在完成时，always 加强「一贯如此」；that frighten us 是定语从句，修饰 things。",
+          "analysis_zh": "句子很短，但两个细节值得注意。一是现在完成时 has always been：它不是说「现在世界才充满可怕的东西」，而是把过去到现在连成一条线，为下文「既然如此，人为什么还主动去看恐怖片」埋下反差。二是 things that frighten us 用定语从句而非形容词（如 frightening things）作后置修饰，使「让人害怕」这一动作感更强，也让这个短语在句中更具分量，读起来像是给全文定调的一句开场白。这种「先摆一个人人都同意的大前提」的写法，是英语评论文章常见的开头策略。"
         }
       ],
       "background": [
         {
-          "title": "科尔坦·斯克里夫纳是谁",
-          "text_zh": "Coltan Scrivner 是美国行为科学家，研究恐惧、恐怖片与“病态好奇心”（morbid curiosity）等主题，常被媒体引用，用来解释人们为何会主动接触恐怖内容。摘要只署名提出观点，并未展开他的研究细节。"
+          "title": "科尔坦·斯克里夫纳与「娱乐性恐惧」研究",
+          "text_zh": "Coltan Scrivner 是一位行为科学研究者，主要研究人为什么愿意花钱、花时间去体验恐惧，他提出的「娱乐性恐惧」（recreational fear）概念在欧美媒体上被反复引用，讨论对象包括恐怖片、鬼屋、真实犯罪播客等。他也研究过恐怖片爱好者在疫情、危机时期的心理韧性。了解这一身份有助于判断正文的论证方向：文章很可能是用心理学或演化视角来解释「又怕又想看」这一现象。"
         },
         {
-          "title": "TIME 的 Ideas 栏目与 RSS 摘要",
-          "text_zh": "Ideas 是 TIME 的观点/评论栏目，通常由学者、作家或评论者署名，用短文提出一个判断或视角，并非纯新闻报道。RSS 往往只提供标题和一两句提要，因此这里只能精读摘要本身，不能据此推断全文的论证和案例。"
+          "title": "TIME 的 Ideas 栏目与署名体例",
+          "text_zh": "Ideas 是《时代》周刊的观点评论栏目，刊登的多是学者、研究者、作家署名的评论，而非本报记者报道，因此文中观点属于作者个人，不代表编辑部。英语报刊在引述署名作者时有一套固定写法，常见的有「…, writes + 人名」「…, said + 人名」放在句末的倒装形式，也常在句首用「For TIME」标明独家撰稿。中文读者若不了解这一体例，容易把句末的人名误读成句子的宾语。"
         }
       ]
     },
@@ -3470,17 +2860,17 @@
     "body_en": [],
     "image": "",
     "published": "2026-10-29T19:26:26+08:00",
-    "fetched_at": "2026-11-01T09:48:58+08:00",
+    "fetched_at": "2026-11-01T01:57:45+08:00",
     "is_demo": false,
     "enrich": {
-      "title_zh": "克里斯蒂娜·拉加德在危急关头卸任",
-      "summary_zh": "本文关注克里斯蒂娜·拉加德卸任欧洲央行行长一事。标题点出，她离开的时机正是一个“危急时刻”；提要则用一句话定调：接替她出任欧洲央行行长的人，将接下一份令人羡慕不起来的差事。文章正文未在提要中展开。",
+      "title_zh": "克里斯蒂娜·拉加德在危难时刻离任",
+      "summary_zh": "本文的标题和提要指出：克里斯蒂娜·拉加德即将卸任欧洲央行行长，而离任的时机正处在危险关头；接任欧洲央行行长一职的人，将面对一份毫不令人羡慕的工作。提要只点出人事更替与接班难度，未展开具体政策议题。",
       "difficulty": "C1",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "Her successor as ECB chief will have an unenviable job",
-          "zh": "接替她出任欧洲央行行长的人，将接手一份令人羡慕不起来的差事。"
+          "zh": "她之后接任欧洲央行行长的人，将得到一份毫不令人羡慕的工作。"
         }
       ],
       "vocab": [
@@ -3488,54 +2878,54 @@
           "word": "depart",
           "phonetic": "/dɪˈpɑːt/",
           "pos": "v.",
-          "meaning_zh": "离任、卸任（此处不是“出发、离开某地”的日常义，而是外刊报道官员、高管去职时的固定用法，比 leave office 更中性简洁）",
-          "example_en": "The chancellor departed after only 18 months in the job.",
-          "example_zh": "这位财政大臣上任仅 18 个月便卸任了。"
+          "meaning_zh": "（从职位上）离任、走人；此处不是“出发、启程”，而是新闻标题里常用的“卸任”义",
+          "example_en": "The chief executive will depart at the end of the year after a decade in charge.",
+          "example_zh": "这位首席执行官在掌舵十年后将于年底卸任。"
+        },
+        {
+          "word": "peril",
+          "phonetic": "/ˈperɪl/",
+          "pos": "n.",
+          "meaning_zh": "（严重的）危险、险境；比 danger 更书面、更有戏剧感，外刊标题偏爱用",
+          "example_en": "The bank was slow to act at a moment of peril for the currency.",
+          "example_zh": "在该货币处境危险的时刻，这家央行行动迟缓。"
         },
         {
           "word": "successor",
           "phonetic": "/səkˈsesə(r)/",
           "pos": "n.",
-          "meaning_zh": "继任者、接任者；搭配 successor to sb / sb's successor as ...",
-          "example_en": "She is seen as the most likely successor to the outgoing governor.",
-          "example_zh": "她被视为即将离任的总裁最有可能的继任者。"
+          "meaning_zh": "继任者、接任者；常与 as 连用，表示“接任某职位的人”",
+          "example_en": "She is the favourite to be his successor as governor.",
+          "example_zh": "她是最有可能接替他出任行长的人。"
         },
         {
           "word": "unenviable",
           "phonetic": "/ʌnˈenviəbl/",
           "pos": "adj.",
-          "meaning_zh": "不值得羡慕的、棘手的（形容任务、处境：别人看着眼馋，实际干起来很遭罪）",
-          "example_en": "He was handed the unenviable task of cutting the budget by a fifth.",
-          "example_zh": "他接下了把预算削减五分之一的苦差事。"
-        },
-        {
-          "word": "peril",
-          "phonetic": "/ˈperəl/",
-          "pos": "n.",
-          "meaning_zh": "严重危险、危难（比 danger 语气重，多为不可数或用于 at a moment of peril 这类正式结构，新闻标题里常用来渲染紧迫感）",
-          "example_en": "The industry is in peril as demand collapses.",
-          "example_zh": "随着需求崩塌，该行业正处于危难之中。"
+          "meaning_zh": "不值得羡慕的、棘手的（形容任务、处境：谁摊上谁头疼）",
+          "example_en": "The new finance minister inherits an unenviable set of choices.",
+          "example_zh": "新任财政部长接手了一堆谁摊上都头疼的选项。"
         },
         {
           "word": "chief",
           "phonetic": "/tʃiːf/",
           "pos": "n.",
-          "meaning_zh": "（机构）最高负责人、首脑；ECB chief 即“欧洲央行行长”，是标题、提要中为避免重复而用的简写说法",
-          "example_en": "The bank's chief will step down next spring.",
-          "example_zh": "这家银行的掌门人将于明年春天离任。"
+          "meaning_zh": "（机构的）首脑、一把手；标题体里常用 chief 代替 head/president，省字且有分量",
+          "example_en": "The party chief will announce the reshuffle on Friday.",
+          "example_zh": "该党领袖将于周五宣布人事改组。"
         }
       ],
       "sentences": [
         {
           "en": "Her successor as ECB chief will have an unenviable job",
-          "structure": "主干：Her successor（主语）will have（谓语）an unenviable job（宾语）；修饰：as ECB chief 是介词短语作后置定语，紧贴 successor，说明“接的是哪个位置的班”；unenviable 是前置定语，给 job 定性。",
-          "analysis_zh": "这句 standfirst 只有十个词，却完成了三件事：用 successor 交代“换人”，用 as ECB chief 锁定“换的是欧洲央行行长”，用 unenviable 一词给整篇文章定调——不评价拉加德本人，而是把视线转到继任者的处境上。把 as ECB chief 放在 successor 之后而不是句末，是为了让“谁”与“什么职位”在读者脑中一次成形，避免读到最后才知道说的是哪个岗位。另外，job 在这里是“差事、职务”的口语化说法，比 position 更轻，与 unenviable 搭配形成一种无奈的口吻；如果写成 will face enormous challenges，意思相近却失去了这种冷静的英式讽刺感，这正是《经济学人》提要的典型笔法。"
+          "structure": "主干：Her successor（主语）＋ will have（谓语）＋ an unenviable job（宾语）；修饰：介词短语 as ECB chief 后置修饰主语 successor，说明“接的是哪个位子”。",
+          "analysis_zh": "这句是典型的《经济学人》提要写法：句子极短，信息密度却很高。主语中心词是 successor，as ECB chief 像标签一样挂在后面，把“欧洲央行行长”这一职位交代清楚，又不必写全称 European Central Bank，符合标题体省字惯例。真正的评价落在宾语前的 unenviable 上——字面是“不值得羡慕的”，实际是用“反着说”的克制笔法，传达“这活儿极难干”，与标题里的 at a moment of peril 形成呼应： peril 说的是时机，unenviable 说的是接任者的处境，一因一果。全句用将来时 will have，暗示交接尚未发生，读者自然会把注意力放到“谁来接、怎么接”上。"
         }
       ],
       "background": [
         {
-          "title": "拉加德与欧洲央行",
-          "text_zh": "克里斯蒂娜·拉加德（Christine Lagarde）是法国人，曾任法国财政部长，2011 年至 2019 年出任国际货币基金组织（IMF）总裁，是首位担任该职的女性；2019 年 11 月起接替马里奥·德拉吉（Mario Draghi）担任欧洲中央银行（ECB，总部位于德国法兰克福）行长，是该行历史上首位女性行长，按任期安排应至 2027 年 10 月。欧洲央行负责欧元区 20 国的货币政策，其行长由欧洲理事会任命，与副行长及各国央行行长共同组成决策机构；行长一职在任期内人事更替，往往牵动市场对政策连续性的判断。"
+          "title": "克里斯蒂娜·拉加德与欧洲央行",
+          "text_zh": "克里斯蒂娜·拉加德（Christine Lagarde）是法国人，曾任法国财政部长，2011 至 2019 年出任国际货币基金组织（IMF）总裁，2019 年 11 月起担任欧洲央行（ECB）行长。欧洲央行行长任期八年、不可连任，行长同时主持由欧元区各国央行行长及执行委员会成员组成的理事会，该理事会负责制定欧元区利率政策。欧洲央行的核心使命是维持物价稳定，其通胀目标在 2021 年战略评估后被表述为“对称的 2%”。行长是央行对外沟通的化身，市场高度依赖其记者会措辞判断政策路径，因此“谁接任、接得顺不顺”本身就是市场变量。"
         }
       ]
     },
@@ -3556,72 +2946,76 @@
     "body_en": [],
     "image": "",
     "published": "2026-10-29T19:16:13+08:00",
-    "fetched_at": "2026-11-01T09:48:58+08:00",
+    "fetched_at": "2026-11-01T01:57:45+08:00",
     "is_demo": false,
     "enrich": {
-      "title_zh": "全球石油市场永无止境的荒诞",
-      "summary_zh": "本文关注全球石油市场看似难以理解的反常走势。提要指出，尽管海湾地区石油出口有所增强，布伦特原油价格仍徘徊在伊朗战争时期的高点附近，供应增加与价格坚挺同时出现，这一对比构成文章讨论的切入点。",
+      "title_zh": "全球石油市场永无止境的荒谬",
+      "summary_zh": "这是《经济学人》一篇评述全球石油市场的文章。编辑只给出一句提要：尽管波斯湾产油国的出口有所增加，作为全球基准的布伦特原油价格仍接近伊朗战争爆发时的高位。标题用「never-ending absurdity」形容这种供应走强、价格却不回落的持续反常局面，提要则用 despite 把这一反差压缩在十余个词里。",
       "difficulty": "C1",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "Despite stronger Gulf exports, Brent is near its Iran-war peak",
-          "zh": "尽管海湾地区的出口较为强劲，布伦特原油价格仍接近伊朗战争期间的高点。"
+          "zh": "尽管海湾地区的出口表现更为强劲，布伦特原油价格仍逼近伊朗战争爆发时的高点。"
         }
       ],
       "vocab": [
         {
-          "word": "despite",
-          "phonetic": "/dɪˈspaɪt/",
-          "pos": "prep.",
-          "meaning_zh": "尽管；虽然（引出让步）",
-          "example_en": "Despite weaker demand, prices stayed high.",
-          "example_zh": "尽管需求走弱，价格仍居高不下。"
-        },
-        {
-          "word": "Gulf",
-          "phonetic": "/ɡʌlf/",
+          "word": "absurdity",
+          "phonetic": "/əbˈsɜːdəti/",
           "pos": "n.",
-          "meaning_zh": "海湾地区（此处尤指波斯湾产油国）",
-          "example_en": "Gulf producers ship much of the world's crude.",
-          "example_zh": "海湾产油国运输着全球大量原油。"
+          "meaning_zh": "荒谬、荒诞之事；此处指市场走势违背常理、反复上演的怪现象",
+          "example_en": "The absurdity of paying more for less electricity has angered households.",
+          "example_zh": "花更多的钱却用更少的电，这种荒谬现象让民众十分不满。"
         },
         {
           "word": "Brent",
           "phonetic": "/brent/",
           "pos": "n.",
-          "meaning_zh": "布伦特原油（国际原油基准价格之一）",
-          "example_en": "Brent rose above $90 a barrel.",
-          "example_zh": "布伦特原油价格升至每桶90美元以上。"
+          "meaning_zh": "布伦特原油，来自北海的原油品种，是全球原油定价最重要的基准之一",
+          "example_en": "Brent crude rose 2% to $89 a barrel.",
+          "example_zh": "布伦特原油上涨 2%，达到每桶 89 美元。"
+        },
+        {
+          "word": "Gulf",
+          "phonetic": "/ɡʌlf/",
+          "pos": "n.",
+          "meaning_zh": "（大写）海湾地区，特指波斯湾产油国；外刊中 the Gulf 常直接代指这一产油板块",
+          "example_en": "Gulf producers are pumping more crude than they did last spring.",
+          "example_zh": "海湾产油国的原油产量高于去年春天。"
         },
         {
           "word": "peak",
           "phonetic": "/piːk/",
           "pos": "n.",
-          "meaning_zh": "高点；峰值",
-          "example_en": "Prices are still below last year's peak.",
-          "example_zh": "价格仍低于去年的峰值。"
+          "meaning_zh": "峰值、最高点；near its peak 即「接近（此前的）最高位」",
+          "example_en": "Prices are still well below their 2022 peak.",
+          "example_zh": "价格仍远低于 2022 年的峰值。"
         },
         {
-          "word": "near",
-          "phonetic": "/nɪə(r)/",
-          "pos": "prep.",
-          "meaning_zh": "接近；靠近（表价格接近某水平）",
-          "example_en": "Oil is near its recent high.",
-          "example_zh": "油价接近近期高点。"
+          "word": "strong",
+          "phonetic": "/strɒŋ/",
+          "pos": "adj.",
+          "meaning_zh": "（熟词僻义）数量大、势头强的；strong exports 指出口量大、出口表现强劲，而非「强壮的」",
+          "example_en": "Strong export demand kept the factories busy through the winter.",
+          "example_zh": "强劲的出口需求让工厂整个冬天都忙个不停。"
         }
       ],
       "sentences": [
         {
           "en": "Despite stronger Gulf exports, Brent is near its Iran-war peak",
-          "structure": "主干：Brent is near its Iran-war peak / 修饰：Despite stronger Gulf exports 为让步状语",
-          "analysis_zh": "Despite 是介词，后接名词短语 stronger Gulf exports，构成让步状语，表示‘虽然海湾出口更强’。主句为‘主语 Brent + 系动词 is + 表语 near its Iran-war peak’，near 在此是介词而非动词，Iran-war 作定语修饰 peak。编辑把供应面看似利空油价的因素放在让步状语中，主句却落在价格仍接近高位，制造语义反差，呼应标题中的 absurdity。"
+          "structure": "主干：Brent is near its … peak（主语 + 系动词 + 表语）／修饰：句首 Despite stronger Gulf exports 为让步状语（介词短语）；Iran-war 为复合名词作定语修饰 peak",
+          "analysis_zh": "这是典型的 standfirst 句法：短、密、反差强。主干只有五个词，把结论（价格仍高）先摆出来；让步状语用介词 despite 而非 although 从句，省掉主语和谓语，一句话就塞进「供应增加」这一对立事实。Iran-war peak 是两个名词叠加作定语，英语里可以这样层层前置，中文必须拆成「伊朗战争（爆发时冲上的）高点」才通顺。语序上「让步在前、结论在后」是刻意的安排：先给读者一个本该压低价格的理由，再抖出价格并未回落的事实，落差正是标题里 absurdity（荒谬）的落点。"
         }
       ],
       "background": [
         {
-          "title": "布伦特原油、海湾出口与地缘风险",
-          "text_zh": "布伦特（Brent）是国际原油贸易最重要的基准价格之一，通常反映北海及全球多地的供需与地缘风险。海湾地区，尤其是波斯湾沿岸产油国，是全球原油出口的核心地带，其出口变化会影响油价。‘伊朗战争’相关高点指市场用作参照的某一历史价格峰值；不同报道可能指向不同冲突阶段，需结合原文时间背景判断。"
+          "title": "布伦特原油与海湾出口",
+          "text_zh": "布伦特（Brent）是产自北海的一揽子原油，全球约三分之二的原油贸易以布伦特系价格为定价参考，因此「布伦特」在外刊中几乎等同于「国际油价」。海湾（the Gulf）指波斯湾沿岸产油国，包括沙特阿拉伯、阿联酋、科威特、伊拉克和伊朗，它们的产量与出口节奏是全球供给端最重要的变量之一，欧佩克+ 的增产减产决定通常也由沙特等海湾国家主导。理论上，海湾出口增加应当压低基准油价，这也是提要中 despite 一词所依托的常识背景。"
+        },
+        {
+          "title": "「伊朗战争」所指",
+          "text_zh": "Iran-war 指的是 2025 年 6 月以色列与伊朗之间爆发、随后美国对伊朗核设施实施空袭的那场军事冲突（常被称为「十二日战争」）。冲突期间市场担心霍尔木兹海峡航运受阻——全球约五分之一的石油消费量经由该海峡运输——油价因此一度急剧跳涨，这一高点即提要中所说的「伊朗战争高点」。此后随着冲突收束，油价有所回落，但并未回到冲突前水平。"
         }
       ]
     },
@@ -3642,17 +3036,17 @@
     "body_en": [],
     "image": "",
     "published": "2026-10-29T18:41:27+08:00",
-    "fetched_at": "2026-11-01T09:48:58+08:00",
+    "fetched_at": "2026-11-01T01:57:45+08:00",
     "is_demo": false,
     "enrich": {
       "title_zh": "靠中美对抗大发横财的国家",
-      "summary_zh": "本期《经济学人》标题指出，中美这两个大国的角力，让一些国家从关键矿产上大赚其钱；提要则进一步点明，这笔关键矿产带来的收益，足以改变少数几个幸运国家的命运。该刊只放出了标题与提要，正文的具体论证无从得知，但可确定文章聚焦于地缘竞争之下的资源红利，以及这些红利流向了哪些国家。",
+      "summary_zh": "本文标题指出，中美两国在关键矿产领域的竞争正让少数国家获得巨额收益。提要中的“lucky few”点明：受益者只是少数资源禀赋好的国家，关键矿产利润可能改变它们的经济命运。由于刊物只放出标题和提要，正文论点与涉及国家未知。",
       "difficulty": "C1",
       "read_minutes": 2,
       "paragraphs": [
         {
           "en": "Critical-mineral profits could transform a lucky few",
-          "zh": "关键矿产带来的利润，可能彻底改变少数几个幸运国家的面貌。"
+          "zh": "关键矿产带来的利润，可能改变少数幸运国家的命运。"
         }
       ],
       "vocab": [
@@ -3660,54 +3054,54 @@
           "word": "critical mineral",
           "phonetic": "/ˈkrɪtɪkl ˈmɪnərəl/",
           "pos": "n.",
-          "meaning_zh": "关键矿产，指锂、钴、镍、稀土、石墨等对能源转型、国防和高科技产业不可或缺、且供应风险较高的矿产；外刊中常以复数 critical minerals 出现。",
-          "example_en": "The race for critical minerals has reshaped diplomacy across Africa and Latin America.",
-          "example_zh": "对关键矿产的争夺，已经重塑了非洲和拉丁美洲的外交格局。"
+          "meaning_zh": "关键矿产；对新能源、军工、半导体等战略产业不可或缺、且供应风险较高的矿产，如锂、钴、镍、稀土、石墨等。此处 critical 意为“关键的、至关重要的”，不是“批评的”。",
+          "example_en": "Governments are racing to secure supplies of critical minerals such as lithium and rare earths.",
+          "example_zh": "各国政府正竞相确保锂和稀土等关键矿产的供应。"
         },
         {
-          "word": "make a fortune (from)",
-          "phonetic": "/meɪk ə ˈfɔːtʃuːn/",
-          "pos": "phr.",
-          "meaning_zh": "（靠……）发大财、赚取巨额利润；标题中 making a fortune from the US-China rivalry 意为“从美中对抗中赚得盆满钵满”。",
-          "example_en": "Shipping firms made a fortune from the disruption of global supply chains.",
-          "example_zh": "全球供应链的中断让航运公司赚得盆满钵满。"
+          "word": "make a fortune from",
+          "phonetic": "/meɪk ə ˈfɔːtʃuːn frɒm/",
+          "pos": "phrase",
+          "meaning_zh": "靠……发大财、赚取巨额利润。fortune 在此不是“运气”，而是“一大笔钱”。标题用现在分词 making 构成后置定语，使表达更紧凑。",
+          "example_en": "A handful of exporting countries are making a fortune from the green-energy boom.",
+          "example_zh": "少数出口国正从绿色能源热潮中赚取巨额利润。"
         },
         {
           "word": "rivalry",
           "phonetic": "/ˈraɪvlri/",
           "pos": "n.",
-          "meaning_zh": "竞争、（长期的）对抗、角逐；比 competition 更强调双方的对立与持续较劲，是描述大国关系的常用词。",
-          "example_en": "The two powers' technological rivalry has split the market in two.",
-          "example_zh": "这两个大国的技术角逐已经把市场一分为二。"
+          "meaning_zh": "（长期性的）竞争、对抗关系。比 competition 更强调双方对立、较劲的态势，外刊常用来说明大国博弈。",
+          "example_en": "The tech rivalry between the two powers is reshaping global supply chains.",
+          "example_zh": "这两个大国之间的科技竞争正在重塑全球供应链。"
         },
         {
           "word": "a lucky few",
           "phonetic": "/ə ˈlʌki fjuː/",
-          "pos": "phr.",
-          "meaning_zh": "少数幸运者；这里 few 作名词用，指“少数几个（国家）”，不加定冠词时偏泛指，暗含“为数不多、对比强烈”的意味。",
-          "example_en": "Only a lucky few countries sit on the deposits that everyone now needs.",
-          "example_zh": "只有少数走运的国家，脚下埋着如今人人所需的矿藏。"
+          "pos": "phrase",
+          "meaning_zh": "少数幸运者。few 前加 a 表示“少数几个”，带名词性质；这是英文中常见的含蓄说法，暗示绝大多数人享受不到这份好处。",
+          "example_en": "The boom has enriched a lucky few while leaving others behind.",
+          "example_zh": "这轮繁荣只让少数幸运者富了起来，其他人则被甩在后面。"
         },
         {
           "word": "transform",
           "phonetic": "/trænsˈfɔːm/",
           "pos": "v.",
-          "meaning_zh": "彻底改变、使……脱胎换骨；比 change 语气重，常指经济、产业或国家命运的改观。",
-          "example_en": "A single export boom can transform a small economy within a decade.",
-          "example_zh": "一波出口热潮，就能让一个小型经济体在十年内脱胎换骨。"
+          "meaning_zh": "彻底改变、使发生根本性转变。此处宾语是 a lucky few（少数国家），意思是这些国家的经济处境可能被彻底改写；外刊常用它来描述结构性变化。",
+          "example_en": "Oil revenues transformed the small kingdom within a generation.",
+          "example_zh": "石油收入在一代人的时间里彻底改变了这个小王国。"
         }
       ],
       "sentences": [
         {
           "en": "Critical-mineral profits could transform a lucky few",
-          "structure": "主干：Critical-mineral profits（主语）could transform（谓语）a lucky few（宾语）。修饰：critical-mineral 是名词作定语，修饰 profits，说明利润的来源；a lucky few 是“形容词 + 名词化的 few”结构，后面省略了 countries。",
-          "analysis_zh": "这是典型的《经济学人》提要句：短、无动词从句、信息密度高。谓语用 could 而不是 will，是刻意的留白——只说“有可能”，不下断言，符合提要的克制语气。宾语 a lucky few 把 few 直接名词化，一是省字，二是让“少”这个意思更刺眼：全世界那么多国家，真正吃到红利的只有那么几个。读者要自己从标题里把 countries 补回来，这种省略反而制造了悬念。另外 profits（利润）作主语，把抽象的“资源红利”写成能动的主体，仿佛钱自己在改变国家的命运，比说 countries could be transformed 更有力。"
+          "structure": "主干：profits（主语）+ could transform（谓语）+ a lucky few（宾语）；修饰：Critical-mineral 作前置定语修饰 profits。",
+          "analysis_zh": "这是一个省略了状语的短句，典型的经济学人式提要写法：用 could 而非 will，既表示可能性，又避免对结论下断言，显得克制。主语中心词 profits 前用名词 critical-mineral 直接作定语，把“关键矿产”和“利润”压成一个紧凑的名词短语，比 profits from critical minerals 更简洁有力。宾语 a lucky few 用了“a + 形容词 + few”的名词化结构，few 前有 a 表示“少数几个（存在）”，暗含对比：受益者只是极少数，大多数国家分不到这份红利。整句没有说明是哪些国家、利润从何而来，正因为信息被高度压缩，标题才有悬念感，也提示读者正文将展开“谁受益、怎么受益”。"
         }
       ],
       "background": [
         {
-          "title": "关键矿产为何成了中美角力的战场",
-          "text_zh": "关键矿产（critical minerals）指锂、钴、镍、石墨、稀土、镓、锗等对电池、芯片、军工和能源转型必不可少的原材料。中国在其中的冶炼加工环节占据主导地位，尤其是稀土和锂电材料；美国则把供应链安全视为国家安全问题，近年通过《通胀削减法案》（IRA）的电动车补贴本地化条款、《国防生产法》拨款，以及与盟友共建的“矿产安全伙伴关系”（MSP），推动供应链“去风险”。与此同时，中方也动用过出口管制手段，例如 2023 年起对镓、锗、石墨实施出口许可管理，此后又扩展到锑、稀土磁体等品类。这场博弈的直接后果是：拥有矿藏或加工能力的第三方国家议价能力大增，印尼（镍）、智利与阿根廷（锂）、刚果（金）（钴）、澳大利亚以及越南、马来西亚（加工环节）都因此获得投资与出口收入。这正是标题所称“靠中美对抗发财”的现实土壤：争的是两国的供应链安全，赚的是资源国的钱。"
+          "title": "关键矿产与中美竞争",
+          "text_zh": "“关键矿产”（critical minerals）通常指锂、钴、镍、石墨、锰以及稀土等对电动汽车电池、风电、光伏、半导体和军工生产不可或缺的原材料。围绕这些矿产，近年形成了两条相互交织的全球议题。第一是供应链安全：中国在稀土分离加工和电池材料精炼环节占据很大份额，美国及其盟友因此推动“去风险”和供应链多元化，通过《通胀削减法案》（IRA）的电池材料本地化要求、与资源国签订矿产协议等方式，鼓励企业把开采、加工环节分散到澳大利亚、加拿大、印度尼西亚、智利、阿根廷、刚果（金）等地。第二是资源国的议价能力上升：印度尼西亚禁止镍矿石出口，要求在本国冶炼；智利、墨西哥推动锂资源国有化；刚果（金）就钴的出口与外资矿企重新谈判。这些做法使拥有矿藏的国家能够从涨价和下游加工中获取更多收益，也正是标题所说“少数幸运国家”的现实背景。需要说明的是，这些属于该话题的公共背景事实，本文正文是否持同样观点、具体点名哪些国家，仅凭标题与提要无法判断。"
         }
       ]
     },

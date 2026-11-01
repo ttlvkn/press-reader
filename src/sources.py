@@ -20,6 +20,18 @@ from .util import clean_text, iso, log, make_id, now_cst, paragraphs, strip_html
 GUARDIAN_API = "https://content.guardianapis.com/search"
 
 
+def _cap(paras: list[str], max_words: int = 900, max_paras: int = 22) -> list[str]:
+    """按词数截断正文：开放全文的源常常一次给上千词，全翻既慢又贵，
+    而且一篇读 6000 词对学习没帮助。保留开头到约 900 词。"""
+    out, total = [], 0
+    for p in paras:
+        if len(out) >= max_paras or total >= max_words:
+            break
+        out.append(p)
+        total += len(p.split())
+    return out
+
+
 def _err(exc: Exception) -> str:
     """把 requests 的异常翻译成人话：带上 HTTP 状态码，光看 HTTPError 没用。"""
     resp = getattr(exc, "response", None)
@@ -98,8 +110,10 @@ def fetch_rss(src: dict, cfg: dict) -> list[dict[str, Any]]:
             body_paras: list[str] = []
             if src.get("full_text"):
                 # 极少数开放授权的源才使用 content 字段
-                body_paras = paragraphs(entry.get("content", [{}])[0].get("value", "")
-                                        if entry.get("content") else "")
+                body_paras = _cap(paragraphs(
+                    entry.get("content", [{}])[0].get("value", "")
+                    if entry.get("content") else ""
+                ))
 
             out.append(
                 {
@@ -155,7 +169,7 @@ def fetch_guardian(src: dict, cfg: dict, limit: int = 3) -> list[dict[str, Any]]
         for item in results:
             fields = item.get("fields", {})
             # 优先用 HTML 版正文（有 <p> 段落结构）；bodyText 是一整块无换行文本，只在兜底时用
-            body = paragraphs(fields.get("body", "") or fields.get("bodyText", ""))
+            body = _cap(paragraphs(fields.get("body", "") or fields.get("bodyText", "")))
             if len(body) < 2:
                 continue
             out.append(
@@ -225,11 +239,11 @@ def upgrade_with_fulltext(items: list[dict], src: dict, cfg: dict) -> list[dict]
             if not old:
                 continue
             fields = item.get("fields", {})
-            body = paragraphs(fields.get("body", ""))
+            body = _cap(paragraphs(fields.get("body", "")))
             if len(body) < 2:
                 continue
             new = dict(old)
-            new["body_en"] = body[:22]
+            new["body_en"] = body
             new["excerpt_en"] = clean_text(fields.get("trailText", "")) or old.get("excerpt_en", "")
             new["image"] = fields.get("thumbnail", "") or old.get("image", "")
             new["enrich"] = None            # 原文变了，旧译文作废

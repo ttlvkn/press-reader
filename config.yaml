@@ -68,6 +68,28 @@ sources:
       - https://time.com/section/world/feed/
     full_text: false
 
+  # ── 开放授权的全文源（CC 协议），专为「整篇精读」补量 ──
+  - id: propublica
+    name: ProPublica
+    name_en: ProPublica
+    color: "#D0021B"
+    type: rss
+    max_items: 3
+    feeds:
+      - https://www.propublica.org/feeds/propublica/main
+    full_text: true
+
+  - id: conversation
+    name: The Conversation
+    name_en: The Conversation
+    color: "#E8651F"
+    type: rss
+    max_items: 3
+    feeds:
+      - https://theconversation.com/global/articles.atom
+      - https://theconversation.com/us/articles.atom
+    full_text: true
+
   # 下面两家都有反爬，会依次尝试多个候选地址，全失败就跳过，不影响其他源。
   # 长期不通就把 enabled 改成 false，日志会清净很多。
   - id: newsweek
