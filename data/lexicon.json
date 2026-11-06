@@ -169000,5 +169000,2733 @@
       "v. （使）变成蓝色；用蓝色漂白剂洗（白色衣服）；挥霍，乱花（钱财）",
       "【名】 （Blue）（英、美、加、澳、新）布卢（人名）"
     ]
+  },
+  "opportunity": {
+    "w": "opportunity",
+    "p": "ˌɑːpərˈtuːnəti",
+    "uk": "ˌɒpəˈtjuːnəti",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "An opportunity is a situation in which it is possible for you to do something that you want to do.",
+        "zh": "机会",
+        "ex": [
+          {
+            "en": "I had an opportunity to go to New York and study.",
+            "zh": "我曾有过一个去纽约学习的机会。"
+          },
+          {
+            "en": "...equal opportunities in employment.",
+            "zh": "…平等的就业机会。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 时机，机会"
+    ]
+  },
+  "migration": {
+    "w": "migration",
+    "p": "maɪˈɡreɪʃ(ə)n",
+    "uk": "maɪˈɡreɪʃn",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 移民，迁徙；（计算机系统的）改变，（程序或硬件的）迁移，转移"
+    ]
+  },
+  "league": {
+    "w": "league",
+    "p": "liːɡ",
+    "uk": "liːɡ",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A league is a group of people, clubs, or countries that have joined together for a particular purpose, or because they share a common interest. 联盟;",
+        "zh": "协会",
+        "ex": [
+          {
+            "en": "...the League of Nations.",
+            "zh": "…国际联盟。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A league is a group of teams that play the same sport or activity against each other. (各种运动队的)",
+        "zh": "联盟",
+        "ex": [
+          {
+            "en": "...the American League series between the Boston Red Sox and World Champion Oakland Athletics.",
+            "zh": "…波士顿红袜队和世界冠军奥克兰运动家队之间的美国职业棒球联盟系列赛。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "You use league to make comparisons between different people or things, especially in terms of their quality. 级别;",
+        "zh": "水平",
+        "ex": [
+          {
+            "en": "Her success has taken her out of my league.",
+            "zh": "她的成功使她和我不再处于同一个等级上了。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If you say that someone is in league with another person to do something bad, you mean that they are working together to do that thing. (与某人)",
+        "zh": "勾结",
+        "ex": [
+          {
+            "en": "There is no evidence that the broker was in league with the fraudulent vendor.",
+            "zh": "没有代理人和奸商相勾结的证据。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 联盟，同盟；（体育项目）联合会，社团；联赛；级别，水平；里格（旧时长度单位，约等于5公里）",
+      "v. （与……）组成联盟，加入联盟",
+      "【名】 （League）（英）利格（人名）"
+    ]
+  },
+  "delve": {
+    "w": "delve",
+    "p": "delv",
+    "uk": "delv",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-I",
+        "tip": "不及物动词",
+        "en": "If you delve into something, you try to discover new information about it.",
+        "zh": "探索",
+        "ex": [
+          {
+            "en": "Tormented by her ignorance, Jenny delves into her mother's past.",
+            "zh": "珍妮为自己不了解真相而痛苦，她开始深入调查母亲的过去。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 钻研，探究（常作 delve into）；伸手翻找（常作 delve into/in）；挖掘（古语）",
+      "n. 穴，洞（古语/方言）；Delve（英语姓氏“德尔夫”）"
+    ]
+  },
+  "demographic": {
+    "w": "demographic",
+    "p": "ˌdeməˈɡræfɪk",
+    "uk": "ˌdeməˈɡræfɪk",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-PLURAL",
+        "tip": "复数型名词",
+        "en": "The demographics of a place or society are the statistics relating to the people who live there.",
+        "zh": "人口统计数据",
+        "ex": [
+          {
+            "en": "...the changing demographics of the United States.",
+            "zh": "…变化的美国人口统计数据。"
+          }
+        ]
+      },
+      {
+        "pos": "N-SING",
+        "tip": "单数型名词",
+        "en": "In business, a demographic is a group of people in a society, especially people in a particular age group.",
+        "zh": "特定年龄段的人口",
+        "ex": [
+          {
+            "en": "The station has won more listeners in the 25-39 demographic.",
+            "zh": "这个电台吸引了更多25-39岁年龄段的听众。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 人口的，人口统计的",
+      "n. （具有某种特征的）群体；人口统计数据"
+    ]
+  },
+  "cup’s": {
+    "w": "cup’s",
+    "miss": true
+  },
+  "story": {
+    "w": "story",
+    "p": "ˈstɔːri",
+    "uk": "ˈstɔːri",
+    "s": 5,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A story is a description of imaginary people and events, which is written or told in order to entertain. (虚构的)",
+        "zh": "故事",
+        "ex": [
+          {
+            "en": "The second story in the book is titled \"The Scholar.\"",
+            "zh": "这本书中的第2个故事标题为《学者》。"
+          },
+          {
+            "en": "I shall tell you a story about four little rabbits.",
+            "zh": "我将给你讲个关于4只小兔子的故事。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A story is a description of an event or something that happened to someone, especially a spoken description of it. (尤指口头的)",
+        "zh": "叙述",
+        "ex": [
+          {
+            "en": "The parents all shared interesting stories about their children.",
+            "zh": "那些家长们都会互相讲起有关自己孩子的趣事。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "The story of something is a description of all the important things that have happened to it since it began.",
+        "zh": "史话",
+        "ex": [
+          {
+            "en": "...the story of the women's movement.",
+            "zh": "…妇女运动的史话。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "If someone invents a story, they give a false explanation or account of something.",
+        "zh": "谎话",
+        "ex": [
+          {
+            "en": "He invented some story about a cousin.",
+            "zh": "他们编造了一些关于一位表亲的谎话。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. （真实或虚构的）故事，叙述；新闻报道；（尤指口头的）叙述，描述；谎言，虚假的借口；（书籍、电影、戏剧等的）情节；纪事，史话；楼层；情况；（公司的）商业前景，商业现状；谣言，传闻；一种测量单位（1 story 等于 3.3 米）",
+      "v. 用历史故事画装饰",
+      "【名】 （Story）斯托里（人名）"
+    ]
+  },
+  "rugby": {
+    "w": "rugby",
+    "p": "ˈrʌɡbi",
+    "uk": "ˈrʌɡbi",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Rugby or rugby football is a game played by two teams using an oval ball. Players try to score points by carrying the ball to their opponents' end of the field, or by kicking it over a bar fixed between two posts. 英式橄榄球 (运动)",
+        "zh": "",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. 英式橄榄球",
+      "【名】 （Rugby）（英、澳、俄、印、马）拉格比（人名）"
+    ]
+  },
+  "slow": {
+    "w": "slow",
+    "p": "sloʊ",
+    "uk": "sləʊ",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Something that is slow moves, happens, or is done without much speed.",
+        "zh": "缓慢的",
+        "ex": [
+          {
+            "en": "The traffic is heavy and slow.",
+            "zh": "车很多，走得慢。"
+          },
+          {
+            "en": "Electric whisks should be used on a slow speed.",
+            "zh": "电子打蛋器应该慢速运转。"
+          }
+        ]
+      },
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "缓慢地",
+        "zh": "",
+        "ex": [
+          {
+            "en": "He spoke slowly and deliberately.",
+            "zh": "他说得缓慢而慎重。"
+          }
+        ]
+      },
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "In informal English, slower is used to mean \"at a slower speed\" and slowest is used to mean \"at the slowest speed.\" In nonstandard English, slow is used to mean \"with little speed.\"",
+        "zh": "缓慢地",
+        "ex": [
+          {
+            "en": "I began to walk slower and slower.",
+            "zh": "我开始走得越来越慢。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Something that is slow takes a long time.",
+        "zh": "漫长的",
+        "ex": [
+          {
+            "en": "The distribution of passports has been a slow process.",
+            "zh": "颁发护照一直是个漫长的过程。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. （移动，运行）低速的，缓慢的；慢速的，低速的；耗时的，太慢的；迟缓的，慢吞吞的；（钟表）慢的；迟钝的，愚笨的；（胶片）曝光慢的；（镜头）小孔径的；（生意）清淡的，不景气的；不曲折的，乏味的，无趣的；（火，烤箱）小火的，弱火的；（球场或地面）软的，阻球的，奔跑困难的",
+      "v. （使）放慢速度，（使）减速；（使）降低，（使）减少；（生活，工作）放松",
+      "adv. 低速地，缓慢地",
+      "【名】 （Slow）（英）斯洛（人名）"
+    ]
+  },
+  "coups": {
+    "w": "coups",
+    "p": "kuːz",
+    "uk": "kuːz",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "When there is a coup, a group of people seize power in a country.",
+        "zh": "政变",
+        "ex": [
+          {
+            "en": "...a military coup.",
+            "zh": "…一次军事政变。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A coup is an achievement which is thought to be especially good because it was very difficult.",
+        "zh": "极为难得的成就",
+        "ex": [
+          {
+            "en": "The sale is a big coup for the auction house.",
+            "zh": "这次拍卖额对该拍卖行而言是极为难得的成就。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. coup 的复数形式：政变，即通过非法或暴力手段突然夺取政权的行动；重大成就，即极为难得或影响突出的成功。"
+    ]
+  },
+  "abound": {
+    "w": "abound",
+    "p": "əˈbaʊnd",
+    "uk": "əˈbaʊnd",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-I",
+        "tip": "不及物动词",
+        "en": "If things abound, or if a place abounds with things, there are very large numbers of them.",
+        "zh": "充满",
+        "ex": [
+          {
+            "en": "Stories abound about when he was in charge.",
+            "zh": "他负责时传闻很多。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 大量存在，有许多；富于，盛产（abound with/in sth.）"
+    ]
+  },
+  "festival": {
+    "w": "festival",
+    "p": "ˈfestɪvl; ˈfestəvəl",
+    "uk": "ˈfestɪvl; ˈfestəvəl",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A festival is an organized series of events such as musical concerts or drama productions.",
+        "zh": "节",
+        "ex": [
+          {
+            "en": "Many towns hold their own summer festivals of music, theatre, and dance.",
+            "zh": "很多城市都举办自己的夏季音乐、戏剧和舞蹈节。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A festival is a day or time of the year when people do not go to work or school and celebrate some special event, often a religious event.",
+        "zh": "节日",
+        "ex": [
+          {
+            "en": "Shavuot is a two-day festival for Orthodox Jews.",
+            "zh": "五旬节是正统犹太教教民为期两天的节日。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 活动节期，纪念活动；节日，节庆",
+      "adj. 节日的，喜庆的"
+    ]
+  },
+  "exhibitions": {
+    "w": "exhibitions",
+    "p": "ˌeksəˈbɪʃən",
+    "uk": "",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "An exhibition is a public event at which pictures, sculptures, or other objects of interest are displayed, for example at a museum or art gallery.",
+        "zh": "展览会",
+        "ex": [
+          {
+            "en": "...an exhibition of expressionist art.",
+            "zh": "…一场印象主义艺术展览会。"
+          }
+        ]
+      },
+      {
+        "pos": "N-SING",
+        "tip": "单数型名词",
+        "en": "An exhibition of a particular skilful activity is a display or example of it that people notice or admire. (技能的)",
+        "zh": "展示",
+        "ex": [
+          {
+            "en": "He responded in champion's style by treating the fans to an exhibition of power and speed.",
+            "zh": "他回报以冠军的风格，为仰慕者们呈现了一次力量与速度的展示。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. exhibition 的复数形式：展览，展示会；（技能、品质等的）展示，表现"
+    ]
+  },
+  "skyline": {
+    "w": "skyline",
+    "p": "ˈskaɪlaɪn",
+    "uk": "ˈskaɪlaɪn",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "The skyline is the line or shape that is formed where the sky meets buildings or the land. (建筑物等在天空映衬下的)",
+        "zh": "空中轮廓线",
+        "ex": [
+          {
+            "en": "The village church dominates the skyline.",
+            "zh": "那座乡村教堂独绝天际。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. （建筑物或群山在天空映衬下的）轮廓线"
+    ]
+  },
+  "opens": {
+    "w": "opens",
+    "p": "",
+    "uk": "",
+    "s": 5,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If you open something such as a door, window, or lid, or if it opens, its position is changed so that it no longer covers a hole or gap.",
+        "zh": "打开",
+        "ex": [
+          {
+            "en": "He opened the window and looked out.",
+            "zh": "他打开窗户往外看。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Open is also an adjective.",
+        "zh": "开着的",
+        "ex": [
+          {
+            "en": "...an open window.",
+            "zh": "…一扇开着的窗户。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you open something such as a bottle, box, parcel, or envelope, you move, remove, or cut part of it so you can take out what is inside.",
+        "zh": "开封",
+        "ex": [
+          {
+            "en": "I opened the letter.",
+            "zh": "我拆开了那封信。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Open is also an adjective.",
+        "zh": "打开的",
+        "ex": [
+          {
+            "en": "...an open bottle of milk.",
+            "zh": "…一瓶打开的牛奶。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. （open 的第三人称单数）开，打开（门、窗、盖子等）；开封，开启（信件、包裹、瓶罐等）；展开，张开（书、伞、地图、手臂等）；开业，开幕，开始；（计算机）打开文件或程序；（常与 up 连用）开辟，使（机会、可能性等）变得可用",
+      "n. （电工）断路，电路意外断开（open 的复数）"
+    ]
+  },
+  "tre": {
+    "w": "tre",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "abbr. 高音（等于 treble）"
+    ]
+  },
+  "western": {
+    "w": "western",
+    "p": "ˈwestərn",
+    "uk": "ˈwestən",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Western means in or from the west of a region, state, or country.",
+        "zh": "西部的",
+        "ex": [
+          {
+            "en": "...hand-made rugs from Western and Central Asia.",
+            "zh": "…来自西亚和中亚的手工地毯。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Western is used to describe things, people, ideas, or ways of life that come from or are associated with the United States, Canada, and the countries of Western, Northern, and Southern Europe. 西方国家的 (指与北美、西欧、北欧、南欧各国相关的)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "Mexico had the support of the big western governments.",
+            "zh": "墨西哥得到了西方大国政府的支持。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A western is a book or movie about life in the western United States and territories in the nineteenth century, especially the lives of cowboys. (有关19世纪美国西部的生活，尤指牛仔生活的) 西部小说;",
+        "zh": "西部影片",
+        "ex": [
+          {
+            "en": "John Agar starred in westerns, war films and low-budget science fiction pictures.",
+            "zh": "约翰·阿加出演过西部片、战争片和低投入的科幻片。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 西方的，西部的；（Western）西方国家的（指与北美、西欧、北欧、南欧各国相关的）；美国西部的",
+      "n. （关于19世纪美国西部生活，尤指牛仔生活的）西部电影、西部小说；西方人",
+      "【名】 （Western）（英）韦斯顿（人名）"
+    ]
+  },
+  "sydney’s": {
+    "w": "sydney’s",
+    "miss": true
+  },
+  "datacenters": {
+    "w": "datacenters",
+    "p": "ˈdeɪtəsentər; ˈdætəsentər",
+    "uk": "ˈdeɪteɪsentə(r)",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 数据中心，资料处理中心（等于 data center，即集中安放服务器、存储和网络设备并配备供电、冷却等支持系统的场所）"
+    ]
+  },
+  "nasdaq": {
+    "w": "nasdaq",
+    "p": "ˈnæzdæk",
+    "uk": "ˈnæzdæk",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N ACRONYM for",
+        "tip": "",
+        "en": "in the US National Association of Securities Dealers Automated Quotations System (美国)",
+        "zh": "全国证券交易商自动报价系统协会",
+        "ex": []
+      }
+    ],
+    "d": [
+      "abbr. 纳斯达克股票交易所，全国证券交易商自动报价系统协会（National Association of Securities Dealers Automated Quotation）"
+    ]
+  },
+  "shaved": {
+    "w": "shaved",
+    "p": "ʃeɪvd",
+    "uk": "ʃeɪvd",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "When a man shaves, he removes the hair from his face using a razor or shaver so that his face is smooth. 刮 (脸);",
+        "zh": "剃须",
+        "ex": [
+          {
+            "en": "He took a bath and shaved before dinner.",
+            "zh": "他在晚餐前洗了澡并刮了脸。"
+          },
+          {
+            "en": "He had shaved his face until it was smooth.",
+            "zh": "他把脸刮到光滑为止。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Shave is also a noun. 剃须;",
+        "zh": "刮脸",
+        "ex": [
+          {
+            "en": "He never seemed to need a shave.",
+            "zh": "他似乎从不需要刮脸。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "剃须;",
+        "zh": "刮脸",
+        "ex": [
+          {
+            "en": "...a range of shaving products.",
+            "zh": "…一系列剃须产品。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you shave off part of a piece of wood or other material, you cut very thin pieces from it. 削掉;",
+        "zh": "刨掉",
+        "ex": [
+          {
+            "en": "I set the log on the ground and shaved off the bark.",
+            "zh": "我把原木放在地上，然后刨掉树皮。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. shave 的过去式和过去分词：剃须，刮脸；擦过，掠过，几乎碰到（如汽车擦边通过）；shave off 的过去式和过去分词：削掉，刨掉，切成薄片；少量削减，略微降低（成本、价格、纪录等）",
+      "adj. 剃光的，刮净的"
+    ]
+  },
+  "bourses": {
+    "w": "bourses",
+    "p": "bʊrs",
+    "uk": "bʊəs",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "The bourse of a European city or region is its stock exchange. (欧洲的)",
+        "zh": "证券交易所",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. 证券交易所（尤指欧洲城市或地区的）；（Bourse）巴黎证券交易所；（Bourse）人名（法）布尔斯"
+    ]
+  },
+  "curbs": {
+    "w": "curbs",
+    "p": "kɜːrbz",
+    "uk": "",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you curb something, you control it and keep it within limits.",
+        "zh": "抑制",
+        "ex": [
+          {
+            "en": "...advertisements aimed at curbing the spread of AIDS.",
+            "zh": "…旨在抑制爱滋病蔓延的广告。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Curb is also a noun. 控制;",
+        "zh": "限制",
+        "ex": [
+          {
+            "en": "He called for much stricter curbs on immigration.",
+            "zh": "他呼吁对移民实行更为严格的限制。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you curb an emotion or your behaviour, you keep it under control. 控制 (脾气、行为等)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "He curbed his temper.",
+            "zh": "他控制住了自己的脾气。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "a swelling on the leg of a horse, below the point of the hock, usually caused by a sprain (马腿上由扭伤导致的)",
+        "zh": "肿胀",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. curb 的名词复数：限制，抑制，约束（常与 on 连用）；路缘石，路边（美国英语，英国英语作 kerbs）；勒马绳（马具）",
+      "v. curb 的第三人称单数：控制，限制，勒住"
+    ]
+  },
+  "ripple": {
+    "w": "ripple",
+    "p": "ˈrɪp(ə)l",
+    "uk": "ˈrɪp(ə)l",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Ripples are little waves on the surface of water caused by the wind or by something moving in or on the water.",
+        "zh": "涟漪",
+        "ex": [
+          {
+            "en": "Gleaming ripples cut the lake's surface.",
+            "zh": "闪着微光的涟漪打破了湖面的平静。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "When the surface of an area of water ripples or when something ripples it, a number of little waves appear on it. 使泛起涟漪;",
+        "zh": "泛起涟漪",
+        "ex": [
+          {
+            "en": "You throw a pebble in a pool and it ripples.",
+            "zh": "你把卵石扔进水池里，水面就泛起涟漪。"
+          }
+        ]
+      },
+      {
+        "pos": "V-I",
+        "tip": "不及物动词",
+        "en": "If something such as a feeling ripples over someone's body, it moves across it or through it. (感觉等)",
+        "zh": "扩散全身",
+        "ex": [
+          {
+            "en": "A chill shiver rippled over his skin.",
+            "zh": "一阵寒颤传遍了他全身。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "If an event causes ripples, its effects gradually spread, causing several other events to happen one after the other.",
+        "zh": "连锁反应",
+        "ex": [
+          {
+            "en": "If Brazil defaults on its foreign debt, it will cause ripples throughout the world.",
+            "zh": "如果巴西不还外债的话，这将在全世界引起连锁反应。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 涟漪；（外观或运动）如波纹的东西；（声音的）传播起伏，（感情的）逐渐扩散；连锁反应；彩条冰淇淋；表面张力波；脉动",
+      "v. （使）如波浪般起伏；（情绪）波动，（声音）荡漾；发出潺潺声",
+      "【名】 （Ripple）（英）里普尔（人名）"
+    ]
+  },
+  "worries": {
+    "w": "worries",
+    "p": "ˈwʌrɪs",
+    "uk": "ˈwʌrɪs",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If you worry, you keep thinking about problems that you have or about unpleasant things that might happen.",
+        "zh": "担心",
+        "ex": [
+          {
+            "en": "Don't worry, your luggage will come on afterwards by taxi.",
+            "zh": "不要担心，你的行李随后将由出租车送到。"
+          },
+          {
+            "en": "I worry about her constantly.",
+            "zh": "我一直在为她担心。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone or something worries you, they make you anxious because you keep thinking about problems or unpleasant things that might be connected with them.",
+        "zh": "使担心",
+        "ex": [
+          {
+            "en": "I'm still in the early days of my recovery and that worries me.",
+            "zh": "我仍处于恢复期的初始阶段，这使我担心。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone or something does not worry you, you do not dislike them or you are not annoyed by them. 使烦恼 (用于否定句中)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "The cold doesn't worry me.",
+            "zh": "寒冷不会使我烦恼。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Worry is the state or feeling of anxiety and unhappiness caused by the problems that you have or by thinking about unpleasant things that might happen.",
+        "zh": "忧虑",
+        "ex": [
+          {
+            "en": "Modern American life is full of worry: the job, the kids, money, the stock market.",
+            "zh": "现代美国生活充满了忧虑：工作、孩子、金钱、股市。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 忧虑，担心；烦恼，令人担忧的事（worries 为 worry 的复数形式）",
+      "v. 担心；使担心，使烦恼，困扰（worries 为 worry 的第三人称单数形式）",
+      "int. （非正式）别担心；没问题；不用客气"
+    ]
+  },
+  "value": {
+    "w": "value",
+    "p": "ˈvæljuː",
+    "uk": "ˈvæljuː",
+    "s": 5,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "The value of something such as a quality, attitude, or method is its importance or usefulness. If you place a particular value on something, that is the importance or usefulness you think it has. 重要性;",
+        "zh": "益处",
+        "ex": [
+          {
+            "en": "The value of this work experience should not be underestimated.",
+            "zh": "这项工作经验的重要性不应该被低估。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If something is of value, it is useful or important. If it is of no value, it has no usefulness or importance. 重要的/",
+        "zh": "不重要的",
+        "ex": [
+          {
+            "en": "This weekend course will be of value to everyone interested in the Pilgrim Route.",
+            "zh": "这个周末课程对于每一个对朝圣路线感兴趣的人来说都将是重要的。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you value something or someone, you think that they are important and you appreciate them.",
+        "zh": "重视",
+        "ex": [
+          {
+            "en": "I value the opinion of my husband and we agree on most things.",
+            "zh": "我重视我丈夫的意见，而且我们在大多数事情上看法一致。"
+          }
+        ]
+      },
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "The value of something is how much money it is worth.",
+        "zh": "价值",
+        "ex": [
+          {
+            "en": "The value of his investment has risen by more than $50,000.",
+            "zh": "他的投资价值已经增长$50000多。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 价值；等值，等价，物有所值；重要性，有用性；重要特点，显著特点；价值观（values）；（数学中的）值；（音乐中的）时值（指音符的时间长度）；（词或其他语言单位）确切意义；（色彩）明暗度",
+      "v. 尊重，重视；给……估价，给……定价"
+    ]
+  },
+  "abdul": {
+    "w": "abdul",
+    "p": "ˈɑːbdʊl",
+    "uk": "ˈɑːbdʊl",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 阿卜杜勒（人名）"
+    ]
+  },
+  "senate": {
+    "w": "senate",
+    "p": "ˈsenət",
+    "uk": "ˈsenət",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-PROPER-COLL",
+        "tip": "专有集体名词",
+        "en": "The Senate is the smaller and more important of the two parts of the legislature in some US states and in some countries, for example, the United States and Australia. (美国、澳大利亚等国的)",
+        "zh": "参议院",
+        "ex": [
+          {
+            "en": "The Senate is expected to pass the bill shortly.",
+            "zh": "预计参议院将很快通过这项议案。"
+          }
+        ]
+      },
+      {
+        "pos": "N-PROPER-COLL",
+        "tip": "专有集体名词",
+        "en": "The Senate is the governing council at some universities. (某些大学的)",
+        "zh": "评议会",
+        "ex": [
+          {
+            "en": "By the time I was vice chancellor, the Senate had become a much larger and a much more democratic body.",
+            "zh": "到我做副校长的那个时候，大学评议会已经成为一个更大、更民主的机构了。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 参议院；大学理事会，大学评议会；（古罗马的）元老院"
+    ]
+  },
+  "preliminary": {
+    "w": "preliminary",
+    "p": "prɪˈlɪmɪneri",
+    "uk": "prɪˈlɪmɪnəri",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Preliminary activities or discussions take place at the beginning of an event, often as a form of preparation.",
+        "zh": "初步的",
+        "ex": [
+          {
+            "en": "Preliminary results show the Republican Party with 11 percent of the vote.",
+            "zh": "初步结果显示共和党得到11%的选票。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A preliminary is something that you do at the beginning of an activity, often as a form of preparation. (程序性或礼节性的)",
+        "zh": "预备事务",
+        "ex": [
+          {
+            "en": "You all know why I am here. So I won't waste time on preliminaries.",
+            "zh": "你们都知道我为什么在这里。所以我就不浪费时间讲客套话了。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 初步的，预备的",
+      "n. 初步行动，准备工作；预赛，预试"
+    ]
+  },
+  "michiganders": {
+    "w": "michiganders",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 密歇根人"
+    ]
+  },
+  "el-sayed": {
+    "w": "el-sayed",
+    "miss": true
+  },
+  "isolation": {
+    "w": "isolation",
+    "p": "ˌaɪsəˈleɪʃn",
+    "uk": "ˌaɪsəˈleɪʃn",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Isolation is the state of feeling alone and without friends or help.",
+        "zh": "孤独",
+        "ex": [
+          {
+            "en": "Many deaf people have feelings of isolation and loneliness.",
+            "zh": "许多失聪的人有孤独和寂寞的感觉。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If something is considered in isolation from other things that it is connected with, it is considered separately, and those other things are not considered.",
+        "zh": "孤立",
+        "ex": [
+          {
+            "en": "Punishment cannot, therefore, be discussed in isolation from social and political theory.",
+            "zh": "因此，对惩罚进行讨论不能脱离社会和政治理论。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If someone does something in isolation, they do it without other people present or without their help.",
+        "zh": "单独地",
+        "ex": [
+          {
+            "en": "Malcolm, for instance, works in isolation but I have no doubts about his abilities.",
+            "zh": "例如，马尔科姆虽然一个人独立工作，但我丝毫不怀疑他的能力。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 隔离，孤立；孤独；绝缘；（尤指对混合物或微生物的）离析"
+    ]
+  },
+  "royal": {
+    "w": "royal",
+    "p": "ˈrɔɪəl",
+    "uk": "ˈrɔɪəl",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Royal is used to indicate that something is connected with a king, queen, or emperor, or their family. A royal person is a king, queen, or emperor, or a member of their family.",
+        "zh": "王室的",
+        "ex": [
+          {
+            "en": "...an invitation to a royal garden party.",
+            "zh": "…一张参加皇家花园聚会的请帖。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Royal is used in the names of institutions or organizations that are officially appointed or supported by a member of a royal family.",
+        "zh": "皇家的",
+        "ex": [
+          {
+            "en": "...the Royal Academy of Music.",
+            "zh": "…皇家音乐学院。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Members of the royal family are sometimes referred to as royals.",
+        "zh": "王室成员",
+        "ex": [
+          {
+            "en": "The royals have always been patrons of charities pulling in large donations.",
+            "zh": "王室成员一直都是慈善机构的资助人，注入大量捐赠。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 国王的，女王的，王室的；（用于机构或组织名称）皇家的 ；盛大的，隆重的；（用于强调某人或某物极度糟糕）极其的，极度的",
+      "n. 王室成员；（鸣钟术）敲奉十口钟的变换响"
+    ]
+  },
+  "unit": {
+    "w": "unit",
+    "p": "ˈjuːnɪt",
+    "uk": "ˈjuːnɪt",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "If you consider something as a unit, you consider it as a single, complete thing.",
+        "zh": "单元",
+        "ex": [
+          {
+            "en": "Agriculture was based in the past on the family as a unit.",
+            "zh": "农业过去以一个家庭单元为基础。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A unit is a group of people who work together at a specific job, often in a particular place. (工作)",
+        "zh": "单位",
+        "ex": [
+          {
+            "en": "...the environmental research unit.",
+            "zh": "…环境研究单位。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A unit is a group within an armed force or police force, whose members fight or work together or carry out a particular task.",
+        "zh": "分队",
+        "ex": [
+          {
+            "en": "...a firefighting unit.",
+            "zh": "…一个消防分队。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A unit is a small machine which has a particular function, often part of a larger machine.",
+        "zh": "部件",
+        "ex": [
+          {
+            "en": "The unit plugs into any TV set.",
+            "zh": "该部件可接入任何电视机。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 单位；一件（商品）；（公寓楼的）单元；部件，元件；（家具的）组合件，配件；科，室，部门；班组，小队；（课本）单元；（计量）单位；个位数；警车；学习量；股份单位"
+    ]
+  },
+  "specialist": {
+    "w": "specialist",
+    "p": "ˈspeʃəlɪst",
+    "uk": "ˈspeʃəlɪst",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A specialist is a person who has a particular skill or knows a lot about a particular subject.",
+        "zh": "专家",
+        "ex": [
+          {
+            "en": "Peckham, himself a cancer specialist, is well aware of the wide variations in medical practice.",
+            "zh": "佩卡姆本人就是个癌症专家，非常清楚医疗实践中的广泛差异。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 专家；专科医生；美国陆军专业人员（高于一等兵低于下士的军衔）",
+      "adj. 专业的；专门的；专家的"
+    ]
+  },
+  "pesticides": {
+    "w": "pesticides",
+    "p": "ˈpestɪsaɪdz",
+    "uk": "ˈpestɪsaɪdz",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-MASS",
+        "tip": "集合名词",
+        "en": "Pesticides are chemicals that farmers put on their crops to kill harmful insects.",
+        "zh": "杀虫剂",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. pesticide 的复数"
+    ]
+  },
+  "prioritize": {
+    "w": "prioritize",
+    "p": "praɪˈɔːrətaɪz",
+    "uk": "praɪˈɒrətaɪz",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you prioritize something, you treat it as more important than other things.",
+        "zh": "优先考虑",
+        "ex": [
+          {
+            "en": "Prioritize your own wants rather than constantly thinking about others.",
+            "zh": "优先考虑你自己的需要，而不要总想着别人。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you prioritize the tasks that you have to do, you decide which are the most important and do them first. 确定 (任务)",
+        "zh": "优先顺序",
+        "ex": [
+          {
+            "en": "Make lists of what to do and prioritize your tasks.",
+            "zh": "把你要做的事情列出来，确定任务的轻重缓急。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 按优先顺序列出；优先考虑（处理）"
+    ]
+  },
+  "maha": {
+    "w": "maha",
+    "p": "ˈmʌhʌ",
+    "uk": "ˈmʌhʌ",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 紫面叶猴",
+      "n. （Maha）人名；（英）马哈，玛哈（女名）；（罗、捷、老、泰、阿拉伯）玛哈（女名），马哈"
+    ]
+  },
+  "incumbent": {
+    "w": "incumbent",
+    "p": "ɪnˈkʌmbənt",
+    "uk": "ɪnˈkʌmbənt",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "An incumbent is someone who holds an official post at a particular time.",
+        "zh": "在职者",
+        "ex": [
+          {
+            "en": "In general, incumbents have a 94 percent chance of being re-elected.",
+            "zh": "一般情况下，现任官员有94%的几率会再次当选。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Incumbent is also an adjective.",
+        "zh": "在职的",
+        "ex": [
+          {
+            "en": "...the only candidate who defeated an incumbent senator.",
+            "zh": "…惟一击败了现任参议员的候选人。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If it is incumbent on or upon you to do something, it is your duty or responsibility to do it.",
+        "zh": "有责任履行的",
+        "ex": [
+          {
+            "en": "She felt it was incumbent on herself to act immediately.",
+            "zh": "她感到立即采取行动是她义不容辞的责任。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 在职的，现任的；职责所在的，义不容辞的；（公司）占市场份额大的",
+      "n. 在职者，现任官员；教区牧师，领圣俸者"
+    ]
+  },
+  "defeated": {
+    "w": "defeated",
+    "p": "dɪˈfiːtɪd",
+    "uk": "dɪˈfiːtɪd",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you defeat someone, you win a victory over them in a battle, game, or contest.",
+        "zh": "击败",
+        "ex": [
+          {
+            "en": "His guerrillas defeated the colonial army in 1954.",
+            "zh": "他的游击队在1954年打败了殖民军。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If a proposal or motion in a debate is defeated, more people vote against it than for it. (以多数票)",
+        "zh": "挫败",
+        "ex": [
+          {
+            "en": "The bill was defeated with support from only two congressmen.",
+            "zh": "由于只得到两位议员的支持，那个议案被否决了。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If a task or a problem defeats you, it is so difficult that you cannot do it or solve it.",
+        "zh": "难倒",
+        "ex": [
+          {
+            "en": "The book he most wanted to write was the one which nearly defeated him.",
+            "zh": "他最想写的书恰恰是几乎难倒他的那一本。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "To defeat an action or plan means to cause it to fail.",
+        "zh": "使受挫",
+        "ex": [
+          {
+            "en": "The navy played a limited but significant role in defeating the rebellion.",
+            "zh": "在平息叛乱中海军起了有限但却重要的作用。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 击败，挫败（defeat 的过去式和过去分词）",
+      "adj. 被击败的；受挫的，泄气的",
+      "n. 常作 the defeated：被击败的人（们）；失败者"
+    ]
+  },
+  "nithya": {
+    "w": "nithya",
+    "miss": true
+  },
+  "city's": {
+    "w": "city's",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 城市的"
+    ]
+  },
+  "bass": {
+    "w": "bass",
+    "p": "beɪs",
+    "uk": "beɪs",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 男低音歌手；低音，低音部；低音吉他，低音提琴；鲈鱼；椴树",
+      "adj. 低音的，低声调的",
+      "【名】 （Bass）（英、法、德、俄、罗、捷、马里、匈）巴斯（人名）"
+    ]
+  },
+  "karen": {
+    "w": "karen",
+    "p": "ˈkærən",
+    "uk": "ˈkærən",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N",
+        "tip": "名词",
+        "en": "a member of a Thai people of Myanmar",
+        "zh": "缅甸的泰国人",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. 凯伦（人名）；克伦邦（缅甸邦名）"
+    ]
+  },
+  "raman": {
+    "w": "raman",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 拉曼（姓氏）；拉曼（印度物理学家，也译喇曼）；（物理学）作定语：拉曼（用于拉曼效应、拉曼散射、拉曼光谱等复合术语）"
+    ]
+  },
+  "progressive": {
+    "w": "progressive",
+    "p": "prəˈɡresɪv",
+    "uk": "prəˈɡresɪv",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Someone who is progressive or has progressive ideas has modern ideas about how things should be done, rather than traditional ones.",
+        "zh": "进步的",
+        "ex": [
+          {
+            "en": "...a progressive businessman who had voted for Roosevelt in 1932 and 1936.",
+            "zh": "…在1932年和1936年投票支持罗斯福的一位进步商人。"
+          },
+          {
+            "en": "Willan was able to point to the progressive changes he had already introduced.",
+            "zh": "威兰能够指出他已经带来的有进步意义的变化。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A progressive is someone who is progressive.",
+        "zh": "进步人士",
+        "ex": [
+          {
+            "en": "The Republicans were deeply split between progressives and conservatives.",
+            "zh": "共和党进步派和保守派之间分歧很大。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "A progressive change happens gradually over a period of time.",
+        "zh": "逐步的",
+        "ex": [
+          {
+            "en": "One prominent symptom of the disease is progressive loss of memory.",
+            "zh": "这种病的一个突出症状是记忆的逐步丧失。"
+          }
+        ]
+      },
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "逐步地",
+        "zh": "",
+        "ex": [
+          {
+            "en": "Her symptoms became progressively worse.",
+            "zh": "她的症状逐步恶化。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 进步的，先进的；逐步发生的，逐步发展的；向前移动的；（音乐）现代的，新潮的；（税制，税种）累进的；（动词）进行式的；（纸牌游戏，舞蹈）搭档轮换的",
+      "n. 进步分子，改革派人士；进行时（或体）；（印刷）分色打样"
+    ]
+  },
+  "backlash": {
+    "w": "backlash",
+    "p": "ˈbæklæʃ",
+    "uk": "ˈbæklæʃ",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-SING",
+        "tip": "单数型名词",
+        "en": "A backlash against a tendency or recent development in society or politics is a sudden, strong reaction against it. (对政治或社会变化的)",
+        "zh": "强烈反应",
+        "ex": [
+          {
+            "en": "...the male backlash against feminism.",
+            "zh": "…男性对女权主义的强烈反应。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. （尤指对政治或社会事件的）强烈反应，反对；（机械的）反冲，反作用；（机械部件间的）间隙，轮齿隙"
+    ]
+  },
+  "overtake": {
+    "w": "overtake",
+    "p": "ˌoʊvərˈteɪk",
+    "uk": "ˌəʊvəˈteɪk",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone or something overtakes a competitor, they become more successful than them.",
+        "zh": "超过",
+        "ex": [
+          {
+            "en": "Lung cancer has now overtaken breast cancer as a cause of death for women in the U.S.",
+            "zh": "肺癌作为一种美国女性死亡原因现已超过了乳腺癌。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If a feeling overtakes you, it affects you very strongly.",
+        "zh": "强烈影响",
+        "ex": [
+          {
+            "en": "Something like panic overtook me in a flood.",
+            "zh": "一种类似恐慌的感觉在一次洪水中压倒了我。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If you overtake, or overtake a vehicle or a person that is ahead of you and moving in the same direction, you pass them.",
+        "zh": "超过",
+        "ex": []
+      }
+    ],
+    "d": [
+      "v. 追上， 赶上并超过（汽车或人）；（发展或增长）超越，超过；突然降临于，意外发生在；（情感等）压倒，使难以承受"
+    ]
+  },
+  "stella": {
+    "w": "stella",
+    "p": "ˈstelə",
+    "uk": "ˈstelə",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 斯特拉（女子名，也译“斯黛拉”“史黛拉”等）；弗兰克·斯特拉（Frank Stella，美国极简主义画家）；时代啤酒（Stella Artois 的简称，比利时啤酒品牌）"
+    ]
+  },
+  "byd's": {
+    "w": "byd's",
+    "miss": true
+  },
+  "evs": {
+    "w": "evs",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ABBREVIATION for",
+        "tip": "",
+        "en": "electronvolt",
+        "zh": "电子伏",
+        "ex": []
+      }
+    ],
+    "d": [
+      "abbr. 预期节省值（expected value saved）；省油真空开关（Economy Vacuum Switch）"
+    ]
+  },
+  "discusses": {
+    "w": "discusses",
+    "p": "",
+    "uk": "",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If people discuss something, they talk about it, often in order to reach a decision.",
+        "zh": "讨论",
+        "ex": [
+          {
+            "en": "I will be discussing the situation with colleagues tomorrow.",
+            "zh": "我将于明天和同事们讨论这个情况。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you discuss something, you write or talk about it in detail.",
+        "zh": "详述",
+        "ex": [
+          {
+            "en": "I will discuss the role of diet in cancer prevention in Chapter 7.",
+            "zh": "我将在第7章详述饮食在癌症预防中的作用。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. discuss 的第三人称单数形式；讨论，谈论：就某个话题或问题交换意见、观点；论述，探讨：详细阐述或分析某个主题。"
+    ]
+  },
+  "toyota": {
+    "w": "toyota",
+    "p": "toʊˈjoʊtə",
+    "uk": "tɔɪˈəʊtə",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 丰田汽车公司（日本汽车制造商及品牌）；丰田车（丰田品牌生产的车辆）；丰田市（日本爱知县城市）"
+    ]
+  },
+  "initiatives": {
+    "w": "initiatives",
+    "p": "ɪˈnɪʃɪətɪvz",
+    "uk": "ɪˈnɪʃətɪvz",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "An initiative is an important act or statement that is intended to solve a problem. (重要的) 法案;",
+        "zh": "倡议",
+        "ex": [
+          {
+            "en": "Local initiatives to help young people have been inadequate.",
+            "zh": "当地对年轻人的扶助法案一直不够完善。"
+          }
+        ]
+      },
+      {
+        "pos": "N-SING",
+        "tip": "单数型名词",
+        "en": "In a fight or contest, if you have the initiative, you are in a better position than your opponents to decide what to do next.",
+        "zh": "主动权",
+        "ex": [
+          {
+            "en": "We have the initiative; we intend to keep it.",
+            "zh": "我们拥有主动权；我们想要保持主动权。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "If you have initiative, you have the ability to decide what to do next and to do it, without needing other people to tell you what to do.",
+        "zh": "主动性",
+        "ex": [
+          {
+            "en": "She was disappointed by his lack of initiative.",
+            "zh": "她对他缺乏主动性感到失望。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "An initiative is a political procedure in which a group of citizens propose a new law or a change to the law, which all voters can then vote on.",
+        "zh": "公民立法提案程序",
+        "ex": [
+          {
+            "en": "If they reject or ignore the initiative, the public will vote on it in November.",
+            "zh": "如果他们拒绝或无视公民立法提案程序，公众将于11月对它进行投票表决。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 倡议，举措，方案；（美国英语）公民立法提案程序；initiative 的复数（主动性，积极性，首创精神；主动权，先手；创始，第一步，率先行动等义项见 initiative）"
+    ]
+  },
+  "overturn": {
+    "w": "overturn",
+    "p": "ˌoʊvərˈtɜːrn",
+    "uk": "ˌəʊvəˈtɜːn",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If something overturns or if you overturn it, it turns upside down or on its side. 打翻;",
+        "zh": "翻倒",
+        "ex": [
+          {
+            "en": "The motorcycle veered out of control, overturned and smashed into a wall.",
+            "zh": "摩托车转向失去了控制，翻倒在地，然后猛地撞到一面墙上。"
+          },
+          {
+            "en": "Alex jumped up so violently that he overturned his glass of wine.",
+            "zh": "亚历克斯跃起得太猛，以至于打翻了他的那杯葡萄酒。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone in authority overturns a legal decision, they officially decide that that decision is incorrect or not valid.",
+        "zh": "推翻",
+        "ex": [
+          {
+            "en": "When the courts overturned his decision, he backed down.",
+            "zh": "当法院推翻了他的决定时，他让步了。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. （使）翻倒，（使）倾覆；推翻，撤销（判决等）；颠覆，破坏（政府或体系）；在英国大选中因获得多数席位而获胜",
+      "n. 颠覆，革命；（尤指水温分层的湖水每年两次的）湖水对流"
+    ]
+  },
+  "missouri": {
+    "w": "missouri",
+    "p": "mɪˈzʊri",
+    "uk": "mɪˈzʊəri",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 密苏里（美国州名，位于美国中西部、密西西比河西岸）；密苏里河（美国最长的河流，发源于蒙大拿州，在圣路易斯附近注入密西西比河）"
+    ]
+  },
+  "harder": {
+    "w": "harder",
+    "p": "ˈhɑːrdər",
+    "uk": "ˈhɑːdə(r)",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "adj. 更难的；更努力的；更坚固的（hard 的比较级）",
+      "adv. 更努力地；更困难地；更辛苦地；更接近地；更猛烈地；更牢固地（hard 的比较级）",
+      "n. （Harder）（英、德、瑞典）哈德（人名）"
+    ]
+  },
+  "citizen-led": {
+    "w": "citizen-led",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "adj．公民主导的：由普通公民发起、组织或领导的，而非政府或其他官方机构。"
+    ]
+  },
+  "play": {
+    "w": "play",
+    "p": "pleɪ",
+    "uk": "pleɪ",
+    "s": 5,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-I",
+        "tip": "不及物动词",
+        "en": "When children, animals, or adults play, they spend time doing enjoyable things, such as using toys and taking part in games.",
+        "zh": "玩耍",
+        "ex": [
+          {
+            "en": "...invite the children over to play.",
+            "zh": "…邀请孩子们过来玩。"
+          },
+          {
+            "en": "They played in the little garden.",
+            "zh": "他们在小花园里玩耍。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Play is also a noun.",
+        "zh": "玩",
+        "ex": [
+          {
+            "en": "...a few hours of play until the babysitter puts them to bed.",
+            "zh": "…直到保姆让他们上床睡觉之前的几小时的玩耍。"
+          }
+        ]
+      },
+      {
+        "pos": "V-RECIP",
+        "tip": "相互动词",
+        "en": "When you play a sport, game, or match, you take part in it. 参加 (体育运动、游戏、比赛等)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "While the twins played cards, Leona sat reading.",
+            "zh": "那对双胞胎玩牌的时候，利昂娜坐着看书。"
+          },
+          {
+            "en": "I used to play basketball.",
+            "zh": "我过去常打篮球。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Play is also a noun. (对运动、游戏、比赛等的)",
+        "zh": "参加",
+        "ex": [
+          {
+            "en": "They've got more exciting players and a more exciting style of play.",
+            "zh": "他们有更精彩的选手和更精彩的比赛风格。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 玩，玩耍；捉弄，戏弄；摆弄，玩弄；耍弄，愚弄；不认真地干，闹（play at）；参加（游戏、比赛等）；与……比赛；击，踢（球）；出（牌），走（棋子）；派（某人）上场；（在球队中）打（某位置）；扮演，演出；佯装，假装；假扮……玩；（戏剧或电影）上演，上映；演奏，弹奏；（使）播放；闪烁，浮现；（以某方式）行事，做事；（使）发射（或喷射、照射）；赌，投机；被接受，被认可；（喻）合作，买某人的账；寄于；让（上钩的鱼）挣扎得筋疲力尽；（板球场状况对比赛）产生影响",
+      "n. 剧本，戏剧；游戏，玩乐；比赛；比赛中的动作；（运动或游戏中的）打法，走法；活动空间，间隙；影响，作用；闪烁，变幻；玩笑；（音频或图像的）播放次数，播放时长；播放（功能）；（报纸或电视的）关注；（对文字的）巧用，妙用",
+      "【名】 （Play）（法、瑞典）普莱（人名）"
+    ]
+  },
+  "pointing": {
+    "w": "pointing",
+    "p": "ˈpɔɪntɪŋ",
+    "uk": "ˈpɔɪntɪŋ",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Pointing is a way of filling in the gaps between the bricks or stones on the outside of a building so that the surface becomes sealed.",
+        "zh": "勾缝",
+        "ex": [
+          {
+            "en": "He did the pointing in the stonework himself.",
+            "zh": "他自己做了石结构的勾缝。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Pointing is the cement between the bricks or stones in a wall.",
+        "zh": "勾缝水泥",
+        "ex": []
+      }
+    ],
+    "d": [
+      "v. 指向；表明（point 的现在分词）",
+      "n. （勾墙砖、石缝用的）灰泥，灰浆；勾缝"
+    ]
+  },
+  "obvious": {
+    "w": "obvious",
+    "p": "ˈɑːbviəs",
+    "uk": "ˈɒbviəs",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If something is obvious, it is easy to see or understand.",
+        "zh": "明显的",
+        "ex": [
+          {
+            "en": "...the need to rectify what is an obvious injustice.",
+            "zh": "…纠正明显不公行为的必要性。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If you describe something that someone says as obvious, you are being critical of it because you think it is unnecessary or shows lack of imagination.",
+        "zh": "无新意的",
+        "ex": [
+          {
+            "en": "Such an explanation seems too simple, and too obvious.",
+            "zh": "这样的一个解释似乎太简单而且太没新意。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If you say that someone is stating the obvious, you mean that they are saying something that everyone already knows and understands.",
+        "zh": "说人人皆知的事",
+        "ex": []
+      }
+    ],
+    "d": [
+      "adj. 明显的，显然的；明确表示的，毫不掩饰的；平淡无奇的，缺乏想象力的；合情合理的，当然的"
+    ]
+  },
+  "variables": {
+    "w": "variables",
+    "p": "ˈverɪəbl",
+    "uk": "",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Something that is variable changes quite often, and there usually seems to be no fixed pattern to these changes.",
+        "zh": "多变的",
+        "ex": [
+          {
+            "en": "The potassium content of foodstuffs is very variable.",
+            "zh": "食品中钾的含量是多变的。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "可变性",
+        "zh": "",
+        "ex": [
+          {
+            "en": "There's a great deal of variability between individuals.",
+            "zh": "个体之间存在着很大的可变性。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A variable is a factor that can change in quality, quantity, or size, that you have to take into account in a situation.",
+        "zh": "可变因素",
+        "ex": [
+          {
+            "en": "Decisions could be made on the basis of price, delivery dates, after-sales service or any other variable.",
+            "zh": "决定可以基于价格、送货日期、售后服务或是任何其他可变因素而做出。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. variable 的复数：[数] 变量（或其表示符号）；可变因素"
+    ]
+  },
+  "tight": {
+    "w": "tight",
+    "p": "taɪt",
+    "uk": "taɪt",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Tight clothes or shoes are small and fit closely to your body. (衣服或鞋子)",
+        "zh": "紧贴的",
+        "ex": [
+          {
+            "en": "She walked off the plane in a miniskirt and tight top.",
+            "zh": "她穿着迷你裙和紧身上衣走下飞机。"
+          }
+        ]
+      },
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "紧贴地",
+        "zh": "",
+        "ex": [
+          {
+            "en": "He buttoned his collar tightly round his thick neck.",
+            "zh": "他把衣领紧紧地扣在自己的粗脖子上。"
+          }
+        ]
+      },
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "If you hold someone or something tight, you hold them firmly and securely.",
+        "zh": "紧紧地",
+        "ex": [
+          {
+            "en": "She just fell into my arms, clutching me tight for a moment.",
+            "zh": "她就倒在了我的怀里，一时间紧紧地抓着我。"
+          },
+          {
+            "en": "Just hold tight to my hand and follow along.",
+            "zh": "只要紧紧地抓住我的手，跟着我。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Tight is also an adjective.",
+        "zh": "紧紧的",
+        "ex": [
+          {
+            "en": "As he and Hannah passed through the gate he kept a tight hold of her arm.",
+            "zh": "他和汉娜经过大门时，他紧抓着她的胳膊。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 牢固的，不松动的；紧身的；拉紧的，绷紧的；严厉的，严格的；紧的，拮据的；密集的，挤满的；亲密的，紧密的；急转的，陡的；憋闷的，不适的；紧张的，生气的；势均力敌的；困难的，棘手的；准确的，紧凑的；吝啬的；醉醺醺的；结实的",
+      "adv. 紧紧地，牢固地",
+      "【名】 （Tight）泰特（人名）"
+    ]
+  },
+  "wait": {
+    "w": "wait",
+    "p": "weɪt",
+    "uk": "weɪt",
+    "s": 5,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "When you wait for something or someone, you spend some time doing very little, because you cannot act until that thing happens or that person arrives.",
+        "zh": "等候",
+        "ex": [
+          {
+            "en": "I walk to a street corner and wait for the school bus.",
+            "zh": "我走到一个街道拐角处等校车。"
+          },
+          {
+            "en": "I waited to see how she responded.",
+            "zh": "我等着看她如何反应。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "等候",
+        "zh": "",
+        "ex": [
+          {
+            "en": "The waiting became almost unbearable.",
+            "zh": "等待变得几乎令人难以忍受了。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A wait is a period of time in which you do very little, before something happens or before you can do something.",
+        "zh": "等待的时间",
+        "ex": [
+          {
+            "en": "...the four-hour wait for the organizers to declare the result.",
+            "zh": "…组织者们宣布结果前4个小时的等待。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If something is waiting for you, it is ready for you to use, have, or do. 等 (你) 使用; 等 (你)",
+        "zh": "去做",
+        "ex": [
+          {
+            "en": "There'll be a car waiting for you.",
+            "zh": "将会有辆车等着你。"
+          },
+          {
+            "en": "When we came home we had a meal waiting for us.",
+            "zh": "我们回到家时，有一顿饭正等着我们去享用。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 等候；盼望，期待；推迟，延缓；（已备好）可处理，可取用；（用于鼓励或威胁）等着；（用于打断讲话）等一下，慢着；服侍，招待",
+      "n. 等待，等候的时间；（城镇）官方乐队（waits）",
+      "【名】 （Wait）（英）韦特，（捷）魏特（人名）"
+    ]
+  },
+  "winner": {
+    "w": "winner",
+    "p": "ˈwɪnər",
+    "uk": "ˈwɪnə(r)",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "The winner of a prize, race, or competition is the person, animal, or thing that wins it.",
+        "zh": "获胜者",
+        "ex": [
+          {
+            "en": "She will present the trophies to the award winners.",
+            "zh": "她将给获胜者颁奖。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 获胜的人（或队、动物等），优胜者；（体育比赛中）致胜的一分，制胜的进球；可能成功的人（或事物），极好的人（或事物），成功的人（或事物）；获益者，赢家；（桥牌）能赢的牌",
+      "【名】 （Winner）（美、德、英）温纳（人名）"
+    ]
+  },
+  "lenders": {
+    "w": "lenders",
+    "p": "",
+    "uk": "",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A lender is a person or an institution that lends money to people.",
+        "zh": "贷方",
+        "ex": [
+          {
+            "en": "...the six leading mortgage lenders.",
+            "zh": "…6家最大的抵押贷款机构。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 放款人，出借方，贷方（lender 的复数）；（Lenders）人名；（德）伦德斯"
+    ]
+  },
+  "hangover": {
+    "w": "hangover",
+    "p": "ˈhæŋoʊvər",
+    "uk": "ˈhæŋəʊvə(r)",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "If someone wakes up with a hangover, they feel sick and have a headache because they drank a lot of alcohol the night before. 宿醉 (过量饮酒后的恶心、头痛反应)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "It was a great night and I had a massive hangover.",
+            "zh": "那是个愉快的夜晚，可第二天我出现了严重的宿醉。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Something that is a hangover from the past is an idea or way of behaving which people used to have in the past but which people no longer generally have. 遗留观念;",
+        "zh": "遗留习俗",
+        "ex": [
+          {
+            "en": "As a hangover from rationing, they mixed butter and margarine.",
+            "zh": "作为配给制的遗留习俗，他们把黄油与人造黄油混在一起吃。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 宿醉（尤指过量饮酒后次日出现的头痛、恶心等不适反应）；残留物，遗物，遗留观念或习俗（常与 from 连用，指从过去留存下来的事物或残余影响）"
+    ]
+  },
+  "wild": {
+    "w": "wild",
+    "p": "waɪld",
+    "uk": "waɪld",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Wild animals or plants live or grow in natural surroundings and are not taken care of by people. (动物或植物)",
+        "zh": "野生的",
+        "ex": [
+          {
+            "en": "We saw two more wild cats creeping toward us in the darkness.",
+            "zh": "我们看见还有两只野猫在黑暗中向我们爬来。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Wild land is natural and is not used by people.",
+        "zh": "荒芜的",
+        "ex": [
+          {
+            "en": "...a wild area of woods and lakes.",
+            "zh": "…一片荒芜的森林和湖泊区域。"
+          }
+        ]
+      },
+      {
+        "pos": "N-PLURAL",
+        "tip": "复数型名词",
+        "en": "The wilds of a place are the natural areas that are far away from cities and towns.",
+        "zh": "荒野",
+        "ex": [
+          {
+            "en": "They went canoeing in the wilds of Canada.",
+            "zh": "他们在加拿大的荒野地区划独木舟。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Wild is used to describe the weather or the sea when it is stormy. (天气或海面)",
+        "zh": "狂风暴雨的",
+        "ex": [
+          {
+            "en": "The wild weather did not deter some people from taking an unseasonable dip in the sea.",
+            "zh": "狂风暴雨的天气并没有使一些不合时宜地到海里游泳的人却步。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. （动植物）自然生长的，野生的；（土地）无人烟的，未开垦的；（人）未开化的，野蛮的；不受控制的，放荡的；暴风雨的，狂暴的；（做事或说话）轻率的，缺乏根据的；激动人心的；满腔热情的，十分热衷的；感情强烈的（尤指生气、高兴或激动）；（表情、外表等）走神的，不专注的；特别的，怪异的；（纸牌）百搭的；嘈杂混乱的",
+      "adv. 自然地，不受控制地",
+      "n. 偏远地区，人烟稀少的地区；自然环境，野生状态",
+      "v.  野蛮对待，残酷对待"
+    ]
+  },
+  "africans": {
+    "w": "africans",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "African means belonging or relating to the continent of Africa, or to its countries or people. 非洲的;",
+        "zh": "非洲国家的",
+        "ex": [
+          {
+            "en": "...the African continent.",
+            "zh": "…非洲大陆。"
+          },
+          {
+            "en": "...African countries.",
+            "zh": "…非洲国家。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "African means belonging or relating to black people who come from Africa. 属于非洲人的;",
+        "zh": "与非洲人有关的",
+        "ex": [
+          {
+            "en": "...traditional African culture.",
+            "zh": "…非洲传统文化。"
+          },
+          {
+            "en": "...dance music with African roots.",
+            "zh": "…源自非洲的舞曲。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "African is used to describe someone, usually a black person, who comes from Africa.",
+        "zh": "非洲裔的",
+        "ex": [
+          {
+            "en": "...African women.",
+            "zh": "…非洲妇女。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "An African is someone who is African.",
+        "zh": "非洲人",
+        "ex": [
+          {
+            "en": "Fish is a staple in the diet of many Africans.",
+            "zh": "鱼是很多非洲人饮食中的主食。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 非洲人（African 的复数）"
+    ]
+  },
+  "kids": {
+    "w": "kids",
+    "p": "kɪdz",
+    "uk": "kidz",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "You can refer to a child as a kid.",
+        "zh": "孩子",
+        "ex": [
+          {
+            "en": "They've got three kids.",
+            "zh": "他们有三个孩子。"
+          }
+        ]
+      },
+      {
+        "pos": "V-I",
+        "tip": "不及物动词",
+        "en": "If you are kidding, you are saying something that is not really true, as a joke.",
+        "zh": "开玩笑",
+        "ex": [
+          {
+            "en": "I'm not kidding, Frank. There's a cow out there, just standing around.",
+            "zh": "我不是在开玩笑，弗兰克。那边有一头奶牛，就在那里站着呢。"
+          },
+          {
+            "en": "I'm just kidding.",
+            "zh": "我只是在开玩笑。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you kid someone, you tease them.",
+        "zh": "戏弄",
+        "ex": [
+          {
+            "en": "He liked to kid Ingrid a lot.",
+            "zh": "他很喜欢戏弄英格里德。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If people kid themselves, they allow themselves to believe something that is not true because they wish that it was true. 欺骗 (自己)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "We're kidding ourselves, Bill. We're not winning, we're not even doing well.",
+            "zh": "我们是在欺骗自己，比尔。我们不会赢的。我们做得甚至都不好。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. （kid 的复数）小孩，孩子；年轻人；小山羊；小山羊皮革；（尤指水手食堂盛格罗酒或配额食物用的）小木桶",
+      "v. （kid 的第三人称单数）开玩笑，拿……开玩笑，（善意地）取笑；（山羊）产羔；欺骗，常与 oneself 连用时表示“欺骗自己”"
+    ]
+  },
+  "coaches": {
+    "w": "coaches",
+    "p": "ˈkoʊtʃɪz",
+    "uk": "ˈkəʊtʃɪz",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A coach is someone who trains a person or team of people in a particular sport.",
+        "zh": "教练",
+        "ex": [
+          {
+            "en": "Tony Woodcock has joined the team as coach.",
+            "zh": "托尼•伍德科克已经作为教练加入了队伍。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A coach is a person who is in charge of a sports team. (体育队的)",
+        "zh": "领队",
+        "ex": [
+          {
+            "en": "...the women's football coach at Rowan University.",
+            "zh": "…罗恩大学女子足球队的领队。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A coach is someone who gives people special teaching in a particular subject, especially in order to prepare them for an examination. (针对某科目，尤指进行考前指导的)",
+        "zh": "辅导员",
+        "ex": [
+          {
+            "en": "What you need is a drama coach.",
+            "zh": "你需要的是一位戏剧指导。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A coach is an enclosed vehicle with four wheels which is pulled by horses, and in which people used to travel. Coaches are still used for ceremonial events in some countries, such as Britain. (用于外出旅行或仪式活动的)",
+        "zh": "四轮马车",
+        "ex": [
+          {
+            "en": "...a coach pulled by six black horses.",
+            "zh": "…一辆6匹黑马拉的4轮马车。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 教练；辅导教师；长途汽车；火车车厢（coach 的复数形式）",
+      "v. 训练，指导（coach 的第三人称单数形式）"
+    ]
+  },
+  "safesport": {
+    "w": "safesport",
+    "miss": true
+  },
+  "democrats’": {
+    "w": "democrats’",
+    "miss": true
+  },
+  "billionaires": {
+    "w": "billionaires",
+    "p": "",
+    "uk": "",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A billionaire is an extremely rich person who has money or property worth at least a thousand million dollars.",
+        "zh": "亿万富翁",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. 亿万富翁（billionaire 的复数）"
+    ]
+  },
+  "rich": {
+    "w": "rich",
+    "p": "rɪtʃ",
+    "uk": "rɪtʃ",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "A rich person has a lot of money or valuable possessions.",
+        "zh": "富的",
+        "ex": [
+          {
+            "en": "You're going to be a very rich man.",
+            "zh": "你将成为一个非常富的人。"
+          }
+        ]
+      },
+      {
+        "pos": "N-PLURAL",
+        "tip": "复数型名词",
+        "en": "The rich are rich people.",
+        "zh": "富人",
+        "ex": [
+          {
+            "en": "This is a system in which the rich are taken care of and the poor are left to suffer.",
+            "zh": "这是个富人受关照，而穷人遭罪的制度。"
+          }
+        ]
+      },
+      {
+        "pos": "N-PLURAL",
+        "tip": "复数型名词",
+        "en": "Riches are valuable possessions or large amounts of money.",
+        "zh": "财富",
+        "ex": [
+          {
+            "en": "An Olympic gold medal can lead to untold riches for an athlete.",
+            "zh": "一枚奥运金牌能为一名运动员带来数不尽的财富。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "A rich country has a strong economy and produces a lot of wealth, so many people who live there have a high standard of living.",
+        "zh": "富强的",
+        "ex": [
+          {
+            "en": "There is hunger in many parts of the world, even in rich countries.",
+            "zh": "饥饿在世界许多地方都存在，甚至在一些富国。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 有钱的，富有的；富含……的，丰富的；非常有趣的，丰富多彩的；（食物）油腻的；（色彩、气味）浓郁的，（声音）浑厚的；肥沃的，丰产的；华丽昂贵的；（指某人的评论或批评）荒唐的，可笑的；值钱的，生财的；（内燃机内的混合燃料）可燃性成分高的",
+      "【名】 （Rich）（丹）里克，（捷）里赫，（英、西）里奇，（葡、法）里什（人名）"
+    ]
+  },
+  "super": {
+    "w": "super",
+    "p": "ˈsuːpər",
+    "uk": "ˈsuːpə(r)",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "Super is used before adjectives to indicate that something has a lot of a quality.",
+        "zh": "超级地",
+        "ex": [
+          {
+            "en": "I'm going to Greece in the summer so I've got to be super slim.",
+            "zh": "我这个夏天要去希腊，所以我得变得超级苗条才行。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Super is used before nouns to indicate that something is larger, better, or more advanced than similar things.",
+        "zh": "超级的",
+        "ex": [
+          {
+            "en": "Winners of each regional will advance to the super regionals.",
+            "zh": "每个地区分支机构的获胜者们将会晋级为超级地区性人物。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Some people use super to mean very nice or very good.",
+        "zh": "超好的",
+        "ex": [
+          {
+            "en": "We had a super time.",
+            "zh": "我们度过了一段超好的时光。"
+          },
+          {
+            "en": "That's a super idea.",
+            "zh": "那是个超好的想法。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 极好的，极优秀的；超级的",
+      "adv. 极其，非常",
+      "n. （英国的）警官，（美国的）警长；（大楼的）管理人；主管，上司；过磷酸盐，过磷酸钙；特级品，特优产品；跑龙套的角色，临时演员",
+      "【名】 （Super）休珀（人名）"
+    ]
+  },
+  "destabilised": {
+    "w": "destabilised",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "vt.使动摇，使不稳定（destabilise 的过去式和过去分词）"
+    ]
+  },
+  "four-year": {
+    "w": "four-year",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "四年的",
+      "四年制的"
+    ]
+  },
+  "webs": {
+    "w": "webs",
+    "p": "webz",
+    "uk": "wɛbs",
+    "s": 5,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-PROPER",
+        "tip": "专有名词",
+        "en": "The Web is a computer system that links documents and pictures into a database that is stored in computers in many different parts of the world and that people everywhere can use. It is also referred to as the World Wide Web.",
+        "zh": "互联网",
+        "ex": [
+          {
+            "en": "The handbook is available on the Web.",
+            "zh": "这本手册互联网上有。"
+          },
+          {
+            "en": "She recommended the service on her Web journal after trying it out.",
+            "zh": "在经过试用后，她在自己的网络杂志中推荐了这项服务。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A web is a complicated pattern of connections or relationships, sometimes considered as an obstacle or a danger.",
+        "zh": "错综复杂的事物",
+        "ex": [
+          {
+            "en": "He's forced to untangle a complex web of financial dealings.",
+            "zh": "他被迫去理顺一大堆错综复杂的金融交易。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A web is the thin net made by a spider from a sticky substance that it produces in its body.",
+        "zh": "蜘蛛网",
+        "ex": [
+          {
+            "en": "...the spider's web in the window.",
+            "zh": "…窗户上的蜘蛛网。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 网；骨架肋板；网状物（web 的复数）"
+    ]
+  },
+  "jeopardise": {
+    "w": "jeopardise",
+    "p": "ˈdʒepərdaɪz",
+    "uk": "ˈdʒepədaɪz",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "vt. 危及，危害，使……陷入危险（等于 jeopardize，英式拼写）"
+    ]
   }
 }
