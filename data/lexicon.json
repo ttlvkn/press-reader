@@ -196919,5 +196919,1842 @@
       "n. 头脑，大脑；智慧，思维方式；聪明人，富有才智的人；注意力，心思；记忆力；意愿，意向",
       "v. 苦恼，反对；（请求允许或客气地请人做事）介意；不在意，不考虑；愿意做，乐意做；关心，照看；当心，注意；听从"
     ]
+  },
+  "putin": {
+    "w": "putin",
+    "p": "ˈpjutɪn",
+    "uk": "ˈpjutɪn",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 普京（人名）"
+    ]
+  },
+  "anticipated": {
+    "w": "anticipated",
+    "p": "ænˈtɪsɪpeɪtɪd",
+    "uk": "ænˈtɪsɪpeɪtɪd",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If an event, especially a cultural event, is eagerly anticipated, people expect that it will be very good, exciting, or interesting.",
+        "zh": "受期盼的",
+        "ex": [
+          {
+            "en": "...the most eagerly anticipated rock event of the year.",
+            "zh": "...本年度最受热切期盼的摇滚比赛。"
+          },
+          {
+            "en": "...one of the conference's most keenly anticipated debates.",
+            "zh": "...本次大会最受强烈期盼的辩论之一。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 受期待的，让人期盼的",
+      "v. 预期，预料；期待，盼望；先于…做，抢先…做（anticipate 的过去式和过去分词）"
+    ]
+  },
+  "shenzhen": {
+    "w": "shenzhen",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 深圳（中国广东省南部城市，邻近香港）"
+    ]
+  },
+  "zero": {
+    "w": "zero",
+    "p": "ˈzɪroʊ",
+    "uk": "ˈzɪərəʊ",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "NUM",
+        "tip": "数词",
+        "en": "Zero is the number 0.",
+        "zh": "零",
+        "ex": [
+          {
+            "en": "Visibility at the city's airport came down to zero, bringing air traffic to a standstill.",
+            "zh": "这个城市机场的能见度下降到了零，使航空运输陷入停顿状态。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Zero is a temperature of 0°. It is freezing point on the centigrade and Celsius scales, and 32° below freezing point on the Fahrenheit scale. (摄氏)",
+        "zh": "零度",
+        "ex": [
+          {
+            "en": "It's a sunny late winter day, just a few degrees above zero.",
+            "zh": "这是晚冬晴朗的一天，只有零上几度。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "You can use zero to say that there is none at all of the thing mentioned.",
+        "zh": "为零的",
+        "ex": [
+          {
+            "en": "This new ministry was being created with zero assets and zero liabilities.",
+            "zh": "这个新部门当时是以零资产零负债进行创建。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "num. 零",
+      "n. 零点，零度",
+      "n. （Zero）（意）泽罗（人名）"
+    ]
+  },
+  "net": {
+    "w": "net",
+    "p": "net",
+    "uk": "net",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Net is a kind of cloth that you can see through. It is made of fine threads woven together so that there are small equal spaces between them.",
+        "zh": "网",
+        "ex": []
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A net is a piece of netting which is used as a protective covering for something, for example to protect vegetables from birds. (保护性的)",
+        "zh": "网罩",
+        "ex": [
+          {
+            "en": "I threw aside my mosquito net, jumped out of bed and drew up the blind.",
+            "zh": "我撩开蚊帐，跳下床，拉开百叶窗。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A net is a piece of netting which is used for catching fish, insects, or animals. (用于捕猎的)",
+        "zh": "罗网",
+        "ex": [
+          {
+            "en": "Several fishermen sat on wooden barrels, tending their nets.",
+            "zh": "几个渔民坐在木桶上修补他们的鱼网。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you net a fish or other animal, you catch it in a net.",
+        "zh": "捕捞",
+        "ex": [
+          {
+            "en": "I'm quite happy to net a fish and then let it go.",
+            "zh": "我特别喜欢捞到一条鱼后再把它放了。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 网，网状物；因特网；球网，球门网；广播网，通讯网；安全网；捕鱼总量；净赚，纯利；（板球）练球场；（板球）一次练球；网眼织物；陷阱；候选人的选择面",
+      "adj. 净得的；净重的；最后的，最终的",
+      "v. 净赚，净得；设法获得，巧妙地做；（用网）捕捉；（篮球或足球）得分，进（球）；用网覆盖；（计算时）扣除……（以得出净额）",
+      "adv. 净赚地"
+    ]
+  },
+  "wreck": {
+    "w": "wreck",
+    "p": "rek",
+    "uk": "rek",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "To wreck something means to completely destroy or ruin it.",
+        "zh": "摧毁",
+        "ex": [
+          {
+            "en": "He wrecked the garden.",
+            "zh": "他毁掉了那个花园。"
+          },
+          {
+            "en": "His life has been wrecked by the tragedy.",
+            "zh": "他的生活被这场悲剧毁了。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A wreck is something such as a ship, car, plane, or building that has been destroyed, usually in an accident. (轮船、汽车、飞机或房屋失事后的)",
+        "zh": "残骸",
+        "ex": [
+          {
+            "en": "...the wreck of a sailing ship.",
+            "zh": "…一艘帆船的残骸。"
+          },
+          {
+            "en": "The car was a total wreck.",
+            "zh": "这辆车完全报废了。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A wreck is an accident in which a moving vehicle hits something and is damaged or destroyed.",
+        "zh": "撞车事故",
+        "ex": [
+          {
+            "en": "He was killed in a car wreck.",
+            "zh": "他在一场车祸中丧生。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "If you say that someone is a wreck, you mean that they are very exhausted or unhealthy. 疲惫不堪的人;",
+        "zh": "不健康的人",
+        "ex": [
+          {
+            "en": "You look a wreck.",
+            "zh": "你看起来极度疲惫。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 破坏，断送（计划、关系等）；（严重）破坏，毁坏（车辆或建筑物）；造成（船舶）失事，使遇难；毁船打劫；（为获取有用的零件、碎料而）拆，拆除（破汽车、旧建筑物等）；营救失事船只；失事",
+      "n. 沉船，遇难船；遭到严重破坏的东西（尤指建筑物、车辆）；健康（或精神）严重受损的人；（船舶的）失事，遇难，交通事故；杂乱的地方；（船舶失事后被冲上岸的）残货，沉船漂浮物"
+    ]
+  },
+  "mooted": {
+    "w": "mooted",
+    "p": "",
+    "uk": "",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If a plan, idea, or subject is mooted, it is suggested or introduced for discussion. 提出(计划、想法或主题)",
+        "zh": "供讨论",
+        "ex": [
+          {
+            "en": "Plans have been mooted for a 450,000-strong army.",
+            "zh": "建立一支拥有45万士兵的大军的计划被提出供讨论。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If something is a moot point or question, people cannot agree about it. 有争议的;",
+        "zh": "悬而未决的",
+        "ex": [
+          {
+            "en": "How long he'll be able to do so is a moot point.",
+            "zh": "他还能这样做多久是一个未知数。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If a subject or question is moot, it has no practical importance.",
+        "zh": "无实际意义的",
+        "ex": [
+          {
+            "en": "For Layton, the question was moot right now.",
+            "zh": "对莱顿而言，这个问题目前是没有实际意义的。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v．提出（问题、建议等）以供讨论；争论，辩论"
+    ]
+  },
+  "upmarket": {
+    "w": "upmarket",
+    "p": "ˌʌpˈmɑːrkɪt",
+    "uk": "ˌʌpˈmɑːkɪt",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Upmarket products or services are expensive, of good quality, and intended to appeal to people in a high social class. 高端的 (产品或服务)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "...upmarket department stores such as Bloomingdale's and Saks Fifth Avenue.",
+            "zh": "…如布卢明代尔百货和萨克斯第五大街这样的高档连锁百货商店。"
+          }
+        ]
+      },
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "Upmarket is also an adverb.",
+        "zh": "向高档地",
+        "ex": [
+          {
+            "en": "T-shirts, the epitome of American casualness, have moved upmarket.",
+            "zh": "T恤，美国人的随意的标志，已提升至高档商品之列。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. （主英国英语）高档的，质优价高的，高级的",
+      "adv. 向高档市场，在高档之列",
+      "n. 高档商品；高端市场类别",
+      "vt. 使进入高档消费市场"
+    ]
+  },
+  "retailer": {
+    "w": "retailer",
+    "p": "ˈriːteɪlər",
+    "uk": "ˈriːteɪlə(r)",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A retailer is a person or business that sells goods to the public.",
+        "zh": "零售商",
+        "ex": [
+          {
+            "en": "Furniture and carpet retailers are among those reporting the sharpest annual decline in sales.",
+            "zh": "家具和地毯零售商们是在那些报告最大年销售下滑的商家之中。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 零售商，零售店；讲述者"
+    ]
+  },
+  "owed": {
+    "w": "owed",
+    "p": "oʊd",
+    "uk": "əud",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you owe money to someone, they have lent it to you and you have not yet paid it back.",
+        "zh": "欠",
+        "ex": [
+          {
+            "en": "The company owes money to more than 60 banks.",
+            "zh": "这家公司欠六十多家银行的钱。"
+          },
+          {
+            "en": "Blake already owed him nearly $50.",
+            "zh": "布莱克已经欠了他近$50。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone or something owes a particular quality or their success to a person or thing, they only have it because of that person or thing.",
+        "zh": "把…归功于",
+        "ex": [
+          {
+            "en": "I always suspected she owed her first job to her friendship with Roger.",
+            "zh": "我总是觉得她得到她的第一份工作是由于她与罗杰的友谊。"
+          },
+          {
+            "en": "He owed his survival to his strength as a swimmer.",
+            "zh": "他把自己幸免遇难归功于自己会游泳。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you say that you owe a great deal to someone or something, you mean that they have helped you or influenced you a lot, and you feel very grateful to them.",
+        "zh": "感激",
+        "ex": [
+          {
+            "en": "As a musician I owe much to the radio station in my home town.",
+            "zh": "作为一名音乐家，我非常感激我家乡的广播电台。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you say that something owes a great deal to a person or thing, you mean that it exists, is successful, or has its particular form mainly because of them.",
+        "zh": "得益于",
+        "ex": [
+          {
+            "en": "The island's present economy owes a good deal to tourism.",
+            "zh": "该岛现在的经济大大得益于旅游业。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "vt. 欠（钱、债）；应给予（某人）尊重、道歉等；该为（某人）做某事；把……归功于，归因于，得益于；感激，承蒙（owe 的过去式和过去分词）",
+      "vi. 欠钱（owe 的过去式和过去分词）",
+      "adj. （款项、税款等）欠下的；尚未支付的；应支付的"
+    ]
+  },
+  "thanksgiving": {
+    "w": "thanksgiving",
+    "p": "ˌθæŋksˈɡɪvɪŋ",
+    "uk": "ˌθæŋksˈɡɪvɪŋ",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Thanksgiving is the giving of thanks to God, especially in a religious ceremony. (对上帝)",
+        "zh": "感恩",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. 感恩"
+    ]
+  },
+  "holiday": {
+    "w": "holiday",
+    "p": "ˈhɑːlədeɪ",
+    "uk": "ˈhɒlədeɪ",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A holiday is a day when people do not go to work or school because of a religious or national celebration.",
+        "zh": "公众假日",
+        "ex": [
+          {
+            "en": "New Year's Day is a public holiday.",
+            "zh": "元旦是公休日。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A holiday is a period of time during which you relax and enjoy yourself away from home. People sometimes refer to their holiday as their holidays. (外出度过的)",
+        "zh": "假期",
+        "ex": [
+          {
+            "en": "During his summer holiday he visited Russia.",
+            "zh": "暑假期间他游览了俄罗斯。"
+          }
+        ]
+      },
+      {
+        "pos": "N-PLURAL",
+        "tip": "复数型名词",
+        "en": "The holidays are the time when children do not have to go to school. (学校的)",
+        "zh": "假期",
+        "ex": []
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "If you have a particular number of days' or weeks' holiday, you do not have to go to work for that number of days or weeks. (工作)",
+        "zh": "假期",
+        "ex": [
+          {
+            "en": "The French get five to six weeks' holiday a year.",
+            "zh": "法国人一年有5到6周的假期。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 假日；度假期；法定节假日，节日；（分期付款、税费等的）暂缓缴付期",
+      "v. 度假",
+      "【名】 【名】（Fit）（捷、罗）菲特（人名）"
+    ]
+  },
+  "fly": {
+    "w": "fly",
+    "p": "flaɪ",
+    "uk": "flaɪ",
+    "s": 5,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A fly is a small insect with two wings. There are many kinds of flies, and the most common are black in colour.",
+        "zh": "苍蝇",
+        "ex": [
+          {
+            "en": "Flies buzzed at the animals' swishing tails.",
+            "zh": "苍蝇在动物甩动的尾巴边嗡嗡叫。"
+          }
+        ]
+      },
+      {
+        "pos": "N",
+        "tip": "名词",
+        "en": "a lure made from a fish-hook dressed with feathers, tinsel, etc, to resemble any of various flies or nymphs: used in fly-fishing (“飞蝇钓法”中使用的)",
+        "zh": "假蝇鱼饵",
+        "ex": []
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "The front opening on a pair of trousers is referred to as the fly. It usually consists of a zipper or row of buttons behind a band of cloth.",
+        "zh": "裤子的前开口",
+        "ex": [
+          {
+            "en": "I'm the kind of person who checks to see if my fly is undone.",
+            "zh": "我是那种会检查裤前拉链是否拉上的人。"
+          }
+        ]
+      },
+      {
+        "pos": "N",
+        "tip": "名词",
+        "en": "a flap forming the entrance to a tent",
+        "zh": "帐篷门帘",
+        "ex": []
+      }
+    ],
+    "d": [
+      "v. 飞，飞行；乘飞机，搭乘（某公司航班）；驾驶（飞机）；空运；飞越；疾驰，快速移动；放飞（风筝）；飞舞，飘荡；悬挂，飘扬；（使）逃离，匆忙离开；成功；飞逝；击腾空球；流传，四处传播；（指责，谩骂）往来激烈；被认可，被接受",
+      "n. 苍蝇，假蝇；裤门襟；腾空球，高飞球；努力，尝试；（帐篷的）篷顶；（剧院）吊景区，悬吊布景的空间；单马出租马车",
+      "adj. 时髦漂亮的；机灵的",
+      "【名】 （Fly）（英）弗莱，（法）弗利（人名）"
+    ]
+  },
+  "earnings": {
+    "w": "earnings",
+    "p": "ˈɜːrnɪŋz",
+    "uk": "ˈɜːnɪŋz",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-PLURAL",
+        "tip": "复数型名词",
+        "en": "Your earnings are the sums of money that you earn by working.",
+        "zh": "薪金",
+        "ex": [
+          {
+            "en": "Average weekly earnings rose by 1.5% in July.",
+            "zh": "平均周薪7月份上涨了1.5%。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 薪水，工资，收入；利润，收益"
+    ]
+  },
+  "ouster": {
+    "w": "ouster",
+    "p": "ˈaʊstər",
+    "uk": "ˈaʊstə(r)",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 驱逐，罢黜；（法律）非法剥夺（占有）"
+    ]
+  },
+  "legislatures": {
+    "w": "legislatures",
+    "p": "ˈledʒɪˌsleɪtʃəz",
+    "uk": "",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "The legislature of a particular state or country is the group of people in it who have the power to make and pass laws. 立法机构;",
+        "zh": "议会",
+        "ex": [
+          {
+            "en": "The proposals before the legislature include the creation of two special courts to deal exclusively with violent crimes.",
+            "zh": "摆在议会面前的提案包括建立两个特殊法庭专门审理暴力犯罪案件。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 立法机关（legislature 的复数）"
+    ]
+  },
+  "presidents": {
+    "w": "presidents",
+    "p": "ˈprezədənt",
+    "uk": "",
+    "s": 5,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-TITLE/N-COUNT",
+        "tip": "",
+        "en": "The president of a country that has no king or queen is the person who is the head of state of that country.",
+        "zh": "总统",
+        "ex": [
+          {
+            "en": "...President Mubarak.",
+            "zh": "…穆巴拉克总统。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "The president of an organization is the person who has the highest position in it. (某组织的)",
+        "zh": "最高权力人",
+        "ex": [
+          {
+            "en": "...Alexandre de Merode, the president of the medical commission.",
+            "zh": "…亚历山大·德梅罗德，医学委员会主席。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. president 的复数形式：总统（共和制国家元首）；（公司、银行、大学或组织等的）总裁、董事长、行长、校长、主席、理事长、会长"
+    ]
+  },
+  "governorships": {
+    "w": "governorships",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "The governorship of a particular state, colony, or region is the position of being its governor. Governorship is also used to refer to the period of time a particular person spends being the governor of a state, colony, or region. 州长职位;",
+        "zh": "州长任期",
+        "ex": [
+          {
+            "en": "The governorship went to a Democrat, Mrs. Anne Richards.",
+            "zh": "当选州长的是民主党的安妮·理查兹。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n．州长职位：指担任州长的职位或职责。"
+    ]
+  },
+  "elects": {
+    "w": "elects",
+    "p": "",
+    "uk": "",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "When people elect someone, they choose that person to represent them, by voting for them.",
+        "zh": "选举",
+        "ex": [
+          {
+            "en": "The people of the Philippines have voted to elect a new president.",
+            "zh": "菲律宾人民已经投票选举出一位新总统。"
+          },
+          {
+            "en": "The University of Washington elected him dean in 1956.",
+            "zh": "华盛顿大学在1956年选他为院长。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you elect to do something, you choose to do it.",
+        "zh": "选择",
+        "ex": [
+          {
+            "en": "Those electing to smoke will be seated at the rear.",
+            "zh": "选择抽烟的人将坐在后面。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Elect is added after words such as \"president\" or \"governor\" to indicate that a person has been elected to the post but has not officially started to carry out the duties involved.",
+        "zh": "当选而尚未就职的",
+        "ex": [
+          {
+            "en": "...the date when the president-elect takes office.",
+            "zh": "…总统当选人的就职日。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v．选举，推选：通过投票或其他方式选择某人担任职务或成为代表。",
+      "n．当选者，被选中的人：被选举或选择担任某职务的人。"
+    ]
+  },
+  "continuous": {
+    "w": "continuous",
+    "p": "kənˈtɪnjuəs",
+    "uk": "kənˈtɪnjuəs",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "A continuous process or event continues for a period of time without stopping. 持续的 (过程、事件)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "Residents report that they heard continuous gunfire.",
+            "zh": "居民们说他们听到了持续的枪声。"
+          }
+        ]
+      },
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "持续地",
+        "zh": "",
+        "ex": [
+          {
+            "en": "The civil war has raged almost continuously since 1976.",
+            "zh": "自1976年以来，激烈的内战几乎持续不断。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "A continuous line or surface has no gaps or holes in it. 连续的 (线条或平面)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "...a continuous line of boats.",
+            "zh": "…络绎不绝的船只。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "In English grammar, continuous verb groups are formed using the auxiliary \"be\" and the present participle of a verb, as in \"I'm feeling a bit tired\" and \"She had been watching them for some time.\" Continuous verb groups are used especially when you are focusing on a particular moment. Compare . 进行 (时态)",
+        "zh": "的",
+        "ex": []
+      }
+    ],
+    "d": [
+      "adj. 连续不断的，持续的；（语法）进行式的；（函数）连续的"
+    ]
+  },
+  "transmission": {
+    "w": "transmission",
+    "p": "trænzˈmɪʃ(ə)n",
+    "uk": "trænzˈmɪʃ(ə)n",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "The transmission of something is the passing or sending of it to a different person or place. 传送;",
+        "zh": "传播",
+        "ex": [
+          {
+            "en": "Heterosexual contact is responsible for the bulk of HIV transmission.",
+            "zh": "异性间的性接触是造成大多数艾滋病病毒传播的原因。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "The transmission of television or radio programmes is the broadcasting of them. (电视或广播节目的)",
+        "zh": "播送",
+        "ex": [
+          {
+            "en": "The transmission of the programme was brought forward due to its unexpected topicality.",
+            "zh": "该节目提前播送是因有出人意料的热门话题。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A transmission is a broadcast. 广播节目;",
+        "zh": "电视节目",
+        "ex": [
+          {
+            "en": "...foreign television transmissions.",
+            "zh": "…外国的电视节目。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. （无线电、电视等信号的）播送，发送；（电台或电视等的）信息，广播；传递，传播，传染；（车辆的）传动装置，变速器"
+    ]
+  },
+  "milestone": {
+    "w": "milestone",
+    "p": "ˈmaɪlstoʊn",
+    "uk": "ˈmaɪlstəʊn",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A milestone is an important event in the history or development of something or someone.",
+        "zh": "里程碑",
+        "ex": [
+          {
+            "en": "He said the launch of the party represented a milestone in Zambian history.",
+            "zh": "他说该党的成立代表着赞比亚历史上的一个里程碑。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 重要事件，转折点；里程碑，里程标",
+      "【名】  (Milestone) 迈尔斯通（人名）"
+    ]
+  },
+  "measles": {
+    "w": "measles",
+    "p": "ˈmiːz(ə)lz",
+    "uk": "ˈmiːz(ə)lz",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Measles is an infectious illness that gives you a high temperature and red spots on your skin.",
+        "zh": "麻疹",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. 麻疹，风疹；（家畜）囊尾蚴病"
+    ]
+  },
+  "compliant": {
+    "w": "compliant",
+    "p": "kəmˈplaɪənt",
+    "uk": "kəmˈplaɪənt",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If you say that someone is compliant, you mean they willingly do what they are asked to do.",
+        "zh": "顺从的",
+        "ex": [
+          {
+            "en": "...a docile and compliant workforce.",
+            "zh": "...一个驯服而顺从的劳动力。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 服从的，顺从的；（与规定或标准）符合的，一致的；（物理，医）有可塑性的，柔量的"
+    ]
+  },
+  "interactions": {
+    "w": "interactions",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 互动，交流；相互影响，相互作用（interaction 的复数）"
+    ]
+  },
+  "trusting": {
+    "w": "trusting",
+    "p": "ˈtrʌstɪŋ",
+    "uk": "ˈtrʌstɪŋ",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "A trusting person believes that people are honest and sincere and do not intend to harm him or her.",
+        "zh": "轻信的",
+        "ex": [
+          {
+            "en": "She has an open, trusting nature.",
+            "zh": "她天性坦率，容易相信别人。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 信任的；轻信的",
+      "v. 信赖；相信（trust 的现在分词）"
+    ]
+  },
+  "sensitive": {
+    "w": "sensitive",
+    "p": "ˈsensətɪv",
+    "uk": "ˈsensətɪv",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If you are sensitive to other people's needs, problems, or feelings, you show understanding and awareness of them. 有感知力的;",
+        "zh": "能理解的",
+        "ex": [
+          {
+            "en": "The classroom teacher must be sensitive to a child's needs.",
+            "zh": "课堂教师必须理解孩子的需求。"
+          }
+        ]
+      },
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "有感知力地;",
+        "zh": "能理解地",
+        "ex": [
+          {
+            "en": "The abuse of women needs to be treated seriously and sensitively.",
+            "zh": "虐待妇女的问题需要严肃、小心地对待。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If you are sensitive about something, you are easily worried and offended when people talk about it.",
+        "zh": "敏感的",
+        "ex": [
+          {
+            "en": "Young people are very sensitive about their appearance.",
+            "zh": "年轻人对自己的外貌很敏感。"
+          }
+        ]
+      },
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "敏感",
+        "zh": "",
+        "ex": [
+          {
+            "en": "...people who suffer extreme sensitivity about what others think.",
+            "zh": "…对别人的看法极为敏感的人。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 过敏的，易受影响的；灵敏的；善解人意的，体恤的；（问题、话题）敏感的，须谨慎对待的；机密的，保密的；理解的，意识到的；（对艺术、音乐、文学等）感受力强的，有悟性的；需保护的；小心谨慎的；（照相材料）感光的；（市场）脆弱的；神经过敏的，敏感的",
+      "n. 具有超自然通灵能力的人"
+    ]
+  },
+  "touch": {
+    "w": "touch",
+    "p": "tʌtʃ",
+    "uk": "tʌtʃ",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If you touch something, you put your hand onto it in order to feel it or to make contact with it. 触摸;",
+        "zh": "碰",
+        "ex": [
+          {
+            "en": "Her tiny hands gently touched my face.",
+            "zh": "她的小手轻轻地触摸我的脸。"
+          },
+          {
+            "en": "Don't touch!",
+            "zh": "请勿触摸！"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Touch is also a noun. 触摸;",
+        "zh": "接触",
+        "ex": [
+          {
+            "en": "Sometimes even a light touch on the face is enough to trigger off this pain.",
+            "zh": "有时甚至在脸上轻摸一下也足以引发这种痛苦。"
+          }
+        ]
+      },
+      {
+        "pos": "V-RECIP",
+        "tip": "相互动词",
+        "en": "If two things are touching, or if one thing touches another, or if you touch two things, their surfaces come into contact with each other.",
+        "zh": "相碰",
+        "ex": [
+          {
+            "en": "Their knees were touching.",
+            "zh": "他们的膝盖相碰。"
+          },
+          {
+            "en": "A cyclist crashed when he touched wheels with another rider.",
+            "zh": "一名骑车人同另一名骑车人车轮相碰而摔倒。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Your sense of touch is your ability to tell what something is like when you feel it with your hands.",
+        "zh": "触觉",
+        "ex": [
+          {
+            "en": "The evidence suggests that our sense of touch is programmed to diminish with age.",
+            "zh": "该证据表明我们的触觉会随着年龄的增长而逐渐变弱。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 触摸，碰；接触，触及；损坏，伤害；吃，喝，使用；感动，触动；影响，与……有关；与……媲美，比得上；达到（某一水平等）；参与，涉及；处理，做（某事）；（在脸上）闪现，掠过；轻轻击（球）；具有……特性；向（某人）讨要（物品）；跑垒得分；（几何）与（曲线，表面）切触；（用画笔、铅笔）轻轻勾勒",
+      "n. 触觉，触感；触摸，碰；触摸时的感觉；润色，装点；作风，风格，手法；一点儿，少许；略微，稍微；边线以外的区域；触球，控球；（音乐家的）触键法，弹奏法；（乐器键、弦的）弹性，弹力；（钢笔、铅笔等的）轻触；转调较少的钟乐",
+      "【名】 （Touch）（柬）杜（人名）"
+    ]
+  },
+  "voice": {
+    "w": "voice",
+    "p": "vɔɪs",
+    "uk": "vɔɪs",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "When someone speaks or sings, you hear their voice.",
+        "zh": "嗓音",
+        "ex": [
+          {
+            "en": "Miriam's voice was strangely calm.",
+            "zh": "米里亚姆的声音出奇地平静。"
+          },
+          {
+            "en": "\"The police are here,\" she said in a low voice.",
+            "zh": "“警察在这儿，”她低声说。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Someone's voice is their opinion on a particular topic and what they say about it.",
+        "zh": "意见",
+        "ex": [
+          {
+            "en": "What does one do when a government simply refuses to listen to the voice of the opposition?",
+            "zh": "当政府完全拒绝倾听反对意见时，那该怎么办？"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you voice something such as an opinion or an emotion, you say what you think or feel.",
+        "zh": "表达",
+        "ex": [
+          {
+            "en": "Some scientists have voiced concern that the disease could be passed on to humans.",
+            "zh": "一些科学家已经表示，担心这种疾病可能会传染给人类。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If you give voice to an opinion, a need, or a desire, you express it aloud.",
+        "zh": "大声表达",
+        "ex": [
+          {
+            "en": "...a community radio run by the Catholic Church that gave voice to the protests of the slum-dwellers.",
+            "zh": "…一家由天主教教会开办的、表达贫民窟居民抗议之声的社区电台。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 嗓音，说话声，歌唱声；发言权，表达意愿的权利；愿望，意见，呼声；（突然闪现的）想法，感觉；代言人，喉舌；（语法）语态；（语音）浊音；（文学作品或作者的）独特风格；（乐曲）声部；单音，单声",
+      "v. 表达，吐露（感情或意见）；（语音）发浊音；（乐）给（管风琴）调音"
+    ]
+  },
+  "willing": {
+    "w": "willing",
+    "p": "ˈwɪlɪŋ",
+    "uk": "ˈwɪlɪŋ",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If someone is willing to do something, they are fairly happy about doing it and will do it if they are asked or required to do it.",
+        "zh": "乐意的",
+        "ex": [
+          {
+            "en": "There are, of course, questions which she will not be willing to answer.",
+            "zh": "当然，有些问题她不乐意回答。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Willing is used to describe someone who does something fairly enthusiastically and because they want to do it rather than because they are forced to do it.",
+        "zh": "心甘情愿的",
+        "ex": [
+          {
+            "en": "Have the party on a Saturday, when you can get your partner and other willing adults to help.",
+            "zh": "把聚会安排在某个星期六吧，到时你就可以找你的伙伴以及其他愿意相助的人帮忙。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 愿意的，乐意的；乐于相助的，积极肯干的；出于自愿的，志愿的",
+      "v. 希望，想要（某事发生）；凭意志促使……做某事；立遗嘱遗赠（will 的现在分词形式）",
+      "【名】 （Willing）（德、芬、瑞典）维林，（英）威林（人名）"
+    ]
+  },
+  "face-to-face": {
+    "w": "face-to-face",
+    "p": "ˌfeɪs tə ˈfeɪs",
+    "uk": "ˌfeɪs tə ˈfeɪs",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "adj. 面对面的，当面的",
+      "adv. 面对面地，当面地；（face-to-face with）与…当面相见，直面，遭遇"
+    ]
+  },
+  "humanitarian": {
+    "w": "humanitarian",
+    "p": "hjuːˌmænɪˈteriən",
+    "uk": "hjuːˌmænɪˈteəriən",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If a person or society has humanitarian ideas or behaviour, they try to avoid making people suffer or they help people who are suffering.",
+        "zh": "人道主义的",
+        "ex": [
+          {
+            "en": "Air bombardment raised criticism on the humanitarian grounds that innocent civilians might suffer.",
+            "zh": "空袭遭到了非难，因为从人道主义的角度来看，无辜的平民可能会遭受伤害。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 人道主义的，博爱的；基督凡人论的",
+      "n. 人道主义者，博爱者；慈善家；基督凡人论者"
+    ]
+  },
+  "puts": {
+    "w": "puts",
+    "p": "pʊts",
+    "uk": "pʊts",
+    "s": 5,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "When you put something in a particular place or position, you move it into that place or position.",
+        "zh": "放置",
+        "ex": [
+          {
+            "en": "Leaphorn put the photograph on the desk.",
+            "zh": "利普霍恩把那张照片放在桌子上。"
+          },
+          {
+            "en": "She hesitated, then put her hand on Grace's arm.",
+            "zh": "她犹豫了一下，然后把手搭在格雷斯的臂膀上。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you put someone somewhere, you cause them to go there and to stay there for a period of time.",
+        "zh": "安置",
+        "ex": [
+          {
+            "en": "Rather than put him in the hospital, she had been caring for him at home.",
+            "zh": "她没有把他送进医院，而是一直在家里照料他。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "To put someone or something in a particular state or situation means to cause them to be in that state or situation. 致使 (…处于某种状态)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "This is going to put them out of business.",
+            "zh": "这将使他们歇业。"
+          },
+          {
+            "en": "He was putting himself at risk.",
+            "zh": "他在把自己置于危险境地。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "To put something on people or things means to cause them to have it, or to cause them to be affected by it. 把…施加给;",
+        "zh": "使受…的影响",
+        "ex": [
+          {
+            "en": "He didn't put any pressure on her.",
+            "zh": "他并没有给她施加任何压力。"
+          },
+          {
+            "en": "Be aware of the terrible strain it can put on a child when you expect the best grades.",
+            "zh": "当你期盼最佳成绩时，要意识到这可能给孩子带来的可怕压力。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 放置，安放；使处于（某种状态），使受到影响；表达，陈述，提出（put 的第三人称单数）",
+      "n. 卖出选择权，看跌期权（put 的复数，金融中指 put options）；字符串输出函数（C 语言标准库函数 puts）"
+    ]
+  },
+  "yemen": {
+    "w": "yemen",
+    "p": "ˈjemən",
+    "uk": "ˈjemən",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 也门（西南亚国家，正式名称为也门共和国）"
+    ]
+  },
+  "injuries": {
+    "w": "injuries",
+    "p": "ˈɪndʒəriz",
+    "uk": "ˈɪndʒəriz",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "An injury is damage done to a person's or an animal's body. 伤害;",
+        "zh": "损害",
+        "ex": [
+          {
+            "en": "Four police officers sustained serious injuries in the explosion.",
+            "zh": "四名警官在爆炸中受了重伤。"
+          }
+        ]
+      },
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "If someone suffers injury to their feelings, they are badly upset by something. If they suffer injury to their reputation, their reputation is seriously harmed. (对感情或名誉等的)",
+        "zh": "伤害",
+        "ex": [
+          {
+            "en": "She was awarded $3,500 for injury to her feelings.",
+            "zh": "她获得了3500美元的精神损伤费。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 伤害，伤痛，受伤（injury 的复数）"
+    ]
+  },
+  "roller": {
+    "w": "roller",
+    "p": "ˈroʊlər",
+    "uk": "ˈrəʊlə(r)",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A roller is a cylinder that turns around in a machine or device.",
+        "zh": "滚筒",
+        "ex": []
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Rollers are hollow tubes that women roll their hair round in order to make it curly.",
+        "zh": "发卷",
+        "ex": [
+          {
+            "en": "She gets up every morning and puts her hair in rollers.",
+            "zh": "她每天早晨起床后把头发缠进发卷里。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 滚筒，轧辊；卷发筒，发卷；（用于移动无轮重物的）滚棒，滚柱；碾轧机，压路机；卷浪，巨浪；涂料辊；绷带卷（=roller bandage）；（卷帘、地图等的）卷轴；滚地球；劳斯莱斯汽车；佛法僧（一种飞行时打滚的鸟）；翻头鸽；金丝雀，白玉鸟",
+      "adj. （与）四轮溜冰鞋（有关）的",
+      "【名】 （Roller）（英、德、俄、匈、罗、捷、瑞典）罗勒，（法）罗莱（人名）"
+    ]
+  },
+  "riding": {
+    "w": "riding",
+    "p": "ˈraɪdɪŋ",
+    "uk": "ˈraɪdɪŋ",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Riding is the activity or sport of riding horses.",
+        "zh": "骑马",
+        "ex": [
+          {
+            "en": "The next morning we went riding again.",
+            "zh": "第二天早上我们又去骑马了。"
+          }
+        ]
+      },
+      {
+        "pos": "N",
+        "tip": "名词",
+        "en": "any of the three former administrative divisions of Yorkshire: North Riding, East Riding and West Riding",
+        "zh": "指约克郡三个旧行政分区中任一个，分别为北赖丁、东赖丁和西赖丁",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. 骑马（运动）；英格兰约克郡原三个行政区之一（Riding）；（加拿大的）选区；（尤指林间的）马道",
+      "adj. 骑乘（用）的，骑术（用）的；乘骑操作的",
+      "v. 骑（马、摩托车、自行车等）；搭乘（公共汽车、火车或电梯等）；乘坐（游乐园里的娱乐设施）（ride 的现在分词）",
+      "【名】 （Riding）（美、英、加）赖丁（人名）"
+    ]
+  },
+  "pinned": {
+    "w": "pinned",
+    "p": "pɪnd",
+    "uk": "pɪnd",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Pins are very small thin pointed pieces of metal. They are used in sewing to fasten pieces of material together until they have been sewn.",
+        "zh": "别针",
+        "ex": [
+          {
+            "en": "...a box of needles and pins.",
+            "zh": "…一盒缝衣针和别针。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you pin something on or to something, you attach it with a pin, a safety pin or a thumbtack. 用别针别住;",
+        "zh": "用图钉钉住",
+        "ex": [
+          {
+            "en": "They pinned a notice to the door.",
+            "zh": "他们把通知钉在门上。"
+          },
+          {
+            "en": "Everyone was supposed to dance with the bride and pin money on her dress.",
+            "zh": "每个人都应该和新娘跳舞并把钱别在她的衣服上。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone pins you to something, they press you against a surface so that you cannot move. 按住;",
+        "zh": "使不能动弹",
+        "ex": [
+          {
+            "en": "I pinned him against the wall.",
+            "zh": "我把他按在墙上。"
+          },
+          {
+            "en": "I'd try to get away and he'd pin me down, saying he would kill me.",
+            "zh": "我会试图逃走，而他会把我按倒，说要杀了我。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A pin is any long narrow piece of metal or wood that is not sharp, especially one that is used to fasten two things together. (把两件物品固定在一起的) 销; 钉;",
+        "zh": "栓",
+        "ex": [
+          {
+            "en": "...the 18-inch steel pin holding his left leg together.",
+            "zh": "…将他的左腿固定起来的18英寸长的钢钉。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 用针别住的，钉住的；被按住不能动弹的，被压制的；（社交媒体、软件界面）置顶的，固定的",
+      "v. 用针或图钉等把…别住或钉住（pin 的过去式及过去分词）；按住使不能动弹，牵制；刺穿"
+    ]
+  },
+  "suffered": {
+    "w": "suffered",
+    "p": "ˈsʌfərd",
+    "uk": "ˈsʌfəd",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If you suffer pain, you feel it in your body or in your mind. 经受 (痛苦);",
+        "zh": "受苦",
+        "ex": [
+          {
+            "en": "Within a few days she had become seriously ill, suffering great pain and discomfort.",
+            "zh": "在几天时间里她已病得很重，经受了极大的痛苦和不适。"
+          },
+          {
+            "en": "He suffered terribly the last few days.",
+            "zh": "他过去的几天痛苦不堪。"
+          }
+        ]
+      },
+      {
+        "pos": "V-I",
+        "tip": "不及物动词",
+        "en": "If you suffer from an illness or from some other bad condition, you are badly affected by it. (因疾病等糟糕的处境而)",
+        "zh": "受苦",
+        "ex": [
+          {
+            "en": "He was eventually diagnosed as suffering from terminal cancer.",
+            "zh": "他最后被诊断为癌症晚期。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you suffer something bad, you are in a situation in which something painful, harmful, or very unpleasant happens to you.",
+        "zh": "遭受",
+        "ex": [
+          {
+            "en": "The peace process has suffered a serious blow now.",
+            "zh": "该和平进程现已受到一次沉重的打击。"
+          }
+        ]
+      },
+      {
+        "pos": "V-I",
+        "tip": "不及物动词",
+        "en": "If you suffer, you are badly affected by an event or situation.",
+        "zh": "受难",
+        "ex": [
+          {
+            "en": "There are few who have not suffered.",
+            "zh": "几乎无人免于受难。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "vt. 遭受，经历；忍受；允许（suffer 的过去式和过去分词）",
+      "vi. （因疾病、痛苦、悲伤等）受痛苦，受损害；变得糟糕；遭受；受处决（suffer 的过去式和过去分词）"
+    ]
+  },
+  "coaster": {
+    "w": "coaster",
+    "p": "ˈkoʊstər",
+    "uk": "ˈkəʊstə(r)",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A coaster is a small mat that you put underneath a glass or cup to protect the surface of a table.",
+        "zh": "杯垫",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. 沿岸贸易船；杯托，小托盘；雪橇"
+    ]
+  },
+  "deterrent": {
+    "w": "deterrent",
+    "p": "dɪˈtɜːrənt",
+    "uk": "dɪˈterənt",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A deterrent is something that prevents people from doing something by making them afraid of what will happen to them if they do it.",
+        "zh": "威慑物",
+        "ex": [
+          {
+            "en": "They seriously believe that capital punishment is a deterrent.",
+            "zh": "他们坚信死刑是一种威慑手段。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A deterrent is a weapon or set of weapons designed to prevent enemies from attacking by making them afraid to do so.",
+        "zh": "威慑性武器",
+        "ex": [
+          {
+            "en": "The idea of building a nuclear deterrent is completely off the political agenda.",
+            "zh": "制造核威慑武器的意见完全不在政治议程中。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 威慑，遏制；威慑武器",
+      "adj. 威慑的，遏制的"
+    ]
+  },
+  "ipos": {
+    "w": "ipos",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 多孔氧化物隔离"
+    ]
+  },
+  "bruising": {
+    "w": "bruising",
+    "p": "ˈbruːzɪŋ",
+    "uk": "ˈbruːzɪŋ",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "If someone has bruising on their body, they have bruises on it.",
+        "zh": "瘀伤",
+        "ex": [
+          {
+            "en": "She had quite severe bruising and a cut lip.",
+            "zh": "她身上严重瘀伤，嘴唇破裂。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "In a bruising battle or encounter, people fight or compete with each other in a very aggressive or determined way.",
+        "zh": "十分激烈的",
+        "ex": [
+          {
+            "en": "The administration hopes to avoid another bruising battle over civil rights.",
+            "zh": "政府希望避免因民权问题再次发生激烈冲突。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 十分激烈的，殊死的；令人难堪的，痛苦艰难的",
+      "n. 挫伤，瘀伤（多作不可数名词）",
+      "v. 擦伤，挫伤（bruise 的现在分词/动名词）"
+    ]
+  },
+  "advisers": {
+    "w": "advisers",
+    "p": "ədˈvaɪzər",
+    "uk": "",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "An adviser is an expert whose job is to give advice to another person or to a group of people.",
+        "zh": "顾问",
+        "ex": [
+          {
+            "en": "In Washington, the president and his advisers spent the day in meetings.",
+            "zh": "在华盛顿，总统和他的顾问们开了一天的会。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 顾问（adviser 的复数）"
+    ]
+  },
+  "weekend": {
+    "w": "weekend",
+    "p": "ˈwiːkend",
+    "uk": "ˌwiːkˈend; ˈwiːkend",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A weekend is Saturday and Sunday.",
+        "zh": "周末",
+        "ex": [
+          {
+            "en": "She had agreed to have dinner with him in town the following weekend.",
+            "zh": "她同意下周末和他一起到城里吃晚饭。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 周末；周末旅行，周末度假",
+      "adj. 周末的",
+      "v. 度周末"
+    ]
+  },
+  "unhelpful": {
+    "w": "unhelpful",
+    "p": "ʌnˈhelpfl",
+    "uk": "ʌnˈhelpfl",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If you say that someone or something is unhelpful, you mean that they do not help you or improve a situation, and may even make things worse. 不帮忙的;",
+        "zh": "无益的",
+        "ex": [
+          {
+            "en": "The criticism is both unfair and unhelpful.",
+            "zh": "这种批评不合理且无益。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 无益的，不予帮助的"
+    ]
+  },
+  "landscapes": {
+    "w": "landscapes",
+    "p": "ˈlændskeɪps",
+    "uk": "",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "The landscape is everything you can see when you look across an area of land, including hills, rivers, buildings, trees, and plants.",
+        "zh": "风景",
+        "ex": [
+          {
+            "en": "...Arizona's desert landscape.",
+            "zh": "…亚利桑那州的沙漠风光。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A landscape is all the features that are important in a particular situation.",
+        "zh": "局面",
+        "ex": [
+          {
+            "en": "June's events completely altered the political landscape.",
+            "zh": "6月的事件完全改变了政治局面。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A landscape is a painting which shows a scene in the countryside.",
+        "zh": "乡村风景画",
+        "ex": [
+          {
+            "en": "Kenna's latest series of landscapes is on show at the Zelda Cheatle Gallery.",
+            "zh": "肯纳的乡村风景画系列正在塞尔达·奇特尔画廊展出。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If an area of land is landscaped, it is changed to make it more attractive, for example, by adding streams or ponds and planting trees and bushes.",
+        "zh": "对…做景观美化",
+        "ex": [
+          {
+            "en": "The gravel pits have been landscaped and planted to make them attractive to wildfowl.",
+            "zh": "这些乱石坑已经被美化，种了树来吸引野生鸟类。"
+          },
+          {
+            "en": "They had landscaped their property with trees, shrubs, and lawns.",
+            "zh": "他们种了树、灌木和草坪来美化家园。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 风景，风景地貌，景观（landscape 的复数）；风景画，山水画（landscape 的复数）；局面，格局（比喻用法）",
+      "v. 从事庭园设计，从事景观美化；美化，对…作景观美化（landscape 的第三人称单数）"
+    ]
+  },
+  "novels": {
+    "w": "novels",
+    "p": "ˈnɑːvəlz",
+    "uk": "ˈnɒv(ə)lz",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-PLURAL",
+        "tip": "复数型名词",
+        "en": "the new statutes of Justinian and succeeding emperors supplementing the Institutes, Digest, and Code: now forming part of the Corpus Juris Civilis 东罗马帝国皇帝和随后的君主们补编的新法;",
+        "zh": "现为组成《国法大全》的组成部分",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. 小说（novel 的复数）；（罗马法）（大写 Novels）查士丁尼及后继皇帝颁布的补充性新法令，后收入《国法大全》"
+    ]
+  },
+  "non-fiction": {
+    "w": "non-fiction",
+    "p": "ˌnɑːn ˈfɪkʃn",
+    "uk": "ˌnɒn ˈfɪkʃn",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Nonfiction is writing that gives information or describes real events, rather than telling a story.",
+        "zh": "非小说类纪实作品",
+        "ex": [
+          {
+            "en": "The series will include both fiction and nonfiction.",
+            "zh": "这套丛书将包括小说和纪实作品。"
+          },
+          {
+            "en": "Lewis is the author of thirteen novels and ten nonfiction books.",
+            "zh": "路易斯写了十三部小说和十本纪实作品。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. （不可数）非小说类作品，纪实作品，非虚构作品",
+      "adj. 非小说类的，非虚构的（定语用法）"
+    ]
+  },
+  "rampant": {
+    "w": "rampant",
+    "p": "ˈræmpənt",
+    "uk": "ˈræmpənt",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way. 猖獗的;",
+        "zh": "泛滥的",
+        "ex": [
+          {
+            "en": "Inflation is rampant and industry in decline.",
+            "zh": "通货膨胀肆虐，工业生产下降。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj.   泛滥的，猖獗的；（植物）过于繁茂的，疯长的；（人，行为）狂暴的，极端的；（纹章上所绘的动物）用后腿站立的，跃立的；（运动队或运动员）胜券在握的",
+      "【名】 （Rampant）（法）朗庞（人名）"
+    ]
+  },
+  "women’s": {
+    "w": "women’s",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "adj. （用于名词前）女人的，妇女的，女性的"
+    ]
   }
 }
