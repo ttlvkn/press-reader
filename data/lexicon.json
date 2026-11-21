@@ -202870,5 +202870,1327 @@
     "d": [
       "n. 拉拉队（电影名）；啦啦队"
     ]
+  },
+  "michel": {
+    "w": "michel",
+    "p": "mɪˈʃəl",
+    "uk": "mɪˈʃəl",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 米歇尔（男子名；也作姓氏）"
+    ]
+  },
+  "outrage": {
+    "w": "outrage",
+    "p": "ˈaʊtreɪdʒ",
+    "uk": "ˈaʊtreɪdʒ",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you are outraged by something, it makes you extremely angry and shocked.",
+        "zh": "使震怒",
+        "ex": [
+          {
+            "en": "Many people have been outraged by some of the things that have been said.",
+            "zh": "许多人曾为其所听说的一些事情所震怒。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "震怒的",
+        "zh": "",
+        "ex": [
+          {
+            "en": "He is truly outraged about what's happened to him.",
+            "zh": "他确实为发生在他身上的事情而震怒。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Outrage is an intense feeling of anger and shock.",
+        "zh": "震怒",
+        "ex": [
+          {
+            "en": "The decision provoked outrage from women and human rights groups.",
+            "zh": "该决定激起了妇女和各人权组织的震怒。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "You can refer to an act or event that angers and shocks you as an outrage. 令人震怒之举;",
+        "zh": "令人震怒之事",
+        "ex": [
+          {
+            "en": "The latest outrage was to have been a coordinated gun and bomb attack on the station.",
+            "zh": "最近令人震怒的事件是一次对该车站枪弹并用的袭击。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 愤慨，愤怒；骇人听闻的事，暴行",
+      "v. 使愤怒，激怒；践踏（准则、法律等）；凌辱，强奸"
+    ]
+  },
+  "beating": {
+    "w": "beating",
+    "p": "ˈbiːtɪŋ",
+    "uk": "ˈbiːtɪŋ",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "If someone is given a beating, they are hit hard many times, especially with something such as a stick. (尤指使用棍棒的)",
+        "zh": "毒打",
+        "ex": [
+          {
+            "en": "...the investigation into the beating of an alleged car thief.",
+            "zh": "…对嫌疑偷车贼遭毒打事件的调查。"
+          }
+        ]
+      },
+      {
+        "pos": "N-SING",
+        "tip": "单数型名词",
+        "en": "If something such as a business, a political party, or a team takes a beating, it is defeated by a large amount in a competition or an election.",
+        "zh": "惨败",
+        "ex": [
+          {
+            "en": "Our firm has taken a terrible beating in recent years.",
+            "zh": "我们公司在近几年中败得很惨。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 打，殴打，毒打，敲打，捶打；（常作 take a beating）失败，惨败；（常指心脏等的）跳动，搏动；（造纸）打浆",
+      "v. 打，敲打；打败；跳动（beat 的现在分词/动名词）",
+      "adj. （仅用于名词前）跳动的；搏动的"
+    ]
+  },
+  "zecler": {
+    "w": "zecler",
+    "miss": true
+  },
+  "brutality": {
+    "w": "brutality",
+    "p": "bruːˈtæləti",
+    "uk": "bruːˈtæləti",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "Brutality is cruel and violent treatment or behaviour. A brutality is an instance of cruel and violent treatment or behaviour. 残暴;",
+        "zh": "残暴行为",
+        "ex": [
+          {
+            "en": "Her experience of men was of domination and brutality.",
+            "zh": "男人留给她的感受是支配一切，野蛮残暴。"
+          },
+          {
+            "en": "...police brutality.",
+            "zh": "…警察的暴行。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 残忍，野蛮"
+    ]
+  },
+  "cameras": {
+    "w": "cameras",
+    "p": "ˈkæmərəz",
+    "uk": "",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A camera is a piece of equipment that is used for taking photographs, making films, or producing television pictures. 照相机;",
+        "zh": "摄影机",
+        "ex": [
+          {
+            "en": "Her grandmother lent her a camera for a school trip to Venice and Egypt.",
+            "zh": "她的祖母借给她一部相机，让她在学校组织的到威尼斯和埃及的旅行中使用。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If someone or something is on camera, they are being filmed. 在拍摄中;",
+        "zh": "上镜头",
+        "ex": [
+          {
+            "en": "Fay was so impressive on camera that a special part was written in for her.",
+            "zh": "镜头中的费伊太令人印象深刻了，因此有一个专门写给她的角色。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If you do something or if something happens off camera, you do it or it happens when not being filmed.",
+        "zh": "不在拍摄中",
+        "ex": [
+          {
+            "en": "They were anything but friendly off camera, refusing even to take the same lift.",
+            "zh": "不拍摄时他们根本称不上友好，甚至拒绝乘同一部电梯。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If a trial is held in camera, the public and the press are not allowed to attend.",
+        "zh": "不对外公开的",
+        "ex": [
+          {
+            "en": "This morning's appeal was held in camera.",
+            "zh": "今天上午的上诉是不对外公开的。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 摄像机，照相机（camera 的复数形式）"
+    ]
+  },
+  "buoy": {
+    "w": "buoy",
+    "p": "ˈbuːi",
+    "uk": "bɔɪ",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A buoy is a floating object that is used to show ships and boats where they can go and to warn them of danger.",
+        "zh": "浮标",
+        "ex": []
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone in a difficult situation is buoyed by something, it makes them feel more cheerful and optimistic.",
+        "zh": "使振奋",
+        "ex": [
+          {
+            "en": "In May they danced in the streets, buoyed by their victory.",
+            "zh": "5月他们在街上跳舞，为胜利而振奋。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASAL VERB",
+        "tip": "动词词组",
+        "en": "Buoy up means the same as .",
+        "zh": "使振奋",
+        "ex": [
+          {
+            "en": "They are buoyed up by a sense of hope.",
+            "zh": "一线希望使他们振作起来。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 浮标，航标；救生圈",
+      "v. 使浮起，使漂起；鼓励，使有信心；使保持高价；支持，使更成功；用浮标指示，为……设浮标",
+      "【名】 （Buoy）（美）贝（人名）"
+    ]
+  },
+  "buildout": {
+    "w": "buildout",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 建设扩展，扩建"
+    ]
+  },
+  "startup’s": {
+    "w": "startup’s",
+    "miss": true
+  },
+  "trillions": {
+    "w": "trillions",
+    "p": "",
+    "uk": "",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "NUM",
+        "tip": "数词",
+        "en": "A trillion is 1,000,000,000,000,000,000.",
+        "zh": "百万兆",
+        "ex": []
+      },
+      {
+        "pos": "NUM",
+        "tip": "数词",
+        "en": "A trillion is 1,000,000,000,000.",
+        "zh": "万亿",
+        "ex": [
+          {
+            "en": "...a 4 trillion dollar debt.",
+            "zh": "…一笔4万亿美元的债务。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n．万亿（复数）：一个极大的数字，表示一万亿（1,000,000,000,000）。"
+    ]
+  },
+  "ottawa": {
+    "w": "ottawa",
+    "p": "ˈɑːtəwə",
+    "uk": "ˈɒtəwə",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 渥太华（加拿大首都）"
+    ]
+  },
+  "aims": {
+    "w": "aims",
+    "p": "eɪmz",
+    "uk": "eɪmz",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If you aim for something or aim to do something, you plan or hope to achieve it.",
+        "zh": "以…为目标",
+        "ex": [
+          {
+            "en": "He said he would aim for the 100 metre world record at the world championships in August.",
+            "zh": "他说他将以在8月举行的世界锦标赛上打破100米世界纪录为目标。"
+          },
+          {
+            "en": "Businesses will have to aim at long-term growth.",
+            "zh": "企业必须以长期增长为目标。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If you aim to do something, you decide or want to do it.",
+        "zh": "打算",
+        "ex": [
+          {
+            "en": "I didn't aim to get caught.",
+            "zh": "我并不想被抓到。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If your actions or remarks are aimed at a particular person or group, you intend that the person or group should notice them and be influenced by them.",
+        "zh": "针对",
+        "ex": [
+          {
+            "en": "His message was aimed at the undecided middle ground of Israeli politics.",
+            "zh": "他所传达的信息针对的是以色列政坛中尚未表态的中间派。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If you aim a weapon or object at something or someone, you point it toward them before firing or throwing it.",
+        "zh": "对…瞄准",
+        "ex": [
+          {
+            "en": "When he appeared again, he was aiming the rifle at Wade.",
+            "zh": "他再次出现时，他正将步枪瞄准维德。"
+          },
+          {
+            "en": "...a missile aimed at the arms factory.",
+            "zh": "…一枚瞄准了军工厂的导弹。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 目标，目的（aim 的复数）",
+      "v. 瞄准，对准；旨在，致力于；针对，指向（aim 的第三人称单数）"
+    ]
+  },
+  "reduce": {
+    "w": "reduce",
+    "p": "rɪˈduːs",
+    "uk": "rɪˈdjuːs",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you reduce something, you make it smaller in size or amount, or less in degree.",
+        "zh": "使变小",
+        "ex": [
+          {
+            "en": "It reduces the risks of heart disease.",
+            "zh": "它减小了犯心脏病的危险。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone is reduced to a weaker or inferior state, they become weaker or inferior as a result of something that happens to them.",
+        "zh": "使陷入",
+        "ex": [
+          {
+            "en": "They were reduced to extreme poverty.",
+            "zh": "他们沦落到极度贫困的地步。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you say that someone is reduced to doing something, you mean that they have to do it, although it is unpleasant or embarrassing.",
+        "zh": "迫使",
+        "ex": [
+          {
+            "en": "He was reduced to begging for a living.",
+            "zh": "他不得不以乞讨为生。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If something is changed to a different or less complicated form, you can say that it is reduced to that form. 使变成;",
+        "zh": "使简化为",
+        "ex": [
+          {
+            "en": "All the buildings in the town have been reduced to rubble.",
+            "zh": "镇上所有的建筑都变成了瓦砾。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 减少，降低；（烹调中）使变浓稠，收汁；节食减肥；使沦为，使陷入（不好的境地）；迫使，使不得不（做）；（通过破裂、燃烧等）使变成，使化为；归纳，简化；将分数约到（最小项）；（使）进行还原反应；减薄（底片或图片）；（语音）弱化；使（脱臼，断骨）复位；攻克，征服（尤指围攻并占领城镇或要塞）"
+    ]
+  },
+  "re-engaging": {
+    "w": "re-engaging",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "v．ing重新参与，重新投入：再次参与或重新投入到某个活动、项目或关系中。"
+    ]
+  },
+  "canada's": {
+    "w": "canada's",
+    "miss": true
+  },
+  "deepening": {
+    "w": "deepening",
+    "p": "ˈdiːpənɪŋ",
+    "uk": "ˈdiːpənɪŋ",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If a situation or emotion deepens or if something deepens it, it becomes stronger and more intense. 使加剧;",
+        "zh": "加剧",
+        "ex": [
+          {
+            "en": "If this is not stopped, the financial crisis will deepen.",
+            "zh": "如果不加以阻止，金融危机将加剧。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you deepen your knowledge or understanding of a subject, you learn more about it and become more interested in it.",
+        "zh": "使加深",
+        "ex": [
+          {
+            "en": "The course is an exciting opportunity for anyone wishing to deepen their understanding of themselves and other people.",
+            "zh": "这门课程对于希望加深了解自己和他人的人们来说，是个令人兴奋的机会。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "When a sound deepens or is deepened, it becomes lower in tone. 使变低沉;",
+        "zh": "变低沉",
+        "ex": [
+          {
+            "en": "The music room had been made to reflect and deepen sounds.",
+            "zh": "音乐室被打造成可以产生回音并使声音变得低沉。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If people deepen something, they increase its depth by digging out its lower surface.",
+        "zh": "加深",
+        "ex": [
+          {
+            "en": "The project would deepen the river from 40 to 45 feet, to allow for larger ships.",
+            "zh": "这一工程将把河从40英尺加深到45英尺，以通过更大型的船只。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 加强，加剧，恶化；加深，深化；使变深，挖深；加深（理解）；（使）色泽变浓；（使）变昏暗；（使）声音变低沉；（使）呼吸加深（deepen 的现在分词）",
+      "adj. 逐渐加深的，日益强烈的；渐暗的",
+      "n. 加深；深化；加剧（deepen 的动名词/名词用法）"
+    ]
+  },
+  "reliance": {
+    "w": "reliance",
+    "p": "rɪˈlaɪəns",
+    "uk": "rɪˈlaɪəns",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "A person's or thing's reliance on something is the fact that they need it and often cannot live or work without it. 依赖;",
+        "zh": "依靠",
+        "ex": [
+          {
+            "en": "...the country's increasing reliance on foreign aid.",
+            "zh": "…这个国家日益依赖外来援助。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 依靠，信任；被依赖的人（或物）"
+    ]
+  },
+  "origin": {
+    "w": "origin",
+    "p": "ˈɔːrɪdʒɪn",
+    "uk": "ˈɒrɪdʒɪn",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "You can refer to the beginning, cause, or source of something as its origin or origins. 起源;",
+        "zh": "起因",
+        "ex": [
+          {
+            "en": "...theories about the origin of life.",
+            "zh": "…有关生命起源的各种理论。"
+          },
+          {
+            "en": "Their medical problems are basically physical in origin.",
+            "zh": "他们的疾病基本是身体上的问题造成的。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "When you talk about a person's origin or origins, you are referring to the country, race, or living conditions of their parents or ancestors. 出身;",
+        "zh": "血统",
+        "ex": [
+          {
+            "en": "Thomas has not forgotten his humble origins.",
+            "zh": "托马斯没有忘记他卑微的出身。"
+          },
+          {
+            "en": "...people of Asian origin.",
+            "zh": "…亚洲血统的人。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 起源，起因；出身，血统；（原）产地；肌肉起端；神经（或血管）起端；（数）原点"
+    ]
+  },
+  "prequel": {
+    "w": "prequel",
+    "p": "ˈpriːkwəl",
+    "uk": "ˈpriːkwəl",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A prequel is a movie that is made about an earlier stage of a story or a character's life when the later part of it has already been made into a successful movie. (影视)前传;",
+        "zh": "前篇",
+        "ex": [
+          {
+            "en": "...\"Fire Walk With Me,\" David Lynch's prequel to the TV series \"Twin Peaks.\"",
+            "zh": "...电视连续剧《双峰镇》的前传，大卫•林奇的《与火同行》。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. （书或电影的）先行篇，前篇"
+    ]
+  },
+  "teenage": {
+    "w": "teenage",
+    "p": "ˈtiːneɪdʒ",
+    "uk": "ˈtiːneɪdʒ",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Teenage children are aged between thirteen and nineteen years old. 十几岁 (指13至19岁)",
+        "zh": "的",
+        "ex": [
+          {
+            "en": "She looked like any other teenage girl.",
+            "zh": "她看上去和别的少女一样。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Teenage is used to describe things such as movies, magazines, bands, or activities that are aimed at or are done by teenage children.",
+        "zh": "关于青少年的",
+        "ex": [
+          {
+            "en": "...\"Smash Hits,\" a teenage magazine.",
+            "zh": "…《流行金曲》,一本青少年杂志。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. （用于名词前）十几岁的，青少年的（指13至19岁）；关于青少年的，面向青少年的"
+    ]
+  },
+  "haymitch": {
+    "w": "haymitch",
+    "miss": true
+  },
+  "abernathy": {
+    "w": "abernathy",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "阿伯内西（苏格兰人姓氏）"
+    ]
+  },
+  "ever’": {
+    "w": "ever’",
+    "miss": true
+  },
+  "beg’": {
+    "w": "beg’",
+    "miss": true
+  },
+  "vulnerability": {
+    "w": "vulnerability",
+    "p": "ˌvʌlnərəˈbɪləti",
+    "uk": "ˌvʌlnərəˈbɪləti",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 易损性，弱点；（桥牌）局况"
+    ]
+  },
+  "retailers": {
+    "w": "retailers",
+    "p": "",
+    "uk": "",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A retailer is a person or business that sells goods to the public.",
+        "zh": "零售商",
+        "ex": [
+          {
+            "en": "Furniture and carpet retailers are among those reporting the sharpest annual decline in sales.",
+            "zh": "家具和地毯零售商们是在那些报告最大年销售下滑的商家之中。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. （贸易）零售商（retailer 的复数）"
+    ]
+  },
+  "cyber-attacks": {
+    "w": "cyber-attacks",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 网络攻击（cyberattack 的复数）",
+      "v. 发动网络攻击（cyberattack 的第三人称单数）"
+    ]
+  },
+  "palled": {
+    "w": "palled",
+    "p": "pɔːld; pæld",
+    "uk": "pɔːld; pæld",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Your pals are your friends.",
+        "zh": "朋友",
+        "ex": [
+          {
+            "en": "They talked like old pals.",
+            "zh": "他们像老朋友一样交谈。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 成为伙伴，成为朋友（pal的过去式和过去分词）；（因熟悉而）失去魅力，使人厌倦（pall的过去式和过去分词）",
+      "n. （Pal）（匈、挪）帕尔（人名）"
+    ]
+  },
+  "distancing": {
+    "w": "distancing",
+    "p": "ˈdɪstənsɪŋ",
+    "uk": "",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "The distance between two points or places is the amount of space between them.",
+        "zh": "距离",
+        "ex": [
+          {
+            "en": "...the distance between the island and the nearby shore.",
+            "zh": "…岛屿和附近海岸之间的距离。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "When two things are very far apart, you talk about the distance between them.",
+        "zh": "远离",
+        "ex": [
+          {
+            "en": "The distance wouldn't be a problem.",
+            "zh": "距离遥远不是问题。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "When you want to emphasize that two people or things do not have a close relationship or are not the same, you can refer to the distance between them.",
+        "zh": "差距",
+        "ex": [
+          {
+            "en": "There was a vast distance between psychological clues and concrete proof.",
+            "zh": "心理线索和现实证据之间存在着巨大差距。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Distance is coolness or unfriendliness in the way that someone behaves toward you. 疏远;",
+        "zh": "冷淡",
+        "ex": [
+          {
+            "en": "There were periods of sulking, of pronounced distance, of coldness.",
+            "zh": "出现阶段性的愠怒、明显的疏远和冷淡。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 距离；保持距离，疏远（常用于 social distancing 社交距离、self-distancing 自我疏离等搭配）",
+      "v. 使疏远，使保持距离（distance 的现在分词；常与反身代词连用，如 distancing oneself from someone/something）",
+      "adj. 产生距离感的，间离的（多作定语，如 distancing effect 间离效果）"
+    ]
+  },
+  "uk-eu": {
+    "w": "uk-eu",
+    "miss": true
+  },
+  "reset’": {
+    "w": "reset’",
+    "miss": true
+  },
+  "earn": {
+    "w": "earn",
+    "p": "ɜːrn",
+    "uk": "ɜːn",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you earn money, you receive money in return for work that you do. 挣 (钱)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "What a lovely way to earn a living.",
+            "zh": "一个多好的谋生方式啊！"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If something earns money, it produces money as profit or interest. 赢 (利)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "...a bank account that earns little or no interest.",
+            "zh": "…一个很少或不生利息的银行账户。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you earn something such as praise, you get it because you deserve it.",
+        "zh": "赢得",
+        "ex": [
+          {
+            "en": "Companies must earn a reputation for honesty.",
+            "zh": "公司必须赢得诚信。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 赚得，挣钱；盈（利），生（利）；赢得，博得",
+      "【名】 （Earn）（泰）炎（人名）"
+    ]
+  },
+  "stands": {
+    "w": "stands",
+    "p": "stændz",
+    "uk": "stændz",
+    "s": 5,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-I",
+        "tip": "不及物动词",
+        "en": "When you are standing, your body is upright, your legs are straight, and your weight is supported by your feet.",
+        "zh": "站立",
+        "ex": [
+          {
+            "en": "She was standing beside my bed staring down at me.",
+            "zh": "她当时站在我床边低头凝视着我。"
+          },
+          {
+            "en": "They told me to stand still and not to turn round.",
+            "zh": "他们叫我站着不动并且不要转身。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASAL VERB",
+        "tip": "动词词组",
+        "en": "Stand up means the same as .",
+        "zh": "站立",
+        "ex": [
+          {
+            "en": "We waited, standing up, for an hour.",
+            "zh": "我们站着等了一个小时。"
+          }
+        ]
+      },
+      {
+        "pos": "V-I",
+        "tip": "不及物动词",
+        "en": "When someone who is sitting stands, they change their position so that they are upright and on their feet.",
+        "zh": "站起来",
+        "ex": [
+          {
+            "en": "Becker stood and shook hands with Ben.",
+            "zh": "贝克尔站起来和本握了手。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASAL VERB",
+        "tip": "动词词组",
+        "en": "Stand up means the same as .",
+        "zh": "站起来",
+        "ex": [
+          {
+            "en": "When I walked in, they all stood up and started clapping.",
+            "zh": "我走进去的时候，他们全体起立开始鼓掌。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. （stand 的复数）看台，观众席；架子，支架；货摊，摊位",
+      "v. （stand 的第三人称单数）站立，竖立；位于，处于（某种状态或高度）；忍受，承受；（法律、决定等）保持有效，维持原状；stands for 表示，是……的缩写；stands out 显得突出，出众；it stands to reason 按理说，理所当然"
+    ]
+  },
+  "salmon": {
+    "w": "salmon",
+    "p": "ˈsæmən",
+    "uk": "ˈsæmən",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A salmon is a large silver-coloured fish.",
+        "zh": "三文鱼",
+        "ex": []
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Salmon is the orangey-pink flesh of this fish which is eaten as food. It is often smoked and eaten raw.",
+        "zh": "鲑鱼肉",
+        "ex": [
+          {
+            "en": "He gave them a splendid lunch of smoked salmon.",
+            "zh": "他款待了他们一顿极好的熏三文鱼午餐。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 鲑鱼，三文鱼，大麻哈鱼；鲑鱼肉，三文鱼肉；鲑肉粉红色，浅橙色；类似鲑的鱼，尤指澳鲑，石首鱼",
+      "adj. 浅橙色的"
+    ]
+  },
+  "gmo": {
+    "w": "gmo",
+    "p": "ˌdʒiː em ˈoʊ",
+    "uk": "ˌdʒiː em ˈəʊ",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A GMO is an animal, plant, or other organism whose genetic structure has been changed by genetic engineering. GMO is an abbreviation for \"genetically modified organism.\"",
+        "zh": "转基因生物",
+        "ex": [
+          {
+            "en": "...the presence of GMOs in many processed foods.",
+            "zh": "…许多加工食品中转基因生物的存在。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "abbr. 基因改造生物（genetically modified organism）"
+    ]
+  },
+  "snap": {
+    "w": "snap",
+    "p": "snæp",
+    "uk": "snæp",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If something snaps or if you snap it, it breaks suddenly, usually with a sharp cracking noise. 使喀嚓折断;",
+        "zh": "喀嚓折断",
+        "ex": [
+          {
+            "en": "He shifted his weight and a twig snapped.",
+            "zh": "他挪了挪身子，一根树枝随即喀嚓一声折断了。"
+          },
+          {
+            "en": "The brake pedal had just snapped off.",
+            "zh": "制动踏板刚才突然断裂了。"
+          }
+        ]
+      },
+      {
+        "pos": "N-SING",
+        "tip": "单数型名词",
+        "en": "Snap is also a noun.",
+        "zh": "喀嚓的断裂声",
+        "ex": [
+          {
+            "en": "Every minute or so I could hear a snap, a crack and a crash as another tree went down.",
+            "zh": "几乎每隔一分钟，我就会听见又有一棵树倒下时发出的折断声、噼啪声和塌倒声。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If you snap something into a particular position, or if it snaps into that position, it moves quickly into that position, with a sharp sound. 使发出啪的一声;",
+        "zh": "发出啪的一声",
+        "ex": [
+          {
+            "en": "He snapped the notebook shut.",
+            "zh": "他啪的一声合上笔记本。"
+          },
+          {
+            "en": "He snapped the cap on his ballpoint.",
+            "zh": "他吧嗒一声扣上圆珠笔的笔帽。"
+          }
+        ]
+      },
+      {
+        "pos": "N-SING",
+        "tip": "单数型名词",
+        "en": "Snap is also a noun.",
+        "zh": "吧嗒声",
+        "ex": [
+          {
+            "en": "He shut the book with a snap and stood up.",
+            "zh": "他啪的一声合上书，站了起来。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. （使咔嚓）断裂，绷断；（使啪地）打开，关上，移动；厉声说，怒气冲冲地说；突然失控，精神崩溃；（狗等动物）突然咬；拍照，摄影；使……终结；噼啪地响；打响指；快速后传（球）；用子母扣扣",
+      "n. 喀嚓声，啪嗒声；快照，照片；摁扣，搭扣；呼“同”牌游戏；容易的事；某种短时期的天气；迅速的动作；（裆下后传）发球；（风格或动作）充满活力；不耐烦的语调（或样子）；食物；薄脆饼干；突然折断",
+      "adj. 突然的，仓促的",
+      "int. 真巧啊，一模一样；（呼“同”牌游戏中的）“同！”"
+    ]
+  },
+  "theft": {
+    "w": "theft",
+    "p": "θeft",
+    "uk": "θeft",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "Theft is the crime of stealing.",
+        "zh": "盗窃",
+        "ex": [
+          {
+            "en": "Over the last decade, auto theft has increased by over 56 percent.",
+            "zh": "过去的10年来汽车盗窃案上升了56％以上。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 偷窃，盗窃；盗窃罪"
+    ]
+  },
+  "publicly": {
+    "w": "publicly",
+    "p": "ˈpʌblɪkli",
+    "uk": "ˈpʌblɪkli",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "adv. 公开地，公然地；由政府；由公众；公众可以获取（或购买）地"
+    ]
+  },
+  "anthropic": {
+    "w": "anthropic",
+    "p": "ænˈθrɑːpɪk",
+    "uk": "ænˈθrɒpɪk",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "of or relating to human beings",
+        "zh": "人类的",
+        "ex": []
+      }
+    ],
+    "d": [
+      "adj. 有关人类的，人类的；用于 the anthropic principle：人择原理"
+    ]
+  },
+  "rocky’s": {
+    "w": "rocky’s",
+    "miss": true
+  },
+  "stallone’s": {
+    "w": "stallone’s",
+    "miss": true
+  },
+  "sylvester": {
+    "w": "sylvester",
+    "p": "sɪlˈvestər",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 西尔威斯特（美国城市名）"
+    ]
+  },
+  "underdog": {
+    "w": "underdog",
+    "p": "ˈʌndərdɔːɡ",
+    "uk": "ˈʌndədɒɡ",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 比赛中不被看好者，处于劣势的一方；失败者；受压迫者，弱势的一方"
+    ]
+  },
+  "regimes": {
+    "w": "regimes",
+    "p": "reɪˈʒiːmz",
+    "uk": "reɪˈʒiːmz",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "If you refer to a government or system of running a country as a regime, you are critical of it because you think it is not democratic and uses unacceptable methods.",
+        "zh": "统治",
+        "ex": [
+          {
+            "en": "...the collapse of the Fascist regime at the end of the war.",
+            "zh": "…战争结束时法西斯统治的崩溃。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A regime is the way that something such as an institution, company, or economy is run, especially when it involves tough or severe action. (机构、公司或经济等的)",
+        "zh": "管理方式",
+        "ex": [
+          {
+            "en": "The authorities moved him to the less rigid regime of an open prison.",
+            "zh": "当局把他移送到管理相对宽松的不设防监狱。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A regime is a set of rules about food, exercise, or beauty that some people follow in order to stay healthy or attractive.",
+        "zh": "养生法",
+        "ex": [
+          {
+            "en": "He has a new fitness regime to strengthen his back.",
+            "zh": "他有一套新的健康养生法来加强他的背部力量。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 政权，统治制度，政体（指政府时常含贬义）；组织方法，管理制度，管理方式；养生法，摄生法；（科技）体制，管理体系；（科技）运行状态，工况；（某现象所需的）物理条件（regime 的复数）"
+    ]
+  },
+  "directions": {
+    "w": "directions",
+    "p": "dəˈrekʃ(ə)nz",
+    "uk": "dəˈrekʃ(ə)nz",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-PLURAL",
+        "tip": "复数型名词",
+        "en": "instructions for doing something or for reaching a place 行动指南;",
+        "zh": "方位指示",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. 方向；用法说明，操作指南；出行指南；控制，管理；导演；目标，目的；趋势，动向（direction 的复数）"
+    ]
+  },
+  "opposite": {
+    "w": "opposite",
+    "p": "ˈɑːpəzɪt",
+    "uk": "ˈɒpəzɪt",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "PREP",
+        "tip": "介词",
+        "en": "If one thing is opposite another, it is on the other side of a space from it.",
+        "zh": "在…对面",
+        "ex": [
+          {
+            "en": "Jennie had sat opposite her at breakfast.",
+            "zh": "吃早餐时，珍妮已坐在她的对面。"
+          }
+        ]
+      },
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "Opposite is also an adverb.",
+        "zh": "在对面地",
+        "ex": [
+          {
+            "en": "He looked up at the buildings opposite, but could see no open window.",
+            "zh": "他抬头看了看对面那些楼，但看不见一扇开着的窗户。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "The opposite side or part of something is the side or part that is furthest away from you.",
+        "zh": "对面的",
+        "ex": [
+          {
+            "en": "...the opposite corner of the room.",
+            "zh": "…房间里的另一个对角。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Opposite is used to describe things of the same kind which are completely different in a particular way. For example, north and south are opposite directions, and winning and losing are opposite results in a game.",
+        "zh": "截然相反的",
+        "ex": [
+          {
+            "en": "All the cars driving in the opposite direction had their headlights on.",
+            "zh": "所有迎面开来的车都开着前灯。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 完全相反的，截然不同的；相反的，另一边的；（在说话者、所指的人或物）对面的；（角）对的；（叶，芽）对生的",
+      "n. 对立的人（或物），对立面；反义词",
+      "adv. 在对面，在对过",
+      "prep. 在……对面，与……相对；与……合演，与……联袂演出"
+    ]
+  },
+  "west’s": {
+    "w": "west’s",
+    "miss": true
+  },
+  "braces": {
+    "w": "braces",
+    "p": "ˈbreɪsɪz",
+    "uk": "ˈbreɪsɪz",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-PLURAL",
+        "tip": "复数型名词",
+        "en": "a pair of straps worn over the shoulders by men for holding up the trousers (男式背带裤的)背带 (US and Canadian word suspenders)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "He also wore a pair of bracrs.",
+            "zh": "他也穿着吊带裤。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 背带，吊带；牙齿矫正器，牙箍，牙套；（医学）腿部支架，矫形支架；（建筑或工程）加固用支撑件，支架；（计算机、数学和排版）花括号，大括号"
+    ]
+  },
+  "dismal": {
+    "w": "dismal",
+    "p": "ˈdɪzməl",
+    "uk": "ˈdɪzməl",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Something that is dismal is bad in a sad or depressing way.",
+        "zh": "惨淡不良的",
+        "ex": [
+          {
+            "en": "...Israel's dismal record in the Olympics.",
+            "zh": "…以色列在奥运会上的惨淡纪录。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Something that is dismal is sad and depressing, especially in appearance. (尤指外表)",
+        "zh": "沉闷的",
+        "ex": [
+          {
+            "en": "The main part of the hospital is pretty dismal but the children's ward is really lively.",
+            "zh": "这家医院的主要地方颇为沉闷，但是儿科病房却很有生气。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 忧郁的，阴沉的；差劲的，糟糕的"
+    ]
   }
 }
