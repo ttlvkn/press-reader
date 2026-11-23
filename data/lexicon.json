@@ -205688,5 +205688,1694 @@
     "d": [
       "v. 透露，公开；揭开，使显露"
     ]
+  },
+  "integrated": {
+    "w": "integrated",
+    "p": "ˈɪntɪɡreɪtɪd",
+    "uk": "ˈɪntɪɡreɪtɪd",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "An integrated institution is intended for use by all races or religious groups. 种族 (或宗教)",
+        "zh": "融合的",
+        "ex": [
+          {
+            "en": "We believe that students of integrated schools will have more tolerant attitudes.",
+            "zh": "我们相信在种族融合的学校上学的学生将拥有更加宽容的态度。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 各部分密切协调的，综合的；（机构、团体等）废止隔离（尤指种族隔离）的；（温度、面积等的）平均值的，总量的",
+      "v. （使）合并；（使）加入，融入群体；（使）取消种族隔离（integrate 的过去式和过去分词）"
+    ]
+  },
+  "gps": {
+    "w": "gps",
+    "p": "ˌdʒiː piː ˈes",
+    "uk": "ˌdʒiː piː ˈes",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "GPS is an abbreviation for . global positioning system",
+        "zh": "的缩写",
+        "ex": [
+          {
+            "en": "GPS operates best near the equator.",
+            "zh": "全球定位系统在赤道附近性能最好。"
+          },
+          {
+            "en": "...a GPS receiver.",
+            "zh": "...全球定位系统接受器。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "abbr. 全球定位系统（Global Position System）；通用雷达（General Purpose Radar）；炮长主瞄准镜（Gunner's Primary Sight）"
+    ]
+  },
+  "prescribing": {
+    "w": "prescribing",
+    "p": "prɪˈskraɪbɪŋ",
+    "uk": "prɪˈskraɪbɪŋ",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If a doctor prescribes medicine or treatment for you, he or she tells you what medicine or treatment to have. 开 (药、处方)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "The physician examines the patient then diagnoses the disease and prescribes medication.",
+            "zh": "内科医生检查了病人，然后对疾病作出诊断，并开出药方。"
+          },
+          {
+            "en": "She took twice the prescribed dose of sleeping tablets.",
+            "zh": "她服用了所开剂量两倍的安眠药。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If a person or set of laws or rules prescribes an action or duty, they state that it must be carried out.",
+        "zh": "规定",
+        "ex": [
+          {
+            "en": "...article II of the constitution, which prescribes the method of electing a president.",
+            "zh": "…规定总统选举办法的宪法第二条。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 给……开（药），让……采用（疗法），开处方；规定，命令（prescribe 的现在分词）"
+    ]
+  },
+  "monitoring": {
+    "w": "monitoring",
+    "p": "ˈmɑːnɪtərɪŋ",
+    "uk": "ˈmɒnɪtərɪŋ",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you monitor something, you regularly check its development or progress, and sometimes comment on it.",
+        "zh": "监控",
+        "ex": [
+          {
+            "en": "Officials had not been allowed to monitor the voting.",
+            "zh": "官员们未曾获许监控选举。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone monitors radio broadcasts from other countries, they record them or listen carefully to them in order to obtain information.",
+        "zh": "监听",
+        "ex": [
+          {
+            "en": "Peter Murray is in Washington and has been monitoring reports out of Monrovia.",
+            "zh": "彼得·默里在华盛顿，一直监听来自蒙罗维亚的报道。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A monitor is a machine that is used to check or record things, for example processes or substances inside a person's body.",
+        "zh": "监控器",
+        "ex": [
+          {
+            "en": "The heart monitor shows low levels of consciousness.",
+            "zh": "心脏监控器显示低意识水平。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A monitor is a screen which is used to display certain kinds of information, for example on a computer, in airports, or in television studios.",
+        "zh": "显示屏",
+        "ex": [
+          {
+            "en": "He was watching a game of tennis on a television monitor.",
+            "zh": "他那时正在电视监控器上观看一场网球赛。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 监视、监测、监控（对过程、活动、数据、环境或设备状态等的持续观察与记录）",
+      "v. monitor 的现在分词：监视、监测、监控；监听（外国广播或电话）；监控（无线电或电视传输信号）"
+    ]
+  },
+  "inquiry": {
+    "w": "inquiry",
+    "p": "ˈɪnkwəri; ɪnˈkwaɪəri",
+    "uk": "ɪnˈkwaɪəri",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "An inquiry is a question you ask in order to get some information.",
+        "zh": "询问",
+        "ex": [
+          {
+            "en": "He made some inquiries and discovered she had gone to Connecticut.",
+            "zh": "他询问了一番，发现她已去了康涅狄格州。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "An inquiry is an official investigation. (官方的)",
+        "zh": "调查",
+        "ex": [
+          {
+            "en": "...a shocking murder inquiry.",
+            "zh": "…一例令人震惊的谋杀案调查。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Inquiry is the process of asking about or investigating something in order to find out more about it.",
+        "zh": "调查",
+        "ex": [
+          {
+            "en": "The investigation has suddenly switched to a new line of inquiry.",
+            "zh": "调查突然改用一种新的探询方法。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 询问，疑问；调查，审查； 探查，探询"
+    ]
+  },
+  "boards": {
+    "w": "boards",
+    "p": "bɔːdz",
+    "uk": "bɔːdz",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A board is a flat, thin, rectangular piece of wood or plastic which is used for a particular purpose. (木头的或塑料的)",
+        "zh": "板",
+        "ex": [
+          {
+            "en": "...a cutting board.",
+            "zh": "…一块砧板。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A board is a square piece of wood or stiff cardboard that you use for playing games such as chess. (棋)",
+        "zh": "盘",
+        "ex": [
+          {
+            "en": "...a chequers board.",
+            "zh": "…一个跳棋盘。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "You can refer to a blackboard or a bulletin board as a board. 黑板;",
+        "zh": "布告栏",
+        "ex": [
+          {
+            "en": "He wrote a few more notes on the board.",
+            "zh": "他在黑板上多写了几条笔记。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Boards are long flat pieces of wood which are used, for example, to make floors or walls. (建筑用的)",
+        "zh": "长条木板",
+        "ex": [
+          {
+            "en": "The floor was draughty bare boards.",
+            "zh": "地板是有缝隙的裸板。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. board 的复数；木板，板子，纸板；董事会，理事会，委员会；黑板，布告牌，公告板，网上留言板，论坛；电路板，线路板；（the boards）戏剧舞台；（冰球）界墙",
+      "v. board 的第三人称单数；登上（火车、船、飞机等）；寄宿，搭伙"
+    ]
+  },
+  "scrapped": {
+    "w": "scrapped",
+    "p": "skræpt",
+    "uk": "skræpt",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A scrap of something is a very small piece or amount of it. 小块;",
+        "zh": "碎片",
+        "ex": [
+          {
+            "en": "A crumpled scrap of paper was found in her handbag.",
+            "zh": "在她的手提包里找到了一张弄皱的小纸片。"
+          }
+        ]
+      },
+      {
+        "pos": "N-PLURAL",
+        "tip": "复数型名词",
+        "en": "Scraps are pieces of unwanted food which are thrown away or given to animals.",
+        "zh": "残羹剩饭",
+        "ex": [
+          {
+            "en": "...the scraps from the Sunday dinner table.",
+            "zh": "…周日餐桌上的残羹剩饭。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you scrap something, you get rid of it or cancel it. 取消;",
+        "zh": "放弃",
+        "ex": [
+          {
+            "en": "President Hussein called on all countries in the Middle East to scrap nuclear or chemical weapons.",
+            "zh": "侯赛因总统呼吁中东各国放弃核武器或化学武器。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Scrap metal or paper is no longer wanted for its original purpose, but may have some other use. 废弃的;",
+        "zh": "剩余的",
+        "ex": [
+          {
+            "en": "There's always tons of scrap paper in Dad's office.",
+            "zh": "爸爸的办公室里总有大量的废纸。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 报废的，废弃的，已经销毁的；被取消的，被放弃的",
+      "v. 废弃，报废；取消，放弃（scrap 的过去式和过去分词）"
+    ]
+  },
+  "repeated": {
+    "w": "repeated",
+    "p": "rɪˈpiːtɪd",
+    "uk": "rɪˈpiːtɪd",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Repeated actions or events are ones that happen many times. 反复的;",
+        "zh": "屡次的",
+        "ex": [
+          {
+            "en": "Mr. Lawssi apparently did not return the money, despite repeated reminders.",
+            "zh": "劳斯先生显然还没有还钱，尽管已经反复提醒过。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 重复的，反复发生的",
+      "v. 重说，重写；重做；重演（repeat 的过去式及过去分词形式）"
+    ]
+  },
+  "pain": {
+    "w": "pain",
+    "p": "peɪn",
+    "uk": "peɪn",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "Pain is the feeling of great discomfort you have, for example, when you have been hurt or when you are ill.",
+        "zh": "疼痛",
+        "ex": [
+          {
+            "en": "...back pain.",
+            "zh": "…背痛。"
+          },
+          {
+            "en": "To help ease the pain, heat can be applied to the area with a hot water bottle.",
+            "zh": "可以用一个热水瓶在疼痛部位热敷来缓解疼痛。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If you are in pain, you feel pain in a part of your body because you are injured or ill.",
+        "zh": "感到疼痛",
+        "ex": [
+          {
+            "en": "She was writhing in pain, bathed in perspiration.",
+            "zh": "她正痛得扭动着，大汗淋漓。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Pain is the feeling of unhappiness that you have when something unpleasant or upsetting happens.",
+        "zh": "痛苦",
+        "ex": [
+          {
+            "en": "...grey eyes that seemed filled with pain.",
+            "zh": "…似乎充满了痛苦的灰色眼睛。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If a fact or idea pains you, it makes you feel upset and disappointed. 使痛苦;",
+        "zh": "使苦恼",
+        "ex": [
+          {
+            "en": "This public acknowledgment of Ted's disability pained my mother.",
+            "zh": "特德残疾的公开使我母亲感到痛苦。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 疼痛，伤痛；苦恼，悲痛；讨厌的人（或事）（=pain in the neck）；努力，苦心（pains）",
+      "v. 使痛苦，使苦恼；使疼痛；（身体某一部分）感到疼痛",
+      "【名】 （Pain）（意）帕因，（俄）派因，（法）潘，（英）佩因（人名）"
+    ]
+  },
+  "co-chairing": {
+    "w": "co-chairing",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "v．共同主持：两个或多个人共同担任主席或领导职务。"
+    ]
+  },
+  "responsibility": {
+    "w": "responsibility",
+    "p": "rɪˌspɑːnsəˈbɪləti",
+    "uk": "rɪˌspɒnsəˈbɪləti",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "If you have responsibility for something or someone, or if they are your responsibility, it is your job or duty to deal with them and to make decisions relating to them.",
+        "zh": "责任",
+        "ex": [
+          {
+            "en": "Each manager had responsibility for just under 600 properties.",
+            "zh": "每位经理对差一点不到六百处房产负责。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "If you accept responsibility for something that has happened, you agree that you were to blame for it or you caused it.",
+        "zh": "责任",
+        "ex": [
+          {
+            "en": "No one admitted responsibility for the attacks.",
+            "zh": "没有人对这些袭击负责。"
+          }
+        ]
+      },
+      {
+        "pos": "N-PLURAL",
+        "tip": "复数型名词",
+        "en": "Your responsibilities are the duties that you have because of your job or position.",
+        "zh": "职责",
+        "ex": [
+          {
+            "en": "I am told that he handled his responsibilities as a counsellor in a highly intelligent and caring fashion.",
+            "zh": "我被告知，他以一种高度的智慧和富有同情心的方式对待他作为一名顾问的职责。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "If someone is given responsibility, they are given the right or opportunity to make important decisions or to take action without having to get permission from anyone else.",
+        "zh": "职权",
+        "ex": [
+          {
+            "en": "She would have loved to have a better-paying job with more responsibility.",
+            "zh": "她本想有一份薪水更高职权更多的工作。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 责任，负责；（对不良事件所负的）责任；（道义上或法律规定的）责任（responsibility to/towards）；职责，任务；重任，职权"
+    ]
+  },
+  "docked": {
+    "w": "docked",
+    "p": "dɑːkt",
+    "uk": "dɒkt",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A dock is an enclosed area in a harbour where ships go to be loaded, unloaded, and repaired.",
+        "zh": "码头",
+        "ex": [
+          {
+            "en": "She headed for the docks, thinking that Ricardo might be hiding in one of the boats.",
+            "zh": "她朝着码头走去，心想里卡多可能藏在其中的一条船上。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A dock is a platform for loading vehicles or trains.",
+        "zh": "装车平台",
+        "ex": [
+          {
+            "en": "The truck left the loading dock with hoses still attached.",
+            "zh": "卡车离开了装货平台，软管还挂在车上。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A dock is a small structure at the edge of water where boats can tie up, especially one that is privately owned. (尤指私家)",
+        "zh": "泊位",
+        "ex": [
+          {
+            "en": "He had a house there and a dock and a little aluminium boat.",
+            "zh": "他在那儿有一幢房、一个泊位和一条铝艇。"
+          }
+        ]
+      },
+      {
+        "pos": "N",
+        "tip": "名词",
+        "en": "any of various temperate weedy plants of the polygonaceous genus Rumex, having greenish or reddish flowers and typically broad leaves 酸模属",
+        "zh": "植物",
+        "ex": []
+      }
+    ],
+    "d": [
+      "v. （船）进港，停驻码头；（宇宙飞船）对接；扣除（工资或比赛得分）；（电脑）入坞；停靠（工具栏、窗口等界面元素）；剪短（动物）尾巴（dock 的过去式和过去分词）",
+      "adj. 已停靠的；已对接的；已入坞的；（动物）断尾的"
+    ]
+  },
+  "vessel": {
+    "w": "vessel",
+    "p": "ˈves(ə)l",
+    "uk": "ˈves(ə)l",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A vessel is a ship or large boat. 船;",
+        "zh": "舰",
+        "ex": [
+          {
+            "en": "...a New Zealand navy vessel.",
+            "zh": "…一艘新西兰海军舰艇。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 船，舰；（人或动物的）血管，（植物的）导管；（盛液体用的）容器，器皿；（有某种特质或用途的）人",
+      "【名】 （Vessel）韦塞尔（人名）"
+    ]
+  },
+  "rejected": {
+    "w": "rejected",
+    "p": "rɪˈdʒektɪd",
+    "uk": "rɪˈdʒektɪd",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you reject something such as a proposal, a request, or an offer, you do not accept it or you do not agree to it. 拒绝;",
+        "zh": "不同意",
+        "ex": [
+          {
+            "en": "The government is expected to reject the idea of state subsidy for a new high-speed railway.",
+            "zh": "预期该政府不会同意向一条新建高速铁路提供国家补助的意见。"
+          }
+        ]
+      },
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "拒绝;",
+        "zh": "不同意",
+        "ex": [
+          {
+            "en": "The rejection of such initiatives by no means indicates that voters are unconcerned about the environment.",
+            "zh": "对这些提案的不同意决不意味着选民们不关心环境。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you reject a belief or a political system, you refuse to believe in it or to live by its rules.",
+        "zh": "摈弃",
+        "ex": [
+          {
+            "en": "...the children of Eastern European immigrants who had rejected their parents' political and religious beliefs.",
+            "zh": "…已经摈弃了其父母的政治和宗教信仰的东欧移民的子女们。"
+          }
+        ]
+      },
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "摈弃",
+        "zh": "",
+        "ex": [
+          {
+            "en": "His rejection of our values is far more complete than that of D. H. Lawrence.",
+            "zh": "他对于我们价值观的摈弃远比D. H.劳伦斯更彻底。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 拒绝，不同意，驳回；摈弃（信仰、制度等）；不录用，不录取（申请者、求职者等）；不用，不出版；嫌弃，厌弃；不够关心，慢待；排斥（移植器官）；为 reject 的过去式和过去分词",
+      "adj. 被拒绝的，未获接受的；不合格的，被退回的；遭（恋人）拒绝的，被抛弃的"
+    ]
+  },
+  "explicitly": {
+    "w": "explicitly",
+    "p": "ɪkˈsplɪsɪtli",
+    "uk": "ɪkˈsplɪsɪtli",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "adv. 清楚明确地，详述地；直截了当地，坦率地；露骨地，不隐晦地"
+    ]
+  },
+  "mention": {
+    "w": "mention",
+    "p": "ˈmenʃ(ə)n",
+    "uk": "ˈmenʃ(ə)n",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If you mention something, you say something about it, usually briefly.",
+        "zh": "提到",
+        "ex": [
+          {
+            "en": "She did not mention her mother's absence.",
+            "zh": "她没有提到她母亲的缺席。"
+          },
+          {
+            "en": "I may not have mentioned it to her.",
+            "zh": "我可能没有和她提过此事。"
+          }
+        ]
+      },
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "A mention is a reference to something or someone.",
+        "zh": "提及",
+        "ex": [
+          {
+            "en": "The statement made no mention of government casualties.",
+            "zh": "这项声明没有提及政府方面的伤亡情况。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone is mentioned in writing, a reference is made to them by name, often to criticize or praise something that they have done. 提及 (某人的名字)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "I was absolutely outraged that I could be even mentioned in an article of this kind.",
+            "zh": "我十分恼火，我的名字居然出现在这种文章里。"
+          }
+        ]
+      },
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "A special or honourable mention is formal praise that is given for an achievement that is very good, although not usually the best of its kind.",
+        "zh": "提名表扬",
+        "ex": [
+          {
+            "en": "Two of the losers deserve special mention: Caroline Swaithes, of Kingston, and Maria Pons, of Valley Stream.",
+            "zh": "其中的两位失败者值得特别表扬：来自金斯顿的卡罗琳·斯威西斯和来自谷溪镇的玛丽亚·庞斯。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 提到，谈到；提名，推荐；传令嘉奖，提名表扬",
+      "n. 提及，说起，写上一笔；提名表扬",
+      "【名】 （Mention）（法）芒雄（人名）"
+    ]
+  },
+  "carmaker": {
+    "w": "carmaker",
+    "p": "ˈkɑːˌmeɪkə",
+    "uk": "ˈkɑːˌmeɪkə",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 汽车制造商，汽车生产商"
+    ]
+  },
+  "jaguar": {
+    "w": "jaguar",
+    "p": "ˈdʒæɡwɑːr",
+    "uk": "ˈdʒæɡjuə(r)",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A jaguar is a large animal of the cat family with dark spots on its back. 美洲豹;",
+        "zh": "美洲虎",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. 美洲豹，美洲虎；捷豹（Jaguar，英国豪华汽车品牌）"
+    ]
+  },
+  "infringed": {
+    "w": "infringed",
+    "p": "",
+    "uk": "",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone infringes a law or a rule, they break it or do something that disobeys it.",
+        "zh": "违反",
+        "ex": [
+          {
+            "en": "The film exploited his image and infringed his copyright.",
+            "zh": "该影片利用了他的肖像，侵犯了他的肖像权。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "If something infringes people's rights, or infringes on them, it interferes with these rights and does not allow people the freedom they are entitled to.",
+        "zh": "侵犯",
+        "ex": [
+          {
+            "en": "They rob us, they infringe our rights, they kill us.",
+            "zh": "他们劫掠我们，他们侵犯我们的权利，他们屠杀我们。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 违反（法律、规则等）；侵犯（权利、隐私等）（infringe 的过去式和过去分词）"
+    ]
+  },
+  "hague": {
+    "w": "hague",
+    "p": "heɪɡ",
+    "uk": "heɪɡ",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 海牙（荷兰一座城市）"
+    ]
+  },
+  "distracted": {
+    "w": "distracted",
+    "p": "dɪˈstræktɪd",
+    "uk": "dɪˈstræktɪd",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If you are distracted, you are not concentrating on something because you are worried or are thinking about something else. 分心的;",
+        "zh": "心烦意乱的",
+        "ex": [
+          {
+            "en": "She had seemed curiously distracted.",
+            "zh": "她不知为什么显得心不在焉。"
+          }
+        ]
+      },
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "心不在焉地;",
+        "zh": "心烦意乱地",
+        "ex": [
+          {
+            "en": "He looked up distractedly. \"Be with you in a second.\"",
+            "zh": "他心不在焉地抬头说：“马上就来。”"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 注意力分散的，心烦意乱的",
+      "v. 使分心，使转移注意力；使困惑（distract 的过去式和过去分词）"
+    ]
+  },
+  "treatable": {
+    "w": "treatable",
+    "p": "ˈtriːtəbl",
+    "uk": "ˈtriːtəbl",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "A treatable disease is one which can be cured or controlled, usually by the use of drugs. 可治愈的;",
+        "zh": "可控制的",
+        "ex": [
+          {
+            "en": "This is a treatable condition.",
+            "zh": "这是个可控制的疾病。"
+          },
+          {
+            "en": "Depression is treatable.",
+            "zh": "抑郁症是可治愈的。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. （疾病、伤病等）可治疗的，可医治的"
+    ]
+  },
+  "working-class": {
+    "w": "working-class",
+    "p": "ˌwɜːrkɪŋ ˈklæs",
+    "uk": "ˌwɜːkɪŋ ˈklɑːs",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT-COLL",
+        "tip": "集体可数名词",
+        "en": "The working class or the working classes are the group of people in a society who do not own much property, who have low social status, and who do jobs that involve using physical skills rather than intellectual skills.",
+        "zh": "工人阶级",
+        "ex": [
+          {
+            "en": "A quarter of the working class voted for him.",
+            "zh": "1/4的工人阶级给他投了票。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "Working class is also an adjective.",
+        "zh": "工人阶级的",
+        "ex": [
+          {
+            "en": "...a self-educated man from a working class background.",
+            "zh": "…一个来自工人阶级背景的自学成才的人。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 工人阶级的，劳动阶级的"
+    ]
+  },
+  "cambridge": {
+    "w": "cambridge",
+    "p": "ˈkeɪmbrɪdʒ",
+    "uk": "ˈkeɪmbrɪdʒ",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 剑桥（英国城市）；坎布里奇（美国马萨诸塞州城市）；剑桥大学"
+    ]
+  },
+  "terrace": {
+    "w": "terrace",
+    "p": "ˈterəs",
+    "uk": "ˈterəs",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A terrace is a flat area of stone or grass next to a building where people can sit. (房屋旁的) 露台;",
+        "zh": "草坪",
+        "ex": [
+          {
+            "en": "Some guests recline in deck chairs on the sea-facing terrace.",
+            "zh": "有些客人斜躺在朝海露台的躺椅上。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Terraces are a series of flat areas built like steps on the side of a hill so that crops can be grown there.",
+        "zh": "梯田",
+        "ex": [
+          {
+            "en": "...massive terraces of corn and millet carved into the mountainside like giant steps.",
+            "zh": "…山坡上开垦出来种玉米和小米的巨型台阶般的大块大块梯田。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. （风格相同、互相连接的）排屋；（尤指房屋或餐馆外的）露天平台，阳台；（足球场的）阶梯看台；梯田，阶地；排屋中的一栋房屋；（地质）沿岸阶地，阶面",
+      "v. 使成阶地（或梯田）",
+      "【名】 （Terrace）（英）特勒斯（人名）"
+    ]
+  },
+  "mansions": {
+    "w": "mansions",
+    "p": "ˈmænʃnz",
+    "uk": "ˈmænʃənz",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A mansion is a very large house.",
+        "zh": "大厦",
+        "ex": [
+          {
+            "en": "...an eighteenth-century mansion in New Hampshire.",
+            "zh": "…新罕布什尔州一座18世纪的大厦。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 大厦，大宅，府邸；（占星）黄道十二宫之一"
+    ]
+  },
+  "morris’s": {
+    "w": "morris’s",
+    "miss": true
+  },
+  "nights": {
+    "w": "nights",
+    "p": "naɪts",
+    "uk": "naɪts",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "at night, esp regularly",
+        "zh": "每晚",
+        "ex": [
+          {
+            "en": "he works nights",
+            "zh": ""
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 夜，晚上（night 的复数形式）",
+      "adv.  每晚，在夜间"
+    ]
+  },
+  "talking": {
+    "w": "talking",
+    "p": "ˈtɔːkɪŋ",
+    "uk": "ˈtɔːkɪŋ",
+    "s": 5,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-I",
+        "tip": "不及物动词",
+        "en": "When you talk, you use spoken language to express your thoughts, ideas, or feelings.",
+        "zh": "说话",
+        "ex": [
+          {
+            "en": "He was too distressed to talk.",
+            "zh": "他伤心得说不出话来。"
+          },
+          {
+            "en": "The boys all began to talk at once.",
+            "zh": "男孩们都马上开始说话了。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Talk is also a noun.",
+        "zh": "说话",
+        "ex": [
+          {
+            "en": "That's not the kind of talk one usually hears from accountants.",
+            "zh": "那不是人们通常从会计人员那里听到的那种话。"
+          }
+        ]
+      },
+      {
+        "pos": "V-RECIP",
+        "tip": "相互动词",
+        "en": "If you talk to someone, you have a conversation with them. You can also say that two people talk.",
+        "zh": "交谈",
+        "ex": [
+          {
+            "en": "We talked and laughed a lot.",
+            "zh": "我们畅怀说笑。"
+          },
+          {
+            "en": "I talked to him yesterday.",
+            "zh": "我昨天和他谈过。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "Talk is also a noun.",
+        "zh": "交谈",
+        "ex": [
+          {
+            "en": "We had a long talk about her father, Tony, who was a friend of mine.",
+            "zh": "关于她父亲托尼我们进行了一次长时间的交谈，托尼是我的一个朋友。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. （会）说话的；沉默而有表现力的",
+      "n. 讲话，交谈，谈论；闲谈，议论；（Talking）（美）托金（人名）",
+      "v. talk 的现在分词或动名词：说话，交谈；谈论；讲述；谈心；谈判；（用某种语言）讲；说服；泄露秘密，供出消息；议论；说闲话；talking about 表示“谈论、议论、讲的是”"
+    ]
+  },
+  "it's": {
+    "w": "it's",
+    "p": "ɪts",
+    "uk": "ɪts",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "",
+        "tip": "",
+        "en": "It's is the usual spoken form of \"it is.\" (it is)",
+        "zh": "的常用口语形式",
+        "ex": [
+          {
+            "en": "It's the best news I've heard in a long time.",
+            "zh": "这是我很长时间以来听到的最好消息。"
+          }
+        ]
+      },
+      {
+        "pos": "",
+        "tip": "",
+        "en": "It's is the usual spoken form of \"it has,\" especially when \"has\" is an auxiliary verb. (it has)",
+        "zh": "的常用口语形式",
+        "ex": [
+          {
+            "en": "It's been such a long time since I played.",
+            "zh": "自从我上次演奏以来已经过了这么长时间了。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "abbr. 它是（it is 的缩约形式）；它已，它有（it has 的缩约形式，尤作助动词）"
+    ]
+  },
+  "build-out": {
+    "w": "build-out",
+    "p": "bɪld aʊt",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 增建，扩建，扩建工程（在原有建筑外部加建另一部分，亦指对场地、基础设施或系统等进行扩展的过程、活动或结果）；（城市规划）建成量预测，开发潜力估算（按现行规划及用地条件对某地区潜在开发总量与位置的估算）"
+    ]
+  },
+  "teachers": {
+    "w": "teachers",
+    "p": "ˈtiːtʃərz",
+    "uk": "ˈtiːtʃə(r)z",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A teacher is a person who teaches, usually as a job at a school or similar institution.",
+        "zh": "教师",
+        "ex": [
+          {
+            "en": "I'm a teacher with 21 years' experience.",
+            "zh": "我是一个有21年经验的教师。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 教师，老师（teacher 的复数）"
+    ]
+  },
+  "revoked": {
+    "w": "revoked",
+    "p": "rɪˈvəʊkt",
+    "uk": "rɪˈvəʊkt",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "When people in authority revoke something such as a licence, a law, or an agreement, they cancel it. 撤销;",
+        "zh": "废除",
+        "ex": [
+          {
+            "en": "The government revoked her husband's licence to operate migrant labour crews.",
+            "zh": "政府撤销了她丈夫经营流动劳工团队的许可证。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. revoke 的过去式和过去分词：（正式）撤销，取消，废除（执照、法律、协议、签证等）。",
+      "adj. 被撤销的，被取消的，被吊销的（执照、证书、签证等）。"
+    ]
+  },
+  "licenses": {
+    "w": "licenses",
+    "p": "ˈlaɪsnsɪz",
+    "uk": "",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "To license a person or activity means to give official permission for the person to do something or for the activity to take place.",
+        "zh": "准许",
+        "ex": [
+          {
+            "en": "...a proposal that would require the state to license guns the way it does cars.",
+            "zh": "…提案要求政府像发驾驶证一样发放枪支许可证。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 批准，许可，准许（license 的第三人称单数）",
+      "n. 许可证，执照（license 的复数）"
+    ]
+  },
+  "silence": {
+    "w": "silence",
+    "p": "ˈsaɪləns",
+    "uk": "ˈsaɪləns",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "If there is silence, nobody is speaking.",
+        "zh": "沉默",
+        "ex": [
+          {
+            "en": "They stood in silence.",
+            "zh": "他们默默地站着。"
+          },
+          {
+            "en": "He never lets those long silences develop during dinner.",
+            "zh": "他在晚餐时从不会让长时间的沉默出现。"
+          }
+        ]
+      },
+      {
+        "pos": "N-UNCOUNT",
+        "tip": "不可数名词",
+        "en": "Someone's silence about something is their failure or refusal to speak to other people about it.",
+        "zh": "缄默",
+        "ex": [
+          {
+            "en": "The district court ruled that Popper's silence in court today should be entered as a plea of not guilty.",
+            "zh": "该区法院裁决波珀今天在法庭中的缄默应被看作是进行无罪抗辩。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If someone breaks their silence about something, they talk about something that they have not talked about before or for a long time. 打破沉默;",
+        "zh": "开口讲话",
+        "ex": []
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone silences you, they stop you from expressing opinions that they do not agree with. 制止 (发表不同意见)",
+        "zh": "",
+        "ex": [
+          {
+            "en": "Like other tyrants, he tried to silence anyone who spoke out against him.",
+            "zh": "像其他暴君一样，他试图压制任何公开反对他的人。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 寂静，无声；沉默，默不作声；保持沉默，拒绝回答；无音信，失去联系；默哀，静默",
+      "v. 使安静，使不说话；压制，使不再发表（反对意见）；杀……灭口；给（枪，排气系统）装消音器",
+      "int. （用以让人们安静）安静，静下来"
+    ]
+  },
+  "navigate": {
+    "w": "navigate",
+    "p": "ˈnævɪɡeɪt",
+    "uk": "ˈnævɪɡeɪt",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "When someone navigates a ship or an aircraft somewhere, they decide which course to follow and steer it there. 给 (船或飞机)",
+        "zh": "导航",
+        "ex": [
+          {
+            "en": "Captain Cook was responsible for safely navigating his ship without accident for 100 voyages.",
+            "zh": "库克船长负责了安全导航他的船，百次航行无事故。"
+          },
+          {
+            "en": "The purpose of the visit was to navigate into an ice-filled fiord.",
+            "zh": "这次访问的目的是为驶入一个冰雪覆盖的峡湾导航。"
+          }
+        ]
+      },
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "导航",
+        "zh": "",
+        "ex": [
+          {
+            "en": "The expedition was wrecked by bad planning and poor navigation.",
+            "zh": "这次探险因计划不周和导航不利而失败。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T/V-I",
+        "tip": "及物动词/不及物动词",
+        "en": "When a ship or boat navigates an area of water, it sails on or across it.",
+        "zh": "航行",
+        "ex": [
+          {
+            "en": "...a lock system to allow sea-going craft to navigate the upper reaches of the river.",
+            "zh": "一个能使海轮航行至河流上游的船闸系统。"
+          },
+          {
+            "en": "Such boats can navigate on the Hudson.",
+            "zh": "这样的船能在哈得孙河上航行。"
+          }
+        ]
+      },
+      {
+        "pos": "V-I",
+        "tip": "不及物动词",
+        "en": "When someone in a car navigates, they decide what roads the car should be driven along in order to get somewhere. (为汽车)",
+        "zh": "导航",
+        "ex": [
+          {
+            "en": "When travelling on fast roads at night it is impossible to drive and navigate at the same time.",
+            "zh": "夜晚在快速路上行驶时，不可能边开车边找路。"
+          },
+          {
+            "en": "...the relief at successfully navigating across the Golden Gate Bridge to arrive here.",
+            "zh": "…成功指引通过金门大桥抵达这里的如释重负。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "v. 导航，引路；航行于，横渡；穿过，穿越；驾驶，操纵；浏览；（有效地）处理；(鱼、动物或昆虫)找到正确的行动方向；绕过"
+    ]
+  },
+  "uncertainty": {
+    "w": "uncertainty",
+    "p": "ʌnˈsɜːrt(ə)nti",
+    "uk": "ʌnˈsɜːt(ə)nti",
+    "s": 2,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "Uncertainty is a state of doubt about the future or about what is the right thing to do.",
+        "zh": "不确定状态",
+        "ex": [
+          {
+            "en": "...a period of political uncertainty.",
+            "zh": "…一段政治不稳定时期。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n.  犹豫，无把握；拿不定的事，令人无把握的局面；紧张不安"
+    ]
+  },
+  "burundians": {
+    "w": "burundians",
+    "p": "bʊˈrʊndiən",
+    "uk": "bʊˈrʊndiən",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "of or relating to Burundi or its inhabitants 布隆迪的;",
+        "zh": "布隆迪人的",
+        "ex": []
+      },
+      {
+        "pos": "N",
+        "tip": "名词",
+        "en": "a native or inhabitant of Burundi",
+        "zh": "布隆迪人",
+        "ex": []
+      }
+    ],
+    "d": [
+      "adj. 布隆迪的；布隆迪人的",
+      "n. 布隆迪人"
+    ]
+  },
+  "maximum": {
+    "w": "maximum",
+    "p": "ˈmæksɪməm",
+    "uk": "ˈmæksɪməm",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "You use maximum to describe an amount which is the largest that is possible, allowed, or required.",
+        "zh": "最大的",
+        "ex": [
+          {
+            "en": "Under planning law the maximum height for a fence or hedge is 6 feet.",
+            "zh": "根据规划法，栅栏或树篱的最高高度为6英尺。"
+          }
+        ]
+      },
+      {
+        "pos": "N-SING",
+        "tip": "单数型名词",
+        "en": "Maximum is also a noun.",
+        "zh": "最大值",
+        "ex": [
+          {
+            "en": "The law provides for a maximum of two years in prison.",
+            "zh": "法律规定监禁最长两年。"
+          }
+        ]
+      },
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "You use maximum to indicate how great an amount is.",
+        "zh": "最大的",
+        "ex": [
+          {
+            "en": "I need the maximum amount of information you can give me.",
+            "zh": "我需要你所能给我的最大的信息量。"
+          },
+          {
+            "en": "It was achieved with minimum fuss and maximum efficiency.",
+            "zh": "它以最少的慌乱和最高的效率被做到了。"
+          }
+        ]
+      },
+      {
+        "pos": "ADV",
+        "tip": "副词",
+        "en": "If you say that something is a particular amount maximum, you mean that this is the greatest amount it should be or could possibly be, although a smaller amount is acceptable or very possible.",
+        "zh": "最多",
+        "ex": [
+          {
+            "en": "We need an extra 6 grams a day maximum.",
+            "zh": "我们一天最多还需要6克。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 最大限度的；（数量）极大的，极多的",
+      "n. 最大量，最大限度",
+      "adv. 最多，充其量"
+    ]
+  },
+  "cuba": {
+    "w": "cuba",
+    "p": "ˈkjuːbə",
+    "uk": "ˈkjuːbə",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "n. 古巴（拉丁美洲国家）；古巴岛（西印度群岛中最大的岛屿）"
+    ]
+  },
+  "priority": {
+    "w": "priority",
+    "p": "praɪˈɔːrəti",
+    "uk": "praɪˈɒrəti",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "If something is a priority, it is the most important thing you have to do or deal with, or must be done or dealt with before everything else you have to do.",
+        "zh": "优先处理的事",
+        "ex": [
+          {
+            "en": "Being a parent is her first priority.",
+            "zh": "做母亲是她的头等大事。"
+          },
+          {
+            "en": "The government's priority is to build more power plants.",
+            "zh": "政府的当务之急是建造更多的发电厂。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If you give priority to something or someone, you treat them as more important than anything or anyone else.",
+        "zh": "优先考虑",
+        "ex": [
+          {
+            "en": "Women are more likely to give priority to child care and education policies.",
+            "zh": "女性更可能给孩子的照料和教育方案以优先考虑。"
+          }
+        ]
+      },
+      {
+        "pos": "PHRASE",
+        "tip": "习语",
+        "en": "If something takes priority or has priority over other things, it is regarded as being more important than them and is dealt with first.",
+        "zh": "有优先性",
+        "ex": [
+          {
+            "en": "The fight against inflation took priority over measures to combat the deepening recession.",
+            "zh": "对抗通货膨胀的斗争比对抗日益加深的经济衰退措施更具优先性。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 优先事项，最重要的事；优先，优先权，重点；优先通行权",
+      "adj. 优先的"
+    ]
+  },
+  "unlikely": {
+    "w": "unlikely",
+    "p": "ʌnˈlaɪkli",
+    "uk": "ʌnˈlaɪkli",
+    "s": 4,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "ADJ",
+        "tip": "形容词",
+        "en": "If you say that something is unlikely to happen or unlikely to be true, you believe that it will not happen or that it is not true, although you are not completely sure. 未必发生的;",
+        "zh": "不太可能的",
+        "ex": [
+          {
+            "en": "A military coup seems unlikely.",
+            "zh": "一场兵变似乎不太可能。"
+          },
+          {
+            "en": "As with many technological revolutions, you are unlikely to be aware of it.",
+            "zh": "正如很多技术革命一样，你不太可能意识到它。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 不大可能发生的；未必真实的，难以相信的； 非心目中的，不大恰当的；不典型的；（两个人或物）不般配的",
+      "adv. 未必"
+    ]
+  },
+  "hackers": {
+    "w": "hackers",
+    "p": "ˈhækərz",
+    "uk": "ˈhækəz",
+    "s": 1,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A computer hacker is someone who tries to break into computer systems, especially in order to get secret information. (电脑)",
+        "zh": "黑客",
+        "ex": [
+          {
+            "en": "...a hacker who steals credit card numbers.",
+            "zh": "…一个窃取信用卡号码的黑客。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A computer hacker is someone who uses a computer a lot, especially so much that they have no time to do anything else.",
+        "zh": "计算机迷",
+        "ex": []
+      }
+    ],
+    "d": [
+      "n. 黑客，骇客；电脑黑客（hacker 的复数）"
+    ]
+  },
+  "engineer": {
+    "w": "engineer",
+    "p": "ˌendʒɪˈnɪr",
+    "uk": "ˌendʒɪˈnɪə(r)",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "An engineer is a person who uses scientific knowledge to design, construct, and maintain engines and machines or structures such as roads, railroads, and bridges.",
+        "zh": "工程师",
+        "ex": []
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "An engineer is a person who repairs mechanical or electrical devices.",
+        "zh": "维修师",
+        "ex": [
+          {
+            "en": "They send a service engineer to fix the disk drive.",
+            "zh": "他们派一位维修师来修理磁盘驱动器。"
+          }
+        ]
+      },
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "An engineer is a person who is responsible for maintaining the engine of a ship while it is at sea.",
+        "zh": "轮机师",
+        "ex": []
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "When a vehicle, bridge, or building is engineered, it is planned and constructed using scientific methods.",
+        "zh": "设计制造",
+        "ex": [
+          {
+            "en": "Its spaceship was engineered by Bert Rutan, renowned for designing the Voyager.",
+            "zh": "它的飞船由伯特·鲁坦设计建造，此人因设计“旅行者”号飞船而闻名。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 工程师，设计师；（航班）机械师，（轮船）轮机长；技师，机修工；工兵；机车司机，火车司机；责任人",
+      "v. 设计，建造；策划，精心安排；改变……的基因(或遗传)结构"
+    ]
+  },
+  "compromised": {
+    "w": "compromised",
+    "p": "ˈkɒmprəmaɪzd",
+    "uk": "ˈkɒmprəmaɪzd",
+    "s": 3,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-VAR",
+        "tip": "有变体名词",
+        "en": "A compromise is a situation in which people accept something slightly different from what they really want, because of circumstances or because they are considering the wishes of other people.",
+        "zh": "折衷",
+        "ex": [
+          {
+            "en": "Encourage your child to reach a compromise between what he wants and what you want.",
+            "zh": "鼓励你的孩子在他想要的和你想要的之间折衷。"
+          }
+        ]
+      },
+      {
+        "pos": "V-RECIP",
+        "tip": "相互动词",
+        "en": "If you compromise with someone, you reach an agreement with them in which you both give up something that you originally wanted. You can also say that two people or groups compromise.",
+        "zh": "妥协",
+        "ex": [
+          {
+            "en": "The government has compromised with its critics over monetary policies.",
+            "zh": "政府已经在货币政策上与其批评者们有了妥协。"
+          },
+          {
+            "en": "\"Nine,\" I said. \"Nine thirty,\" he replied. We compromised on 9:15.",
+            "zh": "“9点，”我说。“9：30，”他回答道。我们各让一步定在9:15。"
+          }
+        ]
+      },
+      {
+        "pos": "V-T",
+        "tip": "及物动词",
+        "en": "If someone compromises themselves or compromises their beliefs, they do something which damages their reputation for honesty, loyalty, or high moral principles. 使 (自己、自己的信念)",
+        "zh": "降格",
+        "ex": [
+          {
+            "en": "...members of the government who have compromised themselves by accepting bribes.",
+            "zh": "收受贿赂而使其声誉受损的政府成员们。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "adj. 受损的，被削弱的，受影响的；（医学）免疫系统受损的，缺乏抵抗力的；（计算机安全）被攻破的，被入侵的，被盗用的",
+      "v. 妥协，让步，折衷；损害，削弱，危及，连累；违背（原则或信念）（compromise 的过去式和过去分词）"
+    ]
+  },
+  "binance": {
+    "w": "binance",
+    "p": "",
+    "uk": "",
+    "s": 0,
+    "src": "英汉",
+    "e": [],
+    "d": [
+      "币安网（区块链资产交易平台）"
+    ]
+  },
+  "laptop": {
+    "w": "laptop",
+    "p": "ˈlæptɑːp",
+    "uk": "ˈlæptɒp",
+    "s": 0,
+    "src": "柯林斯",
+    "e": [
+      {
+        "pos": "N-COUNT",
+        "tip": "可数名词",
+        "en": "A laptop or a laptop computer is a small portable computer.",
+        "zh": "笔记本电脑",
+        "ex": [
+          {
+            "en": "She used to work at her laptop until four in the morning.",
+            "zh": "她以前经常在笔记本电脑前工作到凌晨4点钟。"
+          }
+        ]
+      }
+    ],
+    "d": [
+      "n. 膝上型计算机，便携式电脑（=laptop computer）"
+    ]
   }
 }
